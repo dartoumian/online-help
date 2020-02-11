@@ -6,7 +6,7 @@ In dit werkproces wordt een factuur voor diensten correctief onderhoud gecontrol
 
 ## Controleren factuur
 
-Vanuit de bedrijfsprocessen uitvoeren reparatieonderhoud, mutatieonderhoud  en verhuren eenheden kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden dienen de facturen gecontroleerd en eventueel aangevuld of gecorrigeerd te worden.
+Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutatieonderhoud** en **Verhuren eenheden** kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden dienen de facturen gecontroleerd en eventueel aangevuld of gecorrigeerd te worden.
 
  1. Navigeer via het zoekveld naar de lijst **Verkoopfacturen**. Mogelijk vindt u op deze pagina ook een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud.
  2. Heeft u geen voorgedefinieerde filterlijst, stel dan een filter in waarbij **Onderhoudsverzoeknr.** ongelijk is aan 'leeg' (<>'').
@@ -37,5 +37,5 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
 ## Zie ook
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MjkzOTA0LDEwNjQ2MTM2ODldfQ==
+eyJoaXN0b3J5IjpbLTE5MjcwNzU3MjUsMTA2NDYxMzY4OV19
 -->
