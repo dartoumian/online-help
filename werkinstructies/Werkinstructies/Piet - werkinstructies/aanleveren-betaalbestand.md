@@ -78,21 +78,21 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
  2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers.
  3. Klik op **Status wijzigen**, waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
-	* **Onze bank:** (laat ongewijzigd
-	* **Runnummer:** Laat ongewijzigd
-	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren
-4. Klik op **OK**. De regels krijgen de status geannuleerd en worden niet mee genomen wanneer u de betaalrun exporteert. 
+	* **Onze bank:** (laat ongewijzigd)
+	* **Runnummer:** (laat ongewijzigd)
+	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
+4. Klik op **OK**. De regels krijgen de status **Geannuleerd** en worden niet meegenomen wanneer u de betaalrun exporteert. 
 
 <hr>
 
 ### Annuleren betaalrun
 
-Wanneer na aanleiding van het controleren van de betaalrun blijkt dat betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
+Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
 
  1. Selecteer in de lijst **betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
-	* **Nieuwe status:** Geanuleerd
-	* **Onze bank:** Laat ongewijzigd
+	* **Nieuwe status:** 'Geannuleerd'
+	* **Onze bank:** (laat ongewijzigd
 	* **Runnummer:** Laat ongewijzigd
 4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar geannuleerd.  
 
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NDAxODA4LDEyMzc4MDg5MDAsOTQ2Mj
-Y1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0NDBdfQ==
+eyJoaXN0b3J5IjpbLTcxMTE5NDUxMSwxMjM3ODA4OTAwLDk0Nj
+I2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
 -->
