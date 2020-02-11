@@ -5,9 +5,7 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 ## Processchema
 
-## Processtappen
-
-### Ophalen voorstel leveranciersposten
+## Ophalen voorstel leveranciersposten
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
@@ -20,9 +18,9 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
 5. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
-<hr>  
 
-### Ophalen voorstel klantposten
+
+## Ophalen voorstel klantposten
 
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
@@ -111,7 +109,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NDkyNDM4LC0xODQ0MDg2MTc5LDEyMz
-c4MDg5MDAsOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTMzMDgzMDMzMyw2ODY0OTI0MzgsLTE4ND
+QwODYxNzksMTIzNzgwODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5
+OTQsMTE1NDQ4NTQ0MF19
 -->
