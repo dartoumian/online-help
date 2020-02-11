@@ -24,7 +24,7 @@ Vul hier de volgende velden:
 
 ## Controleren en oplossen
 
-Wanneer bij de vorige stap bleek dat er foutmeldingen of waarschuwingen waren ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
+Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
 
 1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
 2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
@@ -74,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDk1MzExN119
+eyJoaXN0b3J5IjpbLTEwNjQzOTA0ODVdfQ==
 -->
