@@ -51,10 +51,9 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 6. Vink de begintijd aan waarop u de inspectie wilt plannen.
 7. Klik op **OK**.
 8. Herhaal actie 2 t/m 7 voor elke volgende inspectie die u wilt plannen.
-9. Klik op **OK**.
-<hr>
+9. Klik op **<hr>
 
-#evestigingen huuropzegging
+evestigingen huuropzegging
 
 1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
 * Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
@@ -70,6 +69,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1OTQwMTY0LC0xNTEyNTE4MTYwLC03Mz
-YwMzU0NTYsLTc5NzQ4NTAyXX0=
+eyJoaXN0b3J5IjpbNzUxNDc2NTIzLDkwNTk0MDE2NCwtMTUxMj
+UxODE2MCwtNzM2MDM1NDU2LC03OTc0ODUwMl19
 -->
