@@ -42,10 +42,10 @@ Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het beta
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
-1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klop **Bewerken.** 
-2. In het scherm **Betaalrunkaart** kunt u de nummers vinden van de regels die u wilt annuleren. Noteer de betreffende nummers. 
-3. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
-	* **Nieuwe status:** Geannuleerd.
+1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken.** 
+2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers. 
+3. Klik op **Status wijzigen**, waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+	* **Nieuwe status:** 'Geannuleerd.
 	* **Onze bank:** Laat ongewijzigd.
 	* **Runnummer:** Laat ongewijzigd.
 	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
@@ -74,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzMzNzE4NF19
+eyJoaXN0b3J5IjpbLTExNjEwMDY5MzFdfQ==
 -->
