@@ -1,4 +1,5 @@
 # Aanvragen inkoopofferte
+
 ## Omschrijving:
 
 Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier een inkoopofferte aan te vragen via Dynamics Empire. 
@@ -19,7 +20,6 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 	* **Leveranciersnr.** Kies de leverancier. Indien de leverancier niet voorkomt in de 'Voorkeursleveranciers' is het aan te raden om het vinkje **Handmatig** aan te vinken in de reparatiesjabloontaakregel. 
 7. Geef een eventueel aanvullende omschrijving mee via de knop **Aanvullende omschrijvingen**. 
 
-
 <hr>  
 
 ### Aanmaken inkoopofferte
@@ -37,11 +37,9 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
  7. Klik indien er met de inkoopwerkwijze **e-mail** op **Inkoopofferte per e-mail** en verzend de email via Outlook. Klik daarna op de knop **Vrijgeven**. Indien er met de inkoopwerkwijze **portaal** wordt gewerkt voor de betreffende leverancier, klik op  de knop **Vrijgeven**.
 
-
-
 <hr>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTYyMjQ4OV19
+eyJoaXN0b3J5IjpbMTMwNjkwMDQxMywxNTExNjIyNDg5XX0=
 -->
