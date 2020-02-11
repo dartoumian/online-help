@@ -87,7 +87,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 ### Annuleren betaalrun
 
-Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
+Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
 
  1. Selecteer in de lijst **Betaalrunlijst** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Njk2NTc4LDEyMzc4MDg5MDAsOTQ2Mj
-Y1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0NDBdfQ==
+eyJoaXN0b3J5IjpbLTM0ODIwMDAyNywxMjM3ODA4OTAwLDk0Nj
+I2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
 -->
