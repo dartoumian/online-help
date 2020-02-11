@@ -15,9 +15,9 @@ Magazijnbeheer | <ul><li>[Bestellen materialen](bestellen-materialen.md)</li><li
 
 ## Zie ook
 
-[Relevante link 1]( )
+[Relevante link 1]( )  
 [Relevante link 2]( )
 [Relevante link 3]( )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTMyMDUwXX0=
+eyJoaXN0b3J5IjpbNTk2NDU2MDQ2XX0=
 -->
