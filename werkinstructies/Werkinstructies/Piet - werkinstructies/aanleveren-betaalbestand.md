@@ -33,7 +33,7 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.	
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
-	* **Rekeningsoort:** Klant.
+	* **Rekeningsoort:** 'Klant'.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van klantposten.
 	* **Broncode:** Vul de broncode in wanneer u alleen posten vanuit een bepaalde sub-adminstratie uit wilt betalen, bijvoorbeeld SENV voor service en verbruik.
 	* **Documenttype**: Creditnota.
@@ -92,9 +92,9 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat betaalru
  1. Selecteer in de lijst **betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
-	* **Onze bank:** (laat ongewijzigd
-	* **Runnummer:** Laat ongewijzigd
-4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar geannuleerd.  
+	* **Onze bank:** (laat ongewijzigd)
+	* **Runnummer:** (laat ongewijzigd)
+4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar **Geannuleerd**.  
 
 <hr>
 
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTE5NDUxMSwxMjM3ODA4OTAwLDk0Nj
+eyJoaXN0b3J5IjpbMTQ0NjMyOTAxNywxMjM3ODA4OTAwLDk0Nj
 I2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
 -->
