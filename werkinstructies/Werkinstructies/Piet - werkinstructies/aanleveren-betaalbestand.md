@@ -1,7 +1,6 @@
 # Aanleveren betaalbestand
 
 
-## Omschrijving:
 In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te betalen klant- en leveranciersposten.
 
 ## Processchema
@@ -112,6 +111,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQwODYxNzksMTIzNzgwODkwMCw5ND
-YyNjUzNDIsLTExNDMwNTM5OTQsMTE1NDQ4NTQ0MF19
+eyJoaXN0b3J5IjpbNjg2NDkyNDM4LC0xODQ0MDg2MTc5LDEyMz
+c4MDg5MDAsOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0
+NDBdfQ==
 -->
