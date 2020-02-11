@@ -21,7 +21,7 @@ Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutati
 
 Wanneer u de factuur wilt versturen naar de klant, bijvoorbeeld in het geval van reparatieonderhoud, dan kunt u de factuur boeken en afdrukken. 
 
- 1. Klik op **Boeken en verzenden**.
+ 1. Vanaf de lijst **Verkoopfacturen**, staand op de juiste regel Klik op **Boeken en verzenden**.
  2. Klik in de pagina die opent op de drie puntjes '...'. Het scherm **Document verzenden naar** opent. Vul de volgende velden:
 	* **E-mail**: Ja (prompt voor instellingen)
 	* **Schijf**: PDF
@@ -37,6 +37,6 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
 ## Zie ook
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjAyMzgwLDEwOTA5ODU1OSwxMDY0Nj
-EzNjg5XX0=
+eyJoaXN0b3J5IjpbLTEyODg0ODY2ODksMTA5MDk4NTU5LDEwNj
+Q2MTM2ODldfQ==
 -->
