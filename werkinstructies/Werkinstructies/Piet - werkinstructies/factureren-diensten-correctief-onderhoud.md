@@ -1,13 +1,10 @@
 # Factureren diensten correctief onderhoud 
 
-## Omschrijving:
 In dit werkproces wordt een factuur voor diensten correctief onderhoud gecontroleerd, geboekt en eventueel afgedrukt. 
 
 ## Processchema
 
-## Processtappen
-
-### Controleren factuur
+## Controleren factuur
 
 Vanuit de bedrijfsprocessen uitvoeren reparatieonderhoud, mutatieonderhoud  en verhuren eenheden kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden dienen de facturen gecontroleerd en eventueel aangevuld of gecorrigeerd te worden.
 
@@ -20,9 +17,7 @@ Vanuit de bedrijfsprocessen uitvoeren reparatieonderhoud, mutatieonderhoud  en v
 	* **Omschrijving**: Pas eventueel de omschrijving aan. Dit is de omschrijving die op de factuur komt te staan.
  5. Wilt u meer informatie over het onderhoudsverzoek, kopieer dan het nummer in de kolom **Onderhoudsverzoeknr.** Navigeer naar de pagina **Onderhoudsverzoekoverzicht** en gebruik het nummer om het juiste onderhoudsverzoek op te zoeken. 
 
-<hr>
-
-### Boeken en afdrukken factuur
+## Boeken en afdrukken factuur
 
 Wanneer u de factuur wilt versturen naar de klant, bijvoorbeeld in het geval van reparatieonderhoud, dan kunt u de factuur boeken en afdrukken. 
 
@@ -33,18 +28,14 @@ Wanneer u de factuur wilt versturen naar de klant, bijvoorbeeld in het geval van
  3. Klik op **OK** en klik op **Ja**. De pagina **E-mail verzenden** opent. Wanneer u de e-mail wilt bewerken in Outlook vinkt u **Bewerken in Outlook** aan. 
  4. Klik op **OK**. Afhankelijk van uw keuze in de vorige stap wordt de e-mail direct verzonden of wordt Outlook geopend.
 
-<hr>
-
-### Boeken factuur
+## Boeken factuur
 
 Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekening gebracht wordt via de eindafrekening, kunt u de factuur direct boeken. 
 
  1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent. 
 
-<hr>
-
 ## Zie ook
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDYxMzY4OV19
+eyJoaXN0b3J5IjpbMzU5MjkzOTA0LDEwNjQ2MTM2ODldfQ==
 -->
