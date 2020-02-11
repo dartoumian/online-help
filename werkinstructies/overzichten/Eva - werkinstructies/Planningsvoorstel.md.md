@@ -1,4 +1,4 @@
-# Planningsvoostel
+# Planningsvoorstel
 
 
 ## Omschrijving:
@@ -35,5 +35,5 @@ Het rapport kan zowel geaccepteerde als niet geaccepteerde regels geven. Geaccep
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MjY4NzU3XX0=
+eyJoaXN0b3J5IjpbMTExNTY0NjY0MSwyMTkyNjg3NTddfQ==
 -->
