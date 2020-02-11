@@ -10,14 +10,14 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Telebankieren - bankoverzicht**.
 2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
-3. Vul de volgende velden op het scherm dat verschijnt:
+Vul hier de volgende velden:
 	* **Transactiedatum:** Datum waarop de incasso moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum op of voor deze datum worden meegenomen in het betaalvoorstel. Bij een incasso op de eerste van de maand vult u hier bijvoorbeeld 01-03-2020 in. 
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
-	* **Rekeningsoort:** Klant.
+	* **Rekeningsoort:** 'Klant'.
 	* **Code:** Selecteer de transactiewijze voor automatische incasso voor klantposten.
 	* **Onder het kopje Klantposten**:
-		* **Broncode:** Vul de broncode in. Voor prolongatie posten is dit PROLON. Voor service en verbruik posten is de SENV
+		* **Broncode:** Vul de broncode in. Voor prolongatieposten is dit 'PROLON', voor service- en verbruiksposten is dit SENV.
 		* **Documenttype:** Factuur.
 		* 	**Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in. 
 4. Klik op **OK**. Het voorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
@@ -74,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY3NjU4NV19
+eyJoaXN0b3J5IjpbLTY1Njg5NDMyNV19
 -->
