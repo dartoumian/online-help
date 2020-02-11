@@ -10,14 +10,14 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 ### Ophalen voorstel leveranciersposten
 
-Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in de het betaalbestand. 
+Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
 2. Klik op  **Voorstelposten ophalen**, waarna de gelijknamige pagina opent. Vul hier de volgende velden:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
-	* **Rekeningsoort:** Leverancier.
+	* **Rekeningsoort:** 'Leverancier'.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
 5. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDExNT
-Q0ODU0NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MDI2MjY4NzEsOTQ2MjY1MzQyLC0xMT
+QzMDUzOTk0LDExNTQ0ODU0NDBdfQ==
 -->
