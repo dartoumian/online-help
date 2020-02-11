@@ -18,8 +18,6 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
 5. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
-
-
 ## Ophalen voorstel klantposten
 
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
@@ -36,7 +34,6 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 	* **Documenttype**: 'Creditnota'.
  4. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
-
 ## Controleren en oplossen
 
 Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
@@ -46,14 +43,12 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
  3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
  4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
-
 ## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
  1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
-
 
 ## Controleren betaalrun
  
@@ -75,7 +70,6 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
 4. Klik op **OK**. De regels krijgen de status 'Geannuleerd' en worden niet meegenomen wanneer u de betaalrun exporteert. 
 
-
 ## Annuleren betaalrun
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
@@ -87,7 +81,6 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 	* **Runnummer:** (laat ongewijzigd)
 4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar 'Geannuleerd'.  
 
-
 ## Exporteren betaalrun
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
@@ -96,12 +89,12 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand wordt opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
-
 ## Zie ook:
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzgwODc5NSwxMTU2MDk2MDkxLDY4Nj
-Q5MjQzOCwtMTg0NDA4NjE3OSwxMjM3ODA4OTAwLDk0NjI2NTM0
-MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbLTE1Nzk4MjQ5MSwtMjY3ODA4Nzk1LDExNT
+YwOTYwOTEsNjg2NDkyNDM4LC0xODQ0MDg2MTc5LDEyMzc4MDg5
+MDAsOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0NDBdfQ
+==
 -->
