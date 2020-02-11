@@ -13,9 +13,9 @@ Eenheidsverkoop| <ul><li>[Bepalen verkoopvorm](bepalen-verkoopvorm.md)</li><li>[
 
 ## Zie ook
 
-[Relevante link 1]( )
-[Relevante link 2]( )
+[Relevante link 1]( )  
+[Relevante link 2]( )  
 [Relevante link 3]( )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzk2MTcxNF19
+eyJoaXN0b3J5IjpbLTYyMjc3NDk2Ml19
 -->
