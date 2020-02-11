@@ -16,9 +16,9 @@ Huuropzegging | <ul><li>[Registreren huuropzegging](registreren-huuropzegging.md
 
 ## Zie ook
 
-[Relevante link 1]( )
+[Relevante link 1]( )  
 [Relevante link 2]( )
 [Relevante link 3]( )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMDE0MTg0XX0=
+eyJoaXN0b3J5IjpbLTk5NjYxMTg2NF19
 -->
