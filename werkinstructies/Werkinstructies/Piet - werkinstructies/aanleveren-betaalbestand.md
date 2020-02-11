@@ -74,8 +74,8 @@ Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
- 2. In het scherm **betaalrunkaart** kunt u de nummers van de regels die u wilt annuleren vingen. Noteer de nummers van de regels die u wilt annuleren. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 2. In het scherm **Betaalrunkaart** kunt u de nummers vinden van de regels die u wilt annuleren. Noteer de nummers van de regels die u wilt annuleren. 
  3. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** Geanuleerd
 	* **Onze bank:** Laat ongewijzigd
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTA2ODU5MiwxMjM3ODA4OTAwLDk0Nj
-I2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbLTIwMDQ1MDQ2NDMsMTIzNzgwODkwMCw5ND
+YyNjUzNDIsLTExNDMwNTM5OTQsMTE1NDQ4NTQ0MF19
 -->
