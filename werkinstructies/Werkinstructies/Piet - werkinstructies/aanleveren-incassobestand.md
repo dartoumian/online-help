@@ -1,14 +1,10 @@
 # Aanleveren incassobestand
 
-
-## Omschrijving:
 In dit detailproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Processchema
 
-## Processtappen
-
-### Ophalen voorstel klantposten
+## Ophalen voorstel klantposten
 
 Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven welke posten meegenomen moeten worden in het incassobestand. 
 
@@ -26,9 +22,7 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 		* 	**Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in. 
 4. Klik op **OK**. Het voorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
-<hr>
-
-### Controleren en oplossen
+## Controleren en oplossen
 
 Wanneer bij de vorige stap bleek dat er foutmeldingen of waarschuwingen waren ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
 
@@ -37,18 +31,14 @@ Wanneer bij de vorige stap bleek dat er foutmeldingen of waarschuwingen waren on
 3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
-<hr>
-
-### Verwerken voorstel
+## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
 1. Open de pagina **Telebankiervoorstel**.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
-<hr>
-
-### Annuleren betaalrunregels
+## Annuleren betaalrunregels
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
@@ -84,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0OTU4Njk5XX0=
+eyJoaXN0b3J5IjpbMTM0MzgxNDAwM119
 -->
