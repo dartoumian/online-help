@@ -15,9 +15,9 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Selecteer de OG Eenheid waarvoor de huuropzegging moet worden vastgelegd.
 3. Klik op de link achter **Klantnr** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
-4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegt is namens die klant het huurcontract te be�indigen.
+4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegt is namens die klant het huurcontract te beëindigen.
 5. Sluit de Klantkaart. U keert weer terug naar het overzicht met OG Eenheden.
-6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt be�indigen.
+6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt beëindigen.
 7. Klik op **Ja**. Pagina **Opzegging huurcontract** wordt geopend.
 8. Controleer de standaardwaarde van de volgende velden en pas de waarde daar waar nodig aan:
 *  **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**
@@ -70,6 +70,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAwMzc4NTYsLTE1MTI1MTgxNjAsLT
-czNjAzNTQ1NiwtNzk3NDg1MDJdfQ==
+eyJoaXN0b3J5IjpbOTA1OTQwMTY0LC0xNTEyNTE4MTYwLC03Mz
+YwMzU0NTYsLTc5NzQ4NTAyXX0=
 -->
