@@ -57,9 +57,9 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
  1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op 'Bewerken'. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
-	* **Nieuwe status:** Geannuleerd.
-	* **Onze bank:** Laat ongewijzigd.
-	* **Runnummer:** Laat ongewijzigd.
+	* **Nieuwe status:** 'Geannuleerd'
+	* **Onze bank:** (laat ongewijzigd)
+	* **Runnummer:** (laat ongewijzigd)
   4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar **Geannuleerd**.  
 
 ## Exporteren betaalrun
@@ -74,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMjA1NjIxXX0=
+eyJoaXN0b3J5IjpbLTc2NTQwNzAzNV19
 -->
