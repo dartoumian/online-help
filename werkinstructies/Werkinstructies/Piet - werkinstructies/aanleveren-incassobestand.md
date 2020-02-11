@@ -17,8 +17,8 @@ Vul hier de volgende velden:
 	* **Rekeningsoort:** 'Klant'.
 	* **Code:** Selecteer de transactiewijze voor automatische incasso voor klantposten.
 	* **Onder het kopje Klantposten**:
-		* **Broncode:** Vul de broncode in. Voor prolongatieposten is dit 'PROLON', voor service- en verbruiksposten is dit SENV.
-		* **Documenttype:** Factuur.
+		* **Broncode:** Vul de broncode in. Voor prolongatieposten is dit 'PROLON', voor service- en verbruiksposten is dit 'SENV'.
+		* **Documenttype:** 'Factuur'.
 		* 	**Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in. 
 4. Klik op **OK**. Het voorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
@@ -74,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Njg5NDMyNV19
+eyJoaXN0b3J5IjpbMTE1NDk1MzExN119
 -->
