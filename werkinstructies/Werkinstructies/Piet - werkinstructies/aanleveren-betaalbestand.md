@@ -82,7 +82,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
 ## Exporteren betaalrun
 
-Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
+Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
  1. Selecteer in de lijst **Betaalrunlijst** de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
@@ -92,8 +92,8 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzYxMDAyOSwtMjY3ODA4Nzk1LDExNT
-YwOTYwOTEsNjg2NDkyNDM4LC0xODQ0MDg2MTc5LDEyMzc4MDg5
-MDAsOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0NDBdfQ
-==
+eyJoaXN0b3J5IjpbLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2Nz
+gwODc5NSwxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4NjE3
+OSwxMjM3ODA4OTAwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NCwxMT
+U0NDg1NDQwXX0=
 -->
