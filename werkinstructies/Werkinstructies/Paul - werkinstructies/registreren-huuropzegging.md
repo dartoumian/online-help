@@ -12,27 +12,16 @@
 
 In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres van de vertrekkende huurder en een leegstandscontract voor de OG Eenheid.
 
-  
-
 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-
 2. Selecteer de OG Eenheid waarvoor de huuropzegging moet worden vastgelegd.
-
 3. Klik op de link achter **Klantnr** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
-
 4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegt is namens die klant het huurcontract te be�indigen.
-
 5. Sluit de Klantkaart. U keert weer terug naar het overzicht met OG Eenheden.
-
 6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt be�indigen.
-
 7. Klik op **Ja**. Pagina **Opzegging huurcontract** wordt geopend.
-
 8. Controleer de standaardwaarde van de volgende velden en pas de waarde daar waar nodig aan:
-
-*  **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**
-
-*  **Leegstandsboekingsgroep:** is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
+	*  **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**
+	*  **Leegstandsboekingsgroep:** is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
 
 9. Klik op **OK**.
 
@@ -77,31 +66,17 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 * Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**, klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**)
 
 2. Selecteer de eerste inspectie met **Status** = Nieuw die u wilt plannen.
-
 3. Klik op **Inspectieafspraak plannen**. Pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie gepland vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
-
 4. In veld **Datum** selecteer de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip.
-
 5. Selecteer de inspecteur voor wie u de inspectie wilt plannen.
-
 6. Vink de begintijd aan waarop u de inspectie wilt plannen.
-
 7. Klik op **OK**.
-
 8. Herhaal actie 2 t/m 7 voor elke volgende inspectie die u wilt plannen.
-
 9. Klik op **OK**.
-
-  
-
+10. 
 <hr>
 
-  
-
 ### Bevestigingen huuropzegging
-
-  
-  
 
 1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
 
@@ -115,10 +90,6 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**.
 
-4.
-
-  
-
 <hr>
 
   
@@ -131,5 +102,6 @@ Werkinstructie Y
 
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjAzNTQ1NiwtNzk3NDg1MDJdfQ==
+eyJoaXN0b3J5IjpbMTIzNDg0NzM1MywtNzM2MDM1NDU2LC03OT
+c0ODUwMl19
 -->
