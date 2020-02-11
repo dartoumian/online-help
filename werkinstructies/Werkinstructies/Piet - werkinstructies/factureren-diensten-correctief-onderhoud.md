@@ -6,9 +6,9 @@ In dit werkproces wordt een factuur voor diensten correctief onderhoud gecontrol
 
 ## Controleren factuur
 
-Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutatieonderhoud** en **Verhuren eenheden** kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden, dienen ze gecontroleerd te worden, waarna een aanvulling of correctie mogelijk kan blijken er eventueel een en de facturen gecontroleerd en eventueel aangevuld of gecorrigeerd te worden.
+Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutatieonderhoud** en **Verhuren eenheden** kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden, dient een controle plaats te vinden, waarna een aanvulling of correctie noodzakelijk kan blijken te zijn.
 
- 1. Navigeer via het zoekveld naar de lijst **Verkoopfacturen**. Mogelijk vindt u op deze pagina ook een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")   naar de lijst **Verkoopfacturen**. Mogelijk vindt u op deze pagina ook een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud.
  2. Heeft u geen voorgedefinieerde filterlijst, stel dan een filter in waarbij **Onderhoudsverzoeknr.** ongelijk is aan 'leeg' (<>'').
  3. Open de juiste factuur door op het factuurnummer te klikken. De pagina **Verkoopfactuur** wordt geopend.
  4. Controleer de volgende velden op de factuurregels:
@@ -37,5 +37,5 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
 ## Zie ook
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTE5Mjk3LDEwNjQ2MTM2ODldfQ==
+eyJoaXN0b3J5IjpbLTkxMTQ4OTc5NCwxMDY0NjEzNjg5XX0=
 -->
