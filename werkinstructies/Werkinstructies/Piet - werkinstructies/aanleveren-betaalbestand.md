@@ -89,7 +89,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
@@ -102,7 +102,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat betaalru
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
- 1. Selecteer in de lijst **betaalrunlijst** de betaalrun die u wilt exporteren. 
+ 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN bestand word opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDM0Njk1MSwxMjM3ODA4OTAwLDk0Nj
-I2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbMTQ3Njk2NTc4LDEyMzc4MDg5MDAsOTQ2Mj
+Y1MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0NDBdfQ==
 -->
