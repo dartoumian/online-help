@@ -56,7 +56,7 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
- 1. Open de pagina **Telebankiervoorstel**.
+ 1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 <hr>
@@ -66,15 +66,15 @@ Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het beta
 Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
  1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
- 2. Klik op **Betaalrun afdrukken** om de betaalrun af te drukken. 
+ 2. Klik op de actie **Betaalrun afdrukken** om de betaalrun af te drukken. 
 
 <hr>
 
 ### Annuleren betaalrunregels
 
-Wanneer na aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
+Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
- 1. Selecteer in de lijst **betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
+ 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en druk op bewerken. 
  2. In het scherm **betaalrunkaart** kunt u de nummers van de regels die u wilt annuleren vingen. Noteer de nummers van de regels die u wilt annuleren. 
  3. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** Geanuleerd
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDI1MjE2NiwxMjM3ODA4OTAwLDk0Nj
+eyJoaXN0b3J5IjpbMTAzOTUxOTE1NCwxMjM3ODA4OTAwLDk0Nj
 I2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
 -->
