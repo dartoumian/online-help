@@ -26,7 +26,7 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 11. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wil doorgaan. Klik op **Ja**.
 12. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag en met de geselecteerde Leegstandsboekingsgroep.
 13. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
-14. In het geval bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt na actie 9 of 10 achter de schermen automatisch een nieuwe **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
+1. In het geval bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt na actie 9 of 10 achter de schermen automatisch een nieuwe **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
 15. Pagina **Huurcontractopzeggingkaart** wordt geopend.
 16. Vul het veld **Huuropzeggingsreden** in.
 17. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan in tab **Huurcontract / Huurder** .
@@ -52,26 +52,24 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 7. Klik op **OK**.
 8. Herhaal actie 2 t/m 7 voor elke volgende inspectie die u wilt plannen.
 9. Klik op **OK**.
-
 <hr>
 
-### Bevestigingen huuropzegging
+#evestigingen huuropzegging
 
 1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
 * Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
 * Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart.
 * Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**)
 2. Klik op ***Acties*** - **Worddocument**.
-3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**.
+3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **<hr>
 
-<hr>
-
+ 
 ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep)
 
 Werkinstructie X  
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI1MTgxNjAsLTczNjAzNTQ1NiwtNz
-k3NDg1MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjAwMzc4NTYsLTE1MTI1MTgxNjAsLT
+czNjAzNTQ1NiwtNzk3NDg1MDJdfQ==
 -->
