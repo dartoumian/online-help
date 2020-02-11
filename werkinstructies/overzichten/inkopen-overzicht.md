@@ -13,10 +13,10 @@ Overige inkoop| <ul><li>[Registreren inkooporder](registrere-inkooporder.md)</li
 
 ## Zie ook
 
-[Relevante link 1]( )
-[Relevante link 2]( )
+[Relevante link 1]( )  
+[Relevante link 2]( )  
 [Relevante link 3]( )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTQwNTA0MV19
+eyJoaXN0b3J5IjpbNDc5MDQ0OV19
 -->
