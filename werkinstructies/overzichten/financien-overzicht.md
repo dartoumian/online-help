@@ -23,9 +23,9 @@ Vaste activa | <ul><li>[Beheren vaste activa](beheren-vaste-activa.md)</li><li>[
 
 ## Zie ook
 
-[Relevante link 1]( )
-[Relevante link 2]( )
+[Relevante link 1]( )  
+[Relevante link 2]( )  
 [Relevante link 3]( )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM1NjUwMzddfQ==
+eyJoaXN0b3J5IjpbMjExMDkxMTE4N119
 -->
