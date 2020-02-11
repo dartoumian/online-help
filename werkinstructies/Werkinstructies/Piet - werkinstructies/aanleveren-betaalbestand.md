@@ -36,9 +36,8 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 	* **Documenttype**: 'Creditnota'.
  4. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
-<hr>
 
-### Controleren en oplossen
+## Controleren en oplossen
 
 Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
 
@@ -47,27 +46,23 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
  3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
  4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
-<hr>
 
-### Verwerken voorstel
+## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
  1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
-<hr>
 
-### Controleren betaalrun
+## Controleren betaalrun
  
 Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
  1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
  2. Klik op de actie **Betaalrun afdrukken** om de betaalrun af te drukken. 
 
-<hr>
-
-### Annuleren betaalrunregels
+## Annuleren betaalrunregels
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
@@ -80,9 +75,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
 4. Klik op **OK**. De regels krijgen de status 'Geannuleerd' en worden niet meegenomen wanneer u de betaalrun exporteert. 
 
-<hr>
 
-### Annuleren betaalrun
+## Annuleren betaalrun
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
 
@@ -93,9 +87,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 	* **Runnummer:** (laat ongewijzigd)
 4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar 'Geannuleerd'.  
 
-<hr>
 
-### Exporteren betaalrun
+## Exporteren betaalrun
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
@@ -109,7 +102,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDgzMDMzMyw2ODY0OTI0MzgsLTE4ND
+eyJoaXN0b3J5IjpbMTE1NjA5NjA5MSw2ODY0OTI0MzgsLTE4ND
 QwODYxNzksMTIzNzgwODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5
 OTQsMTE1NDQ4NTQ0MF19
 -->
