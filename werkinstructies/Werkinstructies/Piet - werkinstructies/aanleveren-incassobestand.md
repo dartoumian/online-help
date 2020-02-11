@@ -61,9 +61,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
 4. Klik op **OK**. De regels krijgen de status **Geannuleerd** en worden niet meegenomen wanneer u de betaalrun exporteert. 
 
-<hr>
-
-### Annuleren betaalrun
+## Annuleren betaalrun
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
@@ -74,9 +72,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 	* **Runnummer:** Laat ongewijzigd.
   4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar **Geannuleerd**.  
 
-<hr>
-
-### Exporteren betaalrun
+## Exporteren betaalrun
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
@@ -84,11 +80,9 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand word opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
-<hr>
-
 ## Zie ook:
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzNzQ1MjFdfQ==
+eyJoaXN0b3J5IjpbNDU0OTU4Njk5XX0=
 -->
