@@ -8,8 +8,8 @@ In dit detailproces wordt een incassobestand gegenereerd op basis van te incasse
 
 Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven welke posten meegenomen moeten worden in het incassobestand. 
 
-1. Navigeer via het zoekveld naar de lijst **Telebankieren - bankoverzicht**.
-2. Klik op **Voorstelposten ophalen**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Telebankieren - bankoverzicht**.
+2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
 3. Vul de volgende velden op het scherm dat verschijnt:
 	* **Transactiedatum:** Datum waarop de incasso moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum op of voor deze datum worden meegenomen in het betaalvoorstel. Bij een incasso op de eerste van de maand vult u hier bijvoorbeeld 01-03-2020 in. 
@@ -74,5 +74,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzgxNDAwM119
+eyJoaXN0b3J5IjpbLTE1NTY3NjU4NV19
 -->
