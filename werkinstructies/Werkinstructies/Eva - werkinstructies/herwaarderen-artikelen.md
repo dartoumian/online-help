@@ -1,6 +1,5 @@
 # Herwaarderen artikelen
 
-
 ## Omschrijving:
 In dit detailproces wordt beschreven hoe je in bulk prijzen kan aanpassen voor artikelen. 
 
@@ -19,6 +18,7 @@ In dit detailproces wordt beschreven hoe je in bulk prijzen kan aanpassen voor a
 	* **Vaste verrekenprijs aanpassen** Dient aangevinkt te worden.
 	* **Berekeningsbasis** Zet het filter op 'Vaste verrekenprijs – Productie'.
 4. Klik op **OK**. De voorraadwaarde wordt opnieuw berekend. 
+
 <hr>  
 
 ### Aanpassen Herwaarderingsdagboek
@@ -32,5 +32,5 @@ Het rapport toont hergewaardeerde prijzen. Op de pagina kunnen nieuwe gegevens w
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjMwNTkzNV19
+eyJoaXN0b3J5IjpbLTIxMTgyMzYzMSwtNTAyMzA1OTM1XX0=
 -->
