@@ -29,7 +29,7 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
  2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
- 3. Vul de volgende velden op het scherm dat verschijnt:
+ 3. Vul de volgende velden op het scherm:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.	
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
@@ -37,13 +37,13 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van klantposten.
 	* **Broncode:** Vul de broncode in wanneer u alleen posten vanuit een bepaalde sub-adminstratie uit wilt betalen, bijvoorbeeld SENV voor service en verbruik.
 	* **Documenttype**: Creditnota.
- 4. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat
+ 4. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
 <hr>
 
 ### Controleren en oplossen
 
-Wanneer bij de vorige stap bleek dat er foutmeldingen of waarschuwingen waren ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
+Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
 
  1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
  2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
@@ -112,6 +112,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is kan deze geëxporteerd wo
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjUxOTMyNyw5NDYyNjUzNDIsLTExND
+eyJoaXN0b3J5IjpbMTIzNzgwODkwMCw5NDYyNjUzNDIsLTExND
 MwNTM5OTQsMTE1NDQ4NTQ0MF19
 -->
