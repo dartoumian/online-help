@@ -58,29 +58,20 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 ### Bevestigingen huuropzegging
 
 1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
-
 * Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
-
 * Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart.
-
 * Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**)
-
 2. Klik op ***Acties*** - **Worddocument**.
-
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**.
 
 <hr>
 
-  
-
 ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep)
 
-Werkinstructie X
-
-Werkinstructie Y
-
+Werkinstructie X  
+Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDE0MTUzMCwtNzM2MDM1NDU2LC03OT
-c0ODUwMl19
+eyJoaXN0b3J5IjpbLTE1MTI1MTgxNjAsLTczNjAzNTQ1NiwtNz
+k3NDg1MDJdfQ==
 -->
