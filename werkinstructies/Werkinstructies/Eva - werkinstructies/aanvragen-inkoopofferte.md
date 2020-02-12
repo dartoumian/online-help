@@ -6,7 +6,7 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 
 ## Aanmaken onderhoudsverzoek
 
-1. Navigeer naar het **Eenhedenoverzicht**
+1. Navigeer naar het **Eenhedenoverzicht**.
 2. Selecteer de juiste eenheid en klik op  **Onderhoudsverzoek**.
 3. De pagina **Onderhoudsverzoekkaart** opent. 
 4. Klik op **Taken aanmaken o.b.v. sjabloon**
@@ -35,6 +35,6 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAxMDI3MDAsMTMwNjkwMDQxMywxNT
-ExNjIyNDg5XX0=
+eyJoaXN0b3J5IjpbLTEzOTkwMjI2MzQsLTEwMTAxMDI3MDAsMT
+MwNjkwMDQxMywxNTExNjIyNDg5XX0=
 -->
