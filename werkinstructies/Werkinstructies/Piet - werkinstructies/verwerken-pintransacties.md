@@ -34,7 +34,7 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent. 
 	* Selecteer de posten waarmee u de transactie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten, waarbij altijd geprobeerd wordt om de oudste post geheel te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt geprobeerd de op één na oudste post te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
 	* Klik op **OK** om de vereffening te bevestigen. U komt terug op de pagina **Kasboek**.
-	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#boeken-en-importeren-betaalrun-incasso).
+	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#boeken-en-afdrukken-kasdagboek).
 
 ## Boeken en afdrukken kasdagboek
 
@@ -47,8 +47,8 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzY3MTYwMiwtMTY3Nzk5ODY2MywtMT
-c1NjgwNDEyNSwzODEzNjg2NSwtNTEyMTExNTY2LC0xNjMwNjMx
-NTg0LDQ3OTEyNzg0NiwyNTkwOTcyMDMsLTc1NjQyMjM1MiwtMT
-UyNTcwMDYwMyw2MjUwMTQxMjVdfQ==
+eyJoaXN0b3J5IjpbMjA0MjQ2OTUxNywxNzE3NjcxNjAyLC0xNz
+U2ODA0MTI1LDM4MTM2ODY1LC01MTIxMTE1NjYsLTE2MzA2MzE1
+ODQsNDc5MTI3ODQ2LDI1OTA5NzIwMywtNzU2NDIyMzUyLC0xNT
+I1NzAwNjAzLDYyNTAxNDEyNV19
 -->
