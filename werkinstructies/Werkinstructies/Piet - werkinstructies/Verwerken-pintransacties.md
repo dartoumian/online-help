@@ -24,9 +24,9 @@ nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toe
  1. Vul op de regel de volgende velden:
 	* **Rekeningsoort:** Klant
 	* **Rekeningnr.:**: Klantnummer. 
-	* **Omschrijving**: Pas eventueel de omschrijving aan. Dit is de omschrijving die op de factuur komt te staan.
-
+	* **Credit:**Het betaalde bedrag
+ 2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzEwNDA4NCwxNDA1MDAwNDM1XX0=
+eyJoaXN0b3J5IjpbNTUyMzA2MjgxLDE0MDUwMDA0MzVdfQ==
 -->
