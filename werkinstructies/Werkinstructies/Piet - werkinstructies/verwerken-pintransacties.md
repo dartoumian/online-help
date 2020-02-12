@@ -29,12 +29,12 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
  3. **Vereffenen met één openstaande post:** 
 	* lik in het veld **Vereffeningsnr.** op de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
 	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**.
-	* Ga verder naar stap Boeken en afdrukken kasboek
+	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#boeken-en-afdrukken-kasdagboek).
  4. **Betaling vereffenen met meerdere openstaande posten:** 
 	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent. 
-	* Selecteer de posten waarmee u de transience wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
-	* Klik op **OK** om de verffening te bevestigen. U komt terug op de pagina **Kasboek**
-	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#importeren-betaalrun-incasso)Boeken en afdrukken kasboek
+	* Selecteer de posten waarmee u de transience wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
+	* Klik op **OK** om de vereffening te bevestigen. U komt terug op de pagina **Kasboek**.
+	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#boeken-en-afdrukken-kasdagboek).
 
 ## Boeken en afdrukken kasdagboek
 
@@ -47,7 +47,7 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkxNzAzNiwzODEzNjg2NSwtNTEyMT
+eyJoaXN0b3J5IjpbLTczMDkxMjc3OCwzODEzNjg2NSwtNTEyMT
 ExNTY2LC0xNjMwNjMxNTg0LDQ3OTEyNzg0NiwyNTkwOTcyMDMs
 LTc1NjQyMjM1MiwtMTUyNTcwMDYwMyw2MjUwMTQxMjVdfQ==
 -->
