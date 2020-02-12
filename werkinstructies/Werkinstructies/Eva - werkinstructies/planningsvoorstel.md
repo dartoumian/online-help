@@ -19,13 +19,13 @@ In dit detailproces wordt beschreven hoe een transferorder kan worden aangemaakt
 
 Het rapport kan zowel geaccepteerde als niet-geaccepteerde regels geven. Geaccepteerde regels kunnen 'verplaatst' worden en niet-geaccepteerde regels moeten na controle verwijderd worden, of alsnog geaccepteerd worden. U gaat nu inkoop/transferorders aanmaken.
 
- 1. Klik op **Planningsboodschap uitvoeren**.
+ 1. Kies voor de functie **Planningsboodschap uitvoeren**.
  2. Vul de volgende velden op het scherm dat verschijnt:
-	* **Inkooporder:** Kies voor Inkooporders aanmaken.
-	* **Transferorder:** Kies voor Inkooporders aanmaken.
+	* **Inkooporder:** Kies voor 'Inkooporders aanmaken'.
+	* **Transferorder:** Kies voor 'Inkooporders aanmaken'.
 	* **Transferorders combineren:** Dit is een keuzeveld. 
  3. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODA5NzE4OCwxMTE1NjQ2NjQxXX0=
+eyJoaXN0b3J5IjpbNDIyNzg4NjQzLDExMTU2NDY2NDFdfQ==
 -->
