@@ -22,11 +22,11 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toewijzen aan een klant en afletteren met klant posten. 
 
  1. Vul op de regel de volgende velden:
-	* **Klantnummer:**
-	* **BTW-correctie**: Wanneer u de betaalde BTW over de kosten wilt terugvorderen vinkt u deze kolom aan.
+	* **Rekeningsoort:** Klant
+	* **Rekeningnr.:**: Klantnummer. U kunt zoeken in de lijst met klanten 
 	* **Omschrijving**: Pas eventueel de omschrijving aan. Dit is de omschrijving die op de factuur komt te staan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcwOTQ4OTgsMTQwNTAwMDQzNV19
+eyJoaXN0b3J5IjpbLTIwODI4MjU1MTgsMTQwNTAwMDQzNV19
 -->
