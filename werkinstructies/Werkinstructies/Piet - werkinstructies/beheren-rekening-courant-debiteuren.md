@@ -21,8 +21,8 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 2. Zoek de klant op waarvoor u de posten wilt vereffenen.
 3. Selecteer de klant en klik op **Posten**. De pagina **Klantposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen. 
->Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit als een debit factuur, vereffen dan éérst de credit factuur met de debit factuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen. 
-5. Klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent
+>Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen.
+5. Kies de actie **Posten vereffenen**. De pagina **Klantposten vereffenen** opent.
 6. Selecteer de post(en) waarmee u in stap 4 geselecteerd post wilt vereffenen
 7. Klik op **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen
@@ -58,7 +58,7 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm ** Alle posten aanpassen** en klik op **OK**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI0MDY2NiwtOTU3MTE2MjgzLC0xNj
+eyJoaXN0b3J5IjpbMTE0MjczMzgxMiwtOTU3MTE2MjgzLC0xNj
 M2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3OTk5
 MDIwXX0=
 -->
