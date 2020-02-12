@@ -26,11 +26,11 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 	* **Rekeningnr.:** Het nummer van de klant. 
 	* **Credit:** Het betaalde bedrag.
  2. Komt de klant één specifieke openstaande post betalen, lees dan verder bij punt 3. Betaalt de klant meer dan één openstaande post, lees dan verder vanaf punt 4. 
- 3. ereffenen met één openstaande post:** 
+ 3. **Vereffenen met één openstaande post:** 
 	* klik in het veld **Vereffeningsnr.** de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
 	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**
 	* Ga verder naar stap Boeken en afdrukken kasboek
- 4. talii**Betaling vereffenen met meerdere openstaande posten:** 
+ 4. **Betaling vereffenen met meerdere openstaande posten:** 
 	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent. 
 	* Selecteer de posten waarmee u de transience wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
 	* Klik op **OK** om de verffening te bevestigen. U komt terug op de pagina **Kasboek**
@@ -49,6 +49,6 @@ de lijst met kasboeken.
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4NzA5MDUsMjU5MDk3MjAzLC03NT
-Y0MjIzNTIsLTE1MjU3MDA2MDMsNjI1MDE0MTI1XX0=
+eyJoaXN0b3J5IjpbNDc5MTI3ODQ2LDI1OTA5NzIwMywtNzU2ND
+IyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEyNV19
 -->
