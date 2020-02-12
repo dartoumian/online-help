@@ -12,13 +12,13 @@ Zodra er een nieuw artikel beschikbaar is, of reeds in gebruik, is het zaak dat 
 	* **Omschrijving:** Geef de omschrijving van het artikel in. 
 	* **Basiseenheid:** Geef de eenheid op die voor het artikel van toepassing is. 
 	* **Artikelcategoriecode** Selecteer de juiste artikelcategorie. 
-4.  Ga nu naar het tabblad Facturering**. Vul de volgende velden:
+4.  Ga nu naar het tabblad **Facturering**. Vul het volgende veld:
 	* **Vaste verrekenprijs:** Geef hier de prijs inclusief BTW voor het artikel op. 
-5.  Ga nu naar het tabblad 'Prijs en boeking'. Vul de volgende velden:
+5.  Ga nu naar het tabblad **Prijs en boeking**. Vul de volgende velden:
 	* **Artikel toeslag verbruik%:** Geef hier de toeslag op die wordt berekend over de kostprijs van het artikel. 
 	* **Prijs/winst berekenen:** Geef de waarde **Verkoopprijs = Kostprijs + Winst** in. 
-6.  Ga nu naar het tabblad 'Aanvulling'. Vul de volgende velden:
-	* **Leveranciersnummer:** Geef hier de leverancier in waar het artikel normaal gesproken wordt ingekocht. 
+6.  Ga naar het tabblad **Aanvulling**. Vul de volgende velden:
+	* **Leveranciersnummer:** Geef hier de leverancier op waar het artikel normaal gesproken wordt ingekocht. 
  	* **Artikelnr. Leverancier:** Geef het nummer in waaronder het artikel bekend is bij de leverancier. 
  	* **Ink. -eenheid:** Geef de eenheid in waaronder de leverancier het artikel levert. 
 7.  Ga nu naar het tabblad 'Planning. Vul de volgende velden:
@@ -45,5 +45,5 @@ In de basis maak je voor elke vestiging een SKU aan.
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY5ODQ5NSwtNzM2Mzg2MDk2XX0=
+eyJoaXN0b3J5IjpbMTA4NjkzODEzNywtNzM2Mzg2MDk2XX0=
 -->
