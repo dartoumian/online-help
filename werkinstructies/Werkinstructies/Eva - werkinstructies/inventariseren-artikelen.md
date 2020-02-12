@@ -8,8 +8,8 @@ Het is gebruikelijk om periodiek (bijvoorbeeld één keer per jaar) de aanwezige
 
 Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er geïnventariseerd wordt. Als er nog regels bestaan moeten deze eerst verwijderd worden. 
 
-1. Navigeer via het zoekveld naar de lijst **Inventarisatiedagboek**.
-2. Klik op  **Voorraad berekenen**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inventarisatiedagboeken**.
+2. Selecteer de juiste regel en kies de functie **Voorraad berekenen**.
 3. Het filteroverzicht **Voorstelposten ophalen** opent. Vul hier de volgende velden:
 	* **Boekingsdatum:** Deze datum wordt automatisch gevuld met de huidige datum en kan indien nodig worden aangepast.
 	* **Documentnummer** Geef hier een kenmerk op zoals bijv. “Inventarisatie bus 1” 
@@ -27,5 +27,6 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NjI4OTE0LC0xODM3ODYxNDQ2XX0=
+eyJoaXN0b3J5IjpbMjAzMDAzMzIyNSw0Mjk2Mjg5MTQsLTE4Mz
+c4NjE0NDZdfQ==
 -->
