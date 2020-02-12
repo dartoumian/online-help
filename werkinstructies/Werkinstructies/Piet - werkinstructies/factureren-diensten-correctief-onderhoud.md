@@ -23,8 +23,8 @@ Wanneer u de factuur wilt versturen naar de klant, bijvoorbeeld in het geval van
 
  1. Vanaf de lijst **Verkoopfacturen** (staand op de juiste regel) of vanaf de factuurkaart klikt u op **Boeken en verzenden** (via actie **Boeken**).
  2. Klik in de pagina die opent op de drie puntjes '...'. Het scherm **Document verzenden naar** opent. Vul de volgende velden:
-	* **E-mail**: Ja (prompt voor instellingen)
-	* **Schijf**: PDF
+	* **E-mail**: 'Ja (prompt voor instellingen)'.
+	* **Schijf**: 'PDF'.
  3. Klik op **OK** en klik op **Ja**. De pagina **E-mail verzenden** opent. Wanneer u de e-mail wilt bewerken in Outlook vinkt u **Bewerken in Outlook** aan. 
  4. Klik op **OK**. Afhankelijk van uw keuze in de vorige stap wordt de e-mail direct verzonden of wordt Outlook geopend.
 
@@ -37,6 +37,6 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
 ## Zie ook
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1OTAzMDExLDEwOTA5ODU1OSwxMDY0Nj
-EzNjg5XX0=
+eyJoaXN0b3J5IjpbLTE5NDE4NzY3NTEsMzU1OTAzMDExLDEwOT
+A5ODU1OSwxMDY0NjEzNjg5XX0=
 -->
