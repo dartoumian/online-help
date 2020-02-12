@@ -44,7 +44,7 @@ Als Wanneer bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijw
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
-1. Klik op **Voorstel**, waarnaOpen de pagina **Telebankiervoorstel** opent.
+1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 <hr>
@@ -91,6 +91,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDkzNTU5MCw2NTMxNTY1NDQsLTc2NT
+eyJoaXN0b3J5IjpbLTc0NzY5NzYwNCw2NTMxNTY1NDQsLTc2NT
 QwNzAzNV19
 -->
