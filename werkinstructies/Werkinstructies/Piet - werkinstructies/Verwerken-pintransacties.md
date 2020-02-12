@@ -30,7 +30,7 @@ nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toe
 	* klik in het veld **Vereffeningsnr** de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
 	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**
 	* Ga verder naar stap Boeken en afdrukken kasboek
- 4. **Betaling vereffenen met meerdere openstaande posten:** 
+ 4. taliiereffenen met meerdere openstaande posten:** 
 	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent. 
 	* Selecteer de posten waarmee u de transience wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
 	* Klik op **OK** om de verffening te bevestigen. U komt terug op de pagina **Kasboek**
@@ -44,11 +44,12 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
  1. Klik op **Boek**. U krijgt de vraag of u het dagboek wilt boeken. Deze beantwoord u met **Ja. **
  2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten krijgt u de melding dat het boeken gelukt is. 
  3. De pagina **Verzamelkwitantie**. opent. Klik op afdrukken. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt drukken. 
- 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar het scherm 
+ 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar het scherm
+ 2. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mjg4NTM2NSwtODYwNzQ3NjM1LC00Nz
-E4MjMyNTMsMTQwNTAwMDQzNV19
+eyJoaXN0b3J5IjpbOTU4MDA5Mjc0LDExODI4ODUzNjUsLTg2MD
+c0NzYzNSwtNDcxODIzMjUzLDE0MDUwMDA0MzVdfQ==
 -->
