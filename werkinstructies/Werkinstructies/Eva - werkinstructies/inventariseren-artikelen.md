@@ -18,15 +18,15 @@ Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er 
 
 ## Corrigeren artikelen
 
-Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagboek. In de kolom **Aantal (berekend)** staat het bekende aantal artikelen. Indien er negatieve correcties worden uitgevoerd, zullen de bedragen positief getoond worden!
+Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagboek. In de kolom **Aantal (berekend)** staat het bekende aantal artikelen. Als er negatieve correcties worden uitgevoerd, zullen de bedragen positief getoond worden!
 
  1. Geef in de kolom **Aantal (inventarisatie)** de werkelijk getelde aantallen op. 
- 2. Klik op **Boeken** in het Lint. 
+ 2. Kies voor de actie **Boeken**. 
  3. Klik op **Ja** bij de melding **Wilt u dagboekregels boeken?**
- 4. Wanneer de boeking succesvol is verlopen krijgt u hiervan een bevestigingsmelding, klik op **OK**. 
+ 4. Wanneer de boeking succesvol is verlopen krijgt u hiervan een bevestigingsmelding. Klik op **OK**. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcwODU1NDksNDI5NjI4OTE0LC0xOD
-M3ODYxNDQ2XX0=
+eyJoaXN0b3J5IjpbNjcxOTU4MDk0LDQyOTYyODkxNCwtMTgzNz
+g2MTQ0Nl19
 -->
