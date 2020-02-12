@@ -17,7 +17,9 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 	* **Beginsalo:** 0
 	* **Eindsaldo:** Het bedrag dat gepind is
 
-	
+## Aanmaken kasdagboekregels
+
+Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODUyNTI0OSwxNDA1MDAwNDM1XX0=
+eyJoaXN0b3J5IjpbMTQ4ODYwNjAxLDE0MDUwMDA0MzVdfQ==
 -->
