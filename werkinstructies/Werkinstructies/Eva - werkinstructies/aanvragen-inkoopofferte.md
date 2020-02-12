@@ -19,12 +19,13 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 
 Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat hiervoor het **Leveranciersnr.** leeg. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
 
- 1. Selecteer in het regeldeel van de onderhoudsverzoekkaart, onder **Onderhoudstaken**, de juiste regel. Kies vervolgens ,  via **Functies** op de actie **Inkoopofferte aanmaken**.
- 2. Klik op **OK** bij de bevestigingsmelding.
- 3. Via het Feitenblok kan je zien dat er nu een **Offerte-/orderregels** zijn aangemaakt. Navigeernaar de inkoopofferte door via het Feitenblok op de '1' te klikken bij **Offerte-/orderregels**
- 4. De pagina **Inkoopregels** wordt geopend. Klik op **Kaart**. 
- 5. De pagina **Inkoopofferte** wordt geopend. Vul op het tabblad 'Algemeen' de **Verzochte ontvangstdatum**. 
- 6. Klik op **JA** bij de melding met de vraag of u de regels wilt bijwerken. 
+ 1. Selecteer in het regeldeel van de onderhoudsverzoekkaart, onder **Onderhoudstaken**, de juiste regel.
+ 2. Kies vervolgens via **Functies** voor de actie **Inkoopofferte aanmaken**.
+ 3. Klik op **OK** bij de bevestigingsmelding.
+ 4. Via het Feitenblok kan je zien dat er nu een **Offerte-/orderregels** zijn aangemaakt. Navigeernaar de inkoopofferte door via het Feitenblok op de '1' te klikken bij **Offerte-/orderregels**
+ 5. De pagina **Inkoopregels** wordt geopend. Klik op **Kaart**. 
+ 6. De pagina **Inkoopofferte** wordt geopend. Vul op het tabblad 'Algemeen' de **Verzochte ontvangstdatum**. 
+ 7. Klik op **JA** bij de melding met de vraag of u de regels wilt bijwerken. 
 
 Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier zijn er twee verschillende werkwijzes:
 
@@ -34,7 +35,7 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjYzMDQ4NiwxOTgzNzU5NTI5LC0yMT
+eyJoaXN0b3J5IjpbLTM2NDU1NTQzNiwxOTgzNzU5NTI5LC0yMT
 A5ODEyNjAwLC0xMzI5MjMwODk2LDE3Njc4NDk0ODYsMTU3MDA0
 NjM0NCwtMTAxMDEwMjcwMCwxMzA2OTAwNDEzLDE1MTE2MjI0OD
 ldfQ==
