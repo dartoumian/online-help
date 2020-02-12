@@ -17,10 +17,10 @@ Wanneer u leveranciersposten met elkaar wilt vereffenen kunt u dit doen vanaf de
 6. Selecteer de post(en) waarmee u de in stap 4 geselecteerde post wilt vereffenen.
 7. Klik op **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
-9. Klik op **Vereffening boeken**. De pagina **Vereffening boeken** opent. 
-10. Vul in het veld **Boekingsdatum** de datum van vandaar in (shortcut H) en klik op **OK**. De vereffening wordt geboekt en u keer terug naar het scherm **Leveranciersposten**
+9. Kies de actie **Vereffening boeken**. De pagina **Vereffening boeken** opent. 
+10. Vul in het veld **Boekingsdatum** de datum van vandaag in (sneltoets: H) en klik op **OK**. De vereffening wordt geboekt en u keert terug naar het scherm **Leveranciersposten**.
  
-## Ongedaan maken crediteurenposten vereffening 
+## Ongedaan maken crediteurenpostenvereffening 
 
 Wanneer u de vereffening van leveranciersposten ongedaan wilt maken kunt is dit doen vanaf de pagina **Leveranciersposten**
 
@@ -40,5 +40,5 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 3. Selecteer de leverancier en klik op **Posten**. De pagina **Leveranciersposten** opent
 4. Vul bij de post die u wilt uitsluiten van automatische uitbetalingen het veld **Afwachten** met de afwachtcode die van toepassing is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODE5MjI3NywtNzcyNTA5MDY3XX0=
+eyJoaXN0b3J5IjpbLTY0NTc1MjEwNCwtNzcyNTA5MDY3XX0=
 -->
