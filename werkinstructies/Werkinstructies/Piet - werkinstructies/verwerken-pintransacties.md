@@ -14,15 +14,15 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
  3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** het dagboeksjabloon voor de pinautomaat waarmee de betaling voldaan is.
  4.  Klik op **OK**, waarna de pagina **Kasboek** opent.
  5. Vul de volgende velden:
-	* **Beginsalo:** 0
-	* **Eindsaldo:** Het bedrag dat gepind is
+	* **Beginsalo:** '0'
+	* **Eindsaldo:** Het bedrag dat gepind is.
 
 ## Aanmaken kasdagboekregels
 
 Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties toewijzen aan een klant en afletteren met klantposten. 
 
  1. Vul op de regel de volgende velden:
-	* **Rekeningsoort:** Klant
+	* **Rekeningsoort:** 'Klant'
 	* **Rekeningnr.:**: Klantnummer. 
 	* **Credit:** Het betaalde bedrag
  2. Komt de klant één specifieke openstaande post betalen lees dan verder bij punt 3. Betaalt de klant meer dan één openstaande post lees dan verder vanaf punt 4. 
@@ -49,6 +49,6 @@ de lijst met kasboeken.
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg5MTIxODgsLTE1MjU3MDA2MDMsNj
-I1MDE0MTI1XX0=
+eyJoaXN0b3J5IjpbLTc1NjQyMjM1MiwtMTUyNTcwMDYwMyw2Mj
+UwMTQxMjVdfQ==
 -->
