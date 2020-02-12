@@ -12,7 +12,8 @@ U benaderd de klantposten van een specifieke klant
 Wanneer u de rekening courant van een kant af wilt drukken kan dit vanaf de pagina **Klantposten**
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
-2. Se
+2. Zoek de klant op waarvoor u de rekening courant af wilt drukken. 
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDIzOTMwNSwtOTc1NDY2MjIyXX0=
+eyJoaXN0b3J5IjpbMjA3MzYwMzA3NCwtOTc1NDY2MjIyXX0=
 -->
