@@ -55,7 +55,7 @@ Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload hee
  1. Klik op het specifieke  bank-/giroboek op **Inlezen bankmutaties**. De gelijknamige pagina wordt geopend.
  2. Klik op **Inlezen CAMPT0.53**.
  3. Klik op **Kiezen** en selecteer het gedownloade bankafschrift. Het bankafschrift wordt geïmporteerd.
- 4. Klik op **Verwerken** waarna het geïmporteerde bankafschrift wordt verwerkt. De regels uit het bankafschrift zullen waar mogelijk herkend worden en er zal waar mogelijk een vereffening voorstellen. 
+ 4. Klik op **Verwerken** waarna het geïmporteerde bankafschrift wordt verwerkt. De regels uit het bankafschrift zullen waar mogelijk herkend worden en er zal waar mogelijk een vereffening voorstellen.
  5. Klik op **Sluiten** om de pagina **Inlezen bankmutaties** te verlaten en terug te keren naar e ank-/iroboek**. U zult zien dat de regels uit het bankafschrift geïmporteerd zijn in het Bank-/ Giroboek.
 
 ## Handmatig verwerken bankmutaties
@@ -99,6 +99,6 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzkyODE5MSwtMTg4NjE5NTIwMiwtMT
-gwNTc2MDI0NywyMDIxODE0NTI1LC05OTIxNjEzMzldfQ==
+eyJoaXN0b3J5IjpbNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC0xOD
+A1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
 -->
