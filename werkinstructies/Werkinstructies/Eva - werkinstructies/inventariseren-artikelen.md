@@ -4,9 +4,9 @@ Het is gebruikelijk om periodiek (bijvoorbeeld één keer per jaar) de aanwezige
 
 ## Processchema
 
-## Proces artikelen (her)inventariseren
+## Artikelen (her)inventariseren
 
-Uitgangspunt bij het inventarisatiedagboek is dat deze leeg moet zijn voordat er geinventariseerd wordt. Indien er nog regels bestaan moeten deze eerst verwijderd worden. 
+Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er geïnventariseerd wordt. Als er nog regels bestaan moeten deze eerst verwijderd worden. 
 
 1. Navigeer via het zoekveld naar de lijst **Inventarisatiedagboek**.
 2. Klik op  **Voorraad berekenen**.
@@ -27,5 +27,5 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzU1NTAxMiwtMTgzNzg2MTQ0Nl19
+eyJoaXN0b3J5IjpbNDI5NjI4OTE0LC0xODM3ODYxNDQ2XX0=
 -->
