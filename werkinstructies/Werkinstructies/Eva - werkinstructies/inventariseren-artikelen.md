@@ -12,8 +12,8 @@ Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er 
 2. Selecteer de juiste regel en kies de functie **Voorraad berekenen**.
 3. Het filteroverzicht **Voorstelposten ophalen** opent. Vul hier de volgende velden:
 	* **Boekingsdatum:** Deze datum wordt automatisch gevuld met de huidige datum en kan indien nodig worden aangepast.
-	* **Documentnummer** Geef hier een kenmerk op zoals bijv. “Inventarisatie bus 1” 
-4. Voeg via het filter eventueel specifieke filters voor één of meerdere specifieke artikelen, of voor een specifiek magazijn.
+	* **Documentnummer** Geef hier een kenmerk op zoals 'Inventarisatie bus 1'.
+4. Voeg via de filteroptie  eventueel specifieke filters voor één of meerdere specifieke artikelen, of voor een specifiek magazijn.
 5. Klik op **OK**. De in Dynamics Empire bekende artikel aantallen worden berekend. 
 
 ## Corrigeren artikelen
@@ -27,6 +27,6 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDAzMzIyNSw0Mjk2Mjg5MTQsLTE4Mz
-c4NjE0NDZdfQ==
+eyJoaXN0b3J5IjpbNDcxMjM0MTQwLDQyOTYyODkxNCwtMTgzNz
+g2MTQ0Nl19
 -->
