@@ -27,8 +27,8 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 	* **Credit:** Het betaalde bedrag.
  2. Komt de klant één specifieke openstaande post betalen, lees dan verder bij punt 3. Betaalt de klant meer dan één openstaande post, lees dan verder vanaf punt 4. 
  3. **Vereffenen met één openstaande post:** 
-	* Klik in het veld **Vereffeningsnr.** de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
-	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**
+	* Klik in het veld **Vereffeningsnr.** op de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
+	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**.
 	* Ga verder naar stap Boeken en afdrukken kasboek
  4. **Betaling vereffenen met meerdere openstaande posten:** 
 	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent. 
@@ -47,7 +47,7 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkxMzY0NTksLTE2MzA2MzE1ODQsND
-c5MTI3ODQ2LDI1OTA5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAw
-NjAzLDYyNTAxNDEyNV19
+eyJoaXN0b3J5IjpbLTUxMjExMTU2NiwtMTYzMDYzMTU4NCw0Nz
+kxMjc4NDYsMjU5MDk3MjAzLC03NTY0MjIzNTIsLTE1MjU3MDA2
+MDMsNjI1MDE0MTI1XX0=
 -->
