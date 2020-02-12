@@ -1,16 +1,12 @@
 # Nieuw artikel opvoeren
 
-
-## Omschrijving:
 Zodra er een nieuw artikel beschikbaar is, of reeds in gebruik, is het zaak dat deze ook in Dynamics Empire wordt vastgelegd, zodat de vakmannen het artikel kunnen verbruiken en het ook als kosten op het onderhoudsverzoek kan worden vastgelegd.
 
 ## Processchema
 
-## Processtappen
+## Nieuw artikel opvoeren
 
-Nieuw artikel opvoeren
-
-1. Navigeer via het zoekveld naar de pagina **Artikelen**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Artikelen**.
 2. Klik op  **Nieuw**.
 3. Gebruik tweemaal de tab-toets. Er wordt autmatisch een artikelnummer aangemaakt. Vul de volgende velden:
 	* **Omschrijving:** Geef de omschrijving van het artikel in. 
@@ -49,5 +45,5 @@ In de basis maak je voor elke vestiging een SKU aan.
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjM4NjA5Nl19
+eyJoaXN0b3J5IjpbLTE0NTkwMjc0MjYsLTczNjM4NjA5Nl19
 -->
