@@ -35,7 +35,7 @@ Voordat u het gedownloade bankafschrift importeert dient u betaalruns voor incas
 Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is het belangrijk dat u deze betaalrun eerst verwerkt en boekt voordat u het gedownloade bankafschrift verwerkt. 
 
  1. Selecteer op de **Betaalrunlijst** de betaalrun die u wilt importeren.
- 2. Klik op **OK**. U komt terug op ank-/iroboek** en de betaalrunregels zijn geïmporteerd in de bankboekregels. 
+ 2. Klik op **OK**. U komt terug op **Bank-/Giroboek** en de betaalrunregels zijn geïmporteerd in de bankboekregels. 
  3. Pas het eindsaldo van het bankafschrift aan naar het beginsaldo + het totaalbedrag van de betaalrun. 
  4. Klik op **Boeken**, waarna het bankboek met de incassorun wordt geboekt. 
  5. U dient nu een nieuw bankboek aan te maken om de resterende mutaties te verwerken. U begint weer bij de stap **[Aanmaken bankboek](#aanmaken-bankboek)**.
@@ -45,7 +45,7 @@ Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is h
 Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling, dient u deze te importeren in het bankboek. 
 
  1. Selecteer op de **Betaalrunlijst** de betaalrun die u wilt importeren.
- 2. Klik op **OK**. U komt terug op ank-/iroboek**. De betaalrunregels zijn geïmporteerd in de bankboekregels. 
+ 2. Klik op **OK**. U komt terug op **Bank-/Giroboek**. De betaalrunregels zijn geïmporteerd in de bankboekregels. 
  3. Ga verder naar de instructie voor **Importeren bankmutaties**.
 
 ## Importeren bankmutaties
@@ -99,7 +99,7 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xOD
-g2MTk1MjAyLC0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2
-MTMzOV19
+eyJoaXN0b3J5IjpbMzQ4NjU3MTAwLC0xNDQzODMwMTAwLDU0NT
+k5NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0
+NTI1LC05OTIxNjEzMzldfQ==
 -->
