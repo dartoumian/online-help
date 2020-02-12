@@ -8,7 +8,7 @@ Zodra er een nieuw artikel beschikbaar is, of reeds in gebruik, is het zaak dat 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Artikelen**.
 2. Klik op  **Nieuw**.
-3. Gebruik tweemaal de tab-toets. Er wordt autmatisch een artikelnummer aangemaakt. Vul de volgende velden:
+3. Druk op Tab of Enter: er wordt automatisch een artikelnummer aangemaakt. Vul de volgende velden:
 	* **Omschrijving:** Geef de omschrijving van het artikel in. 
 	* **Basiseenheid:** Geef de eenheid op die voor het artikel van toepassing is. 
 	* **Artikelcatagoriecode** Selecteer de juiste artikelcatagorie. 
@@ -45,5 +45,5 @@ In de basis maak je voor elke vestiging een SKU aan.
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkwMjc0MjYsLTczNjM4NjA5Nl19
+eyJoaXN0b3J5IjpbMTE3OTAwNDE3MSwtNzM2Mzg2MDk2XX0=
 -->
