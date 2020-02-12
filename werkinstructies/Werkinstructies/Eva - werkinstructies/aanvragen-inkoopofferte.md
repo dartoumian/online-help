@@ -7,14 +7,14 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 ## Aanmaken onderhoudsverzoek
 
 1. Navigeer naar het **Eenhedenoverzicht**.
-2. Selecteer de juiste eenheid en klik op  **Onderhoudsverzoek**.
+2. Selecteer de juiste eenheid en klik op **Onderhoudsverzoek**.
 3. De pagina **Onderhoudsverzoekkaart** opent. 
 4. Klik op **Taken aanmaken o.b.v. sjabloon**
 5. De pagina **Reparatiesjabloonoverzicht** opent. Selecteer het juiste reparatiesjabloon en klik op **OK**. 
 6. Het reparatiesjabloon wordt overgenomen op het tabblad **Onderhoudstaken**. Vul de volgende velden in de kolommen:
-	* **Ruimtesoort** Kies een ruimte.
-	* **Leveranciersnr.** Kies de leverancier. Indien de leverancier niet voorkomt in de 'Voorkeursleveranciers' is het aan te raden om het vinkje **Handmatig** aan te vinken in de reparatiesjabloontaakregel. 
-7. Geef een eventueel aanvullende omschrijving mee via de knop **Aanvullende omschrijvingen**. 
+	* **Ruimtesoort:** Kies een ruimte.
+	* **Leveranciersnr.:** Kies de leverancier. Indien de leverancier niet voorkomt in de 'Voorkeursleveranciers' is het aan te raden om het vinkje **Handmatig:** aan te vinken in de reparatiesjabloontaakregel. 
+7. Geef een eventueel aanvullende omschrijving mee via de knop **Aanvullende omschrijvingen**.
 
 ## Aanmaken inkoopofferte
 
@@ -35,6 +35,6 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkwMjI2MzQsLTEwMTAxMDI3MDAsMT
+eyJoaXN0b3J5IjpbLTE0NjIxNzgzNzYsLTEwMTAxMDI3MDAsMT
 MwNjkwMDQxMywxNTExNjIyNDg5XX0=
 -->
