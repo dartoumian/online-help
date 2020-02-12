@@ -35,9 +35,8 @@ nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toe
 	* Selecteer de posten waarmee u de transience wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
 	* Klik op **OK** om de verffening te bevestigen. U komt terug op de pagina **Kasboek**
 	* Ga verder naar stap Boeken en afdrukken kasboek
-<hr>
 
-### Boeken en afdrukken kasdagboek
+## Boeken en afdrukken kasdagboek
 
 Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt u de transactie boeken en het betaalbewijs afdrukken. 
 
@@ -48,7 +47,7 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
  2. 
 de lijst met kasboeken.
 
-
+## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MDE0MTI1XX0=
+eyJoaXN0b3J5IjpbLTE1MjU3MDA2MDMsNjI1MDE0MTI1XX0=
 -->
