@@ -22,7 +22,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties toewijzen aan een klant en afletteren met klantposten. 
 
  1. Vul op de regel de volgende velden:
-	* **Rekeningsoort:** t'.
+	* **Rekeningsoort:** 'Klant'.
 	* **Rekeningnr.:** Het nummer van de klant. 
 	* **Credit:** Het betaalde bedrag.
  2. Komt de klant één specifieke openstaande post betalen, lees dan verder bij punt 3. Betaalt de klant meer dan één openstaande post, lees dan verder vanaf punt 4. 
@@ -47,7 +47,7 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA2MzE1ODQsNDc5MTI3ODQ2LDI1OT
-A5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEy
-NV19
+eyJoaXN0b3J5IjpbLTE1NjIzMTc2NzUsLTE2MzA2MzE1ODQsND
+c5MTI3ODQ2LDI1OTA5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAw
+NjAzLDYyNTAxNDEyNV19
 -->
