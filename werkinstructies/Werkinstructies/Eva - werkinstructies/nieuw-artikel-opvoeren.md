@@ -30,20 +30,16 @@ Zodra er een nieuw artikel beschikbaar is, of reeds in gebruik, is het zaak dat 
 Om een artikel scanbaar te maken voor de vakmannen is het nodig om een barcode aan het artikel te koppelen.
 
  1. Kies voor de functie **Kruisverwijzingen**. Vul de volgende velden:
-	* **Kruisverwijzingssoort:** Kies hier voor 'Barcode. 
+	* **Kruisverwijzingssoort:** Kies hier voor 'Barcode'. 
 	* **Kruisverwijzingsnr.:** Geef hier het nummer van de barcode in. 
 
 ### Stock Keeping Unit (SKU) aanmaken
-In de basis maak je voor elke vestiging een SKU aan. 
+In de basis maak je voor elke vestiging een SKU aan.
 
-10. Navigeer via het Lint naar **SKU maken**.
-11. Geef in het filter **Maken per** aan dat het gaat om 'per vestiging'. 
-12. Klik op **OK**. De SKU's worden per vestiging aangemaakt. 
-
-
-
-<hr>
+ 1. Selecteer de functie **SKU maken**.
+ 3. Geef in het filter **Maken per** aan dat het gaat om 'per vestiging'. 
+ 4. Klik op **OK**. De SKU's worden per vestiging aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNzE5NTgwLC03MzYzODYwOTZdfQ==
+eyJoaXN0b3J5IjpbMTAzMDIzMTEsLTczNjM4NjA5Nl19
 -->
