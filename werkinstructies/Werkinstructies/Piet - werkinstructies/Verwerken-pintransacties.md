@@ -15,8 +15,9 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
  4.  Klik op **OK**. De pagina **Kasboek**
  5. Vul de volgende velden:
 	* **Beginsalo:** 0
-	* **Documentnr.:** nummer van bank afschrift + jaar indicatie. Bijvoorbeeld BM0012_20 voor bank afschrift 12 van 2020 
+	* **Eindsaldo:** Het bedrag dat gepind is
+
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTIyNzk1MSwxNDA1MDAwNDM1XX0=
+eyJoaXN0b3J5IjpbMTI3ODUyNTI0OSwxNDA1MDAwNDM1XX0=
 -->
