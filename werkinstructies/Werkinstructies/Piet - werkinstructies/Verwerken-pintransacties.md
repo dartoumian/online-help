@@ -30,8 +30,11 @@ nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toe
 	* klik in het veld **Vereffeningsnr** de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
 	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**
 	* Ga verder naar stap Boeken en afdrukken kasboek. 
- 3. **Betaling vereffenen met meerdere openstaande posten:** 
+ 4. **Betaling vereffenen met meerdere openstaande posten:** 
+	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantposten vereffenen** opent. 
+	* 	 -Selecteer de posten waarmee u de trancatie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
+	 - 	 - Klik op **OK** om de verffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTkyOTczNCwxNDA1MDAwNDM1XX0=
+eyJoaXN0b3J5IjpbMTc0NjI4MzM0OSwxNDA1MDAwNDM1XX0=
 -->
