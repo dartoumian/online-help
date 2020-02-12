@@ -1,6 +1,6 @@
 # Verwerken pintransacties
 
-In dit werkproces worden één of meerdere pintransacties verwerkt. 
+In dit werkproces wordn één of meerdere pintransacties verwerkt. 
 
 ## Processchema
 
@@ -10,9 +10,9 @@ In dit werkproces worden één of meerdere pintransacties verwerkt.
 Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Kasboek**.
- 2. Klik op **Nieuw**.
+ 2. Klik op **Nieuw**
  3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** het dagboeksjabloon voor de pinautomaat waarmee de betaling voldaan is.
- 4.  Klik op **OK**, waarna de pagina **Kasboek** opent.
+ 4.  Klik op **OK** waarna de pagina **Kasboek** opent.
  5. Vul de volgende velden:
 	* **Beginsalo:** '0'.
 	* **Eindsaldo:** Het bedrag dat gepind is.
@@ -22,7 +22,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties toewijzen aan een klant en afletteren met klantposten. 
 
  1. Vul op de regel de volgende velden:
-	* **Rekeningsoort:** 'Klant'.
+	* **Rekeningsoort:** t'.
 	* **Rekeningnr.:** Het nummer van de klant. 
 	* **Credit:** Het betaalde bedrag.
  2. Komt de klant één specifieke openstaande post betalen, lees dan verder bij punt 3. Betaalt de klant meer dan één openstaande post, lees dan verder vanaf punt 4. 
@@ -40,15 +40,14 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 
 Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt u de transactie boeken en het betaalbewijs afdrukken. 
 
- 1. Klik op **Boek**. U krijgt de vraag of u het dagboek wilt boeken. Deze beantwoord u met **Ja. **
- 2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten krijgt u de melding dat het boeken gelukt is. 
+ 1. Klik op **Boek**. U krijgt de vraag of u het dagboek wilt boeken. Deze beantwoord u met **Ja.**
+ 2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten krijgt u de melding dat het boeken gelukt is
  3. De pagina **Verzamelkwitantie**. opent. Klik op afdrukken. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt drukken. 
- 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar 
- 2. 
-de lijst met kasboeken.
+ 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MTI3ODQ2LDI1OTA5NzIwMywtNzU2ND
-IyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEyNV19
+eyJoaXN0b3J5IjpbLTE2MzA2MzE1ODQsNDc5MTI3ODQ2LDI1OT
+A5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEy
+NV19
 -->
