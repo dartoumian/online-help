@@ -1,13 +1,10 @@
 # Inventariseren artikelen
-## Omschrijving:
 
 Het is gebruikelijk om periodiek (bijvoorbeeld één keer per jaar) de aanwezige magazijnen te herinventariseren. Hierbij wordt de vastgelegde voorraadstand in Dynamics Empire vergeleken met hetgeen daadwerkelijk in de magazijnen aanwezig is. Het doel is om de voorraadstand in Dynamics Empire bij te werken zodat deze één-op-één overeenkomt met wat er in de magazijnen aanwezig is, zodat de waarde klopt en het inkoopvoorstel de juiste waardes geeft.
 
 ## Processchema
 
-## Processtappen
-
-### Proces artikelen (her)inventariseren
+## Proces artikelen (her)inventariseren
 
 Uitgangspunt bij het inventarisatiedagboek is dat deze leeg moet zijn voordat er geinventariseerd wordt. Indien er nog regels bestaan moeten deze eerst verwijderd worden. 
 
@@ -19,9 +16,7 @@ Uitgangspunt bij het inventarisatiedagboek is dat deze leeg moet zijn voordat er
 4. Voeg via het filter eventueel specifieke filters voor één of meerdere specifieke artikelen, of voor een specifiek magazijn.
 5. Klik op **OK**. De in Dynamics Empire bekende artikel aantallen worden berekend. 
 
-<hr>  
-
-### Corrigeren artikelen
+## Corrigeren artikelen
 
 Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagboek. In de kolom **Aantal (berekend)** staat het bekende aantal artikelen. Indien er negatieve correcties worden uitgevoerd, zullen de bedragen positief getoond worden!
 
@@ -30,8 +25,7 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
  3. Klik op **Ja** bij de melding **Wilt u dagboekregels boeken?**
  4. Wanneer de boeking succesvol is verlopen krijgt u hiervan een bevestigingsmelding, klik op **OK**. 
 
-<hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc4NjE0NDZdfQ==
+eyJoaXN0b3J5IjpbODAzMDEyNDQ0LC0xODM3ODYxNDQ2XX0=
 -->
