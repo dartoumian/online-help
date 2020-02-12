@@ -11,7 +11,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Bank-/Giroboek**.
  2. Klik op **Nieuw**.
  3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** de bankrekening waarvoor u bankmutaties wilt verwerken. 
- 4.  Klik op **OK**, waarna ank-/iroboek** opent.
+ 4.  Klik op **OK**, waarna bank-/giroboek** opent.
  5. Vul de volgende velden:
 	* **Datum:** Datum van het bankafschrift.
 	* **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Bijvoorbeeld: *BM0012_20* voor bankafschrift 12 van 2020.
@@ -99,7 +99,7 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzkxNDM1NCwtMTQ0MzgzMDEwMCw1ND
-U5OTQxOTMsLTE4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgx
-NDUyNSwtOTkyMTYxMzM5XX0=
+eyJoaXN0b3J5IjpbLTE2NDU4ODg0MzksLTE0NDM4MzAxMDAsNT
+Q1OTk0MTkzLC0xODg2MTk1MjAyLC0xODA1NzYwMjQ3LDIwMjE4
+MTQ1MjUsLTk5MjE2MTMzOV19
 -->
