@@ -10,8 +10,8 @@ Wanneer u de rekening-courant van een klant af wilt drukken kan dit vanaf pagina
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de rekening-courant wilt afdrukken.
 3. Selecteer de juiste klantregel en klik op **Posten**. De pagina **Klantposten** opent. 
-4. Klik op afdrukken. De pagina **Rekening courant cumulatief** opent. Klip op **Verzenden naar**  en kies voor PDF om de rekening courant van de klant of te drukken. 
-5. Het rekening courant overzicht wordt elopement in PDF. 
+4. Kies voor **Afdrukken**. De pagina **Rekening-courant cumulatief** opent. Klik op **Verzenden naar** en kies voor 'PDF' om de rekening-courant van de klant af te drukken. 
+5. Het rekening-courantoverzicht wordt elopement in PDF. 
 
 ## Vereffenen debiteurenposten 
 
@@ -58,6 +58,7 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm ** Alle posten aanpassen** en klik op **OK**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzExNjI4MywtMTYzNjMzNjUxMCwxND
-MxMzgxNTU5LDEyNjQ5MDY0NTIsMTgxNzk5OTAyMF19
+eyJoaXN0b3J5IjpbMTY3ODE3Njc3NywtOTU3MTE2MjgzLC0xNj
+M2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3OTk5
+MDIwXX0=
 -->
