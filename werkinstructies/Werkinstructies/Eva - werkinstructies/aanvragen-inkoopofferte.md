@@ -16,9 +16,9 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 	* **Leveranciersnr.** Kies de leverancier. Indien de leverancier niet voorkomt in de 'Voorkeursleveranciers' is het aan te raden om het vinkje **Handmatig** aan te vinken in de reparatiesjabloontaakregel. 
 7. Geef een eventueel aanvullende omschrijving mee via de knop **Aanvullende omschrijvingen**. 
 
-### Aanmaken inkoopofferte
+## Aanmaken inkoopofferte
 
-Een inkoopofferte kan aan meedere leveranciers tegelijk worden verstrekt. Laat hiervoor het **Leveranciersnr** leeg. Met behulp van muti-select kunnen meerdere leveranciers worden geselecteerd. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
+Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat hiervoor het **Leveranciersnr** leeg. Met behulp van muti-select kunnen meerdere leveranciers worden geselecteerd. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
 
  1. Klik via **Functies** op **Inkoopofferte aanmaken**
  2. Klik op **OK** bij de bevestigingsmelding.
@@ -31,10 +31,10 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
  7. Klik indien er met de inkoopwerkwijze **e-mail** op **Inkoopofferte per e-mail** en verzend de email via Outlook. Klik daarna op de knop **Vrijgeven**. Indien er met de inkoopwerkwijze **portaal** wordt gewerkt voor de betreffende leverancier, klik op  de knop **Vrijgeven**.
 
-<hr>
+## Zie ook
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEwMzM3ODgsMTMwNjkwMDQxMywxNT
+eyJoaXN0b3J5IjpbLTEwMTAxMDI3MDAsMTMwNjkwMDQxMywxNT
 ExNjIyNDg5XX0=
 -->
