@@ -19,17 +19,18 @@ Zodra er een nieuw artikel beschikbaar is, of reeds in gebruik, is het zaak dat 
 	* **Prijs/winst berekenen:** Geef de waarde **Verkoopprijs = Kostprijs + Winst** in. 
 6.  Ga naar het tabblad **Aanvulling**. Vul de volgende velden:
 	* **Leveranciersnummer:** Geef hier de leverancier op waar het artikel normaal gesproken wordt ingekocht. 
- 	* **Artikelnr. Leverancier:** Geef het nummer in waaronder het artikel bekend is bij de leverancier. 
- 	* **Ink. -eenheid:** Geef de eenheid in waaronder de leverancier het artikel levert. 
-7.  Ga nu naar het tabblad 'Planning. Vul de volgende velden:
+ 	* **Artikelnr. Leverancier:** Geef het nummer op waaronder het artikel bekend is bij de leverancier. 
+ 	* **Ink. -eenheid:** Geef de eenheid op waaronder de leverancier het artikel levert. 
+7.  Ga nu naar het tabblad **Planning**. Vul het volgende veld:
 	* **Bestelbeleid:** Geef hier het maximum qua bestellen in. 
-8. Klik in het Lint op **Speciale prijzen instellen**. Geef de inkoopprijs per leverancier op. 
+8. Klik op de actie **Speciale prijzen instellen**. Geef de inkoopprijs per leverancier op. 
 
 ### Scanbaar maken van artikel
 
 Om een artikel scanbaar te maken voor de vakmannen is het nodig om een barcode aan het artikel te koppelen.
 
-9. Navigeer via het Lint naar **Kruisverwijzingen**. Vul de volgende velden:
+ 1. List item
+ 2. Navigeer via het Lint naar **Kruisverwijzingen**. Vul de volgende velden:
 	* **Kruisverwijzingssoort:** Kies hier voor **Barcode**. 
 	* **Kruisverwijzingsnr.:** Geef hier het nummer van de barcode in. 
 
@@ -45,5 +46,5 @@ In de basis maak je voor elke vestiging een SKU aan.
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjkzODEzNywtNzM2Mzg2MDk2XX0=
+eyJoaXN0b3J5IjpbLTkzNTk3NTUyLC03MzYzODYwOTZdfQ==
 -->
