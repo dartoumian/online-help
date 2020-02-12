@@ -19,7 +19,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 
 ## Aanmaken kasdagboekregels
 
-nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toewijzen aan een klant en afletteren met klant posten. 
+Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties toewijzen aan een klant en afletteren met klantposten. 
 
  1. Vul op de regel de volgende velden:
 	* **Rekeningsoort:** Klant
@@ -49,5 +49,6 @@ de lijst met kasboeken.
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU3MDA2MDMsNjI1MDE0MTI1XX0=
+eyJoaXN0b3J5IjpbMTc0MjQ2MTY0NSwtMTUyNTcwMDYwMyw2Mj
+UwMTQxMjVdfQ==
 -->
