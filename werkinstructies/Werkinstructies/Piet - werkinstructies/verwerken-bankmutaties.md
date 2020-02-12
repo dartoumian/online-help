@@ -8,7 +8,7 @@ In dit detailproces wordt een bankafschrift geïmporteerd en verwerkt.
 
 Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar e ank-/Giroboek**.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Bank-/Giroboek**.
  2. Klik op **Nieuw**.
  3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** de bankrekening waarvoor u bankmutaties wilt verwerken. 
  4.  Klik op **OK**, waarna ank-/iroboek** opent.
@@ -99,7 +99,7 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NjU3MTAwLC0xNDQzODMwMTAwLDU0NT
-k5NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0
-NTI1LC05OTIxNjEzMzldfQ==
+eyJoaXN0b3J5IjpbMTI0NzkxNDM1NCwtMTQ0MzgzMDEwMCw1ND
+U5OTQxOTMsLTE4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgx
+NDUyNSwtOTkyMTYxMzM5XX0=
 -->
