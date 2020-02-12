@@ -1,7 +1,6 @@
 
 # Beheren verhuurbare eenheidsinformatie
 
-## Omschrijving
 Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie: 
 
  - Basisinformatie  
@@ -14,9 +13,7 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
 ## Processchema
 (Hier komt link naar Mavim of plaatje van proces.)
 
-## Processtappen
-
-### Registreren basisinformatie verhuurbare eenheid
+## Registreren basisinformatie verhuurbare eenheid
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  
 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
@@ -35,10 +32,8 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  6. De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
  7. De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**. 
  8. In tabblad **Exploitatie (Alg)** kunt u informatie over de exploitatie van de OG Eenheid beheren. 
-
-<hr>
  
-### Aanpassen woningwaardering
+## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
 	 - Woningwaardering voor *zelfstandig woonruimtes* 
 	 - Woningwaardering voor *onzelfstandige woonruimtes* 
@@ -69,11 +64,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Renovatie**: 
 	 - **Bijzondere voorzieningen**: 
 
- 
-
-<hr>
-
-### Aanpassen streefhuur
+## Aanpassen streefhuur
 In deze stap past u de streefhuurmethode van de OG Eenheid aan van **Statisch** naar **Dynamisch** of andersom. Als de streefhuurmethode is ingesteld op Dynamisch, kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op Statisch, kunt u het streefhuurbedrag aanpassen.
 
 1. Bla bla  
@@ -108,5 +99,5 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
 -->
