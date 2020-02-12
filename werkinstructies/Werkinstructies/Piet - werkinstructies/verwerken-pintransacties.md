@@ -1,6 +1,6 @@
 # Verwerken pintransacties
 
-In dit werkproces wordt een pintransacties verwerkt. 
+In dit werkproces worden één of meerdere pintransacties verwerkt. 
 
 ## Processchema
 
@@ -49,6 +49,6 @@ de lijst met kasboeken.
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjQ2MTY0NSwtMTUyNTcwMDYwMyw2Mj
+eyJoaXN0b3J5IjpbLTQ3NjU0OTY3OCwtMTUyNTcwMDYwMyw2Mj
 UwMTQxMjVdfQ==
 -->
