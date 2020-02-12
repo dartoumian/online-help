@@ -6,10 +6,10 @@ In dit detailproces wordt beschreven hoe je artikelen aan particuleren kunt uitg
 
 ## Uitgifte artikelen
 
-1. Navigeer via het zoekveld naar de lijst **Verkoopfacturen**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verkoopfacturen**.
 2. Klik op  **Nieuw**.
-3. De pagina **Verkoopfactuur** opent. Vul hier de volgende velden:
-	* **Klant:** Geef hier het klantnummer in waaraan je het artikel wilt doorbelasten. Er wordt automatisch een verkoopfactuur nummer aangemaakt en de **boekingsdatum** wordt gevuld met de huidige datum. 
+3. De pagina **Verkoopfactuur** opent. Vul hier het volgende veld:
+	* **Klant:** Geef hier het klantnummer in waaraan u het artikel wilt doorbelasten. Er wordt automatisch een verkoopfactuurnummer aangemaakt en de **Boekingsdatum** wordt gevuld met de huidige datum. 
 4. Ga nu naar het volgende tabblad 'Regels' en vul hier de volgende velden:
 	* **Soort:** Vul hier 'Artikel' in. 
 	* **Nr.:** Geef hier het artikel op.
@@ -21,5 +21,5 @@ In dit detailproces wordt beschreven hoe je artikelen aan particuleren kunt uitg
 Wanneer een artikel is opgenomen in de Verkoopfactuur zal deze niet meer zichtbaar zijn in de beschikbare voorraad van de desbetreffende verstiging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMDcyNjkzLC00NjA5OTI5XX0=
+eyJoaXN0b3J5IjpbMTM1OTQ2MTM0OCwtNDYwOTkyOV19
 -->
