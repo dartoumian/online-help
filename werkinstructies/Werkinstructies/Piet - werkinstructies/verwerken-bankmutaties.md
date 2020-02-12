@@ -62,7 +62,7 @@ Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload hee
 
 Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automatisch herkende posten toekennen en vereffenen. De hieronder beschreven stappen hoeven niet in de aangegeven volgorde uitgevoerd te worden, maar geven een overzicht van hoe u posten toe kunt kennen en vereffenen. 
 
- - **Uitgebreide informatie transactie**: Om te zien welke informatie meegegeven is vanaf het bankafschrift selecteert u de regel en klikt u op **Details**. U kunt ook de shortcut '**Ctrl + I**' gebruiken. Het scherm **Telebank regeldetails** opent; hierop worden de tgegevens getoond die mee zijn gekomen vanaf het geïmporteerde bankafschrift.   
+ - **Uitgebreide informatie transactie**: Om te zien welke informatie meegegeven is vanaf het bankafschrift selecteert u op het bankboek de regel en klikt u op **Details**. U kunt ook de shortcut '**Ctrl + I**' gebruiken. Het scherm **Telebank regeldetails** opent; hierop worden de tgegevens getoond die mee zijn gekomen vanaf het geïmporteerde bankafschrift.   
  
 ### Kolommen
 
@@ -99,7 +99,8 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTY4NjQ1NiwtMjAzMzYzOTc0MywtMT
-Q0MzgzMDEwMCw1NDU5OTQxOTMsLTE4ODYxOTUyMDIsLTE4MDU3
-NjAyNDcsMjAyMTgxNDUyNSwtOTkyMTYxMzM5XX0=
+eyJoaXN0b3J5IjpbOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMz
+M2Mzk3NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1
+MjAyLC0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV
+19
 -->
