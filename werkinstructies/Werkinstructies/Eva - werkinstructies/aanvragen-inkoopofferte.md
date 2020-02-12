@@ -28,7 +28,7 @@ Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat 
  7. De pagina **Inkoopofferte** wordt geopend. Vul op het tabblad **Algemeen** de **Verzochte ontvangstdatum**. 
  8. Klik op **Ja** bij de melding met de vraag of u de regels wilt bijwerken. 
 
-Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier zijn er twee verschillende werkwijzes:
+Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier zijn er twee verschillende werkwijzen:
 
  1. Als er met de inkoopwerkwijze **E-mail** wordt gewerkt voor de betreffende leverancier, kies dan voor de actie **Inkoopofferte per e-mail** en verzend de e-mail via Outlook. Klik daarna op de knop **Vrijgeven**. 
  2. Als er met de inkoopwerkwijze **Portaal** wordt gewerkt voor de betreffende leverancier, kies dan voor de actie **Vrijgeven**.
@@ -39,8 +39,8 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNDY0ODk2LC0zNjQ1NTU0MzYsMTk4Mz
-c1OTUyOSwtMjEwOTgxMjYwMCwtMTMyOTIzMDg5NiwxNzY3ODQ5
-NDg2LDE1NzAwNDYzNDQsLTEwMTAxMDI3MDAsMTMwNjkwMDQxMy
-wxNTExNjIyNDg5XX0=
+eyJoaXN0b3J5IjpbMTE2MDk4NTIxMSwtMzY0NTU1NDM2LDE5OD
+M3NTk1MjksLTIxMDk4MTI2MDAsLTEzMjkyMzA4OTYsMTc2Nzg0
+OTQ4NiwxNTcwMDQ2MzQ0LC0xMDEwMTAyNzAwLDEzMDY5MDA0MT
+MsMTUxMTYyMjQ4OV19
 -->
