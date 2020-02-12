@@ -9,8 +9,8 @@ U benaderd de klangrn nposte cifieke klant
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de rekening courant af wilt drukken. 
-3. Selecteerd de klant en klik op **Posten**. De pagina **strong text**
+3. Selecteerd de klant en klik op **Posten**. De pagina **strong text**Het scherm met 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzM0NTU2NSwtMTYxNzU3MjM5MSwyMD
-czNjAzMDc0LC05NzU0NjYyMjJdfQ==
+eyJoaXN0b3J5IjpbLTc0Mzc2NDczMiwxNTMzMzQ1NTY1LC0xNj
+E3NTcyMzkxLDIwNzM2MDMwNzQsLTk3NTQ2NjIyMl19
 -->
