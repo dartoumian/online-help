@@ -1,14 +1,10 @@
 # Planningsvoorstel
 
-
-## Omschrijving:
 In dit detailproces wordt beschreven hoe een transferorder kan worden aangemaakt via een planningsvoorstel om artikelen te kunnen verplaatsen van het hoofdmagazijn naar een submagazijn. 
 
 ## Processchema
 
-## Processtappen
-
-### Planningsvoorstel
+## Planningsvoorstel
 
 1. Navigeer via het zoekveld naar de lijst **Planningsvoorstellen**.
 2. Klik op  **Regeneratief plan berekenen**.
@@ -19,9 +15,7 @@ In dit detailproces wordt beschreven hoe een transferorder kan worden aangemaakt
 	* **Planningsparameters voor uitzonderingswaarschuwingen respecteren:** Dient aangevinkt te worden
 4. Klik op **OK**. Het planvoorstel wordt berekend. 
 
-<hr>  
-
-### Planningsboodschap uitvoeren
+## Planningsboodschap uitvoeren
 
 Het rapport kan zowel geaccepteerde als niet geaccepteerde regels geven. Geaccepteerde regels kunnen 'verplaatst' worden en niet geaccepteerde regels moeten na controle verwijderd worden, of alsnog geaccepteerd worden. Je gaat nu inkoop- tranfserorders aanmaken.
 
@@ -32,8 +26,6 @@ Het rapport kan zowel geaccepteerde als niet geaccepteerde regels geven. Geaccep
 	* **Transferorders combineren:** Dit is een keuzeveld. 
  3. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt. 
 
-<hr>
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTY0NjY0MV19
+eyJoaXN0b3J5IjpbMTYxNDY0MDY4NywxMTE1NjQ2NjQxXX0=
 -->
