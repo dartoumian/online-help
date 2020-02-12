@@ -13,8 +13,8 @@ Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er 
 3. Het filteroverzicht **Voorstelposten ophalen** opent. Vul hier de volgende velden:
 	* **Boekingsdatum:** Deze datum wordt automatisch gevuld met de huidige datum en kan indien nodig worden aangepast.
 	* **Documentnummer** Geef hier een kenmerk op zoals 'Inventarisatie bus 1'.
-4. Voeg via de filteroptie  eventueel specifieke filters voor één of meerdere specifieke artikelen, of voor een specifiek magazijn.
-5. Klik op **OK**. De in Dynamics Empire bekende artikel aantallen worden berekend. 
+4. Voeg via de filteroptie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter") eventueel specifieke filters op voor één of meerdere specifieke artikelen, of voor een specifiek magazijn.
+5. Klik op **OK**. De in Dynamics Empire bekende artikelaantallen worden berekend. 
 
 ## Corrigeren artikelen
 
@@ -27,6 +27,6 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMjM0MTQwLDQyOTYyODkxNCwtMTgzNz
-g2MTQ0Nl19
+eyJoaXN0b3J5IjpbLTEyNTcwODU1NDksNDI5NjI4OTE0LC0xOD
+M3ODYxNDQ2XX0=
 -->
