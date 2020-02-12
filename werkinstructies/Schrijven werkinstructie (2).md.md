@@ -5,7 +5,7 @@
 ## Processchema
 (Hier komt link naar Mavim of plaatje van proces.)
 
-## Naam van processtap 
+## (Hier naam van processtap) 
 
 1. Navigeer via het zoekveld naar de lijst **Telebankieren - bankoverzicht**.
 2. Kies de bank waar vandaan u wilt incasseren en selecteer **Voorstelposten ophalen**.
@@ -21,15 +21,15 @@
 >
 >In Dynamics Empire is het IBAN-nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
 
-## Naam van nog een processtap
+## (Hier naam van nog een processtap)
 
 1. Navigeer via het zoekveld naar de lijst **Telebankieren - bankoverzicht**.
 2. ...
 
-## Zie ook (links naar andere werkprocessen uit dezelfde bedrijfsfunctie) (H2)
-Werkinstructie X  
-Werkinstructie Y  
-Werkinstructie Z
+## Zie ook
+Link naar Werkinstructie X  
+Link naar Werkinstructie Y  
+Link naar Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTk5NDYwOV19
+eyJoaXN0b3J5IjpbNDQwOTkzNzE0XX0=
 -->
