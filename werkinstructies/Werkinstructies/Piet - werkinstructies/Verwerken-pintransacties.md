@@ -9,7 +9,7 @@ In dit werkproces wordt een pintransacties verwerkt.
 
 Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
 
- 1. Navigeer via het zoekveld naar de lijst **Bank-/Giroboek**
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Kasdagboek**
  2. Klik op **Nieuw** 
  3. Selecteer op de pagina **Fin.dagboeksjablonenoverzicht** de bankrekening waarvoor u bankmutaties wilt verwerken. 
  4.  Klik op **OK**. De pagina Bank-/Giroboek opent
@@ -21,5 +21,5 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 		* Heeft u in een eerdere stap een incasso run geimporteert (zie **Importeren betaalrun incasso**) vul hier dan het eindsaldo van het bankafschrift in waarmee u de incasso betaalrun verwerkt heeft.
 	* **Eindsaldo:** Vul het eindsaldo van het bankafschrift in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzAxMzQxOV19
+eyJoaXN0b3J5IjpbLTM5Nzc1NzAzMV19
 -->
