@@ -12,12 +12,12 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 4. De pagina **Reparatiesjabloonoverzicht** opent. Selecteer het juiste reparatiesjabloon en klik op **OK**. 
 6. Het reparatiesjabloon wordt overgenomen op het tabblad **Onderhoudstaken**. Vul de volgende velden in de kolommen:
 	* **Ruimtesoort:** Kies een ruimte.
-	* **Leveranciersnr.:** Kies de leverancier. Als de leverancier niet voorkomt als 'Voorkeursleverancier' is het aan te raden om het veld **Handmatig:** aan te vinken in de reparatiesjabloontaakregel. 
+	* **Leveranciersnr.:** Kies de leverancier. Als de leverancier niet voorkomt als 'Voorkeursleverancier' is het aan te raden om het veld **Handmatig** aan te vinken in de reparatiesjabloontaakregel. 
 7. Geef een eventueel aanvullende omschrijving mee via de actie **Aanvullende omschrijvingen**.
 
 ## Aanmaken inkoopofferte
 
-Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat hiervoor het **Leveranciersnr** leeg. Met behulp van muti-select kunnen meerdere leveranciers worden geselecteerd. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
+Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat hiervoor het **Leveranciersnr.** leeg. Met behulp van multi-select kunnen meerdere leveranciers worden geselecteerd. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
 
  1. Klik via **Functies** op **Inkoopofferte aanmaken**
  2. Klik op **OK** bij de bevestigingsmelding.
@@ -34,7 +34,7 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4MTI2MDAsLTEzMjkyMzA4OTYsMT
-c2Nzg0OTQ4NiwxNTcwMDQ2MzQ0LC0xMDEwMTAyNzAwLDEzMDY5
-MDA0MTMsMTUxMTYyMjQ4OV19
+eyJoaXN0b3J5IjpbMjkwMTI4NjI0LC0yMTA5ODEyNjAwLC0xMz
+I5MjMwODk2LDE3Njc4NDk0ODYsMTU3MDA0NjM0NCwtMTAxMDEw
+MjcwMCwxMzA2OTAwNDEzLDE1MTE2MjI0ODldfQ==
 -->
