@@ -17,7 +17,7 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 
 ## Aanmaken inkoopofferte
 
-Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat hiervoor het **Leveranciersnr.** leeg. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
+Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat hiervoor in onderstaande beschrijving het **Leveranciersnr.** leeg. Ook kan er achteraf nogmaals via dezelfde reparatiesjabloontaak een nieuwe offerte worden aangevraagd. 
 
  1. Selecteer in het regeldeel van de onderhoudsverzoekkaart, onder **Onderhoudstaken**, de juiste regel.
  2. Kies vervolgens via **Functies** voor de actie **Inkoopofferte aanmaken**.
@@ -35,7 +35,7 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODU1MjgzOCwtMzY0NTU1NDM2LDE5OD
+eyJoaXN0b3J5IjpbMTc1OTAzMTE5NywtMzY0NTU1NDM2LDE5OD
 M3NTk1MjksLTIxMDk4MTI2MDAsLTEzMjkyMzA4OTYsMTc2Nzg0
 OTQ4NiwxNTcwMDQ2MzQ0LC0xMDEwMTAyNzAwLDEzMDY5MDA0MT
 MsMTUxMTYyMjQ4OV19
