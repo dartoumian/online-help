@@ -27,9 +27,9 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 7. Klik op actie **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
 9. Kies de actie **Vereffening boeken**. De pagina **Vereffening boeken** opent. 
-10. Vul in het veld **Boekingsdatum** de datum van vandaag in (shortcut H) en klik op **OK**. De vereffening wordt geboekt en u keert terug naar de pagina **Klantposten**.
+10. Vul in het veld **Boekingsdatum** de datum van vandaag in (sneltoets: H) en klik op **OK**. De vereffening wordt geboekt en u keert terug naar de pagina **Klantposten**.
  
-## Ongedaan maken debiteurenposten vereffening 
+## Ongedaan maken debiteurenpostenvereffening 
 
 Wanneer u de vereffening van klantposten ongedaan wilt maken kunt u dit doen vanaf de pagina **Klantposten**.
 
@@ -57,7 +57,8 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODc2Mzg5MiwtMTI0ODUzNzI2NywxMz
-I3MDg5MTYxLC05NTcxMTYyODMsLTE2MzYzMzY1MTAsMTQzMTM4
-MTU1OSwxMjY0OTA2NDUyLDE4MTc5OTkwMjBdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQ3MDU5OSwxOTE4NzYzODkyLC0xMj
+Q4NTM3MjY3LDEzMjcwODkxNjEsLTk1NzExNjI4MywtMTYzNjMz
+NjUxMCwxNDMxMzgxNTU5LDEyNjQ5MDY0NTIsMTgxNzk5OTAyMF
+19
 -->
