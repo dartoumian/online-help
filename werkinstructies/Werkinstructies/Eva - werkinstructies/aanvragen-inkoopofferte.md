@@ -8,7 +8,7 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Onr. Goed-Eenhedenoverzicht**.
 2. Selecteer de juiste eenheid, klik op **Nieuw** en kies vervolgens voor  **Onderhoudsverzoek**.
-3. De pagina **Onderhoudsverzoekkaart** opent. Klik hier op **Taken aanmaken o.b.v. sjabloon**.
+3. De pagina **Onderhoudsverzoekkaart** opent. Kies voor de functie **Taken aanmaken o.b.v. sjabloon**.
 4. De pagina **Reparatiesjabloonoverzicht** opent. Selecteer het juiste reparatiesjabloon en klik op **OK**. 
 6. Het reparatiesjabloon wordt overgenomen op het tabblad **Onderhoudstaken**. Vul de volgende velden in de kolommen:
 	* **Ruimtesoort:** Kies een ruimte.
@@ -34,7 +34,7 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMTI4NjI0LC0yMTA5ODEyNjAwLC0xMz
-I5MjMwODk2LDE3Njc4NDk0ODYsMTU3MDA0NjM0NCwtMTAxMDEw
-MjcwMCwxMzA2OTAwNDEzLDE1MTE2MjI0ODldfQ==
+eyJoaXN0b3J5IjpbMTk4Mzc1OTUyOSwtMjEwOTgxMjYwMCwtMT
+MyOTIzMDg5NiwxNzY3ODQ5NDg2LDE1NzAwNDYzNDQsLTEwMTAx
+MDI3MDAsMTMwNjkwMDQxMywxNTExNjIyNDg5XX0=
 -->
