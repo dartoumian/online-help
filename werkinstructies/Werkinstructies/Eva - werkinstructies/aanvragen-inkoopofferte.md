@@ -1,14 +1,10 @@
 # Aanvragen inkoopofferte
 
-## Omschrijving:
-
 Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier een inkoopofferte aan te vragen via Dynamics Empire. 
 
 ## Processchema
 
-## Processtappen
-
-### Aanmaken onderhoudsverzoek
+## Aanmaken onderhoudsverzoek
 
 1. Navigeer naar het **Eenhedenoverzicht**
 2. Selecteer de juiste eenheid en klik op  **Onderhoudsverzoek**.
@@ -19,8 +15,6 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 	* **Ruimtesoort** Kies een ruimte.
 	* **Leveranciersnr.** Kies de leverancier. Indien de leverancier niet voorkomt in de 'Voorkeursleveranciers' is het aan te raden om het vinkje **Handmatig** aan te vinken in de reparatiesjabloontaakregel. 
 7. Geef een eventueel aanvullende omschrijving mee via de knop **Aanvullende omschrijvingen**. 
-
-<hr>  
 
 ### Aanmaken inkoopofferte
 
@@ -41,5 +35,6 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjkwMDQxMywxNTExNjIyNDg5XX0=
+eyJoaXN0b3J5IjpbLTE4ODEwMzM3ODgsMTMwNjkwMDQxMywxNT
+ExNjIyNDg5XX0=
 -->
