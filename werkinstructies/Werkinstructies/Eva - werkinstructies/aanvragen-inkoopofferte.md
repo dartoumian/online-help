@@ -6,7 +6,7 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 
 ## Aanmaken onderhoudsverzoek
 
-1. Navigeer naar het **Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Eenhedenoverzicht**.
 2. Selecteer de juiste eenheid en klik op **Onderhoudsverzoek**.
 3. De pagina **Onderhoudsverzoekkaart** opent. 
 4. Klik op **Taken aanmaken o.b.v. sjabloon**
@@ -35,6 +35,6 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIxNzgzNzYsLTEwMTAxMDI3MDAsMT
+eyJoaXN0b3J5IjpbLTEwNjIwNjk5NzUsLTEwMTAxMDI3MDAsMT
 MwNjkwMDQxMywxNTExNjIyNDg5XX0=
 -->
