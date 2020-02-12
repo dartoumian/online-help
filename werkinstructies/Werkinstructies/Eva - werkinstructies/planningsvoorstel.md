@@ -7,7 +7,7 @@ In dit detailproces wordt beschreven hoe een transferorder kan worden aangemaakt
 ## Planningsvoorstel
 
 1. Navigeer via het zoekveld naar de lijst **Planningsvoorstellen**.
-2. Klik op  **Regeneratief plan berekenen**.
+2. Kies voor de functie **Regeneratief plan berekenen**.
 3. De pagina **Plan berekenen - Planningsvoorstel** opent. Vul hier de volgende velden:
 	* **MRP:** Dient altijd aangevinkt te zijn.
 	* **Begindatum:** Vul hier de datum van vandaag in.
@@ -27,5 +27,5 @@ Het rapport kan zowel geaccepteerde als niet geaccepteerde regels geven. Geaccep
  3. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDY0MDY4NywxMTE1NjQ2NjQxXX0=
+eyJoaXN0b3J5IjpbMjAzMjU3NzYxMCwxMTE1NjQ2NjQxXX0=
 -->
