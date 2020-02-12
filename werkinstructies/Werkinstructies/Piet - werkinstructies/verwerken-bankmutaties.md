@@ -50,7 +50,7 @@ Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling, die
 
 ## Importeren bankmutaties
 
-Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload heeft via u bankapplicatie importeren. 
+Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload heeft via uw bankapplicatie importeren. 
 
  1. Klik op de pagina **Bank-/Giroboek** op **Inlezen bankmutaties**. De gelijknamige pagina wordt geopend. 
  2. Klik op **Inlezen CAMPT0.53**. 
@@ -99,5 +99,5 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTA0MDMxMl19
+eyJoaXN0b3J5IjpbNTM3MTI4NDVdfQ==
 -->
