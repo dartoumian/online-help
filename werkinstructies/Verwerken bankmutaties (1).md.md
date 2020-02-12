@@ -1,14 +1,11 @@
 # Verwerken bankmutaties
 
 
-## Omschrijving:
 In dit detailproces wordt een bankafschrift geïmporteerd en verwerkt.
 
 ## Processchema
 
-## Processtappen
-
-### Aanmaken bankboek
+## Aanmaken bankboek
 
 Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
 
@@ -24,9 +21,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 		* Heeft u in een eerdere stap een incassorun geïmporteerd (zie **Importeren betaalrun incasso**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incassobetaalrun verwerkt heeft.
 	* **Eindsaldo:** Vul het eindsaldo van het bankafschrift in.
 
-<hr>
-
-### Controleren aanwezigheid betaalrun
+## Controleren aanwezigheid betaalrun
 
 Voordat u het gedownloade bankafschrift import dient u betaalruns voor incasso of betalingen te verwerken. 
 
@@ -36,9 +31,7 @@ Voordat u het gedownloade bankafschrift import dient u betaalruns voor incasso o
  4. Zit er geen betaalrun bij die betrekking heeft op de incasso, maar wel betrekking heeft op uitbetalingen, ga dan verder naar de instructie voor **[Importeren betaalrun uitbetalingen](#importeren-betaalrun-uitbetalingen)**.
  5. Zijn er geen betaalruns die betrekking hebben op het dagafschrift dat u wilt verwerken, sluit dan het scherm en ga verder naar de instructie voor **[Importeren bankmutaties](#importeren-bankmutaties)**.
 
-<hr>
-
-### Importeren betaalrun incasso
+## Importeren betaalrun incasso
 
 Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is het belangrijk dat u deze betaalrun eerst verwerkt en boekt voordat u het gedownloade bankafschrift verwerkt. 
 
@@ -48,17 +41,13 @@ Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is h
  4. Klik op **Boeken**, waarna het bankboek met de incassorun wordt geboekt. 
  5. U dient nu een nieuw bankboek aan te maken om de resterende mutaties te verwerken. U begint weer bij de stap **[Aanmaken bankboek](#aanmaken-bankboek)**.
 
-<hr>
-
-### Importeren betaalrunuitbetalingen
+## Importeren betaalrunuitbetalingen
 
 Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling, dient u deze te importeren in het bankboek. 
 
  1. Selecteer op de **Betaalrunlijst** de betaalrun die u wilt importeren.
  2. Klik op **OK**. U komt terug op de pagina **Bank-/Giroboek**. De betaalrunregels zijn geïmporteerd in de bankboekregels. 
  3. Ga verder naar de instructie voor **Importeren bankmutaties**.
-
-<hr>
 
 ### Importeren bankmutaties
 
@@ -117,5 +106,5 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTYxMzg2MV19
+eyJoaXN0b3J5IjpbMTgzMTM1MzIyOV19
 -->
