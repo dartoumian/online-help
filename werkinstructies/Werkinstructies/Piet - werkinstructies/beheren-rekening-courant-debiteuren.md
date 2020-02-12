@@ -41,7 +41,7 @@ Wanneer u de vereffening van klantposten ongedaan wilt maken kunt u dit doen van
 
 ## Instellen individuele afwachtcode
 
-Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt is dit doen vanaf de pagina **Klantposten**
+Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen vanaf de pagina **Klantposten**
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u een individuele post uit wilt sluiten van aanmaningen
@@ -57,7 +57,7 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm ** Alle posten aanpassen** en klik op **OK**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIxODkzNTYsMTMyNzA4OTE2MSwtOT
+eyJoaXN0b3J5IjpbLTEyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOT
 U3MTE2MjgzLC0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkw
 NjQ1MiwxODE3OTk5MDIwXX0=
 -->
