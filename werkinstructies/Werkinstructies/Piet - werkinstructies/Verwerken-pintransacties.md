@@ -1,4 +1,4 @@
-# Verwerken pin transacties
+# Verwerken pintransacties
 
 In dit werkproces wordt een pintransacties verwerkt. 
 
@@ -39,10 +39,14 @@ nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toe
 
 ### Boeken en afdrukken kasdagboek
 
-Nadat u de pinbetaling vereffend heeft met één of meerdere klantposten kunt u de transactie boeken en het betaalbewijs afdrukken. 
+Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt u de transactie boeken en het betaalbewijs afdrukken. 
+
+ 1. Klik op **Boek**. U krijgt de vraag of u het dagboek wilt boeken. 
+ 2. 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDc0NzYzNSwtNDcxODIzMjUzLDE0MD
-UwMDA0MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODc5MDg0NjQsLTg2MDc0NzYzNSwtND
+cxODIzMjUzLDE0MDUwMDA0MzVdfQ==
 -->
