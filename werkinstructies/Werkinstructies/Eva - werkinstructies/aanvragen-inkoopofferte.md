@@ -30,13 +30,16 @@ Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat 
 
 Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier zijn er twee verschillende werkwijzes:
 
- 7. Klik indien er met de inkoopwerkwijze **e-mail** op **Inkoopofferte per e-mail** en verzend de email via Outlook. Klik daarna op de knop **Vrijgeven**. Indien er met de inkoopwerkwijze **portaal** wordt gewerkt voor de betreffende leverancier, klik op  de knop **Vrijgeven**.
+ 1. Als er met de inkoopwerkwijze **E-mail** wordt gewerkt voor de betreffende leverancier, kies dan voor de actie **Inkoopofferte per e-mail** en verzend de e-mail via Outlook. Klik daarna op de knop **Vrijgeven**. 
+ 2. Als er met de inkoopwerkwijze **portaal** wordt gewerkt voor de betreffende leverancier, klik op  de knop **Vrijgeven**.
+
+
 
 ## Zie ook
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzE5OTEyLC0zNjQ1NTU0MzYsMTk4Mz
+eyJoaXN0b3J5IjpbODY5ODIwNjkzLC0zNjQ1NTU0MzYsMTk4Mz
 c1OTUyOSwtMjEwOTgxMjYwMCwtMTMyOTIzMDg5NiwxNzY3ODQ5
 NDg2LDE1NzAwNDYzNDQsLTEwMTAxMDI3MDAsMTMwNjkwMDQxMy
 wxNTExNjIyNDg5XX0=
