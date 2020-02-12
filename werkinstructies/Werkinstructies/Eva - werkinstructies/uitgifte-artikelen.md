@@ -1,14 +1,10 @@
 # Uitgifte artikelen
 
-
-## Omschrijving:
 In dit detailproces wordt beschreven hoe je artikelen aan particuleren kunt uitgeven en doorbelasten.
 
 ## Processchema
 
-## Processtappen
-
-Uitgifte artikelen
+## Uitgifte artikelen
 
 1. Navigeer via het zoekveld naar de lijst **Verkoopfacturen**.
 2. Klik op  **Nieuw**.
@@ -24,8 +20,6 @@ Uitgifte artikelen
 
 Wanneer een artikel is opgenomen in de Verkoopfactuur zal deze niet meer zichtbaar zijn in de beschikbare voorraad van de desbetreffende verstiging. 
 
-<hr>
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDk5MjldfQ==
+eyJoaXN0b3J5IjpbOTAyMDcyNjkzLC00NjA5OTI5XX0=
 -->
