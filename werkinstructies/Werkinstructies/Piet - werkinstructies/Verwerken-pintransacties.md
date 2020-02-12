@@ -29,8 +29,8 @@ nadat u het kasdagboek aangemaakt heeft kun u op de regels de pintransacties toe
  3. **Vereffenen met één openstaande post:** 
 	* klik in het veld **Vereffeningsnr** de drie puntjes. Het scherm **Klantposten vereffenen** opent. 
 	* Selecteer de post die betaald wordt en klik op **OK**. U komt terug op de pagina **Kasboek**
-	* 
+	* Ga verder naar stap
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODgwNTgwMSwxNDA1MDAwNDM1XX0=
+eyJoaXN0b3J5IjpbLTE2NDA1MjY5NjksMTQwNTAwMDQzNV19
 -->
