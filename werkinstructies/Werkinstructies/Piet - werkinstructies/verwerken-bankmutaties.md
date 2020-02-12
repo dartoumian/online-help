@@ -22,9 +22,9 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 
 ## Controleren aanwezigheid betaalrun
 
-Voordat u het gedownloade bankafschrift import dient u betaalruns voor incasso of betalingen te verwerken. 
+Voordat u het gedownloade bankafschrift importeert dient u betaalruns voor incasso of betalingen te verwerken. 
 
- 1. Klik op **Betaalrun toevoegen**. Het scherm **Betaalrunlijst** opent.
+ 1. Klik op **Betaalrun toevoegen**, waarna het scherm **Betaalrunlijst** opent.
  2. Bepaal of één of meerdere betaalruns betrekking hebben op het dagafschrift dat u wilt verwerken. 
  3. Zit er een betaalrun bij die betrekking heeft op een incasso, ga dan verder naar de instructie voor [**Importeren betaalrun incasso**](#importeren-betaalrun-incasso).
  4. Zit er geen betaalrun bij die betrekking heeft op de incasso, maar wel betrekking heeft op uitbetalingen, ga dan verder naar de instructie voor **[Importeren betaalrun uitbetalingen](#importeren-betaalrun-uitbetalingen)**.
@@ -99,5 +99,5 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft, kunt u het bankboek 
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTQ0MzA3N119
+eyJoaXN0b3J5IjpbMTQyNTA4MDE3XX0=
 -->
