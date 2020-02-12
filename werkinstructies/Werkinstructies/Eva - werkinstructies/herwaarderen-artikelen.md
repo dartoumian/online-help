@@ -10,7 +10,7 @@ In dit detailproces wordt beschreven hoe u in bulk prijzen kunt aanpassen voor a
 2. Kies voor de actie  **Voorraadwaarde berekenen**.
 3. Het gelijknamige rapport opent. Vul hier de volgende velden:
 	* **Boekingsdatum:** Datum van herwaardering, meestal de huidige datum.
-	* **Documentnr.:** Geef een uniform (data-gerelateerd) kenmerk op. Deze komt terug op de boekingen en in het grootboek. 
+	* **Documentnr.:** Geef een uniform (data-gerelateerd) kenmerk op. Dit komt terug op de boekingen en in het grootboek. 
 	* **Berekenen per:** Zet het filter op 'Artikel'.
 	* **Vaste verrekenprijs aanpassen** Dient aangevinkt te worden.
 	* **Berekeningsbasis** Zet het filter op 'Vaste verrekenprijs – Productie'.
@@ -24,9 +24,9 @@ Het rapport toont hergewaardeerde prijzen. Op de pagina kunnen nieuwe gegevens w
 
  1. Pas indien van toepassing de kostprijs of voorraadwaarde van geherwaardeerde regels aan.
  2. Klik op  **Boeken**.
- 3. Nu wordt op de artikelkaart de kostprijs en vaste verrekenprijs verandert en eveneens de verkoopprijs (eenheidprijs) wordt aangepast met de inkoopprijs minus de BTW.
+ 3. Nu wordt op de artikelkaart de kostprijs en vaste verrekenprijs veranderd. Ook de verkoopprijs (eenheidprijs) wordt aangepast met de inkoopprijs minus de BTW.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcyNTY5MzIsLTIxMTgyMzYzMSwtNT
-AyMzA1OTM1XX0=
+eyJoaXN0b3J5IjpbLTk4OTAyMzkyMiwtMjExODIzNjMxLC01MD
+IzMDU5MzVdfQ==
 -->
