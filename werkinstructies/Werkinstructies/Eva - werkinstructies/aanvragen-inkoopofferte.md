@@ -12,8 +12,8 @@ Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier
 4. De pagina **Reparatiesjabloonoverzicht** opent. Selecteer het juiste reparatiesjabloon en klik op **OK**. 
 6. Het reparatiesjabloon wordt overgenomen op het tabblad **Onderhoudstaken**. Vul de volgende velden in de kolommen:
 	* **Ruimtesoort:** Kies een ruimte.
-	* **Leveranciersnr.:** Kies de leverancier. Als de leverancier niet voorkomt als 'Voorkeursleverancier' is het aan te raden om het vinkje **Handmatig:** aan te vinken in de reparatiesjabloontaakregel. 
-7. Geef een eventueel aanvullende omschrijving mee via de knop **Aanvullende omschrijvingen**.
+	* **Leveranciersnr.:** Kies de leverancier. Als de leverancier niet voorkomt als 'Voorkeursleverancier' is het aan te raden om het veld **Handmatig:** aan te vinken in de reparatiesjabloontaakregel. 
+7. Geef een eventueel aanvullende omschrijving mee via de actie **Aanvullende omschrijvingen**.
 
 ## Aanmaken inkoopofferte
 
@@ -34,7 +34,7 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ3NTMxNCwtMTMyOTIzMDg5NiwxNz
-Y3ODQ5NDg2LDE1NzAwNDYzNDQsLTEwMTAxMDI3MDAsMTMwNjkw
-MDQxMywxNTExNjIyNDg5XX0=
+eyJoaXN0b3J5IjpbLTIxMDk4MTI2MDAsLTEzMjkyMzA4OTYsMT
+c2Nzg0OTQ4NiwxNTcwMDQ2MzQ0LC0xMDEwMTAyNzAwLDEzMDY5
+MDA0MTMsMTUxMTYyMjQ4OV19
 -->
