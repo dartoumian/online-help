@@ -1,7 +1,7 @@
 # Beheren rekening-courant debiteuren
 
 De rekening-courant van de klant wordt gevormd door de klantposten. U kunt mutaties op deze **Klantposten** uitvoeren.
-U benadert de klantposten voor een specifieke klant door naar de klantkaart of -lijst te navigeren en op **Posten** te klikken. 
+U benadert de klantposten voor een specifieke klant door naar de klantlijst of -kaart te navigeren en op de actie/functie **Posten** te klikken. 
 
 ## Afdrukken rekening courant
 
@@ -58,6 +58,6 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm ** Alle posten aanpassen** en klik op **OK**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTM4MTU1OSwxMjY0OTA2NDUyLDE4MT
-c5OTkwMjBdfQ==
+eyJoaXN0b3J5IjpbLTM3NzgwMjg5NywxNDMxMzgxNTU5LDEyNj
+Q5MDY0NTIsMTgxNzk5OTAyMF19
 -->
