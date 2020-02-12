@@ -38,7 +38,7 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Leveranciers**.
 2. Zoek de leverancier op waarvoor u een individuele post uit wilt sluiten van automatische uitbetalingen.
 3. Selecteer de leverancier en klik op **Posten**. De pagina **Leveranciersposten** opent.
-4. Vul bij de post die u wilt uitsluiten van automatische uitbetalingen het veld **Afwachten** met de afwachtcode die van toepassing is
+4. Vul bij de post die u wilt uitsluiten van automatische uitbetaling het veld **Afwachten** met de afwachtcode die van toepassing is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTc4MTA5NSwtNzcyNTA5MDY3XX0=
+eyJoaXN0b3J5IjpbMTU1NDQ4MTcxOCwtNzcyNTA5MDY3XX0=
 -->
