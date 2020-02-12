@@ -26,7 +26,7 @@ Een inkoopofferte kan aan meerdere leveranciers tegelijk worden verstrekt. Laat 
  5. Via het feitenblok **Onderhoudsverzoekgegevens**, rechts in het scherm, kunt u zien dat er nu een **Offerte-/orderregels** is aangemaakt. Navigeer naar de inkoopofferte door op het getal te klikken.
  6. De pagina **Inkoopregels** wordt geopend. Klik op **Kaart**.
  7. De pagina **Inkoopofferte** wordt geopend. Vul op het tabblad **Algemeen** de **Verzochte ontvangstdatum**. 
- 8. Klik op **JA** bij de melding met de vraag of u de regels wilt bijwerken. 
+ 8. Klik op **Ja** bij de melding met de vraag of u de regels wilt bijwerken. 
 
 Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier zijn er twee verschillende werkwijzes:
 
@@ -36,8 +36,8 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDYwMzE0NCwtMzY0NTU1NDM2LDE5OD
-M3NTk1MjksLTIxMDk4MTI2MDAsLTEzMjkyMzA4OTYsMTc2Nzg0
-OTQ4NiwxNTcwMDQ2MzQ0LC0xMDEwMTAyNzAwLDEzMDY5MDA0MT
-MsMTUxMTYyMjQ4OV19
+eyJoaXN0b3J5IjpbMTA2NzE5OTEyLC0zNjQ1NTU0MzYsMTk4Mz
+c1OTUyOSwtMjEwOTgxMjYwMCwtMTMyOTIzMDg5NiwxNzY3ODQ5
+NDg2LDE1NzAwNDYzNDQsLTEwMTAxMDI3MDAsMTMwNjkwMDQxMy
+wxNTExNjIyNDg5XX0=
 -->
