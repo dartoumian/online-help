@@ -1,6 +1,6 @@
 # Verwerken pintransacties
 
-In dit werkproces wordn één of meerdere pintransacties verwerkt. 
+In dit werkproces worden één of meerdere pintransacties verwerkt. 
 
 ## Processchema
 
@@ -47,8 +47,8 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwODk2NzcsLTE3NTY4MDQxMjUsMz
-gxMzY4NjUsLTUxMjExMTU2NiwtMTYzMDYzMTU4NCw0NzkxMjc4
-NDYsMjU5MDk3MjAzLC03NTY0MjIzNTIsLTE1MjU3MDA2MDMsNj
-I1MDE0MTI1XX0=
+eyJoaXN0b3J5IjpbMTgwMTM1NDY5OCwtMTc1NjgwNDEyNSwzOD
+EzNjg2NSwtNTEyMTExNTY2LC0xNjMwNjMxNTg0LDQ3OTEyNzg0
+NiwyNTkwOTcyMDMsLTc1NjQyMjM1MiwtMTUyNTcwMDYwMyw2Mj
+UwMTQxMjVdfQ==
 -->
