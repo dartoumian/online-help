@@ -3,17 +3,16 @@
 De rekening courant van de klant wordt gevormd door de klant posten. U kunt mutaties op deze **klantposten** uitvoeren.
 U benaderd de klantposten van een specifieke klant
 
-## Processchema
-
-## Rekening courant afdrukkklantposten vormen de 
+ door naar de klantkaart te navigeren en op **Posten** te klikken. 
 
 ## Processchema
 
-## Ophalen voorstel leveranciersposten
+## Rekening courant afdrukken
 
-Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
+Wanneer u de rekening courant van een kant af wilt drukken kan dit vanaf de pagina **Klantposten**
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+2. Se
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTQ2NjIyMiwtNDU2ODQ2MDYyXX0=
+eyJoaXN0b3J5IjpbLTY1MDIzOTMwNSwtOTc1NDY2MjIyXX0=
 -->
