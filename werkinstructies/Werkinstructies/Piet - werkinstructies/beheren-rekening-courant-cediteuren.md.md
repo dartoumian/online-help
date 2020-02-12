@@ -1,8 +1,8 @@
 
 # Beheren rekening-courant crediteuren
 
-De rekening courant van de crediteur wordt gevormd door de leveranciersposten. U kunt mutaties op deze **Leveranciersposten** uitvoeren.
-U benaderd de leveranciersposten voor een specifieke leverancier door naar de leverancierskaart of - lijst te navigeren en op **Posten** te klikken. 
+De rekening-courant van de crediteur wordt gevormd door de leveranciersposten. U kunt mutaties op deze **Leveranciersposten** uitvoeren.
+U benadert de leveranciersposten voor een specifieke leverancier door naar de leverancierslijst of -kaart te navigeren en op **Posten** te klikken. 
 
 ## Vereffenen crediteurenposten 
 
@@ -40,5 +40,5 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 3. Selecteer de leverancier en klik op **Posten**. De pagina **Leveranciersposten** opent
 4. Vul bij de post die u wilt uitsluiten van automatische uitbetalingen het veld **Afwachten** met de afwachtcode die van toepassing is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjUwOTA2N119
+eyJoaXN0b3J5IjpbLTE4NDIzMTEyMzQsLTc3MjUwOTA2N119
 -->
