@@ -10,16 +10,16 @@ In dit detailproces wordt beschreven hoe je artikelen aan particuleren kunt uitg
 2. Klik op  **Nieuw**.
 3. De pagina **Verkoopfactuur** opent. Vul hier het volgende veld:
 	* **Klant:** Geef hier het klantnummer in waaraan u het artikel wilt doorbelasten. Er wordt automatisch een verkoopfactuurnummer aangemaakt en de **Boekingsdatum** wordt gevuld met de huidige datum. 
-4. Ga nu naar het volgende tabblad 'Regels' en vul hier de volgende velden:
+4. Ga nu naar het tabblad **Regels** en vul hier de volgende velden:
 	* **Soort:** Vul hier 'Artikel' in. 
-	* **Nr.:** Geef hier het artikel op.
+	* **Nr.:** Geef hier het artikelnummer op.
 	* **Vestiging:** Geef hier de vestiging op.
-	* **Aantal:** Geef hier het aantal op. 
+	* **Aantal:** Vul hier het aantal in. 
 	* **Regelkorting %:** Geef hier eventuele regelkorting op. Bij 100% wordt het artikel gratis uitgeleverd. 
-5. Het afhandelen van de factuur wordt opgepakt in het proces **Overige facturatie**
+5. Het afhandelen van de factuur wordt opgepakt in het proces **Overige facturatie**.
 
-Wanneer een artikel is opgenomen in de Verkoopfactuur zal deze niet meer zichtbaar zijn in de beschikbare voorraad van de desbetreffende verstiging. 
+Wanneer een artikel is opgenomen in de verkoopfactuur zal deze niet meer zichtbaar zijn in de beschikbare voorraad van de desbetreffende vestiging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTQ2MTM0OCwtNDYwOTkyOV19
+eyJoaXN0b3J5IjpbMTgxMTA3NTQ0NCwtNDYwOTkyOV19
 -->
