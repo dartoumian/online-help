@@ -6,9 +6,9 @@ In dit detailproces wordt beschreven hoe u in bulk prijzen kunt aanpassen voor a
 
 ## Herwaarderingsdagboek
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Herwaarderingsdagboeken**.
-2. Klik op  **Voorraadwaarde berekenen**.
-3. Het rapport **Voorraadwaarde berekenen** opent. Vul hier de volgende velden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Herwaarderingsdagboeken van artikelen**.
+2. Kies voor de actie  **Voorraadwaarde berekenen**.
+3. Het gelijknamige rapport opent. Vul hier de volgende velden:
 	* **Boekingsdatum:** Datum van herwaardering, meestal de huidige datum.
 	* **Documentnr.:** Geef een uniform (data-gerelateerd) kenmerk op. Deze komt terug op de boekingen en in het grootboek. 
 	* **Berekenen per:** Zet het filter op 'Artikel'.
@@ -27,6 +27,6 @@ Het rapport toont hergewaardeerde prijzen. Op de pagina kunnen nieuwe gegevens w
  3. Nu wordt op de artikelkaart de kostprijs en vaste verrekenprijs verandert en eveneens de verkoopprijs (eenheidprijs) wordt aangepast met de inkoopprijs minus de BTW.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzQ1MTYxNywtMjExODIzNjMxLC01MD
-IzMDU5MzVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDcyNTY5MzIsLTIxMTgyMzYzMSwtNT
+AyMzA1OTM1XX0=
 -->
