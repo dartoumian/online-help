@@ -26,17 +26,17 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 	* door wie en wanneer de wijziging geaccordeerd is ;
 	* of er afwijkende verhuurmutatieredenen zijn en wie deze heeft ingevoerd.
 5. Zijn er naar aanleiding van de controle zaken die aangepast dienen te worden, ga dan verder naar de processtap **[Uitvoeren huurprijsaanpassingen](#uitvoeren-huurprijsaanpassingen)**.
-6. Blijkt naar aanleiding van de controle dat alle huurprijsmutaties akkoord zijn, ga dan verder naar de processtap **[Instellen te-factureren-contracten-voorgaande-periode](#instellen-te-factureren-contracten-voorgaande-periode)**.
+6. Blijkt naar aanleiding van de controle dat alle huurprijsmutaties akkoord zijn, ga dan verder naar de processtap **[Instellen te factureren contracten voorgaande periode](#instellen-te-factureren-contracten-voorgaande-periode)**.
 
 ## Uitvoeren huurprijsaanpassingen
 
-Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden dan vind u in het onderstaande detail proces hoe u deze aanpassingen doorvoert
+Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden, dan vindt u in het onderstaande detailproces hoe u deze aanpassingen doorvoert.
 
 (LINK NAAR DETAILPROCES UITVOEREN HUURMUTATIES)
 
 ## Instellen te factureren contracten voorgaande periode
 
-Voordat u de huur voor de komende periode (maand) gaat prolongeren dient eerst de huurprijsmutaties die betrekking hebben op de voorgaande periode maar die nog niet gefactureerd zijn te factureren.  In deze zogenaamde 'veegprolongatie' kunnen nog niet gefactureerde TWK (terug werkende kracht) mutaties naar voren komen. U  factureert de mutaties die betrekking hebben op voorgaande periode eerst om er voor te zorgen dat voor de komende periode (maand) alleen de huur voor de komende periode (maand) in rekening wordt gebracht. 
+Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eerst de huurprijsmutaties die betrekking hebben op de voorgaande periode maar die nog niet gefactureerd zijn, te factureren.  In deze zogenaamde 'veegprolongatie' kunnen nog niet gefactureerde TWK(terugwerkendekracht)- mutaties naar voren komen. U  factureert de mutaties die betrekking hebben op voorgaande periode eerst om er voor te zorgen dat voor de komende periode (maand) alleen de huur voor de komende periode (maand) in rekening wordt gebracht. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **prolongatierunoverzicht**
 2. De pagina **Prolongatierunoverzicht opent**. Klik op **Nieuw**
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzMyNjg0MSwxNDYyMzcyNjg3LDE3Nz
+eyJoaXN0b3J5IjpbMTYyMDgzNjMxOSwxNDYyMzcyNjg3LDE3Nz
 Y2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1MzQx
 N119
 -->
