@@ -25,7 +25,7 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 	* wat de reden voor wijziging is;
 	* door wie en wanneer de wijziging geaccordeerd is ;
 	* of er afwijkende verhuurmutatieredenen zijn en wie deze heeft ingevoerd.
-5. Zijn er naar aanleiding van de controle zaken die aangepast dienen te worden, ga dan verder naar de processtap #uitvoeren-huurprijsaanpassingen
+5. Zijn er naar aanleiding van de controle zaken die aangepast dienen te worden, ga dan verder naar de processtap (**Uitvoeren huurprijsaanpassingen**)[#uitvoeren-huurprijsaanpassingen].
 6. Blijkt na aanleiding van de controle dat alle huurprijsmutaties akkoord zijn ga dan verder naar de processtap #instellen-te-factureren-contracten-voorgaande-periode. 
 
 ## Uitvoeren huurprijsaanpassingen
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwODUwODAyLDE0NjIzNzI2ODcsMTc3Nj
-YwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3
-XX0=
+eyJoaXN0b3J5IjpbNzkxNjU0NjIsMTQ2MjM3MjY4NywxNzc2Nj
+AzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTdd
+fQ==
 -->
