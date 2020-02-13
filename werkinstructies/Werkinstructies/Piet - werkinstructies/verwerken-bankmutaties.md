@@ -28,8 +28,7 @@ Voordat u het gedownloade bankafschrift importeert dient u betaalruns voor incas
  2. Bepaal of één of meerdere betaalruns betrekking hebben op het dagafschrift dat u wilt verwerken. 
  3. Zit er een betaalrun bij die betrekking heeft op een incasso, ga dan verder naar de instructie voor [**Importeren betaalrun incasso**](#importeren-betaalrun-incasso).
  4. Zit er geen betaalrun bij die betrekking heeft op de incasso, maar wel betrekking heeft op uitbetalingen, ga dan verder naar de instructie voor **[Importeren betaalrun uitbetalingen](#importeren-betaalrun-uitbetalingen)**.
- 5. Zijn er geen betaalruns die betrekking hebben op het dagafschrift dat u wilt verwerken, sluit dan het scherm en ga verder nn en pas de waarde daar waar nodig aan:
- * **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aarn de instructie voor **[Importeren bankmutaties](#importeren-bankmutaties)**.
+ 5. Zijn er geen betaalruns die betrekking hebben op het dagafschrift dat u wilt verwerken, sluit dan het scherm en ga verder naar de instructie voor **[Importeren bankmutaties](#importeren-bankmutaties)**.
 
 ## Importeren betaalrun incasso
 
@@ -100,9 +99,8 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzk2MDg2OCwtMTgwODQ5NzA2MiwxMj
-QxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2NDU2LC0yMDMzNjM5
-NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5MywtMTg4NjE5NTIwMi
-wtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05OTIxNjEzMzldfQ==
-
+eyJoaXN0b3J5IjpbMzcwNjMwNTM3LC0xODA4NDk3MDYyLDEyND
+E3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3
+NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC
+0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
 -->
