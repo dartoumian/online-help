@@ -26,7 +26,7 @@ Voordat u het gedownloakomt met deze klant of bevoegt is namens die klant het hu
 
  1. Klik op **Betaalrun toevoegen**, waarna het scherm **Betaalrunlijst** opent.
  2. Bepaal of één of meerdere betaalruns betrekking hebben op het dagafschrift dat u wilt verwerken. 
- 3. Zit er een betaalrun bij die betrekking heeft op een incasso, ga dan verder naar de insart. U keert weer terug naar het overzicht met OG Eenheden. 6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt be�indigen. 7. Klik op **Ja**. Pagina **Opzegging huurcontruactie voor [**Importeren betaalrun incasso**](#importeren-betaalrun-incasso).
+ 3. Zit er een betaalrun bij die betrekking heeft op een incasso, ga dan verder naar de insart. U keert weer terug naar het overzicht met OG Eenheden. 6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt beëindigen. 7. Klik op **Ja**. Pagina **Opzegging huurcontruactie voor [**Importeren betaalrun incasso**](#importeren-betaalrun-incasso).
  4. Zit er geen betaalrun bij** wordt geopend. 8. Controleer die betrekking heeft op de incasso, maar wel betrekking heeft op uitbetalingen, ga danstandaardwaarde van de volgende verlder naar de instructie voor **[Importeren betaalrun uitbetalingen](#importeren-betaalrun-uitbetalingen)**.
  5. Zijn er geen betaalruns die betrekking hebben op het dagafschrift dat u wilt verwerken, sluit dan het scherm en ga verder nn en pas de waarde daar waar nodig aan:
  * **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aarn de instructie voor **[Importeren bankmutaties](#importeren-bankmutaties)**.
@@ -100,8 +100,8 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OT
-Y4NjQ1NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQx
-OTMsLTE4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNS
-wtOTkyMTYxMzM5XX0=
+eyJoaXN0b3J5IjpbLTEzODY0NjcxOTIsMTI0MTcyMDYwMiw5Nj
+EyNDE0MDksMTE1OTY4NjQ1NiwtMjAzMzYzOTc0MywtMTQ0Mzgz
+MDEwMCw1NDU5OTQxOTMsLTE4ODYxOTUyMDIsLTE4MDU3NjAyND
+csMjAyMTgxNDUyNSwtOTkyMTYxMzM5XX0=
 -->
