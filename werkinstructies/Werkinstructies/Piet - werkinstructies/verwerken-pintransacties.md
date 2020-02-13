@@ -43,14 +43,13 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
  1. Klik op **Boek**. U krijgt de vraag of u het dagboek wilt boeken. Deze beantwoordt u met **Ja. **
  2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt afdrukken. Zijn er geen fouten, dan krijgt u de melding dat het boeken gelukt is. 
  3. De pagina **Verzamelkwitantie**. opent. Klik op afdrukken**. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt afdrukken. 
- 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar 
- 2. 
-de lijst met kasboeken.
+ 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNjQyMjEwLDIwNDI0Njk1MTcsMTcxNz
-Y3MTYwMiwtMTc1NjgwNDEyNSwzODEzNjg2NSwtNTEyMTExNTY2
-LC0xNjMwNjMxNTg0LDQ3OTEyNzg0NiwyNTkwOTcyMDMsLTc1Nj
-QyMjM1MiwtMTUyNTcwMDYwMyw2MjUwMTQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzA4NDc5NDIsNzcwNjQyMjEwLDIwND
+I0Njk1MTcsMTcxNzY3MTYwMiwtMTc1NjgwNDEyNSwzODEzNjg2
+NSwtNTEyMTExNTY2LC0xNjMwNjMxNTg0LDQ3OTEyNzg0NiwyNT
+kwOTcyMDMsLTc1NjQyMjM1MiwtMTUyNTcwMDYwMyw2MjUwMTQx
+MjVdfQ==
 -->
