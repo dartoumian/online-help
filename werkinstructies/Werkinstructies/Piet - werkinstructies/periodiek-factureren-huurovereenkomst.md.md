@@ -87,10 +87,10 @@ Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze 
 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet.
 3. U dient deze fouten op te lossen.
 4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. Er wordt opnieuw geprobeerd om de facturen die fouten veroorzaakten te boeken.
-5. Nadat de facturen geboekt zijn wordt op zowel de prolongatie kaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatie regels) de status getoond. 
-	* Wanner de status op de prolongatie kaart gelijk is aan **Boeken gereed** dan zijn alle facturen zonder problemen geboekt. 
-		* Wanneer de prolongatie die u geboekt heeft de prolongatie voor de **voorgaande periode** was ga dan verder bij de processtap #instellen-te-factureren-contracten-komende-periode. 
-		*  de prolongatie die u geboekt heeft de prolongatie voor de *komende periode** was ga dan verder bij processtap **Verzenden facturen**
+5. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
+	* Als de status op de prolongatiekaart gelijk is aan **Boeken gereed** zijn alle facturen zonder problemen geboekt. 
+	* Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
+	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode** was ga dan verder bij processtap **Verzenden facturen**
 	*  de status op de prolongatiekaart *iet* gelijk is aan **Boeken gereed** dan zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap #controleren-en-oplossen-fouten-bij-boeken uit. 
 
 ## Instellen te factureren contracten komende periode
@@ -116,8 +116,8 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjU3MTU3NywtMTQwOTUyMjIsMTAzMD
-EyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcyNjg3
-LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OT
-M1MzQxN119
+eyJoaXN0b3J5IjpbLTEyNDQ4MDUwNTYsLTE0MDk1MjIyLDEwMz
+AxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4
+NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4Nj
+kzNTM0MTddfQ==
 -->
