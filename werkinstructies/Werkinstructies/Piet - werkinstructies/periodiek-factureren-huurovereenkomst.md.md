@@ -83,14 +83,14 @@ Wanneer er tijdens het gener van de facturen geen fouten zijn ontstaan kunt u de
 
 Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
-1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongatie** opent.
+1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongati** opent.
 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet.
 3. U dient deze fouten op te lossen.
-4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. Er wordt opnieuw geprobeerd om de facturen die fouten veroorzaakten te boeken.
+4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. Er wordt  geprobeerd om de facturen die fouten veroorzaakten te boeken.
 5. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan **Boeken gereed** zijn alle facturen zonder problemen geboekt. 
-	* Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
-	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
+	*  de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
+		*  Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
 	*  Als de status op de prolongatiekaart *niet* gelijk is aan **Boeken gereed** zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)** uit. 
 
 ## Instellen te factureren contracten komende periode
@@ -100,7 +100,7 @@ Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolong
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **prolongatierunoverzicht**.
 2. De pagina **Prolongatierunoverzicht** opent. Klik op **Nieuw**.
 3. De pagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
-	* **Prol. periodenaam:** De te factureren maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
+	* **Prol. periodenaam:** De te facture maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
 	* **Alleen controleren:** Uit.
 	* **Erfpacht:** Uit.
 	* **Huur:** Aan.
@@ -116,8 +116,8 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLT
-E0MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcw
-MDgsMTQ2MjM3MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3OD
-U0NjI1MTksLTE4NjkzNTM0MTddfQ==
+eyJoaXN0b3J5IjpbLTIxMDY4OTk5NTksLTEzODIxMzUyNTIsLT
+E4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3
+NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4NywxNzc2NjAzODg4LD
+E2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTddfQ==
 -->
