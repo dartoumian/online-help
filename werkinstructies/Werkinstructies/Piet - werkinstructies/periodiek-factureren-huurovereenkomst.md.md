@@ -9,12 +9,12 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Verwachte mutaties in de te prolongeren maand**. 
 2. De gelijknamige pagina opent. Vul hier de volgende waarden in:
-	* **Periode:** De gelite factureren maand.
-	* **Clusternr.:** Leeg laten
-	* **Elementnr.:** Leeg laten
-	* **Toon afwijkingsredenen verhuurmutatie:** Aan
-	* **Elementen:**  Uit
-	* **Cluster - elementen:** Uit
+	* **Periode:** De te factureren maand.
+	* **Clusternr.:** (Leeg laten.)
+	* **Elementnr.:** (Leeg laten.)
+	* **Toon afwijkingsredenen verhuurmutatie:** 'Aan'.
+	* **Elementen:** 'Uit'.
+	* **Cluster - elementen:** 'Uit'.
 	* **Eenheid - elementen:** Aan
 3. Klik op **Voorbeeld** om een voorbeeld van het rapport te openen of klik op **verzenden** en selecteer vervolgens **Excel** om het rapport in Excel te openen.
 4. In het rapport wat opent vind u de volgende zaken:
@@ -117,6 +117,6 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1ND
-YyNTE5LC0xODY5MzUzNDE3XX0=
+eyJoaXN0b3J5IjpbMTA5ODA0MjQwMywxNzc2NjAzODg4LDE2Nj
+UwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTddfQ==
 -->
