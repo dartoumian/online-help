@@ -97,14 +97,14 @@ Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze 
 
 Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolongatierun voor de komende periode instellen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **prolongatierunoverzicht**
-2. De pagina **Prolongatierunoverzicht opent**. Klik op **Nieuw**
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **prolongatierunoverzicht**.
+2. De pagina **Prolongatierunoverzicht** opent. Klik op **Nieuw**.
 3. De pagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
-	* **Prol. periodenaam:** De te gefactureerde maand. De velden **Boekingsdatum** en **Documentdatum worden automatisch gevuld**
-	* **Alleen controleren:** Uit
-	* **Erfpacht:** Uit
-	* **Huur:** Aan
-	* **Direct boeken:** Nee
+	* **Prol. periodenaam:** De te factureren maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
+	* **Alleen controleren:** Uit.
+	* **Erfpacht:** Uit.
+	* **Huur:** Aan.
+	* **Direct boeken:** 'Nee'.
 4. Ga verder naar de processtap #genereren-facturen
 
 ## Verzenden facturen
@@ -116,8 +116,8 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMzMjEyNzksLTE0MDk1MjIyLDEwMz
-AxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4
-NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4Nj
-kzNTM0MTddfQ==
+eyJoaXN0b3J5IjpbMTg0OTgxMDg5MiwtMTgxMzMyMTI3OSwtMT
+QwOTUyMjIsMTAzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAw
+OCwxNDYyMzcyNjg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NT
+Q2MjUxOSwtMTg2OTM1MzQxN119
 -->
