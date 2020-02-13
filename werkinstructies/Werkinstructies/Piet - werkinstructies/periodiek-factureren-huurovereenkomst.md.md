@@ -19,18 +19,18 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 3. Klik op **Voorbeeld** om een voorbeeld van het rapport te openen of klik op **Verzenden** en selecteer vervolgens **Excel** om het rapport in Excel te openen.
 4. In het rapport dat opent vindt u de volgende zaken:
 	* de datum van de wijziging;
-	* de gewijzigde huurelementen
-	* de oude en nieuwe bedragen per huurelement
-	* de datum waarop de wijziging opgevoerd is
-	* wat de reden voor wijziging is
-	* door wie en wanneer de wijziging geaccordeerd is 
-	* of er afwijkende verhuurmutatieredenen zijn en wie deze heeft ingevoerd
-5. Zijn er na aanleiding van de controle zaken die aangepast dienen te worden ga dan verder naar de processtap #uitvoeren-huurprijsaanpassingen
+	* de gewijzigde huurelementen;
+	* de oude en nieuwe bedragen per huurelement;
+	* de datum waarop de wijziging opgevoerd is;
+	* wat de reden voor wijziging is;
+	* door wie en wanneer de wijziging geaccordeerd is ;
+	* of er afwijkende verhuurmutatieredenen zijn en wie deze heeft ingevoerd.
+5. Zijn er naar aanleiding van de controle zaken die aangepast dienen te worden, ga dan verder naar de processtap #uitvoeren-huurprijsaanpassingen
 6. Blijkt na aanleiding van de controle dat alle huurprijsmutaties akkoord zijn ga dan verder naar de processtap #instellen-te-factureren-contracten-voorgaande-periode. 
 
 ## Uitvoeren huurprijsaanpassingen
 
-Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden dan vind u in het onderstaande detail proces hoe u deze aanpassingen door voert
+Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden dan vind u in het onderstaande detail proces hoe u deze aanpassingen doorvoert
 
 (LINK NAAR DETAILPROCES UITVOEREN HUURMUTATIES)
 
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ3OTk3NTIsMTQ2MjM3MjY4NywxNz
-c2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0
-MTddfQ==
+eyJoaXN0b3J5IjpbOTcwODUwODAyLDE0NjIzNzI2ODcsMTc3Nj
+YwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3
+XX0=
 -->
