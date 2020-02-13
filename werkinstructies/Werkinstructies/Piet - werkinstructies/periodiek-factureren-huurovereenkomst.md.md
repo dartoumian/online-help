@@ -46,7 +46,7 @@ Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eers
 	* **Erfpacht:** Uit.
 	* **Huur:** Aan.
 	* **Direct boeken:** 'Nee'.
-4. Ga verder naar de processtap **[Genereren facturen]
+4. Ga verder naar de processtap **[Genereren facturen](#genereren-facturen)**.
 
 ## Genereren facturen
 
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Njk5ODY1MiwxNDYyMzcyNjg3LDE3Nz
-Y2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1MzQx
-N119
+eyJoaXN0b3J5IjpbNDUzOTE3MDA4LDE0NjIzNzI2ODcsMTc3Nj
+YwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3
+XX0=
 -->
