@@ -76,8 +76,8 @@ Wanneer er tijdens het genereren van de facturen geen fouten zijn ontstaan kunt 
 2. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatie regels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan **Boeken gereed** zijn alle facturen zonder problemen geboekt. 
 	* Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
-		* Wanneer de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen**
-	* Wanneer de status op de prolongatie kaart **Niet** gelijk is aan **Boeken gereed** dan zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap #controleren-en-oplossen-fouten-bij-boeken
+		* Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
+	* Als de status op de prolongatiekaart *niet* gelijk is aan **Boeken gereed** zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)**.
 
 ## Controleren en oplossen fouten bij boeken
 
@@ -116,7 +116,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDEzNTE2Niw0NTM5MTcwMDgsMTQ2Mj
+eyJoaXN0b3J5IjpbMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2Mj
 M3MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTks
 LTE4NjkzNTM0MTddfQ==
 -->
