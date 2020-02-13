@@ -14,7 +14,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
  3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** het dagboeksjabloon voor de pinautomaat waarmee de betaling voldaan is.
  4.  Klik op **OK** waarna d. De pagina **Kasboek** opent.
  5. Vul de volgende velden:
-	* **Beginsalo:** '0'.0
+	* **Beginsalo:** '0'.
 	* **Eindsaldo:** Het bedrag dat gepind is.
 
 ## Aanmaken kasdagboekregels
@@ -47,7 +47,7 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzI0MTg3Myw3NzA2NDIyMTAsMjA0Mj
+eyJoaXN0b3J5IjpbLTIwMzAzNzQwMyw3NzA2NDIyMTAsMjA0Mj
 Q2OTUxNywxNzE3NjcxNjAyLC0xNzU2ODA0MTI1LDM4MTM2ODY1
 LC01MTIxMTE1NjYsLTE2MzA2MzE1ODQsNDc5MTI3ODQ2LDI1OT
 A5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEy
