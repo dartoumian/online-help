@@ -105,7 +105,7 @@ Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolong
 	* **Erfpacht:** Uit.
 	* **Huur:** Aan.
 	* **Direct boeken:** 'Nee'.
-4. Ga verder naar de processtap #genereren-facturen
+4. Ga verder naar de processtap **[Genereren facturen](#genereren-facturen)**.
 
 ## Verzenden facturen
 
@@ -116,8 +116,8 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTgxMDg5MiwtMTgxMzMyMTI3OSwtMT
-QwOTUyMjIsMTAzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAw
-OCwxNDYyMzcyNjg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NT
-Q2MjUxOSwtMTg2OTM1MzQxN119
+eyJoaXN0b3J5IjpbLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLT
+E0MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcw
+MDgsMTQ2MjM3MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3OD
+U0NjI1MTksLTE4NjkzNTM0MTddfQ==
 -->
