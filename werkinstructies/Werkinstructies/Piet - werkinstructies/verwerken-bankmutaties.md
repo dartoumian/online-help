@@ -62,23 +62,24 @@ Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload hee
 
 Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automatisch herkende posten toekennen en vereffenen. De hieronder beschreven stappen hoeven niet in volgorde uitgevoerd te worden, maar geven een overzicht van hoe u posten toe kunt kennen en vereffenen. 
 
- - **Uitgebreide informatie transactie**: Om te zien welke informatie meegegeven is vanaf het bankafschrift selecteert u op het bankboek de regel en klikt u op **Details**. U kunt ook de shortcut '**Ctrl + I**' gebruiken. Het scherm **Telebank regeldetails** opent; hierop worden de tgegevens getoondrden die het systeem heeft gevonden in de postcodetabel. * Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres. 18. Selecteer in veld **Contactgegevens wijzigingsdatum** die mee zijn gekomen vanaf het geïmporteerde bankafschrifdatum per wanneer het nieuwe correspondentieadres ingaat.   <hr>
+ - **Uitgebreide informatie transactie**: Om te zien welke informatie mee gegeven is vanaf het bank afschrift selecteert u de regel klikt u op **Details**. U kunt ook de (shortcut Ctrl + i). Het scherm **Telebank regeldetails** opent. Dit scherm toont de gegeven die mee zijn gekomen vanaf het geïmporteerde bankafschrift. 
  
  ### Kolommen
 
- - **RekPlannen ingsoort:** Wanneer er geen posten herkend zijn wordt deze kolom bij bijschrijvingen standaard gevuld met de waarde **Klant**. Heeft de mutatie betrekking op een leverancier of wilt u de post direct op een grootboekrekening boeken, pas dit veld dan aan naar de waarde **Leverancier** of **Grootboekrekening**.
- - **Rekeningnummer:** Vul hier afhankelijk van het veld **Rekeningsoort** het **Klantnummer, Leveranciersnummer** of **Grootboekrekeningnummer** in.
+ - **Rekeningsoort:** Wanneer er geen posten herkent zijn wordt deze kolom bij bijschrijvingen standaard gevuld met de waarde **Klant**. Heeft de mutatie betrekking op een leverancier of wilt u de post direct op een grootboekrekening boeken pas dit veld aan naar de waarde **Leverancier** of **Grootboekrekening**.
+ - **Rekeningnummer:** Vul hier afhankelijk van het veld **Rekeningsoort** het **Klantnummer, leveranciersnummer** of **Grootboekrekeningnummer**.
 
 ### Vereffenen
 
  - **Vereffenen met één openstaande klant- of leverancierspost:** 
-	 1. Wannspectie(s) In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepassing als bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd (zie pagina **Onrerend Goed Eenheidkaart**, tab **Inspectie**, veld **Aantal vooropnames** en veld **Aantal eindopnames**).   1. Open pagina **Inspectieafspraken** van de betreffende huuropzegging * Rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld **Vereffeningsnr.** op de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent. 
-	 2. Selecteer de post waarmee u de transactie wilt vereffenen. 
-	 3. Klik op **OK**. U keert terug naar de pagina **Bank-/Giroboek**.
- - **Vereffenen met meerdere openstaande klant- of leveranciersposten:** 
-	 1. Selecteer de bankboekregel en klik op **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent. 
-	 2. Selecteer de posten waarmee u de transactie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd wordt om de oudste post geheel te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt geprobeerd om de op één na oudste post te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
-	 3. Klik op **OK** om de verffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**.
+	 - Wanneer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld veld **Vereffeningsnr.** de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent. 
+	 - Selecteer de post waarmee u de transactie wilt vereffenen. 
+	 - Klik op **OK**. U keert terug naar de pagina **Bank-/Giroboek**.
+ - **Vereffenen met meerder openstaande klant- of leverancierspost:** 
+	 - Selecteer de bankboekregel en klik op **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent. 
+	 - Selecteer de posten waarmee u de trancatie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
+	 - 	 - Klik op **OK** om de verffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**
+
 
 >### IBAN-nummer toevoegen ter herkenning
 >
@@ -99,9 +100,9 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM0OTQyNDUsOTcyMzM1ODE4LC0xOD
-A4NDk3MDYyLDEyNDE3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0
-NTYsLTIwMzM2Mzk3NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC
-0xODg2MTk1MjAyLC0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5
-MjE2MTMzOV19
+eyJoaXN0b3J5IjpbLTI2ODA1ODE4MCw5NzIzMzU4MTgsLTE4MD
+g0OTcwNjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1
+NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLT
+E4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTky
+MTYxMzM5XX0=
 -->
