@@ -55,13 +55,13 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 1. Klik op de pagina **Prol.-run kaart** op **Uitvoeren/boeken**. De facturen worden gegenereerd maar nog niet geboekt. 
 2. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Wanneer de status op de prolongatiekaart gelijk is aan **Prol gereed** zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
-	* Wanneer de status op de prolongatiekaart *niet* gelijk is aan **Prol gereed** dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap #controleren-en-oplossen-fouten-bij-facturatie
+	* Wanneer de status op de prolongatiekaart *niet* gelijk is aan **Prol gereed**, dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij facturatie](controleren-en-oplossen-fouten-bij-facturatie)**.
 
 ## Controleren en oplossen fouten bij facturatie
 
-Wanneer er tijdens het regenerate van de facturen fout zijn ontstaan dient u deze te controleren en te corrigeren. 
+Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
-1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongation ** opent. 
+1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongation** opent. 
 2. In dit scherm zit u de foutmelding en bij elke eenheid en contractregel of klant het probleem zich voor doet. 
 3. U dient deze fouten oplossen. 
 4. Wanneer u de fouten opgelost heeft klik op op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakte worden opnieuw gegenereerd.
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjUzMzYyLDQ1MzkxNzAwOCwxNDYyMz
-cyNjg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwt
-MTg2OTM1MzQxN119
+eyJoaXN0b3J5IjpbLTExODM0OTEyNTksNDUzOTE3MDA4LDE0Nj
+IzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5
+LC0xODY5MzUzNDE3XX0=
 -->
