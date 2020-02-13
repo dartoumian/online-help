@@ -62,10 +62,9 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
 1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongation** opent. 
-2. In dit scherm zit u de foutmelding en bij elke eenheid en contractregel of klant het probleem zich voor doet. 
-3. U dient deze fouten oplossen. 
-4. Wanneer u de fouten opgelost heeft klik op op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakte worden opnieuw gegenereerd.
-5. Nadat de facturen gegenereerd wordt op zowel de prolongatie kaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatie regels) de status getoond. 
+2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. 
+3. U dient deze fouten op te lossen. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
+5. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Wanner de status op de prolongatie kaart gelijk is aan **Prol gereed** dan zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap #boeken-facturen
 	* Wanneer de status op de prolongatie kaart **Niet** gelijk is aan **Prol gereed** dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap #controleren-en-oplossen-fouten-bij-facturatie uit. 
 
@@ -117,7 +116,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM0OTEyNTksNDUzOTE3MDA4LDE0Nj
+eyJoaXN0b3J5IjpbLTEzMDQzOTEzNjYsNDUzOTE3MDA4LDE0Nj
 IzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5
 LC0xODY5MzUzNDE3XX0=
 -->
