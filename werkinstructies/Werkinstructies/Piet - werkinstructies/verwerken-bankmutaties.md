@@ -85,23 +85,26 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 >
 >In Dynamics empire is het IBAN nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
 >
-> 1. Selecteer de regel waarvan u het IBAN nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opent. 
-> 2. Klik op **Bankrekening klant aanmaken** in het IBAN nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
+> 1. Selecteer de regel waarvan u het IBAN-nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opent. 
+> 2. Klik op **Bankrekening klant aanmaken** in het IBAN-nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
+
 ## Boeken bankboek
 
-Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9. Klik op **OK**.   <hr>   ### Bevestigingen huuropzegging     1. Open pagina **Huurcontractopzeggingkaart** van de betreffende heeft, kunt u het bankboek boeken. 
 
- 1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldinguuropzegging. * Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klikt u op **Controle voor boeken**. U kunt ervoor kiezen om de lijst met fouten af te drukken. 
- 2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** het aantal vermeld van de fouten die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
- 3. Als er geen fouten meer zijn, of als u alvast de regels zonder fouten wilt boek*Navigeren*** - **Huuropzegging**). * Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart. * Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**) 2. Klik op ***Acties*** - **Worddocument**. 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en, klikt u op **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten, dan wordt het bankboek afgesloten. 
+Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankboek boeken. 
+
+ 1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen klikt u op **Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
+ 2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** of er fouten zijn die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
+ 3. Nadat u geen fouten meer heeft of wanneer u alvast de regels zonder fouten wilt boeken, klikt u op **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten dan wordt het bankboek afgesloten. 
+
 
 ## Zie ook
 Aanleveren incassobestand  
-Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
+Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzY4OTc5Myw5NzIzMzU4MTgsLTE4MD
-g0OTcwNjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1
-NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLT
-E4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTky
-MTYxMzM5XX0=
+eyJoaXN0b3J5IjpbOTkzMzczNzg5LDk3MjMzNTgxOCwtMTgwOD
+Q5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2NDU2
+LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5MywtMT
+g4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05OTIx
+NjEzMzldfQ==
 -->
