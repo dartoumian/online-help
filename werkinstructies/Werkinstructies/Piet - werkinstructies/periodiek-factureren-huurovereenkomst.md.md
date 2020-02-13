@@ -12,10 +12,10 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 	* **Periode:** De te factureren maand.
 	* **Clusternr.:** (Leeg laten.)
 	* **Elementnr.:** (Leeg laten.)
-	* **Toon afwijkingsredenen verhuurmutatie:** 'Aan'.
-	* **Elementen:** 'Uit'.
-	* **Cluster - elementen:** 'Uit'.
-	* **Eenheid - elementen:** Aan
+	* **Toon afwijkingsredenen verhuurmutatie:** Aan.
+	* **Elementen:** Uit.
+	* **Cluster - elementen:** Uit.
+	* **Eenheid - elementen:** Aan.
 3. Klik op **Voorbeeld** om een voorbeeld van het rapport te openen of klik op **verzenden** en selecteer vervolgens **Excel** om het rapport in Excel te openen.
 4. In het rapport wat opent vind u de volgende zaken:
 	* De datum van de wijziging
@@ -117,6 +117,6 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODA0MjQwMywxNzc2NjAzODg4LDE2Nj
+eyJoaXN0b3J5IjpbMTQ2MjM3MjY4NywxNzc2NjAzODg4LDE2Nj
 UwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTddfQ==
 -->
