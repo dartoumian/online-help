@@ -1,5 +1,5 @@
 
-# Verwegistrenban
+# Verwerken bankmutaties
 In dit detailproces wordt een bankafschrift geïmporteerd en verwerkt.
 
 ## Processchema
@@ -102,9 +102,9 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTQ4MDY3Nyw5NzIzMzU4MTgsLTE4MD
-g0OTcwNjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1
-NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLT
-E4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTky
-MTYxMzM5XX0=
+eyJoaXN0b3J5IjpbNDg5MDk0NDU2LDk3MjMzNTgxOCwtMTgwOD
+Q5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2NDU2
+LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5MywtMT
+g4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05OTIx
+NjEzMzldfQ==
 -->
