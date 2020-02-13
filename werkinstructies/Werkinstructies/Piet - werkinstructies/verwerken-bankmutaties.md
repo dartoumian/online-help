@@ -58,9 +58,9 @@ Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload hee
  4. Klik op **Verwerken** waarna het geïmporteerde bankafschrift wordt verwerkt. De regels uit het bankafschrift zullen waar mogelijk herkend worden en er zal waar mogelijk een vereffening voorstellen.
  5. Klik op **Sluiten** om de pagina **Inlezen bankmutaties** te verlaten en terug te keren naar het **Bank-/giroboek**. U zult zien dat de regels uit het bankafschrift geïmporteerd zijn in het Bank-/Giroboek.
 
-## Handmatig verwerken bankmutgeselecteerde OG Eenheid automatisch een **Verhuurmutatie** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**. 13. In het geval bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt na actie 9 of 10 achter de schermen automatisch een nieuwe **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**. 14. Pagina **Huurcontractopzeggingkaart** wordt geopend. 15. Vul het veld **Huuropzeggingsreden** in. 16. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan in tab **Huurcontract / Huurder** . 17. Registreer het nieuwe correspondentieadres van de vertrekkende huurder in tab **Nieuw correspondentieadres**. * Voor een Nederlands correspondentieadres doet u dit door in het veld **Straat** de postcode en het huisnummer en eventueel het huisnummer toevoegsel in te vullen (achter elkaar, zonder spaties
+## Handmatig verwerken bankmutaties
 
-). Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automatisch herkende posten toekennen en vereffenen. De hieronder beschreven stappen hoeven niet inveld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Huisnummer toevoegsel**, **Postcode** en **Plaats** in met de waangegeven volgorde uitgevoerd te worden, maar geven een overzicht van hoe u posten toe kunt kennen en vereffenen. 
+Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automatisch herkende posten toekennen en vereffenen. De hieronder beschreven stappen hoeven niet in volgorde uitgevoerd te worden, maar geven een overzicht van hoe u posten toe kunt kennen en vereffenen. 
 
  - **Uitgebreide informatie transactie**: Om te zien welke informatie meegegeven is vanaf het bankafschrift selecteert u op het bankboek de regel en klikt u op **Details**. U kunt ook de shortcut '**Ctrl + I**' gebruiken. Het scherm **Telebank regeldetails** opent; hierop worden de tgegevens getoondrden die het systeem heeft gevonden in de postcodetabel. * Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres. 18. Selecteer in veld **Contactgegevens wijzigingsdatum** die mee zijn gekomen vanaf het geïmporteerde bankafschrifdatum per wanneer het nieuwe correspondentieadres ingaat.   <hr>
  
@@ -99,8 +99,9 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMzM1ODE4LC0xODA4NDk3MDYyLDEyND
-E3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3
-NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC
-0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
+eyJoaXN0b3J5IjpbLTE1MDM0OTQyNDUsOTcyMzM1ODE4LC0xOD
+A4NDk3MDYyLDEyNDE3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0
+NTYsLTIwMzM2Mzk3NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC
+0xODg2MTk1MjAyLC0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5
+MjE2MTMzOV19
 -->
