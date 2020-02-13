@@ -8,8 +8,7 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
-2. Klik op  **Voorstelposten ophalen**, waarna de gelijknamige pagina opent. Vul hier de volgende velden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht** ana een pan waarna de gelijknamige pagina opent. Vul hier de volgende velden:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
@@ -35,7 +34,7 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 
 ## Controleren en oplossen
 
-Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
+er bij de vorige stap foutmeldingen of waarschuwingen n ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
 
  1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
  2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
@@ -60,9 +59,9 @@ Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 1. Selecteer in de lijst **etaalrunlijst** (de betaalrun waaruit u regels wilt annuleren en k op Bbewerken**. 
  2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers.
- 3. Klik op **Status wijzigen**, waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+ 3. Klik op **Status wijzigen**, waarna h. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
 	* **Runnummer:** (laat ongewijzigd)
@@ -73,8 +72,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
- 2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+ 1. Selecteer in de lijst **etaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klidruk op **Bbewerken**. 
+ 2. Klik op **Status wijzigen**et scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
 	* **Runnummer:** (laat ongewijzigd)
@@ -84,7 +83,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun die u wilt exporteren. 
+ 1. Selecteer in de lijst **Bbetaalrunlijst** de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand wordt opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
@@ -92,8 +91,8 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2Nz
-gwODc5NSwxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4NjE3
-OSwxMjM3ODA4OTAwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NCwxMT
-U0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMz
+YxMDAyOSwtMjY3ODA4Nzk1LDExNTYwOTYwOTEsNjg2NDkyNDM4
+LC0xODQ0MDg2MTc5LDEyMzc4MDg5MDAsOTQ2MjY1MzQyLC0xMT
+QzMDUzOTk0LDExNTQ0ODU0NDBdfQ==
 -->
