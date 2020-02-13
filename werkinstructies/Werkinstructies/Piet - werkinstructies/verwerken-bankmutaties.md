@@ -78,16 +78,15 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
  - **Vereffenen met meerder openstaande klant- of leverancierspost:** 
 	 - Selecteer de bankboekregel en klik op **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent. 
 	 - Selecteer de posten waarmee u de trancatie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
-	 - 	 - Klik op **OK** om de verffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**
+	 - 	  Klik op **OK** om de vereffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**.
 
 
->### IBAN-nummer toevoegen ter herkenning
+>#### IBAN-nummer toevoegen ter herkenning
 >
->In Dynamics Empire is het IBAN-nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
+>In Dynamics empire is het IBAN nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
 >
-> 1. Selecteer de regel waarvan u het IBAN-nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opVerhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Inspectieafspraken**). * Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**). * Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**, klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**) 2. Selecteer de eerste inspectie met **Status** = Nieuw die u wilt plannen. 3. Klik op **Inspectieafspraak plannen**. Pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie gepland vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld. 4. In veld **Datum** selecteer de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip. 5. Selecteer de inspecteur voor wie u de inspectie wilt plannen. 6. Vink de begintijd aan waarop u de inspectie wilt plannent. 
-> 27. Klik op **Bankrekening klant aanmaken** om het IBAN-nummer toe tOK**. 8. Herhaal actie 2 t/m 7 voor elke voelgen aan de lijst met bankrekeningen voor de geselecteerde klant. 
-
+> 1. Selecteer de regel waarvan u het IBAN nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opent. 
+> 2. Klik op **Bankrekening klant aanmaken** in het IBAN nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
 ## Boeken bankboek
 
 Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9. Klik op **OK**.   <hr>   ### Bevestigingen huuropzegging     1. Open pagina **Huurcontractopzeggingkaart** van de betreffende heeft, kunt u het bankboek boeken. 
@@ -100,7 +99,7 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODA1ODE4MCw5NzIzMzU4MTgsLTE4MD
+eyJoaXN0b3J5IjpbLTc4NzY4OTc5Myw5NzIzMzU4MTgsLTE4MD
 g0OTcwNjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1
 NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLT
 E4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTky
