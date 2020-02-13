@@ -54,8 +54,8 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 
 1. Klik op de pagina **Prol.-run kaart** op **Uitvoeren/boeken**. De facturen worden gegenereerd maar nog niet geboekt. 
 2. Nadat de facturen gegenereerd wordt op zowel de prolongatie kaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatie regels) de status getoond. 
-	* Wanner de status op de prolongatie kaart gelijk is aan **.......** dan zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap #boeken-facturen
-	* Wanneer de status op de prolongatie kaart **Niet** gelijk is aan **.......** dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap #controleren-en-oplossen-fouten-bij-facturatie
+	* Wanner de status op de prolongatie kaart gelijk is aan **Prol gereed** dan zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap #boeken-facturen
+	* Wanneer de status op de prolongatie kaart **Niet** gelijk is aan **Prol gereed** dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap #controleren-en-oplossen-fouten-bij-facturatie
 
 ## Controleren en oplossen fouten bij facturatie
 
@@ -66,8 +66,8 @@ Wanneer er tijdens het regenerate van de facturen fout zijn ontstaan dient u dez
 3. U dient deze fouten oplossen. 
 4. Wanneer u de fouten opgelost heeft klik op op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakte worden opnieuw gegenereerd.
 5. Nadat de facturen gegenereerd wordt op zowel de prolongatie kaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatie regels) de status getoond. 
-	* Wanner de status op de prolongatie kaart gelijk is aan **.......** dan zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap #boeken-facturen
-	* Wanneer de status op de prolongatie kaart **Niet** gelijk is aan **.......** dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap #controleren-en-oplossen-fouten-bij-facturatie uit. 
+	* Wanner de status op de prolongatie kaart gelijk is aan **Prol gereed** dan zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap #boeken-facturen
+	* Wanneer de status op de prolongatie kaart **Niet** gelijk is aan **Prol gereed** dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap #controleren-en-oplossen-fouten-bij-facturatie uit. 
 
 ## Boeken facturen
 
@@ -117,5 +117,5 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkzNTM0MTddfQ==
+eyJoaXN0b3J5IjpbNzg1NDYyNTE5LC0xODY5MzUzNDE3XX0=
 -->
