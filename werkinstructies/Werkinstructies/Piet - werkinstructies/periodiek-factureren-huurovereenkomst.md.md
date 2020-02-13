@@ -1,6 +1,6 @@
 # Periodiek factureren huurovereenkomst
 
-In dit detailproces wordt de periodieke huur gefactureerd, ook wel **Prolongeren** genoemd.
+In dit detailproces word de periodieke huur gefactureerd, ook wel **Prolongeren** genoemd.
 
 
 ## Controleren huurmutaties
@@ -9,7 +9,7 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Verwachte mutaties in de te prolongeren maand**. 
 2. De gelijknamige pagina opent. Vul hier de volgende waarden in:
-	* **Periode:** De te factureren maand.
+	* **Periode:** De gelite factureren maand.
 	* **Clusternr.:** Leeg laten
 	* **Elementnr.:** Leeg laten
 	* **Toon afwijkingsredenen verhuurmutatie:** Aan
@@ -117,6 +117,6 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OT
-M1MzQxN119
+eyJoaXN0b3J5IjpbMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1ND
+YyNTE5LC0xODY5MzUzNDE3XX0=
 -->
