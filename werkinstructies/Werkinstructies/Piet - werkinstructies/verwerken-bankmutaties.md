@@ -22,7 +22,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 
 ## Controleren aanwezigheid betaalrun
 
-Voordat u het gedownloakomt met deze klant of bevoegt is namens die klant het huurcontract te be�indigen. 5. Sluit de bKlantkafschrift importeert dient u betaalruns voor incasso of betalingen te verwerken. 
+Voordat u het gedownloakomt met deze klant of bevoegt is namens die klant het huurcontract te beëindigen. 5. Sluit de bKlantkafschrift importeert dient u betaalruns voor incasso of betalingen te verwerken. 
 
  1. Klik op **Betaalrun toevoegen**, waarna het scherm **Betaalrunlijst** opent.
  2. Bepaal of één of meerdere betaalruns betrekking hebben op het dagafschrift dat u wilt verwerken. 
@@ -100,7 +100,7 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY0NjcxOTIsMTI0MTcyMDYwMiw5Nj
+eyJoaXN0b3J5IjpbLTE4MDg0OTcwNjIsMTI0MTcyMDYwMiw5Nj
 EyNDE0MDksMTE1OTY4NjQ1NiwtMjAzMzYzOTc0MywtMTQ0Mzgz
 MDEwMCw1NDU5OTQxOTMsLTE4ODYxOTUyMDIsLTE4MDU3NjAyND
 csMjAyMTgxNDUyNSwtOTkyMTYxMzM5XX0=
