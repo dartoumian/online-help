@@ -56,8 +56,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 2. In het scherm **Betaalrunkaart** kunt u de regelnummers vinden van de regels die u wilt annuleren. Noteer hiervan de betreffende nummers. 
 3. Klik op **Status wijzigen**, waarna h. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
-	* **Onze bank:** (Laat ongewijzigd).
-	* **Runnummer:** (Laat ongewijzigd).
+	* **Onze bank:** (Laat ongewijzigd.)
+	* **Runnummer:** (Laat ongewijzigd.)
 	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
 4. Klik op **OK**. De regels krijgen de status '**Geannuleerd'** en worden niet meegenomen wanneer u de betaalrun exporteert. 
 
@@ -70,8 +70,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
  1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klidruk op 'Bbewerken'. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
-	* **Onze bank:** (Laat ongewijzigd).
-	* **Runnummer:** (Laat ongewijzigd).
+	* **Onze bank:** (Laat ongewijzigd.)
+	* **Runnummer:** (Laat ongewijzigd.)
   4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar **Geannuleerd**.  
 
 <hr>
@@ -90,6 +90,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njc4NzA5OSwxMzc1NDQ3MzEzLDY1Mz
-E1NjU0NCwtNzY1NDA3MDM1XX0=
+eyJoaXN0b3J5IjpbMTE3MzcxMDM1LDEwNjY3ODcwOTksMTM3NT
+Q0NzMxMyw2NTMxNTY1NDQsLTc2NTQwNzAzNV19
 -->
