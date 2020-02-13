@@ -95,16 +95,16 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 
  1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen klikt u op **Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
  2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** of er fouten zijn die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
- 3. Nadat u geen fouten meer heeft of wanneer u alvast de regels zonder fouten wilt boeken, klikt u op **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten dan wordt het bankboek afgesloten. 
+ 3. Nadat u geen fouten meer heeft of wanneer u alvast de regels zonder fouten wilt boeken, klikt u op **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten, dan wordt het bankboek afgesloten. 
 
 
 ## Zie ook
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMzczNzg5LDk3MjMzNTgxOCwtMTgwOD
-Q5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2NDU2
-LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5MywtMT
-g4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05OTIx
-NjEzMzldfQ==
+eyJoaXN0b3J5IjpbMTAzNTQ4MDY3Nyw5NzIzMzU4MTgsLTE4MD
+g0OTcwNjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1
+NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLT
+E4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTky
+MTYxMzM5XX0=
 -->
