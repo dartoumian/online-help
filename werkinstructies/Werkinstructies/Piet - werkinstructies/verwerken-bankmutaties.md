@@ -32,7 +32,7 @@ Voordat u het gedownloade bankafschrift importeert dient u betaalruns voor incas
 
 ## Importeren betaalrun incasso
 
-Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is het belangrijk dat u deze betaalrun **Einddatum volgens opzegtermijn** * **Leegstandsboekingsgroep:** is standaard gelijk aan de leergst verwerkt en boekt voordat u het gedownloade bankafschrift verwerkt. 
+Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is het belangrijk dat u deze betaalrun eerst verwerkt en boekt voordat u het gedownloade bankafschrift verwerkt. 
 
  1. Selecteer op de **Betaalrunlijst** de betaalrun die u wilt importeren.
  2. Klik op **OK**. U komt terug op **Bank-/Giroboek** en de betaalrunregels zijn geïmporteerd in de bankboekregels. 
@@ -99,7 +99,7 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNjMwNTM3LC0xODA4NDk3MDYyLDEyND
+eyJoaXN0b3J5IjpbMzk1NjM4NTAxLC0xODA4NDk3MDYyLDEyND
 E3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3
 NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC
 0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
