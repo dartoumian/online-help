@@ -42,10 +42,10 @@ Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is h
 
 ## Importeren betaalrunuitbetalingen
 
-Wanneer u een betaalrun wilt verwerken die betrekking heeft opandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**. 9. Klik op **OK**. 10. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wil doorgaan. Klik op **Ja**. 11. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag een bmetaling, dient u deze te importeren in het bankboek. 
+Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling  dient u deze te importeren in het bankboek. 
 
- 1. Selecteer op de **Betaalrunlijst** de betaalrun de geselecteerde Leegstandsboekingsgroep. 12. Achter de schermen wordt voor die u wilt importeren.
- 2. Klik op **OK**. U komt terug op **Bank-/Giroboek**. De betaalrunregels zijn geïmporteerd in de bankboekregels. 
+ 1. Selecteer op de **Betaalrunlijst** de betaalrun die u wilt importeren.
+ 2. Klik op **OK**. U komt terug op de pagina **Bank-/Giroboek**. De betaalrunregels zijn geïmporteerd in de bankboekregels. 
  3. Ga verder naar de instructie voor **Importeren bankmutaties**.
 
 ## Importeren bankmutaties
@@ -99,7 +99,7 @@ Wanneer u alle bankboekregels toegekend of vede inspectie die u wilt plannen. 9.
 Aanleveren incassobestand  
 Aanleveren betaalbestandOK**. 4.   <hr>   ## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep) Werkinstructie X Werkinstructie Y Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NjM4NTAxLC0xODA4NDk3MDYyLDEyND
+eyJoaXN0b3J5IjpbOTcyMzM1ODE4LC0xODA4NDk3MDYyLDEyND
 E3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3
 NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC
 0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
