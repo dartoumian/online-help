@@ -55,8 +55,8 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Oppervlakte van vertrekken**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek mogen worden beschouwd als vertrekken. Klik op de drie puntjes in het veld **Totale opp. vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. In het geval van een badkamer waarin een toilet aanwezig is, vink dan de indicatie **Toilet in vertrek** aan.   
 	 - **Oppervlakte overige ruimtes**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek moeten worden beschouwd als overige ruimtes. Klik op de drie puntjes in het veld **Totale opp. ruimtes**, selecteer één of meer overige ruimtes en vul per overige ruimte de oppervlakte van de ruimte conform het beleidsboek in. 
 	 - **Verwarming**: aantal verwarmde vertrekken en overige ruimtes. In het geval van aansluiting op een warmtenet geldt een andere puntentelling. Vul het aantal verwarmde vertrekken en het aantal verwarmde overige ruimtes in. Vink indicatie armewet vanpassingn** is als de woonruimte is aangesloten op een warmtenet.En 
-	 - **Energieprestatie**:  de energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatienergie-.prestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparamatersets**. 
-	 - **Keuken**: 
+	 - **Energieprestatie**:  de energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatienergie-.prestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparametersets**. 
+	 - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Lan
 	 - **Sanitair** 
 	 - **Woonvoorziening voor gehandicapten**: 
 	 - **Buitenruimte**: 
@@ -99,7 +99,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkzMjU2NDIsNDgwNDgxNjY1LDQwOD
-Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
-MV19
+eyJoaXN0b3J5IjpbMTgwMTg0MTE0OCw0ODA0ODE2NjUsNDA4ND
+U5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgx
+XX0=
 -->
