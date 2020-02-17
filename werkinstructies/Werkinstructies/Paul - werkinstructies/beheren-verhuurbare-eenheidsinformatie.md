@@ -104,12 +104,12 @@ U kunt als volgt een exploitatievorm toevoegen aan of verwijderen van een OG Een
  2. Selecteer de OG Eenheid
  3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
  4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **+Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
- 5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel 
+ 5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**. 
 
 <hr>
 
 ### Aanpassen administratief eigenaar
-In deze stap past u de administratief eigenaar van de OG Eenheid aan. De administratief eigenaar van de OG Eenheid bepaalt of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. 
+In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Een OG Eenheid kan in verloop van tijd verschillende administa
 
 1. Bla bla  
 
@@ -129,7 +129,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTc3MTIwOCwtMTU1MDU3ODI1NywyMD
+eyJoaXN0b3J5IjpbMTY2NDc1ODI3OSwtMTU1MDU3ODI1NywyMD
 cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
 Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
 cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
