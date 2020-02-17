@@ -109,7 +109,7 @@ U kunt als volgt een exploitatievorm toevoegen aan of verwijderen van een OG Een
 <hr>
 
 ### Aanpassen administratief eigenaar
-In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Een OG Eenheid kan in verloop van tijd verschillende administa
+In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één administratief eigenaar. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. 
 
 1. Bla bla  
 
@@ -129,9 +129,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDc1ODI3OSwtMTU1MDU3ODI1NywyMD
-cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
-Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
-cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
-MjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
+eyJoaXN0b3J5IjpbODcyMDEzMDE4LC0xNTUwNTc4MjU3LDIwNz
+A0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkz
+LDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNz
+EyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMy
+MCw1MTEyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
 -->
