@@ -96,15 +96,15 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
 <hr>
 
 ### Aanpassen exploitatievorm
-In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  U kunt een exploitatievorm koppelen of juist ontkoppelen van de OG Eenheid. Elke exploitatievorm is van een bepaald soort (*Verhuur*, *Verkoop* of *Uit beheer*) en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**. 
+In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  U kunt een exploitatievorm toevoegen of juist verwijderen bij de OG Eenheid. Elke exploitatievorm is van een bepaald soort (*Verhuur*, *Verkoop* of *Uit beheer*) en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**. 
 
-U kunt als volgt een exploitatievorm koppelen aan of ontkoppelen van een OG Eenheid: 
+U kunt als volgt een exploitatievorm toevoegen aan of verwijderen van een OG Eenheid: 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
- 4. Om een extra exploitatievorm toe te voegen, klik op **+Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op 
- 5. 
+ 4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **+Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
+ 5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel 
 
 <hr>
 
@@ -129,9 +129,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM5OTkzMDUsLTE1NTA1NzgyNTcsMj
-A3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3
-OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC
-03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4
-MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
+eyJoaXN0b3J5IjpbLTIyNTc3MTIwOCwtMTU1MDU3ODI1NywyMD
+cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
+Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
+cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
+MjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
 -->
