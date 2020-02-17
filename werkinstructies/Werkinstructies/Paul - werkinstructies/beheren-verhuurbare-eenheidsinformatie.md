@@ -149,7 +149,7 @@ U keurt als volgt een wijziging van de administratief eigenaar goed:
 ### Aanpassen contactpersonen
 In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoon behoort tot een functiegroep, zoals huismeester.  
 
-1. Bla bla  
+1. 
 
 <hr>
 
@@ -160,10 +160,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mz
-c0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMs
-MTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0Nz
-czODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2
-NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NT
-I5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbMTMxOTY1NDAwMywyMjQ3NjkyMjUsMTMzMT
+gzNjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3
+LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OT
+kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
+MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMT
+I2NDc2MiwtMTY1Mjk4MTk4MV19
 -->
