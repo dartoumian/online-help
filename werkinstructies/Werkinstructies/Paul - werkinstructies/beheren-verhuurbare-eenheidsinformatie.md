@@ -17,7 +17,9 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  Deze basisinformatie is verdeeld over verschillende tabbladen: 
  - **Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid 
  - **Adresssen**: dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld 
- - **
+ - **Exploitatie (Alg)**: dit tabblad bevat algemene informatie over de exploitatie van de OG Eenheid; 
+ - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid; 
+ - 
 
 
  - Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
@@ -170,7 +172,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTE0NjQ3MSwxMDA0NzIxNjQ2LDIyND
+eyJoaXN0b3J5IjpbMjA4MTQ0MjUwNCwxMDA0NzIxNjQ2LDIyND
 c2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1
 NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMD
 Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
