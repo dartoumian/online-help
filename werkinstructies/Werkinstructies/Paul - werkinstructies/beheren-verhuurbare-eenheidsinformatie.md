@@ -50,8 +50,9 @@ Toelichting op de overige velden in tabblad **Adressen**:
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**.  
 
 De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
-	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer e de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
-	- **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
+	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  
+	- **Clusterstreefhuurbepaling**: geeft aan of de .
+	- **Streefhuurmethode**: bepaalt de methode via welke de streefhuur  wordt bepaald: *Dynamisch*, *Statisch*
 
  
 ## Aanpassen woningwaardering
@@ -187,7 +188,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMzg1MDQyLDE0OTY2MjM0MDQsMTAwND
+eyJoaXN0b3J5IjpbOTA2MjMxMDM3LDE0OTY2MjM0MDQsMTAwND
 cyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIs
 LTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OT
 E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
