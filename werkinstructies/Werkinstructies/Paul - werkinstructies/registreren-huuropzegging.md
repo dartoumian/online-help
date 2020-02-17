@@ -20,13 +20,13 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt beëindigen.
 7. Klik op **Ja**. Pagina **Opzegging huurcontract** wordt geopend.
 8. Controleer de standaardwaarde van de volgende velden en pas de waarde daar waar nodig aan:
--  **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**
--  **Leegstandsboekingsgroep:** is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
+-**Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**
+-**Leegstandsboekingsgroep:** is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
 10. Klik op **OK**.
 11. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wil doorgaan. Klik op **Ja**.
 12. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag en met de geselecteerde Leegstandsboekingsgroep.
 13. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
-1. In het geval bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt na actie 9 of 10 achter de schermen automatisch een nieuwe **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
+14. In het geval bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt na actie 9 of 10 achter de schermen automatisch een nieuwe **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
 15. Pagina **Huurcontractopzeggingkaart** wordt geopend.
 16. Vul het veld **Huuropzeggingsreden** in.
 17. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan in tab **Huurcontract / Huurder** .
@@ -41,9 +41,9 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 
 In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepassing als bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd (zie pagina **Onrerend Goed Eenheidkaart**, tab **Inspectie**, veld **Aantal vooropnames** en veld **Aantal eindopnames**).
 1. Open pagina **Inspectieafspraken** van de betreffende huuropzegging
-* Rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Inspectieafspraken**).
-* Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**).
-* Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**, klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**)
+-Rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Inspectieafspraken**).
+-Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**).
+-Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**, klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**)
 2. Selecteer de eerste inspectie met **Status** = Nieuw die u wilt plannen.
 3. Klik op **Inspectieafspraak plannen**. Pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie gepland vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
 4. In veld **Datum** selecteer de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip.
@@ -58,9 +58,9 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 ### Bevestigingen huuropzegging
 
 1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
-* Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
-* Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart.
-* Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op **Huuropzeggingen**.
+-Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
+-Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart.
+-Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op **Huuropzeggingen**.
 2. Klik op ***Acties*** - **Worddocument**.
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
@@ -73,7 +73,7 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDg2NjUyNyw3NTE0NzY1MjMsOTA1OT
-QwMTY0LC0xNTEyNTE4MTYwLC03MzYwMzU0NTYsLTc5NzQ4NTAy
-XX0=
+eyJoaXN0b3J5IjpbLTEwNzc0OTMxNzksNzUxNDc2NTIzLDkwNT
+k0MDE2NCwtMTUxMjUxODE2MCwtNzM2MDM1NDU2LC03OTc0ODUw
+Ml19
 -->
