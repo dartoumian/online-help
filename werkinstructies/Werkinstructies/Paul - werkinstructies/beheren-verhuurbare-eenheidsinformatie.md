@@ -52,7 +52,7 @@ Voor elk soort woningwaardering zijn andere soorten details van toepassing. De d
 
 Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende details aanpassen: 
 	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
-	 - **Oppervlakte van vertrekken**: 
+	 - **Oppervlakte van vertrekken**: opp
 	 - **Oppervlakte overige ruimtes**: 
 	 - **Verwarming** 
 	 - **Energieprestatie**: 
@@ -99,5 +99,6 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
+eyJoaXN0b3J5IjpbLTE4OTk5MjY3OTMsNTExMjY0NzYyLC0xNj
+UyOTgxOTgxXX0=
 -->
