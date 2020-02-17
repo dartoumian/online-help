@@ -35,8 +35,8 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  
 ## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
-	 - Woningwaardering voor *zelfstandig woonruimtes* 
-	 - Woningwaardering voor *onzelfstandige woonruimtes* 
+	 - Woningwaardering voor *zelfstandig woonruimtes* conform het beleidsboek waarderingsstelsel zelfstandige woonruimte 
+	 - Woningwaardering voor *onzelfstandige woonruimtes* conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte.
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**. 
 
@@ -99,6 +99,6 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI1NzI5MjgsNTExMjY0NzYyLC0xNj
+eyJoaXN0b3J5IjpbLTE5OTE2NDAzNTcsNTExMjY0NzYyLC0xNj
 UyOTgxOTgxXX0=
 -->
