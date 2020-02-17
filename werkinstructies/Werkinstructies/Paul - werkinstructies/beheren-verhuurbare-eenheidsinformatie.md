@@ -119,7 +119,13 @@ Beide ingangsdata zijn standaard gelijk aan elkaar, maar u kunt de verhuringsing
 
 Het wijzigen van de administratief eigenaar van ene OG Eenheid gaat in twee stappen: 
 1. Aanvraag voor wijziging van administratief eigenaar invullen 
-2. Aanvraag voor wijziging van administratief eigenaar g
+2. Aanvraag voor wijziging van administratief eigenaar goedkeuren 
+
+U vraagt als volgt een wijziging van de administratief eigenaar aan: 
+1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid
+ 3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid.  
 
 <hr>
 
@@ -137,7 +143,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTg4MzM4NiwtMTU1MDU3ODI1NywyMD
+eyJoaXN0b3J5IjpbLTMxMjI2NzkyNCwtMTU1MDU3ODI1NywyMD
 cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
 Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
 cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
