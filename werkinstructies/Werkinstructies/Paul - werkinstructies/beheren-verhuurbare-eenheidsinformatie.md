@@ -15,13 +15,16 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
 
 ## Registreren basisinformatie verhuurbare eenheid
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  Deze basisinformatie is verdeeld over verschillende tabbladen: 
-**Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid 
+ - **Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid 
+ - **Adresssen**: dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld 
+ - **
 
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+
+ - Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
- 3. Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
- 4. In tabblad **Algemeen** kunt u algemene basisinformatie van de verhuurbare eenheid invullen en wijzigen. De belangrijkste velden zijn: 
+ - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
+ - Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
+ - In tabblad **Algemeen** kunt u algemene basisinformatie van de verhuurbare eenheid invullen en wijzigen. De belangrijkste velden zijn: 
 	- **Type**: geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
 	- **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
 	- **Vraagboomsoort**: geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken. 
@@ -29,10 +32,10 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
 	- **Betreft**: 
 	- **Etagewoning** en **Etage**: geeft aan of de eenheid een etagewoning betreft, en zo ja, op welke etage (de voordeur van) de woning zich bevindt. 
 	
- 5. In tabblad **Adressen** kunt u het adres van de OG Eenheid zien en wijzigen. U wijzigt het adres door in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in te voeren (zonder spaties, bijvoorbeeld '1234AA33B'). Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
- 6. De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
- 7. De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**. 
- 8. In tabblad **Exploitatie (Alg)** kunt u informatie over de exploitatie van de OG Eenheid beheren. 
+ - In tabblad **Adressen** kunt u het adres van de OG Eenheid zien en wijzigen. U wijzigt het adres door in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in te voeren (zonder spaties, bijvoorbeeld '1234AA33B'). Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
+ - De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
+ - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**. 
+ - In tabblad **Exploitatie (Alg)** kunt u informatie over de exploitatie van de OG Eenheid beheren. 
  
 ## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
@@ -167,7 +170,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzE5NDUwMCwxMDA0NzIxNjQ2LDIyND
+eyJoaXN0b3J5IjpbMTIxMTE0NjQ3MSwxMDA0NzIxNjQ2LDIyND
 c2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1
 NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMD
 Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
