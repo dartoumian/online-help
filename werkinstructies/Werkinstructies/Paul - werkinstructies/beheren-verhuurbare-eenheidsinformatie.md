@@ -61,7 +61,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Woonvoorziening voor gehandicapten**:  het aantal punten wordt bepaald door de investering die de verhuurder heeft besteed aan het geschikt maken van de zelfstandige woonruimte voor bewoning door gehandicapten. Vul de investering in het veld **Investering voorzieningen** in.   
 	 - **Buitenruimte**:  het aantal punten wordt bepaald door de totale oppervlakte van de privé buitenruimten. Zie het beleidsboek voor de definitie van buitenruimte en voor de regels via welke de oppervlakte moet worden bepaald. Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden in.  
 	 - **WOZ-waardering**: het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten, van de vraag of de woonruimte in een COROP-gebied ligt en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, welke standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert. 
-	 - **Renovatie**: 
+	 - **Renovatie**: punten voor renovatie worden bepaald door de investingen die de verhuurder heeft gedaan. Hiervoor gel
 	 - **Bijzondere voorzieningen**: 
 
 ## Aanpassen streefhuur
@@ -99,8 +99,8 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2ND
-k5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4
-NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MT
-EyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbMTU5MTQ3OTI1LDExNjQ5MTU4NTQsLTYzMD
+Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
+OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4ND
+A3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
 -->
