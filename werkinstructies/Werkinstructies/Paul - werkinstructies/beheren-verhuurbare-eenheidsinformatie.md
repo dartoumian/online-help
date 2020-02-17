@@ -154,7 +154,8 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  2. Selecteer de OG Eenheid
  3. In het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond.  
  4. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**. 
- 5. Om de functie van een bestaande contactpersoon te wijzigen selecteert u de desbetreffende regel en wijeen lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**. 
+ 5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
+ 6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Functie**.
 
 <hr>
 
@@ -165,10 +166,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk4MjYwNzcsMjI0NzY5MjI1LDEzMz
-E4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTcz
-NywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2ND
-k5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4
-NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MT
-EyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbLTkxNDE3OTczNCwyMjQ3NjkyMjUsMTMzMT
+gzNjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3
+LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OT
+kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
+MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMT
+I2NDc2MiwtMTY1Mjk4MTk4MV19
 -->
