@@ -21,7 +21,9 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid. 
  - **Inspectie**: dit tabblad bevat informatie over de mutatie-inspecties die worden uitgevoerd zodra een huuropzegging van de OG Eenheid wordt afgehandeld. 
  - **WRB**: dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
- - **Erfpacht**: dit tabblad bevat informatie 
+ - **Erfpacht**: dit tabblad bevat kadastrale informatie over de OG Eenheid. 
+ - **VERA-eigenschappen**: dit tabblad b
+ - 
 
 
  - Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
@@ -174,10 +176,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODQxMjIzOSwxMDA0NzIxNjQ2LDIyND
-c2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1
-NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMD
-Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
-OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4ND
-A3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
+eyJoaXN0b3J5IjpbLTE3NjY4MDQwMDQsMTAwNDcyMTY0NiwyMj
+Q3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIsLTE1NTA1Nzgy
+NTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0LC02Mz
+A0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQy
+ODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxOD
+QwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
 -->
