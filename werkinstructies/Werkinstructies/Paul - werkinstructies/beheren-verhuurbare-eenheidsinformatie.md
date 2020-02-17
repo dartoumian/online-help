@@ -90,7 +90,7 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
  2. Selecteer de OG Eenheid
  3. Open tabblad **Exploitatie (Fin.)**.  
  4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen. 
- 5. Indien de streefhuur van de OG Eenheid dynamisch bepaald moet worden, selecteer dan de waarde Selecteer de streefhuurmethode van de OG Eenheid in het veld **Streefhuurmethode**.  
+ 5. Indien de streefhuur van de OG Eenheid dynamisch bepaald moet worden, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode**.  Selecteer dan ook een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. 
 
 1. Bla bla  
 
@@ -124,7 +124,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTgwMjYzNywtNzQ2NDA5OTMsMTE2ND
+eyJoaXN0b3J5IjpbLTU4NTYwMjQxMSwtNzQ2NDA5OTMsMTE2ND
 kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
 NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
 g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
