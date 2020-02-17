@@ -14,7 +14,8 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
 (Hier komt link naar Mavim of plaatje van proces.)
 
 ## Registreren basisinformatie verhuurbare eenheid
-In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  
+In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  Deze basisinformatie is verdeeld over verschillende tabbladen: 
+**Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid 
 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
@@ -166,10 +167,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMT
-gzNjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3
-LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OT
-kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
-MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMT
-I2NDc2MiwtMTY1Mjk4MTk4MV19
+eyJoaXN0b3J5IjpbLTU4MzE5NDUwMCwxMDA0NzIxNjQ2LDIyND
+c2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1
+NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMD
+Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
+OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4ND
+A3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
 -->
