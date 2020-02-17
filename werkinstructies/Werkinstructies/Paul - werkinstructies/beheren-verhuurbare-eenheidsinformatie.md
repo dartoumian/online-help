@@ -67,7 +67,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 
 Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgende details aanpassen: 
 	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
-	 - **Oppervlakte**:  Oppervlakte van kamers behorende uitsluitend tot de onzelfstandige woonruimte en oppervlakte van gemeenschappelijke verblijfsruimten. Per m2 wordt een aantal punten berekend conform het beleidsboek. 
+	 - **Oppervlakte**:  Oppervlakte van kamers behorende uitsluitend tot de onzelfstandige woonruimte en oppervlakte van gemeenschappelijke verblijfsruimten. Per m2 wordt een aantal punten berekend conform het beleidsboek. Klik op de drie puntjes in het veld **Totaal eigen vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. Vul de totale 
 	 - **Verwarmingsmogelijkheden**:  
 	 - **Kookgelegenheid**: 
 	 - **Toilet**: 
@@ -111,7 +111,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDExOTEzNSwtNzQ2NDA5OTMsMTE2ND
+eyJoaXN0b3J5IjpbLTk2OTMzODc5NiwtNzQ2NDA5OTMsMTE2ND
 kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
 NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
 g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
