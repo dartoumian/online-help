@@ -21,10 +21,10 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 Nadat de aanmaningsvoorstellen gegenereerd zijn kunt u deze opschonen en controleren. 
 
-1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter in op de pagina **Aanmaningen**, op het veld **Aanmaningsniveau**. U stelt het filter zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in <>1 (ongelijk aan 1).
-2. Selecteer alle aanmaningsvoorstellen en klik op **Verwijderen**. Er wordt nu een lege lijst getoond. 
-3. Verwijder het ingestelde filter en de aanmaningen van het niveau wat u wilt versturen worden getoond. 
-4. Wanneer de overgebleven aanmaningen betrekking hebben een aanmaningsconditie voor betalingsregelingen en het aanmaningsniveau betekend dat de betalingsregeling vervalt ga dan verder naar de processtap **#verwerken-aanmaningen-beëindigde betalingsregeling.** 
+1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter in op de pagina **Aanmaningen**, op het veld **Aanmaningsniveau**. U stelt het filter zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
+2. Selecteer alle aanmaningsvoorstellen en klik op **Verwijderen**. Er wordt nu een lege lijst getoond.
+3. Verwijder het ingestelde filter, en de aanmaningen van het niveau dat u wilt versturen worden getoond.
+4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen en het aanmaningsniveau betekend dat de betalingsregeling vervalt ga dan verder naar de processtap **#verwerken-aanmaningen-beëindigde betalingsregeling.** 
 5. In alle andere gevallen gaat u door naar de processtap **#controleren-voorstellen-en-aanpassen-individuele-aanmaning**
 
 ## Verwerken aanmaningen beëindigde betalingsregeling
@@ -76,6 +76,6 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjEzNzc0MywyODgyNjUwMzYsMTA1MT
+eyJoaXN0b3J5IjpbLTU3ODQ5NDAwOSwyODgyNjUwMzYsMTA1MT
 U3NTIwNl19
 -->
