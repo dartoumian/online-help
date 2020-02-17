@@ -6,8 +6,8 @@ In dit werkproces worden betalingsachterstanden gesignaleerd en wordt de debiteu
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Aanmaningen**. 
-2. Klik op de pagina **Aanmaningen** op **Aanmaningen maken**. De pagina **Aanmaningen maken** opent. Vul op deze pagina de volgende velden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Aanmaningen**. 
+2. Klik op de pagina **Aanmaningen** op **Aanmaningen maken**. Vul op de zojuist geopende pagina de volgende velden:
 	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmaanvoorstel
 	* **Documentdatum:** Dit is de datum die op het aanmaandocument voor de debiteur getoond wordt
 	* **Alleen vervallen posten:** Ja
@@ -76,5 +76,5 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTU3NTIwNl19
+eyJoaXN0b3J5IjpbMjg4MjY1MDM2LDEwNTE1NzUyMDZdfQ==
 -->
