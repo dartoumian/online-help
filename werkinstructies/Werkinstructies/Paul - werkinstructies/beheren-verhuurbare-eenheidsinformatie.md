@@ -35,8 +35,8 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  
 ## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
-	 - Woningwaardering voor *zelfstandig woonruimtes* conform het beleidsboek waarderingsstelsel zelfstandige woonruimte 
-	 - Woningwaardering voor *onzelfstandige woonruimtes* conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte.
+	 - Woningwaardering voor *zelfstandig woonruimtes*, conform het beleidsboek waarderingsstelsel zelfstandige woonruimte; 
+	 - Woningwaardering voor *onzelfstandige woonruimtes*, conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte. 
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**. 
 
@@ -52,7 +52,7 @@ Voor elk soort woningwaardering zijn andere soorten details van toepassing. De d
 
 Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende details aanpassen: 
 	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
-	 - **Oppervlakte van vertrekken**: oppervlakte van de ruimtes die conform het hand
+	 - **Oppervlakte van vertrekken**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek mogen worden beschouwd als vertrekken. K
 	 - **Oppervlakte overige ruimtes**: 
 	 - **Verwarming** 
 	 - **Energieprestatie**: 
@@ -99,6 +99,6 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE2NDAzNTcsNTExMjY0NzYyLC0xNj
+eyJoaXN0b3J5IjpbLTE0MDI1OTkyMTAsNTExMjY0NzYyLC0xNj
 UyOTgxOTgxXX0=
 -->
