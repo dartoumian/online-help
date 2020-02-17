@@ -53,7 +53,7 @@ De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn:
 	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  
 	- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie *Streefhuur aanpassen*. 
 	- **Huurbeleid**:  dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initiëel gaat betalen. 
-	- **Huurverhogingsbeleidstype**: het beleidstype 
+	- **Huurverhogingsbeleidstype**: het beleidstype via welke de nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage  
 
  
 ## Aanpassen woningwaardering
@@ -189,7 +189,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTg2NTg5OCwxNDk2NjIzNDA0LDEwMD
+eyJoaXN0b3J5IjpbMTEwMjcwNTcyNywxNDk2NjIzNDA0LDEwMD
 Q3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQy
 LC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2ND
 kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
