@@ -50,7 +50,7 @@ Toelichting op de overige velden in tabblad **Adressen**:
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**.  
 
 De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
-	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  De corpora
+	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object. 
 	- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie *Streefhuur aanpassen*. 
 	- **Huurbeleid**:  dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initiëel gaat betalen. 
 	- **Huurverhogingsbeleidstype**: het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
@@ -190,11 +190,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MjU4MDA3LDE0OTY2MjM0MDQsMTAwND
-cyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIs
-LTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OT
-E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
-LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwOD
-Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
-MV19
+eyJoaXN0b3J5IjpbLTExNTM3MDkyNTEsMTQ5NjYyMzQwNCwxMD
+A0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0
+MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNj
+Q5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3Mzgx
+NDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsND
+A4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgx
+OTgxXX0=
 -->
