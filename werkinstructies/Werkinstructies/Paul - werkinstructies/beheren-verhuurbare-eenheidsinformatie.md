@@ -64,6 +64,11 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Renovatie**: punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het beleidsboek). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
 	 - **Bijzondere voorzieningen**: In het geval van een zorgwoning worden conform het beleidsboek extra punten gerekend mits voldaan is aan bepaalde voorwaarden. U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden. 
 
+
+Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgende details aanpassen: 
+	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassi is op de ingangsdatum van de Woningwaardering. 
+
+
 ## Aanpassen streefhuur
 In deze stap past u de streefhuurmethode van de OG Eenheid aan van **Statisch** naar **Dynamisch** of andersom. Als de streefhuurmethode is ingesteld op Dynamisch, kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op Statisch, kunt u het streefhuurbedrag aanpassen.
 
@@ -99,7 +104,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwOTEyMDQxLDExNjQ5MTU4NTQsLTYzMD
+eyJoaXN0b3J5IjpbLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMD
 Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
 OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4ND
 A3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
