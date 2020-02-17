@@ -53,8 +53,8 @@ Voor elk soort woningwaardering zijn andere soorten details van toepassing. De d
 Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende details aanpassen: 
 	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
 	 - **Oppervlakte van vertrekken**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek mogen worden beschouwd als vertrekken. Klik op de drie puntjes in het veld **Totale opp. vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. In het geval van een badkamer waarin een toilet aanwezig is, vink dan de indicatie **Toilet in vertrek** aan.   
-	 - **Oppervlakte overige ruimtes**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek moeten worden beschouwd als overige ruimtes. Klik op de drie puntjes in het veld **Totale opp. ruimtes**, selecteer één of meer overige ruimtes en vul per overige ruimte de oppervlakte van het vertrek conform het beleidsboek in. 
-	 - **Verwarming** 
+	 - **Oppervlakte overige ruimtes**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek moeten worden beschouwd als overige ruimtes. Klik op de drie puntjes in het veld **Totale opp. ruimtes**, selecteer één of meer overige ruimtes en vul per overige ruimte de oppervlakte van de ruimte conform het beleidsboek in. 
+	 - **Verwarming**: aantal verwarmde vertrekken en overige ruimtes. In het geval van aansluiting op een warmtenet geldt een andere puntentelling. Vul het aantal verwarmde vertrekken en het aantal verwarmde overige ruimtes in. G
 	 - **Energieprestatie**: 
 	 - **Keuken** 
 	 - **Sanitair** 
@@ -99,6 +99,6 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcxOTk5NDEsNTExMjY0NzYyLC0xNj
-UyOTgxOTgxXX0=
+eyJoaXN0b3J5IjpbLTY4MDEwNTkyNiw1MTEyNjQ3NjIsLTE2NT
+I5ODE5ODFdfQ==
 -->
