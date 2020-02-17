@@ -140,7 +140,8 @@ U keurt als volgt een wijziging van de administratief eigenaar goed:
  4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** *Voorlopig* wordt getoond. 
  5. Klik op **Goedkeuren**.  
  6. De regel krijgt automatisch de **Status** *Goedgekeurd*. 
- 7. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend waarop een extra regel wordt getoond met de nieuwe administratief eigenaar. 
+ 7. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt weer geopend, nu met een extra regel met de nieuwe administratief eigenaar. 
+ 8. Pas desgewenst de 
 
 
 
@@ -160,9 +161,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTgzNjczLDE5MzUzNzQyNDIsLTE1NT
-A1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0
-LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMj
-A1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIy
-NiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
+eyJoaXN0b3J5IjpbMjAwMjE5MDAzOSwxMzMxODM2NzMsMTkzNT
+M3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkz
+LDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0ND
+c3MzgxNDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2
+NjUsNDA4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNj
+UyOTgxOTgxXX0=
 -->
