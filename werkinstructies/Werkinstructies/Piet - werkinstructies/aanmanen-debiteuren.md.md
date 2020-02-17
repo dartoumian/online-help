@@ -8,13 +8,13 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Aanmaningen**. 
 2. Klik op de pagina **Aanmaningen** op **Aanmaningen maken**. Vul op de zojuist geopende pagina de volgende velden:
-	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmaanvoorstel
-	* **Documentdatum:** Dit is de datum die op het aanmaandocument voor de debiteur getoond wordt
-	* **Alleen vervallen posten:** Ja
-	* **Wachtende posten opnemen:** Nee
-	* **Kop niveau gebruiken:** Nee
+	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmaningsvoorstel.
+	* **Documentdatum:** Dit is de datum die op het aanmaningsdocument voor de debiteur getoond wordt.
+	* **Alleen vervallen posten:** Ja.
+	* **Wachtende posten opnemen:** Nee.
+	* **Kopniveau gebruiken:** Nee.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
-	* Stel onder het **Klant filter** een filter in op het veld **Aanmaningsconditie code** en selecteer de aanmaningsconditie die u aan wilt manen. 
+	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditie code** en selecteer de aanmaningsconditie die u aan wilt manen. 
 3. Klik op **OK**. De aanmaanvoorstellen worden aangemaakt. Ik keert terug naar de pagina **Aanmaningen**
 
 ## Opschonen voorstel
@@ -76,5 +76,6 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4MjY1MDM2LDEwNTE1NzUyMDZdfQ==
+eyJoaXN0b3J5IjpbLTU2NzA0Njc3MiwyODgyNjUwMzYsMTA1MT
+U3NTIwNl19
 -->
