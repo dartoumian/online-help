@@ -103,7 +103,7 @@ U kunt als volgt een exploitatievorm koppelen aan of ontkoppelen van een OG Eenh
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
- 4. Om een extra exploitatievorm toe te voegen, klik op **+Nieuw**, selecteer een 
+ 4. Om een extra exploitatievorm toe te voegen, klik op **+Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op 
  5. 
 
 <hr>
@@ -129,9 +129,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MjYwNzIwLC0xNTUwNTc4MjU3LDIwNz
-A0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkz
-LDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNz
-EyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMy
-MCw1MTEyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbLTE1MTM5OTkzMDUsLTE1NTA1NzgyNTcsMj
+A3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3
+OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC
+03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4
+MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
 -->
