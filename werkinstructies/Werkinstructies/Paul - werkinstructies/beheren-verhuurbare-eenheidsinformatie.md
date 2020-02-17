@@ -59,8 +59,8 @@ De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn:
  
 ## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
-	 - Woningwaardering voor *zelfstandig woonruimtes*, conform het beleidsboek waarderingsstelsel zelfstandige woonruimte; 
-	 - Woningwaardering voor *onzelfstandige woonruimtes*, conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte. 
+	 - Woningwaardering voor *zelfstandig woonruimtes*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel zelfstandige woonruimte; 
+	 - Woningwaardering voor *onzelfstandige woonruimtes*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte. 
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**. 
 
@@ -190,11 +190,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM3MDkyNTEsMTQ5NjYyMzQwNCwxMD
-A0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0
-MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNj
-Q5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3Mzgx
-NDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsND
-A4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgx
-OTgxXX0=
+eyJoaXN0b3J5IjpbLTE5NDcyMjExNSwxNDk2NjIzNDA0LDEwMD
+Q3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQy
+LC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2ND
+kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
+NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
+g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
+ODFdfQ==
 -->
