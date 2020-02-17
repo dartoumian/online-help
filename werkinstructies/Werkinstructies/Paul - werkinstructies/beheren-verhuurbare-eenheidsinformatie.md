@@ -23,8 +23,8 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **WRB**: dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
  - **Erfpacht**: dit tabblad bevat kadastrale informatie over de OG Eenheid. 
  - **VERA-eigenschappen**: dit tabblad bevat de enkelvoudige VERA-eigenschappen 
- - **VvE**: als de OG onderdeel is van een gebouw dit tabblad bevat informatie over het VvE-cluster waartoe de OG Eenheid behoort 
- - 
+ - **VvE**: als de OG onderdeel is van een gebouw waarin een VvE actief is, dan bevat dit tabblad informatie over het VvE-cluster waartoe de OG Eenheid behoort. 
+ - **Afrekening beheergever**: n.t.b. 
 
 
  - Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
@@ -177,7 +177,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNjc0ODM4LDEwMDQ3MjE2NDYsMjI0Nz
+eyJoaXN0b3J5IjpbOTQ5NTA2NjgwLDEwMDQ3MjE2NDYsMjI0Nz
 Y5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3
 LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwND
 gzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5
