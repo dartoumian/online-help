@@ -90,10 +90,8 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
  2. Selecteer de OG Eenheid
  3. Open tabblad **Exploitatie (Fin.)**.  
  4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen. 
- 5. Indien de streefhuur van de OG Eenheid dynamisch bepaald moet worden, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode**.  Selecteer dan ook een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. 
- 6. Indien de streefhuur van de OG Eenheid statisch bepaald moet worden, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaaeen waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**.
-
-1. Bla bla  
+ 5. Indien de streefhuur van de OG Eenheid dynamisch bepaald moet worden, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode**.  Selecteer dan ook een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is. 
+ 6. Indien de streefhuur van de OG Eenheid statisch bepaald moet worden, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is. 
 
 <hr>
 
@@ -125,9 +123,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDk2MzQ4MSwtNzQ2NDA5OTMsMTE2ND
-kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
-NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
-g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
-ODFdfQ==
+eyJoaXN0b3J5IjpbMzE0MTA3OTgsLTc0NjQwOTkzLDExNjQ5MT
+U4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUs
+LTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4ND
+U5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgx
+XX0=
 -->
