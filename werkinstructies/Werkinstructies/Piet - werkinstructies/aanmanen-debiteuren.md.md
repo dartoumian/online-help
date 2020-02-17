@@ -43,7 +43,7 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
 	* **Aanvullende kosten aanpassen:** Ja.
 	* **Aanmaningsniveau bijwerken:** Ja.
-10. Klik op **OK**. De test van de aanmaning wordt nu bijgewerkt o.b.v. de bedragen uit de oorspronkelijke vorderingen. U keert terug naar de pagina **Aanmaningen**. De aanmaningsvoorstellen voor betalingsregelingen zijn klaar om verstuurd te worden. U kunt voor de zekerheid de voorstellen nog een keer controleren. Ga verder naar de processtap **[Controleren voorstellen en aanpassen individuele aanmaning]#controleren-voorstellen-en-aanpassen-individuele-aanmaning
+10. Klik op **OK**. De test van de aanmaning wordt nu bijgewerkt o.b.v. de bedragen uit de oorspronkelijke vorderingen. U keert terug naar de pagina **Aanmaningen**. De aanmaningsvoorstellen voor betalingsregelingen zijn klaar om verstuurd te worden. U kunt voor de zekerheid de voorstellen nog een keer controleren. Ga verder naar de processtap **[Controleren voorstellen en aanpassen individuele aanmaning](#controleren-voorstellen-en-aanpassen-individuele-aanmaning)**.
 
 ## Controleren voorstellen en aanpassen individuele aanmaning
 
@@ -76,7 +76,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYwNjk4NzMsMTI2MjYyODEyLDkxNz
+eyJoaXN0b3J5IjpbLTE2MDYzNzc2MjQsMTI2MjYyODEyLDkxNz
 g1NTY1MywtMTE4NzA1NDYzNywyODgyNjUwMzYsMTA1MTU3NTIw
 Nl19
 -->
