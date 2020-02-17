@@ -80,7 +80,9 @@ Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgend
 ## Aanpassen streefhuur
 In deze stap past u de streefhuurmethode van de OG Eenheid aan van **Statisch** naar **Dynamisch** of andersom. Als de streefhuurmethode is ingesteld op Dynamisch, kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op Statisch, kunt u het streefhuurbedrag aanpassen. 
 
-De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individuele G Enheid het cluster waartoe de OG Eenheid behoort. In dat geval stelt u de streefhuurmethode, het streefhuurpercentage en/of het streefhuurbedrag in bij een PMC-cluster, waarna het systeem deze instellingen automatisch toepast bij alle OG Eenheden die tot dat cluster behoren. 
+De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individuele OG Eenheid of op het niveau van het PMC-cluster waartoe de OG Eenheid behoort. In dat laatste geval stelt u de streefhuurmethode, het streefhuurpercentage en/of het streefhuurbedrag in bij een PMC-cluster, waarna het systeem deze instellingen automatisch toepast bij alle OG Eenheden die tot dat cluster behoren. 
+
+Per OG Eenheid bepaalt u met het veld **of 
 
 U kunt als volgt de streefhuur van een OG Eenheid aanpassen: 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
@@ -120,9 +122,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY3OTM2MzcsLTc0NjQwOTkzLDExNj
-Q5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3Mzgx
-NDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsND
-A4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgx
-OTgxXX0=
+eyJoaXN0b3J5IjpbLTI0Njg2ODcxMiwtNzQ2NDA5OTMsMTE2ND
+kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
+NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
+g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
+ODFdfQ==
 -->
