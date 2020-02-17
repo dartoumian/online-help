@@ -73,7 +73,8 @@ Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgend
 	 - **Toilet**: het aantal punten voor dit aspect wordt bepaald door de vraag of het toilet al dan niet wordt gedeeld met andere onzelfstandige woonruimten. Selecteer de waarde die van toepassing is voor het toilet van de onzelfstandige woonruimte.
 	 - **Wasgelegenheid**: het aantal punten voor dit aspect wordt bepaald door de vraag of de douche of bad respectievelijk de wastafel al dan niet wordt gedeeld met andere onzelfstandige woonruimten. Selecteer de waarde die van toepassing is voor de douche/het bad resp. de wastafel van de onzelfstandige woonruimte. 
 	 - **Kwaliteitsfactoren**: dit aspect heeft betrekking op de aanwezigheid van thermostatische regelknoppen op de radiatoren, buitenruimten en fietsenberging. Selecteer de waarde die van toepassing is voor de onzelfstandige woonruimte. 
-	 - **Beschermd monument**: 
+	 - **Beschermd monument**:  extra punten indien de onzelfstandige woonruimte deel uitmaakt van een beschermd monument. Selecteer deze indicatie inden van toepassing. 
+	 - **Aftrekpunten**: selecteer de aspecten 
 
 
 ## Aanpassen streefhuur
@@ -111,7 +112,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjYxODYyLC03NDY0MDk5MywxMTY0OT
+eyJoaXN0b3J5IjpbNzQ1MDQwMzMxLC03NDY0MDk5MywxMTY0OT
 E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
 LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwOD
 Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
