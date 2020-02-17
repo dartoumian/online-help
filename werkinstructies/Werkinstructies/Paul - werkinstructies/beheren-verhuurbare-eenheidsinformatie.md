@@ -98,7 +98,11 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
 ### Aanpassen exploitatievorm
 In deze stap past u de exploitatievorm van de OG Eenheid aan. U kunt een exploitatievorm koppelen of juist ontkoppelen van de OG Eenheid. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  
 
-1. Bla bla  
+U kunt als volgt een exploitatievorm koppelen aan of ontkoppelen van een OG Eenheid: 
+ 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid
+ 3. Klik op **EWoningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies). 
 
 <hr>
 
@@ -123,9 +127,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OT
-E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
-LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwOD
-Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
-MV19
+eyJoaXN0b3J5IjpbNzA0NjcwNiwyMDcwNDE3MzcsLTc0NjQwOT
+kzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0
+NDc3MzgxNDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0OD
+E2NjUsNDA4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0x
+NjUyOTgxOTgxXX0=
 -->
