@@ -4,7 +4,7 @@ In dit werkproces worden de debiteuren gesegmenteerd op basis van betaalgedrag o
 
 ## Voorstellen segmentatie
 
-In deze stap wordt een voorstel gemaakt voor het wijzigen van segment voor specifieke klanten.
+In deze stap wordt een voorstel gemaakt voor het wijzigen van segment voor specifieke klanten
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Segmentatievoorstellen**. 
 2. De gelijknamige pagina opent. Klik op **Segmentatievoorstellen aanmaken**.
@@ -21,6 +21,7 @@ In deze stap wordt de voorgestelde segmentatie toegepast.
 3. Klik op **OK**. De voorstellen worden toegepast. Dit betekent dat de aanmaningsconditie op de klanten aangepast wordt naar het voorgestelde segment. U keert terug naar de pagina **Segmentatie Voorstellen**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMwOTM0MTcsODcxMDM1NDAsLTE0OD
-A0NjEzNiwtNTM2NzE2MzMxLDgyOTU5MTUwNV19
+eyJoaXN0b3J5IjpbLTE0OTEzMTI1MywtMTc4MzA5MzQxNyw4Nz
+EwMzU0MCwtMTQ4MDQ2MTM2LC01MzY3MTYzMzEsODI5NTkxNTA1
+XX0=
 -->
