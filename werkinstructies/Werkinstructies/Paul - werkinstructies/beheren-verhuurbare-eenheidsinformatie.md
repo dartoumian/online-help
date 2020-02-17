@@ -129,7 +129,19 @@ U vraagt als volgt een wijziging van de administratief eigenaar aan:
  4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een lege regel met het eenheidsnummer en het adres van de geselecteerde OG Eenheid wordt getoond. 
  5. Vul in de **Ingangsdatum wijziging**. Let op: deze datum moet ná vandaag liggen en op of ná de datum t/m wanneer de OG Eenheid is geprolongeerd. 
  6. In kolom **Nieuwe dimensiewaarde** selecteert u de nieuwe administratief eigenaar. 
- 7. De regel krijgt automatisch de Status *Voorlopig*. 
+ 7. De regel krijgt automatisch de **Status** *Voorlopig*. 
+
+
+U keurt als volgt een wijziging van de administratief eigenaar goed: 
+1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid
+ 3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
+ 4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** *Voorlopig* wordt getoond. 
+ 5. Klik op **Goedkeuren. 
+ 7. De regel krijgt automatisch de **Status** *Voorlopig*. 
+
+
 
 <hr>
 
@@ -147,7 +159,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAyMDQ3ODEsMTkzNTM3NDI0MiwtMT
+eyJoaXN0b3J5IjpbLTExODk2NjQyNjgsMTkzNTM3NDI0MiwtMT
 U1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4
 NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLT
 EyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5
