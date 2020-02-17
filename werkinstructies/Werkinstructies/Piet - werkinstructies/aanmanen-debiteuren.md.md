@@ -25,7 +25,7 @@ Nadat de aanmaningsvoorstellen gegenereerd zijn kunt u deze opschonen en control
 2. Selecteer alle aanmaningsvoorstellen en klik op **Verwijderen**. Er wordt nu een lege lijst getoond.
 3. Verwijder het ingestelde filter, en de aanmaningen van het niveau dat u wilt versturen worden getoond.
 4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen, en het aanmaningsniveau betekent dat de betalingsregeling vervalt, ga dan verder naar de processtap **[Verwerken aanmaningen beëindigde betalingsregeling](#verwerken-aanmaningen-beëindigde-betalingsregeling)**. 
-5. In alle andere gevallen gaat u door naar de processtap **#controleren-voorstellen-en-aanpassen-individuele-aanmaning**
+5. In alle andere gevallen gaat u door naar de processtap **[Controleren voorstellen en aanpassen individuele aanmaning](#controleren-voorstellen-en-aanpassen-individuele-aanmaning)**.
 
 ## Verwerken aanmaningen beëindigde betalingsregeling
 
@@ -76,6 +76,6 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzU1NzQzMSwyODgyNjUwMzYsMTA1MT
-U3NTIwNl19
+eyJoaXN0b3J5IjpbLTExODcwNTQ2MzcsMjg4MjY1MDM2LDEwNT
+E1NzUyMDZdfQ==
 -->
