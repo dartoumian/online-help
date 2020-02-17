@@ -32,7 +32,8 @@ U past de basisinformatie van de OG Eenheid als volgt aan:
  - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
  - Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
  - Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd. 
-In tabblad **Algemeen** kunt u algemene basisinformatie van de verhuurbare eenheid invullen en wijzigen. De belangrijkste velden zijn: 
+
+De belangrijkste velden in tabblad **Algemeen** zijn: 
 	- **Type**: geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
 	- **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
 	- **Vraagboomsoort**: geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken. 
@@ -40,7 +41,10 @@ In tabblad **Algemeen** kunt u algemene basisinformatie van de verhuurbare eenhe
 	- **Betreft**: 
 	- **Etagewoning** en **Etage**: geeft aan of de eenheid een etagewoning betreft, en zo ja, op welke etage (de voordeur van) de woning zich bevindt. 
 	
- - In tabblad **Adressen** kunt u het adres van de OG Eenheid zien en wijzigen. U wijzigt het adres door in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in te voeren (zonder spaties, bijvoorbeeld '1234AA33B'). Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
+ In tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
+- in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in te voeren (zonder spaties, bijvoorbeeld '1234AA33B'). Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
+
+
  - De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**. 
  - In tabblad **Exploitatie (Alg)** kunt u informatie over de exploitatie van de OG Eenheid beheren. 
@@ -178,10 +182,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEwODM5MzUsMTAwNDcyMTY0NiwyMj
-Q3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIsLTE1NTA1Nzgy
-NTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0LC02Mz
-A0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQy
-ODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxOD
-QwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
+eyJoaXN0b3J5IjpbLTI3NjY1MDI2MSwxMDA0NzIxNjQ2LDIyND
+c2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1
+NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMD
+Q4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4
+OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4ND
+A3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
 -->
