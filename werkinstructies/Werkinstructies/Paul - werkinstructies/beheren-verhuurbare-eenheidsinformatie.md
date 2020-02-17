@@ -141,8 +141,7 @@ U keurt als volgt een wijziging van de administratief eigenaar goed:
  5. Klik op **Goedkeuren**.  
  6. De regel krijgt automatisch de **Status** *Goedgekeurd*. 
  7. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt weer geopend, nu met een extra regel met de nieuwe administratief eigenaar. 
- 8. Pas desgewenst de 
-
+ 8. Pas desgewenst de **Verhuring ingangdatum** aan in een datum die eerder ingaat dan de **Financiële ingangsdatum**. 
 
 
 <hr>
@@ -161,10 +160,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjE5MDAzOSwxMzMxODM2NzMsMTkzNT
-M3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkz
-LDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0ND
-c3MzgxNDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2
-NjUsNDA4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNj
-UyOTgxOTgxXX0=
+eyJoaXN0b3J5IjpbMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mz
+c0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMs
+MTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0Nz
+czODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2
+NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NT
+I5ODE5ODFdfQ==
 -->
