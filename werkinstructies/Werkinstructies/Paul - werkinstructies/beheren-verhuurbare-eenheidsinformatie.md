@@ -18,7 +18,7 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid. 
  - **Adresssen**: dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld. 
  - **Exploitatie (Alg)**: dit tabblad bevat algemene informatie over de exploitatie van de OG Eenheid, waaronder de doelgroep waarvoor de OG Eenheid is bestemd en een indicatie of de eenheid al dan niet als woning moet worden verantwoord (passendheidstoets en staatsteunregeling). 
- - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurmethode, het streefhuurpercentage,het streefhuurbedrag, het huurbeleid dat met worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
+ - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen , het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
  - **Inspectie**: dit tabblad bevat informatie over de mutatie-inspecties die worden uitgevoerd zodra een huuropzegging van de OG Eenheid wordt afgehandeld. 
  - **WRB**: dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
  - **Erfpacht**: dit tabblad bevat kadastrale informatie over de OG Eenheid. 
@@ -183,7 +183,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjQzMzQxLDE0OTY2MjM0MDQsMTAwND
+eyJoaXN0b3J5IjpbMzA1NTM2Mjk1LDE0OTY2MjM0MDQsMTAwND
 cyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIs
 LTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OT
 E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
