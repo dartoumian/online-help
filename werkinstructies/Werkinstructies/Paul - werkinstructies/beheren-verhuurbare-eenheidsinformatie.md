@@ -117,7 +117,8 @@ Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren he
 
 Beide ingangsdata zijn standaard gelijk aan elkaar, maar u kunt de verhuringsingangsdatum desgewenst eerder laten ingaan dan de financiële ingangsdatum. 
 
-1. Bla bla  
+Het wijzigen van de administratief eigenaar van ene OG Eenheid gaat in twee stappen: 
+1. Aanvraag  
 
 <hr>
 
@@ -135,9 +136,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzA4OTg4MSwtMTU1MDU3ODI1NywyMD
-cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
-Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
-cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
-MjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
+eyJoaXN0b3J5IjpbNjg0MTA3NDU5LC0xNTUwNTc4MjU3LDIwNz
+A0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkz
+LDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNz
+EyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMy
+MCw1MTEyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
 -->
