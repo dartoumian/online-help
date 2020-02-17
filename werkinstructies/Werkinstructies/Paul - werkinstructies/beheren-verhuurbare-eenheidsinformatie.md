@@ -80,6 +80,12 @@ Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgend
 ## Aanpassen streefhuur
 In deze stap past u de streefhuurmethode van de OG Eenheid aan van **Statisch** naar **Dynamisch** of andersom. Als de streefhuurmethode is ingesteld op Dynamisch, kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op Statisch, kunt u het streefhuurbedrag aanpassen.
 
+U kunt als volgt een nieuwe versie van de woningwaardering aanmaken voor een OG Eenheid: 
+ 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid
+ 3. Klik op **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies). 
+
 1. Bla bla  
 
 <hr>
@@ -112,9 +118,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTUwMzk0MCwtNzQ2NDA5OTMsMTE2ND
-kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
-NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
-g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTExOTMwMjI3MjEsLTc0NjQwOTkzLDExNj
+Q5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3Mzgx
+NDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsND
+A4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgx
+OTgxXX0=
 -->
