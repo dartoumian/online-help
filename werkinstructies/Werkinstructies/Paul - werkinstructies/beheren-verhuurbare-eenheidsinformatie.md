@@ -69,7 +69,7 @@ Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgend
 	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
 	 - **Oppervlakte**:  Oppervlakte van kamers behorende uitsluitend tot de onzelfstandige woonruimte en oppervlakte van gemeenschappelijke verblijfsruimten. Per m2 wordt een aantal punten berekend conform het beleidsboek. Klik op de drie puntjes in het veld **Totaal eigen vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. Vul de totale oppervlakte van de gemeenschappelijke ruimten in in veld **Gem. verblijfsruimte(n) (verwarmd)**. Vul het totaal aantal onzelfstandige woonruimtes die gebruik maken van de gemeenschappelijke ruimte(n) in in het veld **Per ## kamers (factor 5/##)**. 
 	 - **Verwarmingsmogelijkheden**:  het aantal punten voor dit aspect wordt bepaald door de totale oppervlakte van de verwarmde eigen vertrekken, aangevuld met extra punten voor een gasaansluiting. Vul het totaal aantal m2 van de verwarmde eigen vertrekken van de onzelfstandige woonruimte in in veld **Eigen vertrekken (factor 3/4)**. Selecteer indien van toepassing de indicatie **Gasaansluiting (factor 3)**. 
-	 - **Kookgelegenheid**:  het aantal punten voor dit aspect wordt 
+	 - **Kookgelegenheid**:  het aantal punten voor dit aspect wordt bepaald door het soort en de oppervlakte van de keuken. Selecteer de waarde die va toepassing is voor de keuken van de onzelfstandige woonruimte. 
 	 - **Toilet**: 
 	 - **Wasgelegenheid**: 
 	 - **Kwaliteitsfactoren**: 
@@ -111,9 +111,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4Mjc5NjI4LC03NDY0MDk5MywxMTY0OT
-E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
-LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwOD
-Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
-MV19
+eyJoaXN0b3J5IjpbMTM4Mzk1ODU0NiwtNzQ2NDA5OTMsMTE2ND
+kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
+NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
+g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
+ODFdfQ==
 -->
