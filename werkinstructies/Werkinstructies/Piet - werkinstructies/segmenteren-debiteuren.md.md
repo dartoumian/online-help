@@ -4,10 +4,10 @@ In dit werkproces worden de debiteuren gesegmenteerd op basis van betaalgedrag o
 
 ## Voorstellen segmentatie
 
-In deze stap wordt een voorstel gemaakt voor het wijzigen van klanten welke klanten van segment wijzigen. 
+In deze stap wordt een voorstel gemaakt voor het wijzigen van klanten wvan segment. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Segmentatievoorstellen**. 
-2. De pagina **Segmentatie Voorstellen** opent. Klik op **Segmentatievoorstellen aanmaken**
+2. De gelijknamige pagina **Segmentatie Voorstellen** opent. Klik op **Segmentatievoorstellen aanmaken**
 3. De pagina **Segmentatievoorstellen aanmaken** opent. Klik op **OK**. De segmentatievoorstellen worden aangemaakt. 
 4. U komt weer teug op de pagina **Segmentatievoorstellen**. Hier vindt u een voorstel voor de klanten die van segment wisselen o.b.v. de ingestelde voorwaarden. 
 5. Wanneer u wilt dat een klant niet van segment wijzigt kunt u het voorstel voor deze klant weggooien door de regel te selecteren en op **Verwijderen** te klikken. 
@@ -21,5 +21,5 @@ In deze stap wordt de voorgestelde segmentatie toegepast.
 3. Klik op **OK**. De voorstellen worden toegepast. Dit betekend dat de aanmaningsconditie op de klanten aangepast wordt naar het voorgestelde segment. U keert terug naar de pagina **Segmentatie Voorstellen**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NTkxNTA1LDE3NTE1NDQ2NzRdfQ==
+eyJoaXN0b3J5IjpbMTA2NTg5NTQxNyw4Mjk1OTE1MDVdfQ==
 -->
