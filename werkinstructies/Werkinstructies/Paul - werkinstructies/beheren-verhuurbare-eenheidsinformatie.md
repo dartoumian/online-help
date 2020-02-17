@@ -96,7 +96,7 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
 <hr>
 
 ### Aanpassen exploitatievorm
-In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  Elke exploitatievorm is van een bepaald soort: *Verhuur*, *Verkoop* of *Uit beheer*. U kunt een exploitatievorm koppelen of juist ontkoppelen van de OG Eenheid. 
+In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  U kunt een exploitatievorm koppelen of juist ontkoppelen van de OG Eenheid. Elke exploitatievorm is van een bepaald soort (*Verhuur*, *Verkoop* of *Uit beheer*) en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**. 
 
 U kunt als volgt een exploitatievorm koppelen aan of ontkoppelen van een OG Eenheid: 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
@@ -127,7 +127,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUzNTcyMjEsMjA3MDQxNzM3LC03ND
+eyJoaXN0b3J5IjpbLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03ND
 Y0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4
 LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsND
 gwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2
