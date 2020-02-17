@@ -37,9 +37,9 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 4. De pagina **Beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
 5. U keert terug naar de pagina **beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
 6. Herhaal stap 2 tot en met 5 voor allen aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
-7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina **Aanmaning**. U keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
-8. Klik op **Aanmaningsregels voorstellen**. De pagina **Aanmaningsregels voorstellen** opent. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen. U keert terug naar de pagina **aanmaningen**.
-9. Selecteerd opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken**. De pagina **Aanmaningstekst bijwerken** opent. Vul de volgende velden:
+7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
+8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen e keert terug naar de pagina **Aanmaningen**.
+9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken**. De pagina **Aanmaningstekst bijwerken** opent. Vul de volgende velden:
 	* **Aanmaningsniveau:** het aanmaningsniveau voor vervallen betalingsregelingen op. 
 	* **Aanvullende kosten aanpassen:** Ja
 	* **Aanmaningsniveau bijwerken:** Ja
@@ -76,6 +76,6 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU5NDE3OCw5MTc4NTU2NTMsLTExOD
-cwNTQ2MzcsMjg4MjY1MDM2LDEwNTE1NzUyMDZdfQ==
+eyJoaXN0b3J5IjpbMTU5NzEwMTE0LDkxNzg1NTY1MywtMTE4Nz
+A1NDYzNywyODgyNjUwMzYsMTA1MTU3NTIwNl19
 -->
