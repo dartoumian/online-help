@@ -72,7 +72,7 @@ Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgend
 	 - **Kookgelegenheid**:  het aantal punten voor dit aspect wordt bepaald door het soort en de oppervlakte van de keuken. Selecteer de waarde die van toepassing is voor de keuken van de onzelfstandige woonruimte. 
 	 - **Toilet**: het aantal punten voor dit aspect wordt bepaald door de vraag of het toilet al dan niet wordt gedeeld met andere onzelfstandige woonruimten. Selecteer de waarde die van toepassing is voor het toilet van de onzelfstandige woonruimte.
 	 - **Wasgelegenheid**: het aantal punten voor dit aspect wordt bepaald door de vraag of de douche of bad respectievelijk de wastafel al dan niet wordt gedeeld met andere onzelfstandige woonruimten. Selecteer de waarde die van toepassing is voor de douche/het bad resp. de wastafel van de onzelfstandige woonruimte. 
-	 - **Kwaliteitsfactoren**: 
+	 - **Kwaliteitsfactoren**: dit aspect heeft betrekking op de aanwezigheid van thermostatische regelknoppen op de radiatoren, buitenruimten en fietsenberging. Selecteer de waarde die van toepassing is voor de onzelfstandige woonruimte. 
 	 - **Beschermd monument**: 
 
 
@@ -111,9 +111,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODgyODYyNiwtNzQ2NDA5OTMsMTE2ND
-kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
-NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
-g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTg2MjYxODYyLC03NDY0MDk5MywxMTY0OT
+E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
+LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwOD
+Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
+MV19
 -->
