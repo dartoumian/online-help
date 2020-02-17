@@ -112,9 +112,10 @@ U kunt als volgt een exploitatievorm toevoegen aan of verwijderen van een OG Een
 In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Deze DAEB-aanduiding heeft enerzijds invloed op de financiële boekingen van kosten en opbrengsten die gemaakt worden op de OG Eenheid en anderzijds invloed op de verantwoording verhuring (staatssteunregeling) van toewijzingen van de OG Eenheid aan nieuwe huurders. 
 
 Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één administratief eigenaar. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. In Empire wordt onderscheid gemaakt tussen twee soorten ingangsdata: 
-De *financiële ingangsdatum*, d.w.z. de ingangsdatum die bepalend is voor de financiële boekingen van kosten en opbrengsten; en de verhuringsingangsdatum. 
+- De *financiële ingangsdatum*, d.w.z. de ingangsdatum die bepalend is voor de financiële boekingen van kosten en opbrengsten; en 
+- De *verhuringsingangsdatum*. d.w.z. de ingangsdatum die bepalend is voor de verantwoording verhuring (staatssteunregeling). 
 
-Beide ingangsdata zijn standaard gelijk aan elkaar, 
+Beide ingangsdata zijn standaard gelijk aan elkaar, maar u kunt de verhuringsingangsdatum desgewenst eerder laten ingaan dan de financiële ingangsdatum. 
 
 1. Bla bla  
 
@@ -134,7 +135,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjM1MzIzNywtMTU1MDU3ODI1NywyMD
+eyJoaXN0b3J5IjpbMTA3MzA4OTg4MSwtMTU1MDU3ODI1NywyMD
 cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
 Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
 cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
