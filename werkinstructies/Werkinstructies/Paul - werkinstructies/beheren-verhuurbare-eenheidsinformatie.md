@@ -109,7 +109,10 @@ U kunt als volgt een exploitatievorm toevoegen aan of verwijderen van een OG Een
 <hr>
 
 ### Aanpassen administratief eigenaar
-In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één administratief eigenaar. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. In Empire wordt onderscheid gemaakt tussen de financiële ingangsdatum en de verhuringsingangsdatum. Beide ingangsdata zijn standaard gelijk aan elkaar, 
+In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Dit heeft enerzijds invloed op de financiële boekingen van kosten en opbrengsten die gemaakt worden op de OG Eenheid en anderzijds invloed op de verantwoording verhuring (sEen OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één administratief eigenaar. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. In Empire wordt onderscheid gemaakt tussen twee soorten ingangsdata: 
+De financiële ingangsdatum en de verhuringsingangsdatum. 
+
+Beide ingangsdata zijn standaard gelijk aan elkaar, 
 
 1. Bla bla  
 
@@ -129,7 +132,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDM1ODA2LC0xNTUwNTc4MjU3LDIwNz
+eyJoaXN0b3J5IjpbLTgxNzgxNjc2LC0xNTUwNTc4MjU3LDIwNz
 A0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkz
 LDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNz
 EyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMy
