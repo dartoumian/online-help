@@ -56,7 +56,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Oppervlakte overige ruimtes**: oppervlakte van de ruimtes van de zelfstandige woonruimte die conform het beleidsboek moeten worden beschouwd als overige ruimtes. Klik op de drie puntjes in het veld **Totale opp. ruimtes**, selecteer één of meer overige ruimtes en vul per overige ruimte de oppervlakte van de ruimte conform het beleidsboek in. 
 	 - **Verwarming**: aantal verwarmde vertrekken en overige ruimtes. In het geval van aansluiting op een warmtenet geldt een andere puntentelling. Vul het aantal verwarmde vertrekken en het aantal verwarmde overige ruimtes in. Vink indicatie armewet vanpassingn** is als de woonruimte is aangesloten op een warmtenet.En 
 	 - **Energieprestatie**:  de energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatienergie-.prestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparameatersets** 
-	 - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Lan
+	 - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonrui
 	 - **Sanitair** 
 	 - **Woonvoorziening voor gehandicapten**: 
 	 - **Buitenruimte**: 
@@ -99,7 +99,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjI2ODUwNSwxODAxODQxMTQ4LDQ4MD
-Q4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIs
-LTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbNDI5NDE5MDIyLC03MTIyNjg1MDUsNDgwND
+gxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2Miwt
+MTY1Mjk4MTk4MV19
 -->
