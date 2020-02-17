@@ -127,7 +127,8 @@ U vraagt als volgt een wijziging van de administratief eigenaar aan:
  2. Selecteer de OG Eenheid
  3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
  4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een lege regel met het eenheidsnummer en het adres van de geselecteerde OG Eenheid wordt getoond. 
- 5. Vul in de **
+ 5. Vul in de **Ingangsdatum wijziging**. Let op: deze datum moet ná vandaag liggen en op of ná de datum t/m wanneer de OG Eenheid is geprolongeerd. 
+ 6. 
 
 <hr>
 
@@ -145,9 +146,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4Mjc0MjksLTE1NTA1NzgyNTcsMjA3MD
-QxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMs
-NjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MT
-IyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIw
-LDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
+eyJoaXN0b3J5IjpbMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMD
+cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
+Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
+cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
+MjAsNTExMjY0NzYyLC0xNjUyOTgxOTgxXX0=
 -->
