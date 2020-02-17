@@ -52,8 +52,9 @@ Toelichting op de overige velden in tabblad **Adressen**:
 De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
 	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  
 	- **Clusterstreefhuurbepaling**: geeft aan of de .
-	- **Streefhuurmethode**: bepaalt de methode via welke de streefhuur  wordt bepaald: *Dynamisch* of *Statisch*. In het geval van *Dynamisch* dan wordt de streefhuur berekent als percentage van de maximale huurprijs van de OG Eenheid. 
+	- **Streefhuurmethode**: bepaalt de methode via welke de streefhuur  wordt bepaald: *Dynamisch* of *Statisch*. In het geval van *Dynamisch* dan wordt de streefhuur berekent als percentage van de maximale huurprijs van de OG Eenheid, die op zijn beurt wordt bepaald door de woningwaardering van de OG Eenheid. In het geval van *Statisch* kunt u de streefhuur van de OG Eenheid rechtstreeks invoeren. 
 	- **Code streefhuur t.o.v. max huurprijs**: dit bepaalt het streefhuurpercentage. 
+	- **Streefhuur jjj** 
 
  
 ## Aanpassen woningwaardering
@@ -189,7 +190,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjI0MDE2OSwxNDk2NjIzNDA0LDEwMD
+eyJoaXN0b3J5IjpbMTc2MjY0NjcyMiwxNDk2NjIzNDA0LDEwMD
 Q3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQy
 LC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2ND
 kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
