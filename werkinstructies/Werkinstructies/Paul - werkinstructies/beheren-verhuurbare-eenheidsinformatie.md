@@ -89,7 +89,7 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Open tabblad **Exploitatie (Fin.)**.  
- 4. De huidige instellingen van de  
+ 4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de 
 
 1. Bla bla  
 
@@ -123,7 +123,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU3MDI2MTYsLTc0NjQwOTkzLDExNj
+eyJoaXN0b3J5IjpbLTE1NDk5NTEzNjksLTc0NjQwOTkzLDExNj
 Q5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3Mzgx
 NDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsND
 A4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgx
