@@ -147,7 +147,7 @@ U keurt als volgt een wijziging van de administratief eigenaar goed:
 <hr>
 
 ### Aanpassen contactpersonen
-In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoon behoort tot een functiegroep, zoals huismeester.  
+In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoon behoort tot een functiegroep, zoals huismeester.  Eén OG Eenheid kan per functiegroep maximaal één contactpersoon hebben. 
 
 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
@@ -155,7 +155,7 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  3. In het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond.  
  4. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**. 
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
- 6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Functie**.
+ 6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 
 <hr>
 
@@ -166,7 +166,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDE3OTczNCwyMjQ3NjkyMjUsMTMzMT
+eyJoaXN0b3J5IjpbMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMT
 gzNjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3
 LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OT
 kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
