@@ -57,7 +57,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Verwarming**: aantal verwarmde vertrekken en overige ruimtes. In het geval van aansluiting op een warmtenet geldt een andere puntentelling. Vul het aantal verwarmde vertrekken en het aantal verwarmde overige ruimtes in. Vink indicatie armewet vanpassingn** is als de woonruimte is aangesloten op een warmtenet.En 
 	 - **Energieprestatie**:  de energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatienergie-.prestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparameatersets** 
 	 - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonruimte. 
-	 - **Sanitair**: het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is in de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten sanitair** en selecteer de kwaliteitsaspecten die van toepassing zijn op het sanitair van de zelfstandige woonruimte. 
+	 - **Sanitair**: het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is iKlik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten sanitairkeuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op het sanitairde keuken van de zelfstandige woonruimte. 
 	 - **Woonvoorziening voor gehandicapten**:  het aantal punte
 	 - **Buitenruimte**: 
 	 - **WOZ-waarde** 
@@ -99,7 +99,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTIzODIwNywtNzEyMjY4NTA1LDQ4MD
-Q4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIs
-LTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDUwNDI4OTEsMTc5NTIzODIwNywtNz
+EyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMy
+MCw1MTEyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
 -->
