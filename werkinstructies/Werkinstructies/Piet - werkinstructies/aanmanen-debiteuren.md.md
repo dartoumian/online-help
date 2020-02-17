@@ -36,14 +36,14 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 3. Klik op **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op **Ja**. 
 4. De pagina **eëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
 5. U keert terug naar de pagina **beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
-6. Herhaal stap 2 tot en met 5 voor allen aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
+6. Herhaal stap 2 tot en met 5 voor alle aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
 7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
 8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar de pagina **Aanmaningen**.
 9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken**. Vul op de nu geopende pagina de volgende velden:
-	* **Aanmaningsniveau:** het aanmaningsniveau voor vervallen betalingsregelingen op. 
-	* **Aanvullende kosten aanpassen:** Ja
-	* **Aanmaningsniveau bijwerken:** Ja
-10. Klik op **OK**. De test van de aanmaning wordt nu bijgewerkt o.b.v. de bedragen uit de oorspronkelijke vorderingen. U keert terug naar de pagina **Aanmaningen**. De aanmaanvoorstellen voor betalingsregelingen zijn klaar om verstuurd te worden. U kunt voor de zekerheid de voorstellen nog een keer controleren. Ga verder naar de processtap #controleren-voorstellen-en-aanpassen-individuele-aanmaning
+	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
+	* **Aanvullende kosten aanpassen:** Ja.
+	* **Aanmaningsniveau bijwerken:** Ja.
+10. Klik op **OK**. De test van de aanmaning wordt nu bijgewerkt o.b.v. de bedragen uit de oorspronkelijke vorderingen. U keert terug naar de pagina **Aanmaningen**. De aanmaningsvoorstellen voor betalingsregelingen zijn klaar om verstuurd te worden. U kunt voor de zekerheid de voorstellen nog een keer controleren. Ga verder naar de processtap **[Controleren voorstellen en aanpassen individuele aanmaning]#controleren-voorstellen-en-aanpassen-individuele-aanmaning
 
 ## Controleren voorstellen en aanpassen individuele aanmaning
 
@@ -76,7 +76,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE5NTkzNDUsMTI2MjYyODEyLDkxNz
+eyJoaXN0b3J5IjpbLTE2MDYwNjk4NzMsMTI2MjYyODEyLDkxNz
 g1NTY1MywtMTE4NzA1NDYzNywyODgyNjUwMzYsMTA1MTU3NTIw
 Nl19
 -->
