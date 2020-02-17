@@ -4,11 +4,11 @@ In dit werkproces worden de debiteuren gesegmenteerd op basis van betaalgedrag o
 
 ## Voorstellen segmentatie
 
-In deze stap wordt een voorstel gemaakt voor het wijzigen van klanten wvan segment. 
+In deze stap wordt een voorstel gemaakt voor het wijzigen van segment. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Segmentatievoorstellen**. 
-2. De gelijknamige pagina opent. Klik op **Segmentatievoorstellen aanmaken**.
-3. Klik op de pagina **Segmentatievoorstellen aanmaken** op **OK**, waarna de segmentatievoorstellen worden aangemaakt.
+2. De gelijknamige ginamie n opent. Klik op **Segmentatievoorstellen aanmaken**.
+3. Klik op dDe pagina **Segmentatievoorstellen aanmaken** op **OK**, waarna de segmentatievoorstellen worden aangemaakt.
 4. U komt weer teug op de pagina **Segmentatievoorstellen**. Hier vindt u een voorstel voor de klanten die van segment wisselen o.b.v. de ingestelde voorwaarden. 
 5. Wanneer u wilt dat een klant niet van segment wijzigt kunt u het voorstel voor deze klant weggooien door de regel te selecteren en op **Verwijderen** te klikken. 
 
@@ -17,9 +17,10 @@ In deze stap wordt een voorstel gemaakt voor het wijzigen van klanten wvan segme
 In deze stap wordt de voorgestelde segmentatie toegepast. 
 
 1. Selecteer op de pagina **Segmentatie Voorstellen** de segmentatievoorstellen die u wilt toepassen. 
-2. Klik op **Segmentatievoorstellen toepassen**. De pagina **Segmentatievoorstellen toepassen** opent. 
+2. Klik op **Segmentatievoorstellen toepassen**. e pagina **Segmentatievoorstellen toepassen** opent. 
 3. Klik op **OK**. De voorstellen worden toegepast. Dit betekend dat de aanmaningsconditie op de klanten aangepast wordt naar het voorgestelde segment. U keert terug naar de pagina **Segmentatie Voorstellen**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjcxNjMzMSw4Mjk1OTE1MDVdfQ==
+eyJoaXN0b3J5IjpbLTE0ODA0NjEzNiwtNTM2NzE2MzMxLDgyOT
+U5MTUwNV19
 -->
