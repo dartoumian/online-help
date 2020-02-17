@@ -58,9 +58,8 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Energieprestatie**:  de energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatienergie-.prestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparameatersets** 
 	 - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonruimte. 
 	 - **Sanitair**: het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is iKlik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten sanitairkeuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op het sanitairde keuken van de zelfstandige woonruimte. 
-	 - **Woonvoorziening voor gehandicapten**:  het aantal punten wordt bepaald door de investering die de verhuurder heeft besteed aan het geschikt maken van de zelfstandige woonruimte voor bewoning door gehandicapten. Vul de investering in het veld **Investering voorzieningen** in.   uitenruimte**:  het aantal punten wordt bepaald door de totale oppervlakte van de privé buitenruimten. Zie het beleidsboek voor de definitie van buitenruimte en voor de regels via welke de oppervlakte moet worden bepaald. Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velde 
-	 - **WOZ-r het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is 
-	 - **WOZ-waarde**niet alleen afhankelijk van de WOZ-waarde maar ook van de totale oppervlakte van de vertrekken en overige ruimten en van de wett. 
+	 - **Woonvoorziening voor gehandicapten**:  het aantal punten wordt bepaald door de investering die de verhuurder heeft besteed aan het geschikt maken van de zelfstandige woonruimte voor bewoning door gehandicapten. Vul de investering in het veld **Investering voorzieningen** in.   uitenruimte**:  het aantal punten wordt bepaald door de totale oppervlakte van de privé buitenruimten. Zie het beleidsboek voor de definitie van buitenruimte en voor de regels via welke de oppervlakte moet worden bepaald. Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden.  
+	 - **WOZ-waardering**: het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, 
 	 - **Renovatie**: 
 	 - **Bijzondere voorzieningen**: 
 
@@ -99,8 +98,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzQ0OTUzNywtMTQ0NzczODE0NSwtMT
-IwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTky
-MjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5ODFdfQ
-==
+eyJoaXN0b3J5IjpbNjMzOTM2NDI2LC0xNDQ3NzM4MTQ1LC0xMj
+A1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIy
+NiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
 -->
