@@ -18,7 +18,7 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid. 
  - **Adresssen**: dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld. 
  - **Exploitatie (Alg)**: dit tabblad bevat algemene informatie over de exploitatie van de OG Eenheid, waaronder de doelgroep waarvoor de OG Eenheid is bestemd en een indicatie of de eenheid al dan niet als woning moet worden verantwoord (passendheidstoets en staatsteunregeling). 
- - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen , het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
+ - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen op basis waarvan de streefhuur wordt berekend, het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
  - **Inspectie**: dit tabblad bevat informatie over de mutatie-inspecties die worden uitgevoerd zodra een huuropzegging van de OG Eenheid wordt afgehandeld. 
  - **WRB**: dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
  - **Erfpacht**: dit tabblad bevat kadastrale informatie over de OG Eenheid. 
@@ -48,7 +48,11 @@ In tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of
 Toelichting op de overige velden in tabblad **Adressen**: 
  - De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**.  
- 
+
+De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
+	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer e de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
+	- **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
+
  
 ## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
@@ -183,7 +187,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTM2Mjk1LDE0OTY2MjM0MDQsMTAwND
+eyJoaXN0b3J5IjpbOTUyMzg1MDQyLDE0OTY2MjM0MDQsMTAwND
 cyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIs
 LTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OT
 E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
