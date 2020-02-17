@@ -29,9 +29,9 @@ Nadat de aanmaningsvoorstellen gegenereerd zijn kunt u deze opschonen en control
 
 ## Verwerken aanmaningen beëindigde betalingsregeling
 
-U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wanneer de debiteur zijn betalingsregeling niet voldoet val de betalingsregeling en wordt de debiteur gemaand de gehele oorspronkelijke vordering te voldoen. Hiervoor dient de betalingsregeling beëindigd te worden en de aanmaning dient opnieuw gegenereerd te worden. 
+U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wanneer de debiteur zijn betalingsregeling niet voldoet vervalt de betalingsregeling en wordt de debiteur gemaand de gehele oorspronkelijke vordering te voldoen. Hiervoor dient de betalingsregeling beëindigd te worden en de aanmaning dient opnieuw gegenereerd te worden. 
 
-1. In de processtap **Opschonen voorstel** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst. De pagina **Aanmaning** opent 
+1. In de processtap **Opschonen voorstel** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst, waarna de pagina **Aanmaning** opent.
 2. Selecteer in het feitenblok **Klantinformatie** de waarde achter het veld **Betalingsregeling actief**. De pagina **Betalingsregelingenoverzicht** opent. Deze pagina toont de actieve betalingsregelingen voor de debiteur. 
 3. Klik op **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op **Ja**. 
 4. De pagina **beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsrede die van toepassing is en klik op **OK**. De betalingsregeling is beëindigd. 
@@ -76,6 +76,6 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODcwNTQ2MzcsMjg4MjY1MDM2LDEwNT
-E1NzUyMDZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzkxMTIyNTIsLTExODcwNTQ2MzcsMj
+g4MjY1MDM2LDEwNTE1NzUyMDZdfQ==
 -->
