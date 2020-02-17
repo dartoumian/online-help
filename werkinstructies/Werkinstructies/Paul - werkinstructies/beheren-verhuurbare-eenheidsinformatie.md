@@ -59,7 +59,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
 	 - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonruimte. 
 	 - **Sanitair**: het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is iKlik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten sanitairkeuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op het sanitairde keuken van de zelfstandige woonruimte. 
 	 - **Woonvoorziening voor gehandicapten**:  het aantal punten wordt bepaald door de investering die de verhuurder heeft besteed aan het geschikt maken van de zelfstandige woonruimte voor bewoning door gehandicapten. Vul de investering in het veld **Investering voorzieningen** in.   uitenruimte**:  het aantal punten wordt bepaald door de totale oppervlakte van de privé buitenruimten. Zie het beleidsboek voor de definitie van buitenruimte en voor de regels via welke de oppervlakte moet worden bepaald. Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden.  
-	 - **WOZ-waardering**: het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, welke standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingan. 
+	 - **WOZ-waardering**: het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, welke standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert. 
 	 - **Renovatie**: 
 	 - **Bijzondere voorzieningen**: 
 
@@ -98,7 +98,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MzU1NDg4LC02MzA0ODM3OTMsNjY0OT
+eyJoaXN0b3J5IjpbOTI0NTgyMTY1LC02MzA0ODM3OTMsNjY0OT
 kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
 MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMT
 I2NDc2MiwtMTY1Mjk4MTk4MV19
