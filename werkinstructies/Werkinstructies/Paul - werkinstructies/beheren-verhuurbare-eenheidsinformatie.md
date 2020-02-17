@@ -26,12 +26,13 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **VvE**: als de OG onderdeel is van een gebouw waarin een VvE actief is, dan bevat dit tabblad informatie over het VvE-cluster waartoe de OG Eenheid behoort. 
  - **Afrekening beheergever**: n.t.b. 
 
-
+U past de basisinformatie van de OG Eenheid als volgt aan: 
  - Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
  - Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
- - In tabblad **Algemeen** kunt u algemene basisinformatie van de verhuurbare eenheid invullen en wijzigen. De belangrijkste velden zijn: 
+ - Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd. 
+In tabblad **Algemeen** kunt u algemene basisinformatie van de verhuurbare eenheid invullen en wijzigen. De belangrijkste velden zijn: 
 	- **Type**: geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
 	- **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
 	- **Vraagboomsoort**: geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken. 
@@ -177,10 +178,10 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NTA2NjgwLDEwMDQ3MjE2NDYsMjI0Nz
-Y5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3
-LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwND
-gzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5
-MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MD
-cwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5ODFdfQ==
+eyJoaXN0b3J5IjpbLTE0NzEwODM5MzUsMTAwNDcyMTY0NiwyMj
+Q3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIsLTE1NTA1Nzgy
+NTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1ODU0LC02Mz
+A0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQy
+ODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwODQ1OTIyNiwxOD
+QwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4MV19
 -->
