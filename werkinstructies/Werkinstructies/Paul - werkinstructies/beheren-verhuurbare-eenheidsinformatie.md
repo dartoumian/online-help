@@ -90,8 +90,8 @@ U kunt als volgt de streefhuur van een OG Eenheid aanpassen:
  2. Selecteer de OG Eenheid
  3. Open tabblad **Exploitatie (Fin.)**.  
  4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen. 
- 5. Indien u de streefhuur van de OG Eenheid dynamisch bepaald moet worden, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode**.  Selecteer dan ook een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is. 
- 6. Indien de streefhuur van de OG Eenheid statisch bepaald moet worden, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is. 
+ 5. Indien u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is. 
+ 6. Indien u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is. 
 
 <hr>
 
@@ -123,9 +123,9 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE3Mjc5NDMsLTc0NjQwOTkzLDExNj
-Q5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3Mzgx
-NDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsND
-A4NDU5MjI2LDE4NDA3MDgzMjAsNTExMjY0NzYyLC0xNjUyOTgx
-OTgxXX0=
+eyJoaXN0b3J5IjpbMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OT
+E1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4MTQ1
+LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsNDgwNDgxNjY1LDQwOD
+Q1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2MiwtMTY1Mjk4MTk4
+MV19
 -->
