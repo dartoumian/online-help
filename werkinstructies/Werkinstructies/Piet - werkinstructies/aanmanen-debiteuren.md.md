@@ -47,7 +47,7 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 
 ## Controleren voorstellen en aanpassen individuele aanmaning
 
-Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanmaningen voor beëindigde betalingsregelingen kunt u de aanmaanvoorstellen controleren en desgewenst aanpassen. Deze stap is niet verplicht. U kunt ook direct doorgaan naar de volgende processtap #definitief-maken-aanmaningen.
+Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanmaningen voor beëindigde betalingsregelingen kunt u de aanmaningsvoorstellen controleren en desgewenst aanpassen. Deze stap is niet verplicht. U kunt ook direct doorgaan naar de volgende processtap **[Definitief#definitief-maken-aanmaningen.
 
 1.	Vanaf de pagina **aanmaningen** kunt u een individuele aanmaning openen door op het nummer van de aanmaning te klikken. De pagina **Aanmaning opent**. 
 2.	Wilt u de tekst van een individuele aanmaning aanpassen dan kan dit door in de **Aanmaanregels** de tekst aan te passen. 
@@ -76,7 +76,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTczMTYwNDEsLTE2MDYzNzc2MjQsMT
-I2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1NDYzNywyODgyNjUw
-MzYsMTA1MTU3NTIwNl19
+eyJoaXN0b3J5IjpbLTE1NTc3NDE0NjUsLTExNTczMTYwNDEsLT
+E2MDYzNzc2MjQsMTI2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1
+NDYzNywyODgyNjUwMzYsMTA1MTU3NTIwNl19
 -->
