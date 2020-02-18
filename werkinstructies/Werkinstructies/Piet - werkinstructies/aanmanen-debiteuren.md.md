@@ -38,8 +38,8 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 5. U keert terug naar de pagina **beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
 6. Herhaal stap 2 tot en met 5 voor alle aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
 7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
-8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar de pagina **Aanmaningen**.
-9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken**. Vul op de nu geopende pagina de volgende velden:
+8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar  p**.
+9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningste e n. Vulde nu geopen de pagina de volgende velden:
 	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
 	* **Aanvullende kosten aanpassen:** Ja.
 	* **Aanmaningsniveau bijwerken:** Ja.
@@ -76,7 +76,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYzNzc2MjQsMTI2MjYyODEyLDkxNz
-g1NTY1MywtMTE4NzA1NDYzNywyODgyNjUwMzYsMTA1MTU3NTIw
-Nl19
+eyJoaXN0b3J5IjpbLTExNTczMTYwNDEsLTE2MDYzNzc2MjQsMT
+I2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1NDYzNywyODgyNjUw
+MzYsMTA1MTU3NTIwNl19
 -->
