@@ -60,7 +60,7 @@ Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aa
 1. Selecteer op de pagina **Aanmaningen** alle aanmaningenvoorstellen. 
 2. Klik op **Verzenden**. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
 3. Moeten de aanmaningen die u in definitief gemaakt heeft verzonden worden ga dan verder bij processtap #aanmaningen-versturen
-4. Waren de aanmaning die u definitief gemaakt heeft van het niveau Deurwaarder ga dan verder bij het werkproces UITHANDEN GEVEN VORDERING
+4. Waren de aanmaning die u definitief gemaakt heeft van het niveau Deurwaarder ga dan verder bij het werkproces UITHANDEN GEVEN VORDERING.
 
 ## Versturen aanmaning
 
@@ -76,7 +76,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NjQ0MTIsLTExNTczMTYwNDEsLTE2MD
-YzNzc2MjQsMTI2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1NDYz
-NywyODgyNjUwMzYsMTA1MTU3NTIwNl19
+eyJoaXN0b3J5IjpbMTY1MjE0NTE5MCwyMzY2NDQxMiwtMTE1Nz
+MxNjA0MSwtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOTE3ODU1NjUz
+LC0xMTg3MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1MjA2XX0=
 -->
