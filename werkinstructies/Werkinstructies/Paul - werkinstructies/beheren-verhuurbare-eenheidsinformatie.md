@@ -17,20 +17,21 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **Algemeen**: Dit tabblad bevat algemene informatie over de OG Eenheid. 
  - **Adresssen**: Dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld. 
  - **Exploitatie (Alg)**: Dit tabblad bevat algemene informatie over de exploitatie van de OG Eenheid, waaronder de doelgroep waarvoor de OG Eenheid is bestemd en een indicatie of de eenheid al dan niet als woning moet worden verantwoord (passendheidstoets en staatsteunregeling). 
- - **Exploitatie (Fin)**: Dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen op basis waarvan de streefhuur wordt berekend, het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
- - **Inspectie**: dit tabblad bevat informatie over de mutatie-inspecties die worden uitgevoerd zodra een huuropzegging van de OG Eenheid wordt afgehandeld. 
- - **WRB**: dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
- - **Erfpacht**: dit tabblad bevat kadastrale informatie over de OG Eenheid. 
- - **VERA-eigenschappen**: dit tabblad bevat de enkelvoudige VERA-eigenschappen 
- - **VvE**: als de OG onderdeel is van een gebouw waarin een VvE actief is, dan bevat dit tabblad informatie over het VvE-cluster waartoe de OG Eenheid behoort. 
- - **Afrekening beheergever**: n.t.b. 
+ - **Exploitatie (Fin)**: Dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen op basis waarvan de streefhuur wordt berekend, het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en de nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
+ - **Inspectie**: Dit tabblad bevat informatie over de mutatie-inspecties die worden uitgevoerd zodra een huuropzegging van de OG Eenheid wordt afgehandeld. 
+ - **WRB**: Dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
+ - **Erfpacht**: Dit tabblad bevat kadastrale informatie over de OG Eenheid. 
+ - **VERA-eigenschappen**: Dit tabblad bevat de enkelvoudige VERA-eigenschappen.
+ - **VvE**: Als de OG Eenheid onderdeel is van een gebouw waarin een VvE actief is, dan bevat dit tabblad informatie over het VvE-cluster waartoe de eenheid behoort. 
+ - **Afrekening beheergever**: n.t.b.
 
 U past de basisinformatie van de OG Eenheid als volgt aan: 
- - Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+
+ 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
- - Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
- - Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd. 
+     - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
+     - Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
+     - Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd.
 
 De belangrijkste velden in tabblad **Algemeen** zijn: 
 	- **Type**: geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
@@ -189,7 +190,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDYwNjM3NywyMTEzNzIwNzM2LDE0OT
+eyJoaXN0b3J5IjpbMTI4MzQ4MjE3OCwyMTEzNzIwNzM2LDE0OT
 Y2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjcz
 LDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03ND
 Y0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4
