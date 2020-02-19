@@ -39,7 +39,7 @@ De belangrijkste velden op tabblad **Algemeen** zijn:
  - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
  - **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
 	
-Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
+HIERRROp tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
 - Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B'). 
 - Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
 
@@ -188,7 +188,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTA2OTQyMSw1NDY0MjAyMDUsLTE2ND
+eyJoaXN0b3J5IjpbLTU3NzIwODQyMSw1NDY0MjAyMDUsLTE2ND
 g2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYyMzQw
 NCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNT
 M3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkz
