@@ -37,8 +37,8 @@ De belangrijkste velden op tabblad **Algemeen** zijn:
  - **Woonruimte**: Geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.
  - **Vraagboomsoort**: Geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken.
  - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
- - **Betreft**: 
-	- **Etagewoning** en **Etage**: geeft aan of de eenheid een etagewoning betreft, en zo ja, op welke etage (de voordeur van) de woning zich bevindt. 
+ - **Betreft**:
+ - **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
 	
 In tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
 - Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B'). 
@@ -189,11 +189,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzIyMTQ2OCwtMTY0ODY0MzE0LC02Nz
-QxNDAzMzIsMjExMzcyMDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2
-NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNT
-UwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1
-NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMT
-IwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTky
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODU2MzkyODIsLTE2NDg2NDMxNCwtNj
+c0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIx
+NjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMT
+U1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4
+NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLT
+EyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5
+MjI2XX0=
 -->
