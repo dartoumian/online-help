@@ -34,10 +34,10 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
 De belangrijkste velden op tabblad **Algemeen** zijn: 
 
  - **Type**: Geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.
- - **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
-	- **Vraagboomsoort**: geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken. 
-	- **Divisie**: geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd. 
-	- **Betreft**: 
+ - **Woonruimte**: Geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.
+ - **Vraagboomsoort**: Geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken.
+ - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
+ - **Betreft**: 
 	- **Etagewoning** en **Etage**: geeft aan of de eenheid een etagewoning betreft, en zo ja, op welke etage (de voordeur van) de woning zich bevindt. 
 	
 In tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
@@ -189,11 +189,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMT
-M3MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIy
-NSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMD
-cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
-Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
-cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
-MjBdfQ==
+eyJoaXN0b3J5IjpbMTU5MzIyMTQ2OCwtMTY0ODY0MzE0LC02Nz
+QxNDAzMzIsMjExMzcyMDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2
+NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNT
+UwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1
+NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMT
+IwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MDg0NTky
+MjZdfQ==
 -->
