@@ -12,13 +12,12 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
 
 ## Processchema
 
-
 ## Registreren basisinformatie verhuurbare eenheid
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  Deze basisinformatie is verdeeld over verschillende tabbladen: 
- - **Algemeen**: dit tabblad bevat algemene informatie over de OG Eenheid. 
- - **Adresssen**: dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld. 
- - **Exploitatie (Alg)**: dit tabblad bevat algemene informatie over de exploitatie van de OG Eenheid, waaronder de doelgroep waarvoor de OG Eenheid is bestemd en een indicatie of de eenheid al dan niet als woning moet worden verantwoord (passendheidstoets en staatsteunregeling). 
- - **Exploitatie (Fin)**: dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen op basis waarvan de streefhuur wordt berekend, het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
+ - **Algemeen**: Dit tabblad bevat algemene informatie over de OG Eenheid. 
+ - **Adresssen**: Dit tabblad bevat het adres van de OG Eenheid en van het BAG-verblijfsobject dat aan de eenheid is gekoppeld. 
+ - **Exploitatie (Alg)**: Dit tabblad bevat algemene informatie over de exploitatie van de OG Eenheid, waaronder de doelgroep waarvoor de OG Eenheid is bestemd en een indicatie of de eenheid al dan niet als woning moet worden verantwoord (passendheidstoets en staatsteunregeling). 
+ - **Exploitatie (Fin)**: Dit tabblad bevat financiële informatie over de exploitatie van de OG Eenheid, waaronder de streefhuurinstellingen op basis waarvan de streefhuur wordt berekend, het huurbeleid dat moet worden toegepast bij nieuwe verhuring en het huurverhogingsbeleid en nettohuuraftopping die moeten worden toegepast bij de jaarlijkse huurverhoging. 
  - **Inspectie**: dit tabblad bevat informatie over de mutatie-inspecties die worden uitgevoerd zodra een huuropzegging van de OG Eenheid wordt afgehandeld. 
  - **WRB**: dit tabblad bevat informatie over de publicatie van de OG Eenheid in een woonruimteverdeelsysteem. 
  - **Erfpacht**: dit tabblad bevat kadastrale informatie over de OG Eenheid. 
@@ -190,11 +189,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMwMDg3OTEsMjExMzcyMDczNiwxND
-k2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3
-MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNz
-Q2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2NDk5Mzkx
-OCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LD
-Q4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTY2MDYwNjM3NywyMTEzNzIwNzM2LDE0OT
+Y2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjcz
+LDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03ND
+Y0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4
+LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsND
+gwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2
+Ml19
 -->
