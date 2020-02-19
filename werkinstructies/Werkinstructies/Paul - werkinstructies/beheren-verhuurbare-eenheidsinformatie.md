@@ -26,7 +26,6 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **Afrekening beheergever**: n.t.b.
 
 U past de basisinformatie van de OG Eenheid als volgt aan: 
-
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
      - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
@@ -190,7 +189,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzQ4MjE3OCwyMTEzNzIwNzM2LDE0OT
+eyJoaXN0b3J5IjpbLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OT
 Y2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjcz
 LDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03ND
 Y0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4
