@@ -26,10 +26,8 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **Afrekening beheergever**: n.t.b.
 
 ### Basisinformatie aanpassen 
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-     - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
-     - Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd. Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend. 
      - Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd.
 
 De belangrijkste velden in tabblad **Algemeen** zijn: 
@@ -189,7 +187,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjcwODA0MywtNjc0MTQwMzMyLDIxMT
+eyJoaXN0b3J5IjpbMTAzMTI5MDY5NCwtNjc0MTQwMzMyLDIxMT
 M3MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIy
 NSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMD
 cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
