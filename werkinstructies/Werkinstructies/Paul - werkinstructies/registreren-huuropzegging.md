@@ -1,14 +1,12 @@
 # Registreren huuropzegging
 
-## Omschrijving
 (Geef hier de omschrijving het detailproces)
 
 ## Processchema
 (Hier komt link naar Mavim of plaatje van proces.)
 
-## Processtappen
 
-### Vastleggen huuropzegging
+## Vastleggen huuropzegging
 
 In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres van de vertrekkende huurder en een leegstandscontract voor de OG Eenheid.
 
@@ -73,7 +71,7 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU4MjYwMzMsNzUxNDc2NTIzLDkwNT
-k0MDE2NCwtMTUxMjUxODE2MCwtNzM2MDM1NDU2LC03OTc0ODUw
-Ml19
+eyJoaXN0b3J5IjpbLTEwMzczMzQxMTIsLTE5MjU4MjYwMzMsNz
+UxNDc2NTIzLDkwNTk0MDE2NCwtMTUxMjUxODE2MCwtNzM2MDM1
+NDU2LC03OTc0ODUwMl19
 -->
