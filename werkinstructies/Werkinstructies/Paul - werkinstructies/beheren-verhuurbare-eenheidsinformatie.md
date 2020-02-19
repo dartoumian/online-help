@@ -33,10 +33,8 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
 
 De belangrijkste velden op tabblad **Algemeen** zijn: 
 
- - List item
-
-**Type**: geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.  
-	- **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
+ - **Type**: Geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.
+ - **Woonruimte**: geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.  
 	- **Vraagboomsoort**: geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken. 
 	- **Divisie**: geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd. 
 	- **Betreft**: 
@@ -191,7 +189,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjgyMjEyNSwtNjc0MTQwMzMyLDIxMT
+eyJoaXN0b3J5IjpbLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMT
 M3MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIy
 NSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMD
 cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
