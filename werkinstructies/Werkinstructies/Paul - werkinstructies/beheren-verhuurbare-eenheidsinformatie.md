@@ -25,7 +25,7 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
  - **VvE**: Als de OG Eenheid onderdeel is van een gebouw waarin een VvE actief is, dan bevat dit tabblad informatie over het VvE-cluster waartoe de eenheid behoort. 
  - **Afrekening beheergever**: n.t.b.
 
-U past de basisinformatie van de OG Eenheid als volgt aan: 
+### Basisinformatie aanpassen 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
      - Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.  
@@ -189,11 +189,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OT
-Y2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjcz
-LDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03ND
-Y0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4
-LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1MDUsND
-gwNDgxNjY1LDQwODQ1OTIyNiwxODQwNzA4MzIwLDUxMTI2NDc2
-Ml19
+eyJoaXN0b3J5IjpbLTE1MjcwODA0MywtNjc0MTQwMzMyLDIxMT
+M3MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIy
+NSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMD
+cwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5
+Myw2NjQ5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLT
+cxMjI2ODUwNSw0ODA0ODE2NjUsNDA4NDU5MjI2LDE4NDA3MDgz
+MjBdfQ==
 -->
