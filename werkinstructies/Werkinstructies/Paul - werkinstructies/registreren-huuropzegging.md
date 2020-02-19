@@ -3,8 +3,6 @@
 (Geef hier de omschrijving het detailproces)
 
 ## Processchema
-(Hier komt link naar Mavim of plaatje van proces.)
-
 
 ## Vastleggen huuropzegging
 
@@ -33,9 +31,7 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 -Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres.
 18. Selecteer in veld **Contactgegevens wijzigingsdatum** de datum per wanneer het nieuwe correspondentieadres ingaat.
 
-<hr>
-
-### Plannen inspectie(s)
+## Plannen inspectie(s)
 
 In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepassing als bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd (zie pagina **Onrerend Goed Eenheidkaart**, tab **Inspectie**, veld **Aantal vooropnames** en veld **Aantal eindopnames**).
 1. Open pagina **Inspectieafspraken** van de betreffende huuropzegging
@@ -51,9 +47,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 8. Herhaal actie 2 t/m 7 voor elke volgende inspectie die u wilt plannen.
 9. Klik op **Sluiten**.
 
- <hr>
-
-### Bevestigingen huuropzegging
+## Bevestigingen huuropzegging
 
 1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
 -Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
@@ -62,16 +56,8 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 2. Klik op ***Acties*** - **Worddocument**.
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
-<hr>
-
- 
-## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep)
-
-Werkinstructie X  
-Werkinstructie Y  
-Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzczMzQxMTIsLTE5MjU4MjYwMzMsNz
-UxNDc2NTIzLDkwNTk0MDE2NCwtMTUxMjUxODE2MCwtNzM2MDM1
-NDU2LC03OTc0ODUwMl19
+eyJoaXN0b3J5IjpbLTk5NTU3MTY4NCwtMTkyNTgyNjAzMyw3NT
+E0NzY1MjMsOTA1OTQwMTY0LC0xNTEyNTE4MTYwLC03MzYwMzU0
+NTYsLTc5NzQ4NTAyXX0=
 -->
