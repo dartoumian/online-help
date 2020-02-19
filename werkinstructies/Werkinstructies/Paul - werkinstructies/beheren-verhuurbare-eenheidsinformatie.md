@@ -33,16 +33,14 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
 
 De belangrijkste velden op tabblad **Algemeen** zijn: 
 
- 1. **Type**: Geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.
- 2. **Woonruimte**: Geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.
- 3. **Vraagboomsoort**: Geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken.
- 4. **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
- 5. **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
+ - **Type**: Geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.
+ - **Woonruimte**: Geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.
+ - **Vraagboomsoort**: Geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken.
+ - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
+ - **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
 	
-Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen:
- 6. List item
-
-Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B'). 
+Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
+- Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B'). 
 - Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
 
 Toelichting op de overige velden op tabblad **Adressen**: 
@@ -190,7 +188,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODYwMjI0Myw1NDY0MjAyMDUsLTE2ND
+eyJoaXN0b3J5IjpbMTQwNTA2OTQyMSw1NDY0MjAyMDUsLTE2ND
 g2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYyMzQw
 NCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNT
 M3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkz
