@@ -11,7 +11,7 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
  - Contactpersonen 
 
 ## Processchema
-(Hier komt link naar Mavim of plaatje van proces.)
+
 
 ## Registreren basisinformatie verhuurbare eenheid
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.  Deze basisinformatie is verdeeld over verschillende tabbladen: 
@@ -190,11 +190,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzcyMDczNiwxNDk2NjIzNDA0LDEwMD
-Q3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQy
-LC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2ND
-kxNTg1NCwtNjMwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0
-NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LDQ4MDQ4MTY2NSw0MD
-g0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3NjIsLTE2NTI5ODE5
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwMTMwMDg3OTEsMjExMzcyMDczNiwxND
+k2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3
+MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNz
+Q2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2NDk5Mzkx
+OCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4NTA1LD
+Q4MDQ4MTY2NSw0MDg0NTkyMjYsMTg0MDcwODMyMCw1MTEyNjQ3
+NjJdfQ==
 -->
