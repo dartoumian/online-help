@@ -66,7 +66,7 @@ Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aa
 
 Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen versturen via Postex. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Verzonden aanmaningen**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verzonden aanmaningen**. 
 2. Stel een filter in voor de aanmaningen die u wilt verzenden:
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
@@ -76,8 +76,8 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NzM5NDk2LDE2NTIxNDUxOTAsMjM2Nj
-Q0MTIsLTExNTczMTYwNDEsLTE2MDYzNzc2MjQsMTI2MjYyODEy
-LDkxNzg1NTY1MywtMTE4NzA1NDYzNywyODgyNjUwMzYsMTA1MT
-U3NTIwNl19
+eyJoaXN0b3J5IjpbLTEyNzE1NzAwNDAsODc1NzM5NDk2LDE2NT
+IxNDUxOTAsMjM2NjQ0MTIsLTExNTczMTYwNDEsLTE2MDYzNzc2
+MjQsMTI2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1NDYzNywyOD
+gyNjUwMzYsMTA1MTU3NTIwNl19
 -->
