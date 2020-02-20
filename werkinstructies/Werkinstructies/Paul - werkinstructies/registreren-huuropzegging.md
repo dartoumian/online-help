@@ -1,6 +1,6 @@
 # Registreren huuropzegging
 
-Per een gegeven datum, liefst met inachtneming van een opzegtermijn, kan de huur van een eenheid worden opgezegd. Vervolgens wordt de woning zo spoedig mogelijk weer klaargemaakt voor verhuring aan een volgende huurder. Hierbij kunnen, na inspectie van de woning, gebreken worden geconstateerd, waarvan direct een onderhoudsverzoek kan worden aangemaakt. In dit geval spreken we van mutatie-onderhoud (i.t.t. reparatie-onderhoud).
+Per een gegeven datum, liefst met inachtneming van een opzegtermijn, kan de huur van een eenheid worden opgezegd. Vervolgens wordt de woning geïnspecteerd en zo spoedig mogelijk weer klaargemaakt voor verhuring aan een volgende huurder.
 
 ## Processchema
 
@@ -57,7 +57,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjY2Mjg3NSwtOTk1NTcxNjg0LC0xOT
-I1ODI2MDMzLDc1MTQ3NjUyMyw5MDU5NDAxNjQsLTE1MTI1MTgx
-NjAsLTczNjAzNTQ1NiwtNzk3NDg1MDJdfQ==
+eyJoaXN0b3J5IjpbMTc3NTE1NDM5MCwtMzkyNjYyODc1LC05OT
+U1NzE2ODQsLTE5MjU4MjYwMzMsNzUxNDc2NTIzLDkwNTk0MDE2
+NCwtMTUxMjUxODE2MCwtNzM2MDM1NDU2LC03OTc0ODUwMl19
 -->
