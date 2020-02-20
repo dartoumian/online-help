@@ -108,7 +108,7 @@ In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatie
  4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
  5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**. 
 
-### Aanpassen administratief eigenaar
+## Aanpassen administratief eigenaar
 In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Deze DAEB-aanduiding heeft enerzijds invloed op de financiële boekingen van kosten en opbrengsten die gemaakt worden op de OG Eenheid en anderzijds invloed op de verantwoording verhuring (staatssteunregeling) van toewijzingen van de OG Eenheid aan nieuwe huurders. 
 
 Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één administratief eigenaar. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. In Empire wordt onderscheid gemaakt tussen twee soorten ingangsdata: 
@@ -166,11 +166,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjEyMDc4MywtMTQ3NzQzNDQyMyw0OD
-E2NjAxNDEsMTQwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5
-MDcwLDEyMTA1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMS
-w1NDY0MjAyMDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3
-MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNS
-wxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcw
-NDE3MzddfQ==
+eyJoaXN0b3J5IjpbLTc0ODk3MzEwLC0xNDc3NDM0NDIzLDQ4MT
+Y2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAzMzc2LC01ODU0Nzkw
+NzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLD
+U0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcy
+MDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LD
+EzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0
+MTczN119
 -->
