@@ -117,7 +117,6 @@ Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren he
 
 Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stappen: 
  
- - Aanvraag voor wijziging van administratief eigenaar goedkeuren 
 #### Aanvraag voor wijziging van administratief eigenaar invullen ####
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
@@ -129,8 +128,9 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
  7. De regel krijgt automatisch de **Status** *Voorlopig*. 
 
 
-U keurt als volgt een wijziging van de administratief eigenaar goed: 
-5. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+#### Aanvraag voor wijziging van administratief eigenaar goedkeuren ####
+ 
+ 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
@@ -163,7 +163,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNDE3NDc0LC0xMzI0MDY3NTk5LC03ND
+eyJoaXN0b3J5IjpbNjQ3OTk1NDM4LC0xMzI0MDY3NTk5LC03ND
 g5NzMxMCwtMTQ3NzQzNDQyMyw0ODE2NjAxNDEsMTQwNDk1Mjc4
 MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2NDMsLT
 E1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLTE2NDg2
