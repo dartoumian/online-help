@@ -70,7 +70,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
  - **Sanitair**: Het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is.
  - **Woonvoorziening voor gehandicapten**: Vul de investering in het veld **Investering voorzieningen** in.
 - **Buitenruimte**: Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden in.
- - **WOZ-waardering**: het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten, van de vraag of de woonruimte in een COROP-gebied ligt en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, welke standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert. 
+ - **WOZ-waardering**: Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten, van de vraag of de woonruimte in een COROP-gebied ligt en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, dat standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert.
  - **Renovatie**: punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het beleidsboek). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
  - **Bijzondere voorzieningen**: In het geval van een zorgwoning worden conform het beleidsboek extra punten gerekend mits voldaan is aan bepaalde voorwaarden. U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden. 
 
@@ -176,7 +176,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDE1ODM1Nyw0ODE2NjAxNDEsMTQwND
+eyJoaXN0b3J5IjpbMTI5NjM4Nzg5MSw0ODE2NjAxNDEsMTQwND
 k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
 NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
 E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
