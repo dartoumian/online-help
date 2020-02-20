@@ -39,7 +39,7 @@ De belangrijkste velden op tabblad **Algemeen** zijn:
  - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
  - **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
 	
-HIERRROp tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
+Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
 - Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B'). 
 - Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
 
@@ -188,11 +188,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzIwODQyMSw1NDY0MjAyMDUsLTE2ND
-g2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYyMzQw
-NCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNT
-M3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQwOTkz
-LDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5MTgsLTE0ND
-c3MzgxNDUsLTEyMDUwNDI4OTEsLTcxMjI2ODUwNSw0ODA0ODE2
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTQwNTA2OTQyMSwtNTc3MjA4NDIxLDU0Nj
+QyMDIwNSwtMTY0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcyMDcz
+NiwxNDk2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMz
+E4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTcz
+NywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2ND
+k5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4
+NTA1XX0=
 -->
