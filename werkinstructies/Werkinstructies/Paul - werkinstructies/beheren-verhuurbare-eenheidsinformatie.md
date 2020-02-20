@@ -37,9 +37,9 @@ Toelichting op de overige velden op tabblad **Adressen**:
  - De velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: 'CBS-DATA IMPORTEREN')). 
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, de postcode en de plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op **Verblijfobject koppelen**.  
 
-De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
+De belangrijkste velden op tabblad **Exploitatie (Fin)** zijn: 
 - **WOZ-objectnummer**: Geeft aan tot welk WOZ-objectnummer de OG Eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object.
-- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie *Streefhuur aanpassen*. 
+- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie **[Aanpassen streefhuur](#aanpassen-streefhuur)**. 
 - **Huurbeleid**:  dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initiëel gaat betalen. 
 - **Huurverhogingsbeleidstype**: het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
 - **Nettohuuraftopping**:  de aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging. 
@@ -178,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzQ2OTIxNiwtNTg1NDc5MDcwLDEyMT
-A1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAy
-MDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMT
-Q5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2
-NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLT
-c0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5
-MThdfQ==
+eyJoaXN0b3J5IjpbNTExNzk0Mzc0LC01ODU0NzkwNzAsMTIxMD
+UyNTY0MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQyMDIw
+NSwtMTY0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcyMDczNiwxND
+k2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3
+MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNz
+Q2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2NDk5Mzkx
+OF19
 -->
