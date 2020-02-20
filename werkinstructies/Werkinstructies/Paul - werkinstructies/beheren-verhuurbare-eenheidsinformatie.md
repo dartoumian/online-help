@@ -92,9 +92,8 @@ De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individ
 
 Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streefhuur van de OG Eenheid wordt bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort, of door de instellingen bij de OG Eenheid zelf. 
 
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de juiste OG Eenheid.
  3. Open tabblad **Exploitatie (Fin.)**.  
  4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen. 
  5. Indien u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is. 
@@ -173,7 +172,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDY4NDI1OCw0ODE2NjAxNDEsMTQwND
+eyJoaXN0b3J5IjpbMTQ5NzkyNzA5Myw0ODE2NjAxNDEsMTQwND
 k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
 NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
 E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
