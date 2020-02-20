@@ -52,7 +52,6 @@ In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door e
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**. 
 
-U maakt als volgt een nieuwe versie van de woningwaardering aan voor een OG Eenheid: 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
@@ -178,11 +177,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEzMTU3NzksLTU4NTQ3OTA3MCwxMj
-EwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIw
-MjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LD
-E0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgz
-NjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC
-03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkz
-OTE4XX0=
+eyJoaXN0b3J5IjpbMTM3MTM0ODc3NSwtNTg1NDc5MDcwLDEyMT
+A1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAy
+MDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMT
+Q5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2
+NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLT
+c0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5
+MThdfQ==
 -->
