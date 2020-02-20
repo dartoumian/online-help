@@ -32,9 +32,8 @@ Ook wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aa
 
 ## Plannen inspectie(s)
 
-In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepassing als bij de OG Eenheid is ingesteld dat er 1 of meer voor- en/of eindinspecties worden uitgevoerd (zie pagina **Onrerend Goed Eenheidkaart**, tab **Inspectie**, veld **Aantal vooropnames** en veld **Aantal eindopnames**).
-1. Open pagina **Inspectieafspraken** van de betreffende huuropzegging
--Rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Inspectieafspraken**).
+In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepassing als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd (zie **Onroerend Goed Eenheidkaart**, tab **Inspectie**, veld **Aantal vooropnames** en veld **Aantal eindopnames**).
+1. Open pagina **Inspectieafspraken** van de betreffende huuropzegging. Dit kan rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Inspectieafspraken**).
 -Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**).
 -Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op ***Navigeren*** - **Huuropzeggingen**, klik op ***Navigeren*** - ***Opzegging*** - **Inspectieafspraken**)
 2. Selecteer de eerste inspectie met **Status** = Nieuw die u wilt plannen.
@@ -56,8 +55,8 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ4OTAxNjcsMTUwMTA4MzYzMSwtMz
-kyNjYyODc1LC05OTU1NzE2ODQsLTE5MjU4MjYwMzMsNzUxNDc2
-NTIzLDkwNTk0MDE2NCwtMTUxMjUxODE2MCwtNzM2MDM1NDU2LC
-03OTc0ODUwMl19
+eyJoaXN0b3J5IjpbMjAxMjYwOTk0MywxNTAxMDgzNjMxLC0zOT
+I2NjI4NzUsLTk5NTU3MTY4NCwtMTkyNTgyNjAzMyw3NTE0NzY1
+MjMsOTA1OTQwMTY0LC0xNTEyNTE4MTYwLC03MzYwMzU0NTYsLT
+c5NzQ4NTAyXX0=
 -->
