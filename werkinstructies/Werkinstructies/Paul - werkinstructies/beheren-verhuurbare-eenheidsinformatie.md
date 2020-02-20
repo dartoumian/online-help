@@ -3,7 +3,7 @@
 
 Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie: 
 
- - [Basisinformatie  
+ - [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
  - Woningwaardering 
  - Streefhuur 
  - Exploitatievormen 
@@ -170,7 +170,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzU5NTgwMyw0ODE2NjAxNDEsMTQwND
+eyJoaXN0b3J5IjpbMTY5OTc2NDE0Miw0ODE2NjAxNDEsMTQwND
 k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
 NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
 E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
