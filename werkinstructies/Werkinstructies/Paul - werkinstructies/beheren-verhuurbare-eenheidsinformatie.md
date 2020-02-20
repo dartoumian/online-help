@@ -130,13 +130,11 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
 
 #### Aanvraag voor wijziging van administratief eigenaar goedkeuren ####
  
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de juiste OG Eenheid.
  3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
- 4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** *Voorlopig* wordt getoond. 
- 5. Klik op **Goedkeuren**.  
- 6. De regel krijgt automatisch de **Status** *Goedgekeurd*. 
+ 4. Klik op **Administratief eigenaar wijzigen**.  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** *Voorlopig* wordt getoond. 
+ 5. Klik op **Goedkeuren**. De regel krijgt automatisch de **Status** *Goedgekeurd*. 
  7. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt weer geopend, nu met een extra regel met de nieuwe administratief eigenaar. 
  8. Pas desgewenst de **Verhuring ingangdatum** aan in een datum die eerder ingaat dan de **Financiële ingangsdatum**. 
 
@@ -163,11 +161,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3OTk1NDM4LC0xMzI0MDY3NTk5LC03ND
-g5NzMxMCwtMTQ3NzQzNDQyMyw0ODE2NjAxNDEsMTQwNDk1Mjc4
-MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2NDMsLT
-E1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLTE2NDg2
-NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYyMzQwNC
-wxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMTkzNTM3
-NDI0Ml19
+eyJoaXN0b3J5IjpbLTM1NzM5NTI0NywtMTMyNDA2NzU5OSwtNz
+Q4OTczMTAsLTE0Nzc0MzQ0MjMsNDgxNjYwMTQxLDE0MDQ5NTI3
+ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC
+0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4
+NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0MD
+QsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUz
+NzQyNDJdfQ==
 -->
