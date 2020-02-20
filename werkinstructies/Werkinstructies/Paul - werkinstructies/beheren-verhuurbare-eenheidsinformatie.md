@@ -75,12 +75,12 @@ Binnen de woningwaardering van een ***zelfstandige woonruimte*** kunt u de volge
  - **Bijzondere voorzieningen**: U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden.
 
 Binnen de woningwaardering van een ***onzelfstandige woonruimte*** kunt u de volgende details aanpassen: 
-- **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
-- **Oppervlakte**:  Oppervlakte van kamers behorende uitsluitend tot de onzelfstandige woonruimte en oppervlakte van gemeenschappelijke verblijfsruimten. Per m2 wordt een aantal punten berekend conform het beleidsboek. Klik op de drie puntjes in het veld **Totaal eigen vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. Vul de totale oppervlakte van de gemeenschappelijke ruimten in in veld **Gem. verblijfsruimte(n) (verwarmd)**. Vul het totaal aantal onzelfstandige woonruimtes die gebruik maken van de gemeenschappelijke ruimte(n) in in het veld **Per ## kamers (factor 5/##)**. 
-- **Verwarmingsmogelijkheden**:  het aantal punten voor dit aspect wordt bepaald door de totale oppervlakte van de verwarmde eigen vertrekken, aangevuld met extra punten voor een gasaansluiting. Vul het totaal aantal m2 van de verwarmde eigen vertrekken van de onzelfstandige woonruimte in in veld **Eigen vertrekken (factor 3/4)**. Selecteer indien van toepassing de indicatie **Gasaansluiting (factor 3)**. 
- - **Kookgelegenheid**:  het aantal punten voor dit aspect wordt bepaald door het soort en de oppervlakte van de keuken. Selecteer de waarde die van toepassing is voor de keuken van de onzelfstandige woonruimte. 
- - **Toilet**: het aantal punten voor dit aspect wordt bepaald door de vraag of het toilet al dan niet wordt gedeeld met andere onzelfstandige woonruimten. Selecteer de waarde die van toepassing is voor het toilet van de onzelfstandige woonruimte.
- - **Wasgelegenheid**: het aantal punten voor dit aspect wordt bepaald door de vraag of de douche of bad respectievelijk de wastafel al dan niet wordt gedeeld met andere onzelfstandige woonruimten. Selecteer de waarde die van toepassing is voor de douche/het bad resp. de wastafel van de onzelfstandige woonruimte. 
+- **Beschermd stads- of dorpsgezicht**: Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
+- **Oppervlakte**: Klik op de drie puntjes in het veld **Totaal eigen vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. Vul de totale oppervlakte van de gemeenschappelijke ruimten in in veld **Gem. verblijfsruimte(n) (verwarmd)**. Vul het totaal aantal onzelfstandige woonruimtes die gebruik maken van de gemeenschappelijke ruimte(n) in in het veld **Per ## kamers (factor 5/##)**. 
+- **Verwarmingsmogelijkheden**: Vul het totaal aantal m2 van de verwarmde eigen vertrekken van de onzelfstandige woonruimte in in veld **Eigen vertrekken (factor 3/4)**. Selecteer indien van toepassing de indicatie **Gasaansluiting (factor 3)**. 
+ - **Kookgelegenheid**: Selecteer de waarde die van toepassing is voor de keuken van de onzelfstandige woonruimte. 
+ - **Toilet**: Selecteer de waarde die van toepassing is voor het toilet van de onzelfstandige woonruimte.
+ - **Wasgelegenheid**: Selecteer de waarde die van toepassing is voor de douche/het bad resp. de wastafel van de onzelfstandige woonruimte. 
  - **Kwaliteitsfactoren**: dit aspect heeft betrekking op de aanwezigheid van thermostatische regelknoppen op de radiatoren, buitenruimten en fietsenberging. Selecteer de waarde die van toepassing is voor de onzelfstandige woonruimte. 
  - **Beschermd monument**:  extra punten indien de onzelfstandige woonruimte deel uitmaakt van een beschermd monument. Selecteer deze indicatie inden van toepassing. 
  - **Aftrekpunten**: selecteer daar waar van toepassing de aspecten van de onzelfstandige woonruimte waarvoor aftrekpunten worden gerekend. 
@@ -175,7 +175,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTEzMzIxLDQ4MTY2MDE0MSwxNDA0OT
+eyJoaXN0b3J5IjpbNDU2NTA5MDMxLDQ4MTY2MDE0MSwxNDA0OT
 UyNzgxLC0xNjA4MjAzMzc2LC01ODU0NzkwNzAsMTIxMDUyNTY0
 MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQyMDIwNSwtMT
 Y0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcyMDczNiwxNDk2NjIz
