@@ -92,7 +92,6 @@ De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individ
 
 Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streefhuur van de OG Eenheid wordt bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort, of door de instellingen bij de OG Eenheid zelf. 
 
-U kunt als volgt de streefhuur van een OG Eenheid aanpassen: 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
@@ -174,11 +173,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyOTA0MzgsNDgxNjYwMTQxLDE0MDQ5NT
-I3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQz
-LC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNj
-Q4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0
-MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5Mz
-UzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5
-M119
+eyJoaXN0b3J5IjpbLTIyMDY4NDI1OCw0ODE2NjAxNDEsMTQwND
+k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
+NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
+E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
+MzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMT
+kzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQw
+OTkzXX0=
 -->
