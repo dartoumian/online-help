@@ -28,9 +28,10 @@ De belangrijkste velden op tabblad **Algemeen** zijn:
  - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
  - **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
 	
-Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen: 
-- Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B'). 
-- Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
+Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of wijzigen:
+
+1. Voer in het veld **Straat** de postcode, het huisnummer en eventueel het toevoegsel in (zonder spaties, bijvoorbeeld '1234AA33B').
+2. Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
 
 Toelichting op de overige velden op tabblad **Adressen**: 
  - De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
@@ -177,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzczOTYzNCwtNTc3MjA4NDIxLDU0Nj
-QyMDIwNSwtMTY0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcyMDcz
-NiwxNDk2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMz
-E4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTcz
-NywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2ND
-k5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0Mjg5MSwtNzEyMjY4
-NTA1XX0=
+eyJoaXN0b3J5IjpbNTkxODgxNTA1LC01NzcyMDg0MjEsNTQ2ND
+IwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2
+LDE0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMT
+gzNjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3
+LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OT
+kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
+MDVdfQ==
 -->
