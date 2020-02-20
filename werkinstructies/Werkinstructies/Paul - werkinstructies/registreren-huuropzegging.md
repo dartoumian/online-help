@@ -10,8 +10,8 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huuropzegging moet worden vastgelegd.
-3. Klik op de link achter **Klantnr** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
-4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegt is namens die klant het huurcontract te beëindigen.
+3. Klik op de link achter **Klantnr.** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
+4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegd is namens die klant het huurcontract te beëindigen.
 5. Sluit de Klantkaart. U keert weer terug naar het overzicht met OG Eenheden.
 6. Klik op de knop ***Nieuw*** - **Huuropzegging maken**. Er verschijnt een popup met de vraag of u contract op naam van de klant wilt beëindigen.
 7. Klik op **Ja**. Pagina **Opzegging huurcontract** wordt geopend.
@@ -57,7 +57,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNjY3Mzc3LC0zOTI2NjI4NzUsLTk5NT
-U3MTY4NCwtMTkyNTgyNjAzMyw3NTE0NzY1MjMsOTA1OTQwMTY0
-LC0xNTEyNTE4MTYwLC03MzYwMzU0NTYsLTc5NzQ4NTAyXX0=
+eyJoaXN0b3J5IjpbMTc5NTUzNzExNSwtMzkyNjYyODc1LC05OT
+U1NzE2ODQsLTE5MjU4MjYwMzMsNzUxNDc2NTIzLDkwNTk0MDE2
+NCwtMTUxMjUxODE2MCwtNzM2MDM1NDU2LC03OTc0ODUwMl19
 -->
