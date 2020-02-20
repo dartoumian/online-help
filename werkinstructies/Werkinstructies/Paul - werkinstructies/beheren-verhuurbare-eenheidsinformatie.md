@@ -40,7 +40,7 @@ Toelichting op de overige velden op tabblad **Adressen**:
 De belangrijkste velden op tabblad **Exploitatie (Fin)** zijn: 
 - **WOZ-objectnummer**: Geeft aan tot welk WOZ-objectnummer de OG Eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object.
 - **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie **[Aanpassen streefhuur](#aanpassen-streefhuur)**. 
-- **Huurbeleid**:  dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initiëel gaat betalen. 
+- **Huurbeleid**: Dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initieel gaat betalen.
 - **Huurverhogingsbeleidstype**: het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
 - **Nettohuuraftopping**:  de aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging. 
 
@@ -178,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNzk0Mzc0LC01ODU0NzkwNzAsMTIxMD
-UyNTY0MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQyMDIw
-NSwtMTY0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcyMDczNiwxND
-k2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3
-MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNz
-Q2NDA5OTMsMTE2NDkxNTg1NCwtNjMwNDgzNzkzLDY2NDk5Mzkx
-OF19
+eyJoaXN0b3J5IjpbLTEyMjYwNzAxNDAsLTU4NTQ3OTA3MCwxMj
+EwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIw
+MjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LD
+E0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgz
+NjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC
+03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkz
+OTE4XX0=
 -->
