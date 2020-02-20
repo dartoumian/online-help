@@ -71,9 +71,8 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
  - **Woonvoorziening voor gehandicapten**: Vul de investering in het veld **Investering voorzieningen** in.
 - **Buitenruimte**: Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden in.
  - **WOZ-waardering**: Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten, van de vraag of de woonruimte in een COROP-gebied ligt en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, dat standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert.
- - **Renovatie**: punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het beleidsboek). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
- - **Bijzondere voorzieningen**: In het geval van een zorgwoning worden conform het beleidsboek extra punten gerekend mits voldaan is aan bepaalde voorwaarden. U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden. 
-
+ - **Renovatie**: Punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het beleidsboek). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
+ - **Bijzondere voorzieningen**: U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden.
 
 Binnen de woningwaardering van een *onzelfstandige woonruimte* kunt u de volgende details aanpassen: 
 	 - **Beschermd stads- of dorpsgezicht**: indicatie of voor de OG Eenheid beschermd stads- of dorpsgezicht van toepassing is. Zo ja, dan wordt de maximale huurprijs van de OG Eenheid verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
@@ -176,7 +175,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjM4Nzg5MSw0ODE2NjAxNDEsMTQwND
+eyJoaXN0b3J5IjpbMjEwNjk2MjU3Nyw0ODE2NjAxNDEsMTQwND
 k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
 NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
 E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
