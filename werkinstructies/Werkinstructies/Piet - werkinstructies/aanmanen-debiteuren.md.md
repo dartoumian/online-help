@@ -15,7 +15,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 	* **Kopniveau gebruiken:** Nee.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
 	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditiecode** en selecteer de aanmaningsconditie die u aan wilt manen. 
-3. Klik op **OK**. De aanmangsvoorstellen worden aangemaakt.  keert terug  de pagina **Aanmaningen**.
+3. Klik op **OK**. De aanmaningsvoorstellen worden aangemaakt.  U keert terug naar de pagina **Aanmaningen**.
 
 ## Opschonen voorstel
 
@@ -76,8 +76,9 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI1MDc0NTcsLTEyNzE1NzAwNDAsOD
-c1NzM5NDk2LDE2NTIxNDUxOTAsMjM2NjQ0MTIsLTExNTczMTYw
-NDEsLTE2MDYzNzc2MjQsMTI2MjYyODEyLDkxNzg1NTY1MywtMT
-E4NzA1NDYzNywyODgyNjUwMzYsMTA1MTU3NTIwNl19
+eyJoaXN0b3J5IjpbMTMwNTU4MjYwMywtMTE2MjUwNzQ1NywtMT
+I3MTU3MDA0MCw4NzU3Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQx
+MiwtMTE1NzMxNjA0MSwtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOT
+E3ODU1NjUzLC0xMTg3MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1
+MjA2XX0=
 -->
