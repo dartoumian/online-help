@@ -34,8 +34,8 @@ Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of
 2. Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
 
 Toelichting op de overige velden op tabblad **Adressen**: 
- - De velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
- - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**.  
+ - De velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: 'CBS-DATA IMPORTEREN')). 
+ - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, de postcode en de plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op **Verblijfobject koppelen**.  
 
 De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
 	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object. 
@@ -178,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNT
-c3MjA4NDIxLDU0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQxNDAz
-MzIsMjExMzcyMDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2NDYsMj
-I0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4
-MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNj
-MwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0
-Mjg5MV19
+eyJoaXN0b3J5IjpbLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNT
+gzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4NjQz
+MTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0MDQsMT
+AwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQy
+NDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMT
+Y0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4
+MTQ1XX0=
 -->
