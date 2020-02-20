@@ -34,7 +34,7 @@ Op tabblad **Adressen** kunt u het adres van de OG Eenheid als volgt invoeren of
 2. Zodra u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Toevoegsel**, **Postcode** en **Plaats** is op basis van de Postcodetabel. 
 
 Toelichting op de overige velden op tabblad **Adressen**: 
- - De de velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
+ - De velden **Gemeente**, **CBS-wijk** en **CBS-buurt** geven aan binnen welke gemeente, CBS-wijk en CBS-buurt de OG Eenheid ligt. De waarden van deze velden worden automatisch bepaald aan de hand van de postcode en het huisnummer van de OG Eenheid (mits de CBS-data is geïmporteerd (zie: '**CBS-data importeren**')). 
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, postcode en plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op ***Acties*** - ***BAG*** - **Verblijfobject koppelen**.  
 
 De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
@@ -178,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxODgxNTA1LC01NzcyMDg0MjEsNTQ2ND
-IwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2
-LDE0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMT
-gzNjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3
-LC03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OT
-kzOTE4LC0xNDQ3NzM4MTQ1LC0xMjA1MDQyODkxLC03MTIyNjg1
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1ND
+Y0MjAyMDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3
+MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMz
+MxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3
+MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2Nj
+Q5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLTcxMjI2
+ODUwNV19
 -->
