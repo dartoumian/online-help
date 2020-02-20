@@ -6,9 +6,9 @@ Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit
  - [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
  - [Woningwaardering](#aanpassen-woningwaardering)
  - [Streefhuur](#aanpassen-streefhuur)
- - [Exploitatievormen]
- - Administratief eigenaren 
- - Contactpersonen 
+ - [Exploitatievormen](#aanpassen-exploitatievorm)
+ - [Administratief eigenaren](#aanpassen-administratief-eigenaar)
+ - [Contactpersonen](#aanpassen-contactpersonen)
 
 ## Processchema
 
@@ -170,7 +170,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg0MTM0MTcsNDgxNjYwMTQxLDE0MD
+eyJoaXN0b3J5IjpbLTE0Nzc0MzQ0MjMsNDgxNjYwMTQxLDE0MD
 Q5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1
 NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC
 0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2
