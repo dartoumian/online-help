@@ -41,18 +41,18 @@ De belangrijkste velden op tabblad **Exploitatie (Fin)** zijn:
 - **WOZ-objectnummer**: Geeft aan tot welk WOZ-objectnummer de OG Eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object.
 - **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie **[Aanpassen streefhuur](#aanpassen-streefhuur)**. 
 - **Huurbeleid**: Dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initieel gaat betalen.
-- **Huurverhogingsbeleidstype**: het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
-- **Nettohuuraftopping**:  de aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging. 
+- **Huurverhogingsbeleidstype**: Het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
+- **Nettohuuraftopping**: De aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging. 
 
  
 ## Aanpassen woningwaardering
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund: 
-	 - Woningwaardering voor *zelfstandig woonruimtes*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel zelfstandige woonruimte; 
-	 - Woningwaardering voor *onzelfstandige woonruimtes*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte. 
+	 - woningwaardering voor *zelfstandige woonruimten*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel zelfstandige woonruimte; 
+	 - woningwaardering voor *onzelfstandige woonruimten*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel onzelfstandige woonruimte. 
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**. 
 
-U kunt als volgt een nieuwe versie van de woningwaardering aanmaken voor een OG Eenheid: 
+U maakt als volgt een nieuwe versie van de woningwaardering aan voor een OG Eenheid: 
  1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
@@ -178,7 +178,7 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYwNzAxNDAsLTU4NTQ3OTA3MCwxMj
+eyJoaXN0b3J5IjpbLTEwNzEzMTU3NzksLTU4NTQ3OTA3MCwxMj
 EwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIw
 MjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LD
 E0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgz
