@@ -52,9 +52,8 @@ In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door e
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**. 
 
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de juiste OG Eenheid.
  3. Klik op **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies). 
  4. Klik op **Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van et aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief. 
  5. Pas daar waar nodig details van de nieuwe versie aan. 
@@ -177,11 +176,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTM0ODc3NSwtNTg1NDc5MDcwLDEyMT
-A1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAy
-MDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMT
-Q5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2
-NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLT
-c0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5
-MThdfQ==
+eyJoaXN0b3J5IjpbLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMj
+EwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIw
+MjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LD
+E0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgz
+NjczLDE5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC
+03NDY0MDk5MywxMTY0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkz
+OTE4XX0=
 -->
