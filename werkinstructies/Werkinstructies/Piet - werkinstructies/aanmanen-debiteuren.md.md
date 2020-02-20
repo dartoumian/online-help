@@ -14,7 +14,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 	* **Wachtende posten opnemen:** Nee.
 	* **Kopniveau gebruiken:** Nee.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
-	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditiecode** en selecteer de aanmaningsconditie die u aan wilt manen. 
+	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditiecode** en selecteer de aanmaningsconditie die u aan wilt aanmanen. 
 3. Klik op **OK**. De aanmaningsvoorstellen worden aangemaakt.  U keert terug naar de pagina **Aanmaningen**.
 
 ## Opschonen voorstel
@@ -59,7 +59,7 @@ Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aa
 
 1. Selecteer op de pagina **Aanmaningen** alle aanmaningenvoorstellen. 
 2. Klik op **Verzenden**. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
-3. Moeten de aanmaningen die u in definitief gemaakt heeft verzonden worden ga dan verder bij processtap #aanmaningen-versturen
+3. Moeten de aanmaningen die u definitief gemaakt heeft verzonden worden, ga dan verder bij processtap #aanmaningen-versturen
 4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder ga dan verder met het werkproces UITHANDEN GEVEN VORDERING.
 
 ## Versturen aanmaning
@@ -76,9 +76,9 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTU4MjYwMywtMTE2MjUwNzQ1NywtMT
-I3MTU3MDA0MCw4NzU3Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQx
-MiwtMTE1NzMxNjA0MSwtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOT
-E3ODU1NjUzLC0xMTg3MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1
-MjA2XX0=
+eyJoaXN0b3J5IjpbMTA2NzUwODA0OCwxMzA1NTgyNjAzLC0xMT
+YyNTA3NDU3LC0xMjcxNTcwMDQwLDg3NTczOTQ5NiwxNjUyMTQ1
+MTkwLDIzNjY0NDEyLC0xMTU3MzE2MDQxLC0xNjA2Mzc3NjI0LD
+EyNjI2MjgxMiw5MTc4NTU2NTMsLTExODcwNTQ2MzcsMjg4MjY1
+MDM2LDEwNTE1NzUyMDZdfQ==
 -->
