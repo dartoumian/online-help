@@ -102,15 +102,11 @@ Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streef
 ## Aanpassen exploitatievorm
 In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  U kunt een exploitatievorm toevoegen of juist verwijderen bij de OG Eenheid. Elke exploitatievorm is van een bepaald soort (*Verhuur*, *Verkoop* of *Uit beheer*) en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**. 
 
-U kunt als volgt een exploitatievorm toevoegen aan of verwijderen van een OG Eenheid: 
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de juiste OG Eenheid.
  3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
- 4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **+Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
+ 4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
  5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**. 
-
-<hr>
 
 ### Aanpassen administratief eigenaar
 In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Deze DAEB-aanduiding heeft enerzijds invloed op de financiële boekingen van kosten en opbrengsten die gemaakt worden op de OG Eenheid en anderzijds invloed op de verantwoording verhuring (staatssteunregeling) van toewijzingen van de OG Eenheid aan nieuwe huurders. 
@@ -170,11 +166,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc0MzQ0MjMsNDgxNjYwMTQxLDE0MD
-Q5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1
-NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC
-0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2
-MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLD
-E5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0
-MDk5M119
+eyJoaXN0b3J5IjpbMTYzMjEyMDc4MywtMTQ3NzQzNDQyMyw0OD
+E2NjAxNDEsMTQwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5
+MDcwLDEyMTA1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMS
+w1NDY0MjAyMDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3
+MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNS
+wxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcw
+NDE3MzddfQ==
 -->
