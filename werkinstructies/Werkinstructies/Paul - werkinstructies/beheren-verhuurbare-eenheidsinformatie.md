@@ -81,10 +81,9 @@ Binnen de woningwaardering van een ***onzelfstandige woonruimte*** kunt u de vol
  - **Kookgelegenheid**: Selecteer de waarde die van toepassing is voor de keuken van de onzelfstandige woonruimte. 
  - **Toilet**: Selecteer de waarde die van toepassing is voor het toilet van de onzelfstandige woonruimte.
  - **Wasgelegenheid**: Selecteer de waarde die van toepassing is voor de douche/het bad resp. de wastafel van de onzelfstandige woonruimte. 
- - **Kwaliteitsfactoren**: dit aspect heeft betrekking op de aanwezigheid van thermostatische regelknoppen op de radiatoren, buitenruimten en fietsenberging. Selecteer de waarde die van toepassing is voor de onzelfstandige woonruimte. 
- - **Beschermd monument**:  extra punten indien de onzelfstandige woonruimte deel uitmaakt van een beschermd monument. Selecteer deze indicatie inden van toepassing. 
- - **Aftrekpunten**: selecteer daar waar van toepassing de aspecten van de onzelfstandige woonruimte waarvoor aftrekpunten worden gerekend. 
-
+ - **Kwaliteitsfactoren**: Selecteer de waarde die van toepassing is voor de onzelfstandige woonruimte. 
+ - **Beschermd monument**: Selecteer deze indicatie inden van toepassing. 
+ - **Aftrekpunten**: Selecteer daar waar van toepassing de aspecten van de onzelfstandige woonruimte waarvoor aftrekpunten worden gerekend.
 
 ## Aanpassen streefhuur
 In deze stap past u de streefhuurmethode van de OG Eenheid aan van *Statisch* naar *Dynamisch* of andersom. Als de streefhuurmethode is ingesteld op *Dynamisch*, kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op *Statisch*, kunt u het streefhuurbedrag aanpassen. 
@@ -175,11 +174,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NTA5MDMxLDQ4MTY2MDE0MSwxNDA0OT
-UyNzgxLC0xNjA4MjAzMzc2LC01ODU0NzkwNzAsMTIxMDUyNTY0
-MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQyMDIwNSwtMT
-Y0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcyMDczNiwxNDk2NjIz
-NDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LDEzMzE4MzY3MywxOT
-M1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0MTczNywtNzQ2NDA5
-OTNdfQ==
+eyJoaXN0b3J5IjpbNjAyOTA0MzgsNDgxNjYwMTQxLDE0MDQ5NT
+I3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQz
+LC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNj
+Q4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0
+MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5Mz
+UzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5
+M119
 -->
