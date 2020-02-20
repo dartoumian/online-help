@@ -66,10 +66,10 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
  - **Oppervlakte overige ruimtes**: Klik op de drie puntjes in het veld **Totale opp. ruimtes**, selecteer één of meer overige ruimtes en vul per overige ruimte de oppervlakte van de ruimte conform het beleidsboek in. 
  - **Verwarming**: In het geval van aansluiting op een warmtenet geldt een andere puntentelling. Vul het aantal verwarmde vertrekken en het aantal verwarmde overige ruimtes in.
  - **Energieprestatie**:  De energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatie **Energieprestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparametersets**.
- - **Keuken**: Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonruimte. 
- - **Sanitair**: Het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is. 
- - **Woonvoorziening voor gehandicapten**:  het aantal punten wordt bepaald door de investering die de verhuurder heeft besteed aan het geschikt maken van de zelfstandige woonruimte voor bewoning door gehandicapten. Vul de investering in het veld **Investering voorzieningen** in.   
-- **Buitenruimte**:  het aantal punten wordt bepaald door de totale oppervlakte van de privé buitenruimten. Zie het beleidsboek voor de definitie van buitenruimte en voor de regels via welke de oppervlakte moet worden bepaald. Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden in.  
+ - **Keuken**: Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonruimte.
+ - **Sanitair**: Het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is.
+ - **Woonvoorziening voor gehandicapten**: Vul de investering in het veld **Investering voorzieningen** in.
+- **Buitenruimte**: Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden in.
  - **WOZ-waardering**: het aantal punten op basis van de WOZ-waarde van de zelfstandige woonruimte. Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten, van de vraag of de woonruimte in een COROP-gebied ligt en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, welke standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert. 
  - **Renovatie**: punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het beleidsboek). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
  - **Bijzondere voorzieningen**: In het geval van een zorgwoning worden conform het beleidsboek extra punten gerekend mits voldaan is aan bepaalde voorwaarden. U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden. 
@@ -176,11 +176,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY4NTc1NDAsNDgxNjYwMTQxLDE0MD
-Q5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1
-NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC
-0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2
-MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLD
-E5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0
-MDk5M119
+eyJoaXN0b3J5IjpbMTU4MDE1ODM1Nyw0ODE2NjAxNDEsMTQwND
+k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
+NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
+E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
+MzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMT
+kzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQw
+OTkzXX0=
 -->
