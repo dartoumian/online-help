@@ -109,15 +109,13 @@ In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatie
  5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**. 
 
 ## Aanpassen administratief eigenaar
-In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort. Deze DAEB-aanduiding heeft enerzijds invloed op de financiële boekingen van kosten en opbrengsten die gemaakt worden op de OG Eenheid en anderzijds invloed op de verantwoording verhuring (staatssteunregeling) van toewijzingen van de OG Eenheid aan nieuwe huurders. 
+In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort.
 
-Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één administratief eigenaar. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. In Empire wordt onderscheid gemaakt tussen twee soorten ingangsdata: 
-- De *financiële ingangsdatum*, d.w.z. de ingangsdatum die bepalend is voor de financiële boekingen van kosten en opbrengsten; en 
-- De *verhuringsingangsdatum*. d.w.z. de ingangsdatum die bepalend is voor de verantwoording verhuring (staatssteunregeling). 
+Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren hebben, maar op elk moment in de tijd maximaal één. Om die reden heeft elke administratief eigenaar van een OG Eenheid een ingangsdatum en eventueel ook een einddatum. In Dynamics Empire wordt onderscheid gemaakt tussen twee soorten ingangsdata: 
+- de *financiële ingangsdatum*, d.w.z. de ingangsdatum die bepalend is voor de financiële boekingen van kosten en opbrengsten; en 
+- de *verhuringsingangsdatum*. d.w.z. de ingangsdatum die bepalend is voor de verantwoording verhuring (staatssteunregeling). 
 
-Beide ingangsdata zijn standaard gelijk aan elkaar, maar u kunt de verhuringsingangsdatum desgewenst eerder laten ingaan dan de financiële ingangsdatum. 
-
-Het wijzigen van de administratief eigenaar van ene OG Eenheid gaat in twee stappen: 
+Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stappen: 
 1. Aanvraag voor wijziging van administratief eigenaar invullen 
 2. Aanvraag voor wijziging van administratief eigenaar goedkeuren 
 
@@ -166,11 +164,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODk3MzEwLC0xNDc3NDM0NDIzLDQ4MT
-Y2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAzMzc2LC01ODU0Nzkw
-NzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLD
-U0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQxNDAzMzIsMjExMzcy
-MDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2NDYsMjI0NzY5MjI1LD
-EzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4MjU3LDIwNzA0
-MTczN119
+eyJoaXN0b3J5IjpbLTMzOTUxNzE2NCwtNzQ4OTczMTAsLTE0Nz
+c0MzQ0MjMsNDgxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMz
+NzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC
+01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0
+MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0MDQsMTAwNDcyMTY0Ni
+wyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIsLTE1NTA1
+NzgyNTddfQ==
 -->
