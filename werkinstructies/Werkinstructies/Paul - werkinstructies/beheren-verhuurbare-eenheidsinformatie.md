@@ -4,9 +4,9 @@
 Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie: 
 
  - [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
- - Woningwaardering 
- - Streefhuur 
- - Exploitatievormen 
+ - [Woningwaardering](#aanpassen-woningwaardering)
+ - [Streefhuur](#aanpassen-streefhuur)
+ - [Exploitatievormen]
  - Administratief eigenaren 
  - Contactpersonen 
 
@@ -170,11 +170,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTc2NDE0Miw0ODE2NjAxNDEsMTQwND
-k1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2
-NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLT
-E2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5NjYy
-MzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2NzMsMT
-kzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLTc0NjQw
-OTkzXX0=
+eyJoaXN0b3J5IjpbLTEzMjg0MTM0MTcsNDgxNjYwMTQxLDE0MD
+Q5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1
+NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC
+0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2
+MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLD
+E5MzUzNzQyNDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0
+MDk5M119
 -->
