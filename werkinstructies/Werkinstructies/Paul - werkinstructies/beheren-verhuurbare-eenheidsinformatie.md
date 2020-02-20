@@ -143,20 +143,12 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid.
- 3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**. 
+ 3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 
-<hr>
-
-
-## Zie ook (links naar andere detailprocessen uit dezelfde procesgroep)
-Werkinstructie X  
-Werkinstructie Y  
-Werkinstructie Z
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg5ODUwNTEsLTM1NzM5NTI0NywtMT
+eyJoaXN0b3J5IjpbLTE5ODA0NTU5NTYsLTM1NzM5NTI0NywtMT
 MyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0MjMsNDgxNjYw
 MTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MC
 wxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2
