@@ -116,11 +116,10 @@ Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren he
 - de *verhuringsingangsdatum*. d.w.z. de ingangsdatum die bepalend is voor de verantwoording verhuring (staatssteunregeling). 
 
 Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stappen: 
-1. Aanvraag voor wijziging van administratief eigenaar invullen 
-2. Aanvraag voor wijziging van administratief eigenaar goedkeuren 
+ - Aanvraag voor wijziging van administratief eigenaar invullen 
+ - Aanvraag voor wijziging van administratief eigenaar goedkeuren 
 
-U vraagt als volgt een wijziging van de administratief eigenaar aan: 
-1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+ 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
@@ -131,7 +130,7 @@ U vraagt als volgt een wijziging van de administratief eigenaar aan:
 
 
 U keurt als volgt een wijziging van de administratief eigenaar goed: 
-1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
+5. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
@@ -164,11 +163,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTUxNzE2NCwtNzQ4OTczMTAsLTE0Nz
-c0MzQ0MjMsNDgxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMz
-NzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC
-01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0
-MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0MDQsMTAwNDcyMTY0Ni
-wyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIsLTE1NTA1
-NzgyNTddfQ==
+eyJoaXN0b3J5IjpbLTEzMjQwNjc1OTksLTc0ODk3MzEwLC0xND
+c3NDM0NDIzLDQ4MTY2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAz
+Mzc2LC01ODU0NzkwNzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4Ni
+wtNTc3MjA4NDIxLDU0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQx
+NDAzMzIsMjExMzcyMDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2ND
+YsMjI0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUw
+NTc4MjU3XX0=
 -->
