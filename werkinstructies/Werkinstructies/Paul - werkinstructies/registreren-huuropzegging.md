@@ -37,24 +37,21 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 2. Selecteer de eerste inspectie met **Status** 'Nieuw' die u wilt plannen.
 3. Klik op **Inspectieafspraak plannen**. Pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
 4. In veld **Datum** selecteert u de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip.
-5. Selecteer de inspecteur voor wie u de inspectie wilt plannen.
-6. Vink de begintijd aan waarop u de inspectie wilt plannen.
-7. Klik op **OK**.
-8. Herhaal actie 2 t/m 7 voor elke volgende inspectie die u wilt plannen.
+5. Selecteer de inspecteur voor wie u de inspectie wilt plannen, vink de begintijd aan waarop u de inspectie wilt plannen en klik op **OK**.
+8. Herhaal actie 2 t/m 5 voor elke volgende inspectie die u wilt plannen.
 9. Klik op **Sluiten**.
 
 ## Bevestigingen huuropzegging
 
-1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging.
--Vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en klik op ***Navigeren*** - **Huuropzegging**).
+1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**).
 -Via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart.
 -Via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op **Huuropzeggingen**.
 2. Klik op ***Acties*** - **Worddocument**.
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODExMDkwMiwxNTAxMDgzNjMxLC0zOT
-I2NjI4NzUsLTk5NTU3MTY4NCwtMTkyNTgyNjAzMyw3NTE0NzY1
-MjMsOTA1OTQwMTY0LC0xNTEyNTE4MTYwLC03MzYwMzU0NTYsLT
-c5NzQ4NTAyXX0=
+eyJoaXN0b3J5IjpbMTMxNzk1OTA0LDE1MDEwODM2MzEsLTM5Mj
+Y2Mjg3NSwtOTk1NTcxNjg0LC0xOTI1ODI2MDMzLDc1MTQ3NjUy
+Myw5MDU5NDAxNjQsLTE1MTI1MTgxNjAsLTczNjAzNTQ1NiwtNz
+k3NDg1MDJdfQ==
 -->
