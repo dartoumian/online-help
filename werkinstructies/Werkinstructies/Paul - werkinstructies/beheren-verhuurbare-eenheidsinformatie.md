@@ -138,17 +138,12 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
  7. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt weer geopend, nu met een extra regel met de nieuwe administratief eigenaar. 
  8. Pas desgewenst de **Verhuring ingangdatum** aan in een datum die eerder ingaat dan de **Financiële ingangsdatum**. 
 
-
-<hr>
-
-### Aanpassen contactpersonen
+## Aanpassen contactpersonen
 In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoon behoort tot een functiegroep, zoals huismeester.  Eén OG Eenheid kan per functiegroep maximaal één contactpersoon hebben. 
 
-1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid
- 3. In het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond.  
- 4. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid.
+ 3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**. 
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 
@@ -161,11 +156,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDkxNjQzMywtMzU3Mzk1MjQ3LC0xMz
-I0MDY3NTk5LC03NDg5NzMxMCwtMTQ3NzQzNDQyMyw0ODE2NjAx
-NDEsMTQwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLD
-EyMTA1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0
-MjAyMDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3Mz
-YsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMx
-ODM2NzNdfQ==
+eyJoaXN0b3J5IjpbLTE4MDg5ODUwNTEsLTM1NzM5NTI0NywtMT
+MyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0MjMsNDgxNjYw
+MTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MC
+wxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2
+NDIwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEzNzIwNz
+M2LDE0OTY2MjM0MDQsMTAwNDcyMTY0NiwyMjQ3NjkyMjUsMTMz
+MTgzNjczXX0=
 -->
