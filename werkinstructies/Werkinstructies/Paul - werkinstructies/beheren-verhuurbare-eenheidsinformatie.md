@@ -65,7 +65,7 @@ Binnen de woningwaardering van een *zelfstandige woonruimte* kunt u de volgende 
  - **Oppervlakte van vertrekken**: Klik op de drie puntjes in het veld **Totale opp. vertrekken**, selecteer één of meer vertrekken en vul per vertrek de oppervlakte van het vertrek conform het beleidsboek in. In het geval van een badkamer waarin een toilet aanwezig is, vink dan de indicatie **Toilet in vertrek** aan.   
  - **Oppervlakte overige ruimtes**: Klik op de drie puntjes in het veld **Totale opp. ruimtes**, selecteer één of meer overige ruimtes en vul per overige ruimte de oppervlakte van de ruimte conform het beleidsboek in. 
  - **Verwarming**: In het geval van aansluiting op een warmtenet geldt een andere puntentelling. Vul het aantal verwarmde vertrekken en het aantal verwarmde overige ruimtes in.
- - **Energieprestatie**:  de energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatie **Energieprestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparametersets** 
+ - **Energieprestatie**:  De energieprestatie van de woonruimte uitgedrukt in termen van een energie-index of EPA-label. Als de energieprestatie is afgemeld na 1-1-2015, selecteer dan de energiewaardering **Energie-index** en vul de waarde in het veld **Energie-index** in. In het geval de corporatie een energieprestatievergoeding in rekening brengt aan de huurder, selecteer dan de indicatie **Energieprestatievergoeding**. In dat geval krijgt de zelfstandige woonruimte het aantal energiepunten dat conform de wet van toepassing en dat in Dynamics Empire is ingesteld in de **Woningwaarderingparametersets** 
  - **Keuken**: het aantal punten voor de keuken wordt bepaald door de lengte van het langste aanrechtblad en eventueel aangevuld met extra kwaliteitspunten. Klik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten keuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op de keuken van de zelfstandige woonruimte. 
  - **Sanitair**: het aantal punten voor het sanitair wordt bepaald door het aantal  sanitairgelegenheden en eventueel aangevuld met extra kwaliteitspunten. Vul het aantal toiletten, wastafels, douches en baden in dat aanwezig is iKlik op de drie puntjes in het veld **Langste aanrecht (m)** en selecteer de waarde die van toepassing is op de keuken van de zelfstandige woonruimte. Klik op de drie puntjes in het veld **Kwaliteitspunten sanitairkeuken** en selecteer de kwaliteitsaspecten die van toepassing zijn op het sanitairde keuken van de zelfstandige woonruimte. 
  - **Woonvoorziening voor gehandicapten**:  het aantal punten wordt bepaald door de investering die de verhuurder heeft besteed aan het geschikt maken van de zelfstandige woonruimte voor bewoning door gehandicapten. Vul de investering in het veld **Investering voorzieningen** in.   
@@ -176,11 +176,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNT
-g1NDc5MDcwLDEyMTA1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIw
-ODQyMSw1NDY0MjAyMDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLD
-IxMTM3MjA3MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2
-OTIyNSwxMzMxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1Ny
-wyMDcwNDE3MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4
-Mzc5M119
+eyJoaXN0b3J5IjpbNDgxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MD
+gyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQz
+ODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4NjQzMTQsLT
+Y3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0MDQsMTAwNDcy
+MTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQyNDIsLT
+E1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMTY0OTE1
+ODU0XX0=
 -->
