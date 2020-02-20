@@ -38,11 +38,11 @@ Toelichting op de overige velden op tabblad **Adressen**:
  - De velden **BAG-adres**, **BAG-postcode** en **BAG-plaats** geven het adres, de postcode en de plaats weer van het BAG-verblijfsobject dat is gekoppeld aan de OG Eenheid (mits een BAG-extractie is geïmporteerd). Om de OG Eenheid aan een BAG-verblijfobject te koppelen klikt u op **Verblijfobject koppelen**.  
 
 De belangrijkste velden in tabblad **Exploitatie (Fin)** zijn: 
-	- **WOZ-objectnummer**: geeft aan tot welk WOZ-objectnummer de OG eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object. 
-	- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie *Streefhuur aanpassen*. 
-	- **Huurbeleid**:  dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initiëel gaat betalen. 
-	- **Huurverhogingsbeleidstype**: het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
-	- **Nettohuuraftopping**:  de aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging. 
+- **WOZ-objectnummer**: Geeft aan tot welk WOZ-objectnummer de OG Eenheid behoort.  De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object.
+- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie *Streefhuur aanpassen*. 
+- **Huurbeleid**:  dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initiëel gaat betalen. 
+- **Huurverhogingsbeleidstype**: het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd. 
+- **Nettohuuraftopping**:  de aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging. 
 
  
 ## Aanpassen woningwaardering
@@ -178,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNT
-gzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4NjQz
-MTQsLTY3NDE0MDMzMiwyMTEzNzIwNzM2LDE0OTY2MjM0MDQsMT
-AwNDcyMTY0NiwyMjQ3NjkyMjUsMTMzMTgzNjczLDE5MzUzNzQy
-NDIsLTE1NTA1NzgyNTcsMjA3MDQxNzM3LC03NDY0MDk5MywxMT
-Y0OTE1ODU0LC02MzA0ODM3OTMsNjY0OTkzOTE4LC0xNDQ3NzM4
-MTQ1XX0=
+eyJoaXN0b3J5IjpbLTUwMzQ2OTIxNiwtNTg1NDc5MDcwLDEyMT
+A1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAy
+MDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMT
+Q5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMzMxODM2
+NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3MzcsLT
+c0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2NjQ5OTM5
+MThdfQ==
 -->
