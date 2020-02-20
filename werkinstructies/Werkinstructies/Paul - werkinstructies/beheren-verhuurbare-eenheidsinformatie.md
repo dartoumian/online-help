@@ -57,7 +57,7 @@ U kunt als volgt een nieuwe versie van de woningwaardering aanmaken voor een OG 
     het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de OG Eenheid
  3. Klik op **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies). 
- 4. Klik op **+Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van et aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief. 
+ 4. Klik op **Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van et aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief. 
  5. Pas daar waar nodig details van de nieuwe versie aan. 
 
 Voor elk soort woningwaardering zijn andere soorten details van toepassing. De details van de woningwaardering hebben betrekking op die eigenschappen van de OG Eenheid die van invloed zijn op de berekening van het aantal **Totaal aantal punten afgerond**. Het aantal punten op zijn beurt bepaalt de maximale huurprijs van de OG Eenheid (zie pagina **Maximale huurprijzen**). 
@@ -178,11 +178,11 @@ Werkinstructie Y
 Werkinstructie Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1ND
-Y0MjAyMDUsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3
-MzYsMTQ5NjYyMzQwNCwxMDA0NzIxNjQ2LDIyNDc2OTIyNSwxMz
-MxODM2NzMsMTkzNTM3NDI0MiwtMTU1MDU3ODI1NywyMDcwNDE3
-MzcsLTc0NjQwOTkzLDExNjQ5MTU4NTQsLTYzMDQ4Mzc5Myw2Nj
-Q5OTM5MTgsLTE0NDc3MzgxNDUsLTEyMDUwNDI4OTEsLTcxMjI2
-ODUwNV19
+eyJoaXN0b3J5IjpbMTIxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNT
+c3MjA4NDIxLDU0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQxNDAz
+MzIsMjExMzcyMDczNiwxNDk2NjIzNDA0LDEwMDQ3MjE2NDYsMj
+I0NzY5MjI1LDEzMzE4MzY3MywxOTM1Mzc0MjQyLC0xNTUwNTc4
+MjU3LDIwNzA0MTczNywtNzQ2NDA5OTMsMTE2NDkxNTg1NCwtNj
+MwNDgzNzkzLDY2NDk5MzkxOCwtMTQ0NzczODE0NSwtMTIwNTA0
+Mjg5MV19
 -->
