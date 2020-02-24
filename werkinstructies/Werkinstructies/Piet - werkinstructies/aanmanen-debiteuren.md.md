@@ -23,8 +23,8 @@ Nadat de voorstellen gegenereerd zijn kunt u deze opschonen en controleren.
 
 1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter op de pagina **Aanmaningen** op het veld **Aanmaningsniveau** zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
 2. Selecteer alle aanmaningsvoorstellen en klik op **Verwijderen**. Er wordt nu een lege lijst getoond.
-3. Verwijder het ingestelde filter, en de aanmaningen van het niveau at u wilt versturen worden getoond.
-4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen, en het aanmaningsniveau beteken dat de betalingsregeling vervalt, ga dan verder naar de processtap **[Verwerken aanmaningen beëindigde betalingsregeling](#verwerken-aanmaningen-beëindigde-betalingsregeling)**. 
+3. Verwijder het ingestelde filter, en de aanmaningen van het niveau dat u wilt versturen worden getoond.
+4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen, en het aanmaningsniveau betekent dat de betalingsregeling vervalt, ga dan verder naar de processtap **[Verwerken aanmaningen beëindigde betalingsregeling](#verwerken-aanmaningen-beëindigde-betalingsregeling)**. 
 5. In alle andere gevallen gaat u door naar de processtap **[Controleren voorstellen en aanpassen individuele aanmaning](#controleren-voorstellen-en-aanpassen-individuele-aanmaning)**.
 
 ## Verwerken aanmaningen beëindigde betalingsregeling
@@ -34,7 +34,7 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 1. In de processtap **Opschonen voorstel** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst waarna de pagina **Aanmaning** opent.
 2. Selecteer in het feitenblok **Klantinformatie**, rechts in het scherm, de waarde achter het veld **Betalingsregeling actief**. De pagina **Betalingsregelingenoverzicht** opent. Deze pagina toont de actieve betalingsregelingen voor de debiteur. 
 3. Klik op **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op **Ja**. 
-4. De pagina **eëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
+4. De pagina **Beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
 5. U keert terug naar de pagina **Beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
 6. Herhaal stap 2 tot en met 5 voor alle aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
 7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
@@ -76,9 +76,9 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgwODE0MTAsLTEzMDE5OTcyNDcsMT
-MwNTU4MjYwMywtMTE2MjUwNzQ1NywtMTI3MTU3MDA0MCw4NzU3
-Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQxMiwtMTE1NzMxNjA0MS
-wtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOTE3ODU1NjUzLC0xMTg3
-MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1MjA2XX0=
+eyJoaXN0b3J5IjpbLTE5NDQwNjQwNCwtMTMwMTk5NzI0NywxMz
+A1NTgyNjAzLC0xMTYyNTA3NDU3LC0xMjcxNTcwMDQwLDg3NTcz
+OTQ5NiwxNjUyMTQ1MTkwLDIzNjY0NDEyLC0xMTU3MzE2MDQxLC
+0xNjA2Mzc3NjI0LDEyNjI2MjgxMiw5MTc4NTU2NTMsLTExODcw
+NTQ2MzcsMjg4MjY1MDM2LDEwNTE1NzUyMDZdfQ==
 -->
