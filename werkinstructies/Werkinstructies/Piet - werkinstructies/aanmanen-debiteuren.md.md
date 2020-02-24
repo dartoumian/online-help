@@ -21,7 +21,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 Nadat de voorstellen gegenereerd zijn kunt u deze opschonen en controleren. 
 
-1. U verstuur de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter in op de pagina **Aanmaningen**, op het veld **Aanmaningsniveau** zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
+1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter op de pagina **Aanmaningen** op het veld **Aanmaningsniveau** zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
 2. Selecteer alle aanmaningsvoorstellen en klik op **Verwijderen**. Er wordt nu een lege lijst getoond.
 3. Verwijder het ingestelde filter, en de aanmaningen van het niveau at u wilt versturen worden getoond.
 4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen, en het aanmaningsniveau beteken dat de betalingsregeling vervalt, ga dan verder naar de processtap **[Verwerken aanmaningen beëindigde betalingsregeling](#verwerken-aanmaningen-beëindigde-betalingsregeling)**. 
@@ -76,9 +76,9 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NjQ2MTU1LC0xMzAxOTk3MjQ3LDEzMD
-U1ODI2MDMsLTExNjI1MDc0NTcsLTEyNzE1NzAwNDAsODc1NzM5
-NDk2LDE2NTIxNDUxOTAsMjM2NjQ0MTIsLTExNTczMTYwNDEsLT
-E2MDYzNzc2MjQsMTI2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1
-NDYzNywyODgyNjUwMzYsMTA1MTU3NTIwNl19
+eyJoaXN0b3J5IjpbLTE5OTgwODE0MTAsLTEzMDE5OTcyNDcsMT
+MwNTU4MjYwMywtMTE2MjUwNzQ1NywtMTI3MTU3MDA0MCw4NzU3
+Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQxMiwtMTE1NzMxNjA0MS
+wtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOTE3ODU1NjUzLC0xMTg3
+MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1MjA2XX0=
 -->
