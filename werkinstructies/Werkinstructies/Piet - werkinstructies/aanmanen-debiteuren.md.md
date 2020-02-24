@@ -50,8 +50,8 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanmaningen voor beëindigde betalingsregelingen kunt u de aanmaningsvoorstellen controleren en desgewenst aanpassen. Deze stap is niet verplicht. U kunt ook direct doorgaan naar de volgende processtap **[Definitief maken aanmaningen](#definitief-maken-aanmaningen)**.
 
 1.	Vanaf de pagina **Aanmaningen** kunt u een individuele aanmaning openen door op het nummer van de aanmaning te klikken. De pagina **Aanmaning** opent.
-2.	Wilt u de tekst van een individuele aanmaning aanpassen dan kan dit door in de **Aanmaanregels** de tekst aan te passen. 
-3.	Wilt u dat de klant niet aangemaand wordt deze ronde dan kunt u een individuele aanmaning verwijderen door op **Verwijderen te klikken**. U wordt gevraagd de verwijdering te bevestigen. U keert terug naar de pagina **Aanmaningen.**
+2.	Wilt u de tekst van een individuele aanmaning aanpassen dan kan dit door in de **Aanmaningsregels** de tekst aan te passen. 
+3.	Wilt u dat de klant niet aangemaand wordt in deze ronde, dan kunt u een individuele aanmaning verwijderen door op **Verwijderen** te klikken. U wordt gevraagd de verwijdering te bevestigen. U keert terug naar de pagina **Aanmaningen.**
 
 ## Definitief maken aanmaningen
 
@@ -76,9 +76,10 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE1MzQyNjQsLTEzMDE5OTcyNDcsMT
-MwNTU4MjYwMywtMTE2MjUwNzQ1NywtMTI3MTU3MDA0MCw4NzU3
-Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQxMiwtMTE1NzMxNjA0MS
-wtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOTE3ODU1NjUzLC0xMTg3
-MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1MjA2XX0=
+eyJoaXN0b3J5IjpbMTcwNTY3OTQxOSwtMTM1MTUzNDI2NCwtMT
+MwMTk5NzI0NywxMzA1NTgyNjAzLC0xMTYyNTA3NDU3LC0xMjcx
+NTcwMDQwLDg3NTczOTQ5NiwxNjUyMTQ1MTkwLDIzNjY0NDEyLC
+0xMTU3MzE2MDQxLC0xNjA2Mzc3NjI0LDEyNjI2MjgxMiw5MTc4
+NTU2NTMsLTExODcwNTQ2MzcsMjg4MjY1MDM2LDEwNTE1NzUyMD
+ZdfQ==
 -->
