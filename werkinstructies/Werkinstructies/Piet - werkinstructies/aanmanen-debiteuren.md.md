@@ -57,7 +57,7 @@ Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanm
 
 Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aanmaningsvoorstellen definitief maken. 
 
-1. Selecteer op de pagina **Aanmaningen** alle aanmaningenvoorstellen. 
+1. Selecteer op de pagina **Aanmaningen** alle aanmaningsvoorstellen. 
 2. Klik op **Verzenden**. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
 3. Moeten de aanmaningen die u definitief gemaakt heeft verzonden worden, ga dan verder met processtap **[Versturen aanmaning](#versturen-aanmaning)**.
 4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder, ga dan verder met het werkproces UITHANDEN GEVEN VORDERING.
@@ -76,10 +76,10 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTY3OTQxOSwtMTM1MTUzNDI2NCwtMT
-MwMTk5NzI0NywxMzA1NTgyNjAzLC0xMTYyNTA3NDU3LC0xMjcx
-NTcwMDQwLDg3NTczOTQ5NiwxNjUyMTQ1MTkwLDIzNjY0NDEyLC
-0xMTU3MzE2MDQxLC0xNjA2Mzc3NjI0LDEyNjI2MjgxMiw5MTc4
-NTU2NTMsLTExODcwNTQ2MzcsMjg4MjY1MDM2LDEwNTE1NzUyMD
-ZdfQ==
+eyJoaXN0b3J5IjpbMTM4NTc0MTE2NywxNzA1Njc5NDE5LC0xMz
+UxNTM0MjY0LC0xMzAxOTk3MjQ3LDEzMDU1ODI2MDMsLTExNjI1
+MDc0NTcsLTEyNzE1NzAwNDAsODc1NzM5NDk2LDE2NTIxNDUxOT
+AsMjM2NjQ0MTIsLTExNTczMTYwNDEsLTE2MDYzNzc2MjQsMTI2
+MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1NDYzNywyODgyNjUwMz
+YsMTA1MTU3NTIwNl19
 -->
