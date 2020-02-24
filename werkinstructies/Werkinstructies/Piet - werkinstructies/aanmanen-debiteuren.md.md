@@ -31,7 +31,7 @@ Nadat de voorstellen gegenereerd zijn kunt u deze opschonen en controleren.
 
 U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wanneer de debiteur zijn betalingsregeling niet voldoet vervalt de betalingsregeling en wordt de debiteur gemaand de gehele oorspronkelijke vordering te voldoen. Hiervoor dient de betalingsregeling beëindigd te worden en de aanmaning dient opnieuw gegenereerd te worden. 
 
-1. In de processtap **Opschonen voorstel** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst waarna de pagina **Aanmaning** opent
+1. In de processtap **Opschonen voorstel** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst waarna de pagina **Aanmaning** opent.
 2. Selecteer in het feitenblok **Klantinformatie**, rechts in het scherm, de waarde achter het veld **Betalingsregeling actief**. De pagina **Betalingsregelingenoverzicht** opent. Deze pagina toont de actieve betalingsregelingen voor de debiteur. 
 3. Klik op **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op **Ja**. 
 4. De pagina **eëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
@@ -76,9 +76,9 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEzMTc5NTIsLTEzMDE5OTcyNDcsMT
-MwNTU4MjYwMywtMTE2MjUwNzQ1NywtMTI3MTU3MDA0MCw4NzU3
-Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQxMiwtMTE1NzMxNjA0MS
-wtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOTE3ODU1NjUzLC0xMTg3
-MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1MjA2XX0=
+eyJoaXN0b3J5IjpbNjM5MzIxMjI0LC0xMzAxOTk3MjQ3LDEzMD
+U1ODI2MDMsLTExNjI1MDc0NTcsLTEyNzE1NzAwNDAsODc1NzM5
+NDk2LDE2NTIxNDUxOTAsMjM2NjQ0MTIsLTExNTczMTYwNDEsLT
+E2MDYzNzc2MjQsMTI2MjYyODEyLDkxNzg1NTY1MywtMTE4NzA1
+NDYzNywyODgyNjUwMzYsMTA1MTU3NTIwNl19
 -->
