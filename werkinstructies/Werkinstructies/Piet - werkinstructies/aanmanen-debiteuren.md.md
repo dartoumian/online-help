@@ -35,11 +35,11 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 2. Selecteer in het feitenblok **Klantinformatie**, rechts in het scherm, de waarde achter het veld **Betalingsregeling actief**. De pagina **Betalingsregelingenoverzicht** opent. Deze pagina toont de actieve betalingsregelingen voor de debiteur. 
 3. Klik op **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op **Ja**. 
 4. De pagina **eëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
-5. U keert terug naar de pagina **beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
+5. U keert terug naar de pagina **Beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
 6. Herhaal stap 2 tot en met 5 voor alle aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
 7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
 8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar  p**.
-9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningste e n. Vul de nu geopende pagina de volgende velden:
+9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningste e n. Vul op de nu geopende pagina de volgende velden:
 	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
 	* **Aanvullende kosten aanpassen:** Ja.
 	* **Aanmaningsniveau bijwerken:** Ja.
@@ -76,9 +76,9 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE5OTcyNDcsMTMwNTU4MjYwMywtMT
-E2MjUwNzQ1NywtMTI3MTU3MDA0MCw4NzU3Mzk0OTYsMTY1MjE0
-NTE5MCwyMzY2NDQxMiwtMTE1NzMxNjA0MSwtMTYwNjM3NzYyNC
-wxMjYyNjI4MTIsOTE3ODU1NjUzLC0xMTg3MDU0NjM3LDI4ODI2
-NTAzNiwxMDUxNTc1MjA2XX0=
+eyJoaXN0b3J5IjpbLTE0MjEzMTc5NTIsLTEzMDE5OTcyNDcsMT
+MwNTU4MjYwMywtMTE2MjUwNzQ1NywtMTI3MTU3MDA0MCw4NzU3
+Mzk0OTYsMTY1MjE0NTE5MCwyMzY2NDQxMiwtMTE1NzMxNjA0MS
+wtMTYwNjM3NzYyNCwxMjYyNjI4MTIsOTE3ODU1NjUzLC0xMTg3
+MDU0NjM3LDI4ODI2NTAzNiwxMDUxNTc1MjA2XX0=
 -->
