@@ -30,7 +30,7 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 
 ### Controleren en oplossen
 
-Als Wanneer bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijwaren ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
+Als bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
 
 1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
 2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
@@ -90,6 +90,6 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzcxMDM1LDEwNjY3ODcwOTksMTM3NT
+eyJoaXN0b3J5IjpbOTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NT
 Q0NzMxMyw2NTMxNTY1NDQsLTc2NTQwNzAzNV19
 -->
