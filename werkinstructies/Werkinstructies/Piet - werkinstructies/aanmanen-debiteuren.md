@@ -82,7 +82,7 @@ Naast dat u de aanmaningen kunt versturen kunt het overzicht van aanmaningen ook
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
-2. Klik op **Openen in Excel **. De tabel wordt geopend in Excel.
+2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTc5NTkxOF19
+eyJoaXN0b3J5IjpbMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
