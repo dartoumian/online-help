@@ -6,9 +6,6 @@
 
 In Dynamics Empire worden in de projectenadministratie de projectmodellen aangemaakt. De projectmodellen zijn typen projecten. Het is in Dynamics Empire mogelijk om enkelvoudige en gemengde projectmodellen aan te maken.
 
-## Processchema
-
-## Processtappen
 ### Enkelvoudig project
 Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, waarbij zes appartementen in Zeist zullen worden gerenoveerd.
 - Projectnummer: P2000
@@ -50,5 +47,5 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTg1NTE3OF19
+eyJoaXN0b3J5IjpbLTEyODQwMzYyOThdfQ==
 -->
