@@ -1,7 +1,5 @@
 # Aanleveren incassobestand
 
-
-## Omschrijving:
 In dit detailproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Processchema
@@ -24,9 +22,7 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 		* 	**Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in. 
 4. Klik op **OK**. Het voorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
-<hr>
-
-### Controleren en oplossen
+## Controleren en oplossen
 
 Als bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
 
@@ -35,16 +31,12 @@ Als bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijn ontstaa
 3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
-<hr>
-
-### Verwerken voorstel
+## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
 1. Klik op **Voorstel**, waarnaOpen de pagina **Telebankiervoorstel** opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
-
-<hr>
 
 ### Annuleren betaalrunregels
 
@@ -88,7 +80,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2Nzk2NDgwLDkxMzA2MDgwMCwxMDY2Nz
-g3MDk5LDEzNzU0NDczMTMsNjUzMTU2NTQ0LC03NjU0MDcwMzVd
-fQ==
+eyJoaXN0b3J5IjpbMTYyODQ1NzE5Myw5MTMwNjA4MDAsMTA2Nj
+c4NzA5OSwxMzc1NDQ3MzEzLDY1MzE1NjU0NCwtNzY1NDA3MDM1
+XX0=
 -->
