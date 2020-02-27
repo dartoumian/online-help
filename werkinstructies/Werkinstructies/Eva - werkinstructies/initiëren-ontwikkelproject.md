@@ -59,7 +59,7 @@ Zoek uw collega’s op via kolom **Contactnr.**
 De begroting is d.m.v. een bestuursbesluit vastgesteld nu dient de begroting van het projectmodel vastgesteld en definitief gemaakt te worden.
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectmodeloverzicht**.
- 2.  Het **Overzicht projecttypen** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.
+ 2.  Kies het juiste projecttype en vervolgens het juiste projectmodel. 
  3. Door voor de actie **Bewerken** te kiezen is het projectmodel van uw keuze te openen.
  4. Controleer of begroting en budget op tabblad **Regels** overeenkomen met het bestuursbesluit dat aan het projectdossier in DMS is toegevoegd.
  5. Schakel op tabblad **Algemeen** het veld **Definitieve versie** in.
@@ -88,7 +88,7 @@ De projectgegevens worden vastgelegd op het aangemaakte project.
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MjY3MDIyLC05MTM3MTQ3ODAsNjI2MD
-g1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgs
-LTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNj
+A4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4
+LC0yMDc1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
 -->
