@@ -17,12 +17,12 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
  6. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
 	* **Projectmodelnr.**
 	* **Projectnaam**
-	* **Projectomschrijving** Gemengd
-	* **Besluit** Initiatiefase
-	* **Start- en opleverdatum** Naar eigen inzicht
-	* **Clusternr.** P2000
- 7. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
- 8. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Huurwoning DAEB NTV** en druk op **OK**.
+	* **Projectomschrijving**
+	* **Besluit**
+	* **Start- en opleverdatum**
+	* **Clusternr.**
+ 7. Ga via de actie **Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
+ 8. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en druk op **OK**.
  9.  Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 01_N21 staat voor Huurwoningen DAEB, Niet-terug vorderbare BTW en 21% BTW.
  10. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel zichtbaar is.
 
@@ -32,6 +32,6 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMj
-g0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbNjg2NTg0ODEwLC0yMDc1NjA0MTE3LDYyMj
+cyMTY2NSwtMTI4NDAzNjI5OF19
 -->
