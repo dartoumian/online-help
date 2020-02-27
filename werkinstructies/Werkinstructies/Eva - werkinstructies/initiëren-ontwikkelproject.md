@@ -6,9 +6,6 @@ In Dynamics Empire worden in de projectenadministratie de projectmodellen aangem
 
 ## Aanmaken projectmodel - enkelvoudig
 
-
-
-### Enkelvoudig project
 Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, waarbij zes appartementen in Zeist zullen worden gerenoveerd.
 - Projectnummer: P2000
 - Projectnaam: Renovatie Geisenlaan
@@ -18,7 +15,7 @@ Het project bestaat uit huurwoningen DAEB. Voor de huurwoningen geldt een BTW-re
 
 De werkinstructie behandelt het opstellen van een investeringsbegroting en budget in Dynamics Empire. Wanneer je de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen nog steeds van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
 
- 1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
+ 1. Navigeer via het zoekveld naar de lijst **Projectmodeloverzicht**.
  2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**.
  3. Er verschijnt een lijstpagina met eerder aangemaakte projectmodel van het betreffende projecttype. 
  4. Klik op **Nieuw** in het lint van deze lijstpagina.
@@ -41,5 +38,5 @@ De werkinstructie behandelt het opstellen van een investeringsbegroting en budge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODUxMzIyNiwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbLTQxODIwMTU5NSwtMTI4NDAzNjI5OF19
 -->
