@@ -1,8 +1,5 @@
-## Opstellen begrotingsregels
+## Opstellen begrotingsregels - Enkelvoudig project
 
-De begroting wordt op de projectmodelkaart opgesteld.
-
-### Enkelvoudig project
 Het vorige proces beschrijft het aanmaken van een projectmodel. In de volgende stappen gaan we een begroting/ budgetten opvoeren voor vier appartementen. *Deze stappen zijn niet nodig wanneer je met een expertsysteem (Reaforce of Ortec) werkt. De begroting is immers in Reaforce of Ortec opgevoerd, aangeboden aan het bestuur en goedgekeurd. Ga in dit geval verder met het synchroniseren van gegevens met het expertsysteem *(andere werkomschrijving)** De volgende stappen zijn wel relevant als je niet met de Reaforce- of Orteckoppeling werkt.
  1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
  2. Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.  
@@ -38,5 +35,5 @@ Het vorige proces beschrijft het aanmaken van een projectmodel. In de volgende s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI0MjA4MDldfQ==
+eyJoaXN0b3J5IjpbLTc4MzUzMTk4N119
 -->
