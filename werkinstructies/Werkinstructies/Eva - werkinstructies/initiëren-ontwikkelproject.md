@@ -6,9 +6,9 @@ In Dynamics Empire worden in de projectenadministratie de projectmodellen aangem
 
 ## Aanmaken projectmodel - enkelvoudig
 
-Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, bestaande uit huurwoningen DAEB. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
+Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, bestaande uit huurwoningen DAEB, met opstellen van een investeringsbegroting en budget in Dynamics Empire. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
 
-De werkinstructie behandelt het opstellen van een investeringsbegroting en budget in Dynamics Empire. Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen nog steeds van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
+Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
 
  1. Navigeer via het zoekveld naar de lijst **Projectmodeloverzicht**.
  2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**.
@@ -33,6 +33,5 @@ De werkinstructie behandelt het opstellen van een investeringsbegroting en budge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAxMjk5MTYsLTEyODQwMzYyOThdfQ
-==
+eyJoaXN0b3J5IjpbNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 -->
