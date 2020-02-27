@@ -26,10 +26,10 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
  9.  Dynamics Empire zal het tabblad **Regels** vullen met budgetregels. Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is, alsook het default BTW-percentage per werksoort. Dit is te herkennen aan de werksoortboekingsgroepen in de regels van het projectmodel. (01_N21 staat voor Huurwoningen DAEB, Niet-terug vorderbare BTW en 21% BTW.)
  10. Sluit de kaart van het projectmodelkaart. U komt daarmee terug op het **Projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel zichtbaar is.
 
->Bij het ophalen van het exploitatiemodel wordt het sjabloon met **Cashflowprognose fase verdeelsleutels** overgenomen naar het Projectmodel. De gegevens van de tabel 'Cashflowprognose fase verdeelsleutel sjabloon” worden overgenomen naar de tabel “Projectmodel Cashflowprognose fase verdeelsleutel”. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfase gekoppeld aan het gekozen projectmodel. Klik op Cashflowprognose fase verdeelsleutel in het lint om de initiële verdeling te bekijken en eventueel project specifiek te maken.
+>Bij het ophalen van het exploitatiemodel wordt het sjabloon met **Cashflowprognose fase verdeelsleutels** overgenomen naar het Projectmodel. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfasen gekoppeld aan het gekozen projectmodel. Klik op **Cashflowprognose fase verdeelsleutel** om de initiële verdeling te bekijken en eventueel projectspecifiek te maken.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYzMzYxNDAsLTIwNzU2MDQxMTcsNj
+eyJoaXN0b3J5IjpbLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNj
 IyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 -->
