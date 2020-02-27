@@ -40,12 +40,6 @@ De werkinstructie behandelt het opstellen van een investeringsbegroting en budge
 >Bij het ophalen van het exploitatiemodel wordt het sjabloon met Cashflowprognose fase verdeelsleutels overgenomen naar het Projectmodel. De gegevens van de tabel “Cashflowprognose fase verdeelsleutel sjabloon” worden overgenomen naar de tabel “Projectmodel Cashflowprognose fase verdeelsleutel”. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfase gekoppeld aan het gekozen projectmodel. Klik op Cashflowprognose fase verdeelsleutel in het lint om de initiële verdeling te bekijken en eventueel project specifiek te maken.
 
 
-<hr>
-
-## Zie ook (links naar andere werkprocessen uit dezelfde bedrijfsfunctie) (H2)
-Werkinstructie X  
-Werkinstructie Y  
-Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbMTkyNzI3Mjk2MCwtMTI4NDAzNjI5OF19
 -->
