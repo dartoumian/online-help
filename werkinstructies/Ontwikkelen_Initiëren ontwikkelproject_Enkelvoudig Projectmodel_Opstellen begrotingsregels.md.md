@@ -14,9 +14,8 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
  8. Voer in kolom **Toelichting** een toelichting op het bedrag in.
  9. Klik op de projectmodelkaart op **Contactpersonen** om projectcontactpersonen toe te kennen. Zoek collega’s op door in kolom **Contactnr.** te zoeken.
 10. Selecteer de juiste persoon en geef in kolom **Functiecode** een rol op die hij/zij zal vervullen op het project.
-11. Herhaal deze stappen 8 t/m 10 voor iedereen die deel uitmaakt van het projectteam.
-12. Klik in het lint van de projectmodelkaart op **Acties - Functies - Afdrukken** om de opgevoerde begroting te printen.
-13. Deze print kan gebruikt worden als onderlegger bij een fasebesluit. Het verkrijgen van een besluit om in dit voorbeeld de initiatiefase van het project in te gaan, gebeurt volledig buiten het systeem om. Alle stukken die bij het besluit worden gebruikt, dienen inclusief het besluit te worden gearchiveerd in DMS, geïndexeerd op het project. *Zie hiervoor de werkinstructie bij het proces.* Zodra er een besluit is, kan het projectmodel op jouw verzoek door de projectcontroller worden omgezet in een project.
+11. Herhaal bovenstaande stappen voor iedereen die deel uitmaakt van het projectteam.
+12. Klik nu op **Afdrukken** om de opgevoerde begroting te printen. Deze print kan gebruikt worden als onderlegger bij een fasebesluit. Het verkrijgen van een besluit om in dit voorbeeld de initiatiefase van het project in te gaan, gebeurt volledig buiten het systeem om. Alle stukken die bij het besluit worden gebruikt, dienen inclusief het besluit te worden gearchiveerd in DMS, geïndexeerd op het project. *Zie hiervoor de werkinstructie bij het proces.* Zodra er een besluit is, kan het projectmodel op jouw verzoek door de projectcontroller worden omgezet in een project.
 
 > 14. Klik in het lint van de projectmodelkaart op **Navigeren - Projectmodel - Opmerkingen** om je collega (projectcontroller) te
 > vragen om het model om te zetten.
@@ -37,6 +36,6 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxMTMyNTgsNzU3NjcyNDIzLDE0Mj
-AzMTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDQxMDkxMjIsLTEyMTgxMTMyNTgsNz
+U3NjcyNDIzLDE0MjAzMTAyMzRdfQ==
 -->
