@@ -1,4 +1,3 @@
-
 # Verwerken bankmutaties
 In dit detailproces wordt een bankafschrift geïmporteerd en verwerkt.
 
@@ -102,9 +101,9 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MDk0NDU2LDk3MjMzNTgxOCwtMTgwOD
-Q5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2NDU2
-LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5MywtMT
-g4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05OTIx
-NjEzMzldfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3Mj
+MzNTgxOCwtMTgwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQw
+OSwxMTU5Njg2NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLD
+U0NTk5NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIx
+ODE0NTI1LC05OTIxNjEzMzldfQ==
 -->
