@@ -1,4 +1,4 @@
-
+# Initiëren ontwikkelproject
 
 ## Aanmaken projectmodel
 
@@ -49,5 +49,5 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg0MTg3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjk0NDU0NDBdfQ==
 -->
