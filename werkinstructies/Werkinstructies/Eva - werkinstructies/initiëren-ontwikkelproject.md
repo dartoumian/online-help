@@ -54,9 +54,15 @@ Zoek uw collega’s op via kolom **Contactnr.**
 ## Herberekenen begrotingsregels
 (...)
 
+## Definitief maken projectmodel
+(...)
+
+## Aanmaken project
+(...)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY2NTYxMDksOTgxMzIzOTIsLTM4MD
-k1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDExNyw2MjI3MjE2
-NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5NT
+A0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1
+LC0xMjg0MDM2Mjk4XX0=
 -->
