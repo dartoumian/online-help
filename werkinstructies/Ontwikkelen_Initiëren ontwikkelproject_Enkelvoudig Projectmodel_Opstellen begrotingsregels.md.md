@@ -15,16 +15,14 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
  9. Klik op de projectmodelkaart op **Contactpersonen** om projectcontactpersonen toe te kennen. Zoek collega’s op door in kolom **Contactnr.** te zoeken.
 10. Selecteer de juiste persoon en geef in kolom **Functiecode** een rol op die hij/zij zal vervullen op het project.
 11. Herhaal bovenstaande stappen voor iedereen die deel uitmaakt van het projectteam.
-12. Klik nu op **Afdrukken** om de opgevoerde begroting te printen. Deze print kan gebruikt worden als onderlegger bij een fasebesluit. Het verkrijgen van een besluit om in dit voorbeeld de initiatiefase van het project in te gaan, gebeurt volledig buiten het systeem om. Alle stukken die bij het besluit worden gebruikt, dienen inclusief het besluit te worden gearchiveerd in DMS, geïndexeerd op het project. *Zie hiervoor de werkinstructie bij het proces.* Zodra er een besluit is, kan het projectmodel op jouw verzoek door de projectcontroller worden omgezet in een project.
-
-> 14. Klik in het lint van de projectmodelkaart op **Navigeren - Projectmodel - Opmerkingen** om je collega (projectcontroller) te
-> vragen om het model om te zetten.
-> 16. Dynamics Empire opent een lijst scherm waarin je opmerking aan gebruikers van Dynamics Empire kunt toekennen aan het projectmodel.
-> Zoek je collega’s op door in kolom **Contactnr.** te zoeken.
-> 17. Voer de notitie in en klik op **Sluiten**.
-> 18. Dynamics Empire zal een bericht sturen naar je collega (projectcontroller) waar je de notitie aan hebt gericht. Dit bericht
-> ontvangt de projectcontroller in Startpagina, Rolcentrum,  item Mijn
-> berichten.
+12. Klik nu op **Afdrukken** om de opgevoerde begroting te printen. Deze print kan gebruikt worden als onderlegger bij een fasebesluit. Het verkrijgen van een besluit om in dit voorbeeld de initiatiefase van het project in te gaan, gebeurt volledig buiten het systeem om. Alle stukken die bij het besluit worden gebruikt, dienen inclusief het besluit te worden gearchiveerd in DMS, geïndexeerd op het project. Zodra er een besluit is, kan het projectmodel op uw verzoek door de projectcontroller worden omgezet in een project.
+14. Klik op de projectmodelkaart op **Opmerkingen** om uw collega (projectcontroller) te vragen om het model om te zetten.
+16. Dynamics Empire opent een lijstscherm waarin u een opmerking aan gebruikers van Dynamics Empire kunt toekennen aan het projectmodel.
+Zoek je collega’s op door in kolom **Contactnr.** te zoeken.
+17. Voer de notitie in en klik op **Sluiten**.
+18. Dynamics Empire zal een bericht sturen naar je collega (projectcontroller) waar je de notitie aan hebt gericht. Dit bericht
+ontvangt de projectcontroller in Startpagina, Rolcentrum,  item Mijn
+berichten.
 
 
 
@@ -36,6 +34,6 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQxMDkxMjIsLTEyMTgxMTMyNTgsNz
-U3NjcyNDIzLDE0MjAzMTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTg5NzE5Mzg4NCwtMTIxODExMzI1OCw3NT
+c2NzI0MjMsMTQyMDMxMDIzNF19
 -->
