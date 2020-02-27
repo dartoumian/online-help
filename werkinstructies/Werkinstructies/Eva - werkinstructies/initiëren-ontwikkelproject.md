@@ -51,8 +51,12 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 Zoek uw collega’s op via kolom **Contactnr.**
 17. Voer de notitie in en klik op **Sluiten**. Dynamics Empire zal een bericht sturen naar de betreffende collega.
 
+## Herberekenen begrotingsregels
+(...)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNj
-UzNDkxOCwtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYy
-OThdfQ==
+eyJoaXN0b3J5IjpbLTIxMDY2NTYxMDksOTgxMzIzOTIsLTM4MD
+k1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDExNyw2MjI3MjE2
+NjUsLTEyODQwMzYyOThdfQ==
 -->
