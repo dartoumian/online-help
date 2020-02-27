@@ -38,7 +38,7 @@ Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het beta
 1. Klik op **Voorstel**, waarnaOpen de pagina **Telebankiervoorstel** opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
-### Annuleren betaalrunregels
+## Annuleren betaalrunregels
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
@@ -51,9 +51,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 	* **Regelnr.:** Vul hier de regelnummers in van de regels die u wilt annuleren.
 4. Klik op **OK**. De regels krijgen de status '**Geannuleerd'** en worden niet meegenomen wanneer u de betaalrun exporteert. 
 
-<hr>
-
-### Annuleren betaalrun
+## Annuleren betaalrun
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
@@ -64,9 +62,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 	* **Runnummer:** (Laat ongewijzigd.)
   4. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar **Geannuleerd**.  
 
-<hr>
-
-### Exporteren betaalrun
+## Exporteren betaalrun
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
@@ -74,13 +70,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand word opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
-<hr>
-
 ## Zie ook:
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODQ1NzE5Myw5MTMwNjA4MDAsMTA2Nj
-c4NzA5OSwxMzc1NDQ3MzEzLDY1MzE1NjU0NCwtNzY1NDA3MDM1
-XX0=
+eyJoaXN0b3J5IjpbOTA0NDk1MDAyLDkxMzA2MDgwMCwxMDY2Nz
+g3MDk5LDEzNzU0NDczMTMsNjUzMTU2NTQ0LC03NjU0MDcwMzVd
+fQ==
 -->
