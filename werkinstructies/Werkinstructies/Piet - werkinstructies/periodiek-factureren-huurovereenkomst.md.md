@@ -2,6 +2,7 @@
 
 In dit detailproces word de periodieke huur gefactureerd, ook wel **Prolongeren** genoemd.
 
+## Processchema
 
 ## Controleren huurmutaties
 
@@ -116,8 +117,9 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY4OTk5NTksLTEzODIxMzUyNTIsLT
-E4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3
-NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4NywxNzc2NjAzODg4LD
-E2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTddfQ==
+eyJoaXN0b3J5IjpbMTg2MjE1MDkxMCwtMjEwNjg5OTk1OSwtMT
+M4MjEzNTI1MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMTAzMDEy
+MzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcyNjg3LD
+E3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1
+MzQxN119
 -->
