@@ -8,8 +8,8 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
  2. Het **Overzicht projecttypen** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.  
  3. Open het projectmodel door op het projectmodelnummer te klikken.
  4. Klik op de naam van tabblad **Algemeen** om dit te sluiten (voor meer ruimte).
- 5. Wijzig de begroting door op de regel(s) van een specifieke werksoort(en) een bedrag in te vullen of te veranderen in de kolom **Kostprijs**.
- 6. De begroting wordt bepaald op basis van aantal x kostprijs. *Het default aantal op alle regels is 1 en de default eenheidcode is post.* Je kunt de begroting ook vaststellen door het aantal aan te passen en een **kostprijs** per **aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **eenheidcode**. Pas daarom, indien gewenst, de eenheidcode aan.
+ 5. Wijzig de begroting door op de regel(s) van (een) specifieke werksoort(en) een bedrag in te vullen of te veranderen in de kolom **Kostprijs**.
+ 6. De begroting wordt bepaald op basis van aantal x kostprijs. U kunt de begroting ook vaststellen door het aantal aan te passen en een **Kostprijs** per **aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **eenheidcode**. Pas daarom, indien gewenst, de eenheidcode aan.
  7. Klik op **Verwerken - Cashflowprognose fase verdeelsleutel** in het lint om de initiële verdeling te bekijken en eventueel project specifiek te maken.
  8. Voer in kolom **Toelichting** een toelichting op het bedrag in.
  9. Klik in het lint van de projectmodelkaart op **Navigeren - Projectmodel - Contactpersonen** om Projectcontactpersonen toe te kennen.
@@ -38,6 +38,6 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzQ2NTAwNSw3NTc2NzI0MjMsMTQyMD
+eyJoaXN0b3J5IjpbMTQ2MDkxMjQ5MSw3NTc2NzI0MjMsMTQyMD
 MxMDIzNF19
 -->
