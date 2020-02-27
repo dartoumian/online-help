@@ -3,6 +3,8 @@
 De rekening-courant van de klant wordt gevormd door de klantposten. U kunt mutaties op deze **Klantposten** uitvoeren.
 U benadert de klantposten voor een specifieke klant door naar de klantlijst of -kaart te navigeren en op de actie/functie **Posten** te klikken. 
 
+## Processchema
+
 ## Afdrukken rekening-courant
 
 Wanneer u de rekening-courant van een klant af wilt drukken kan dit vanaf pagina **Klantposten**.
@@ -57,8 +59,8 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ3MDU5OSwxOTE4NzYzODkyLC0xMj
-Q4NTM3MjY3LDEzMjcwODkxNjEsLTk1NzExNjI4MywtMTYzNjMz
-NjUxMCwxNDMxMzgxNTU5LDEyNjQ5MDY0NTIsMTgxNzk5OTAyMF
-19
+eyJoaXN0b3J5IjpbMTU3MTUyNTQ2LDE5MTg3NjM4OTIsLTEyND
+g1MzcyNjcsMTMyNzA4OTE2MSwtOTU3MTE2MjgzLC0xNjM2MzM2
+NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3OTk5MDIwXX
+0=
 -->
