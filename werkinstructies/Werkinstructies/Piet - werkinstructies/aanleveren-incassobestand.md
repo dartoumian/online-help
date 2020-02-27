@@ -6,9 +6,7 @@ In dit detailproces wordt een incassobestand gegenereerd op basis van te incasse
 
 ## Processchema
 
-## Processtappen
-
-### Ophalen voorstel klantposten
+## Ophalen voorstel klantposten
 
 Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven welke posten meegenomen moeten worden in het incassobestand. 
 
@@ -90,6 +88,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NT
-Q0NzMxMyw2NTMxNTY1NDQsLTc2NTQwNzAzNV19
+eyJoaXN0b3J5IjpbMjI2Nzk2NDgwLDkxMzA2MDgwMCwxMDY2Nz
+g3MDk5LDEzNzU0NDczMTMsNjUzMTU2NTQ0LC03NjU0MDcwMzVd
+fQ==
 -->
