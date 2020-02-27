@@ -5,8 +5,8 @@ In de volgende stappen gaan we een begroting/budgetten opvoeren.
 De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppeling werkt.
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectmodeloverzicht**.
- 2. Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.  
- 3. Door in het lint te kiezen **Beheren - Bewerken** is het projectmodel van uw keuze te openen.
+ 2. Het **Overzicht projecttypen** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.  
+ 3. Open het projectmodel door op de actie **Bewerken** te klikken.
  4. Verberg op de projectmodelkaart eventueel tabblad **Algemeen** door eenmaal op de tekst van het tabblad te klikken en zo de regels maximaal in beeld te hebben.
  5. Wijzig de begroting door op de regel(s) van een specifieke werksoort(en) een bedrag in te vullen of te veranderen in de kolom **Kostprijs**.
  6. De begroting wordt bepaald op basis van aantal x kostprijs. *Het default aantal op alle regels is 1 en de default eenheidcode is post.* Je kunt de begroting ook vaststellen door het aantal aan te passen en een **kostprijs** per **aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **eenheidcode**. Pas daarom, indien gewenst, de eenheidcode aan.
@@ -38,5 +38,5 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDMxMDIzNF19
+eyJoaXN0b3J5IjpbNzU3NjcyNDIzLDE0MjAzMTAyMzRdfQ==
 -->
