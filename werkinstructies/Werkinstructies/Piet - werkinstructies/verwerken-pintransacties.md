@@ -4,7 +4,6 @@ In dit werkproces worden één of meerderet een pintransacties verwerkt.
 
 ## Processchema
 
-
 ## Aanmaken kasdagboek
 
 Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
@@ -47,9 +46,9 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTc4NTczNCw3NzA2NDIyMTAsMjA0Mj
-Q2OTUxNywxNzE3NjcxNjAyLC0xNzU2ODA0MTI1LDM4MTM2ODY1
-LC01MTIxMTE1NjYsLTE2MzA2MzE1ODQsNDc5MTI3ODQ2LDI1OT
-A5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEy
-NV19
+eyJoaXN0b3J5IjpbMTYyMTc4NTAxMiwxMzIxNzg1NzM0LDc3MD
+Y0MjIxMCwyMDQyNDY5NTE3LDE3MTc2NzE2MDIsLTE3NTY4MDQx
+MjUsMzgxMzY4NjUsLTUxMjExMTU2NiwtMTYzMDYzMTU4NCw0Nz
+kxMjc4NDYsMjU5MDk3MjAzLC03NTY0MjIzNTIsLTE1MjU3MDA2
+MDMsNjI1MDE0MTI1XX0=
 -->
