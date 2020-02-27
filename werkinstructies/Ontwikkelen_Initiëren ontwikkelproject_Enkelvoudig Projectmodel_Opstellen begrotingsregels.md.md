@@ -12,7 +12,7 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
  6. De begroting wordt bepaald op basis van aantal x kostprijs. U kunt de begroting ook vaststellen door het aantal aan te passen en een **Kostprijs** per **Aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **Eenheidscode**. Pas daarom, indien gewenst, deze aan.
  7. Klik op **Verwerken - Cashflowprognose fase verdeelsleutel** om de initiële verdeling te bekijken en eventueel projectspecifiek te maken.
  8. Voer in kolom **Toelichting** een toelichting op het bedrag in.
- 9. Klik op de projectmodelkaart op **Contactpersonen** om Projectcontactpersonen toe te kennen.
+ 9. Klik op de projectmodelkaart op **Contactpersonen** om projectcontactpersonen toe te kennen.
  10. Dynamics Empire opent een lijst scherm waarin je projectcontactpersonen kunt toekennen aan het projectmodel. Zoek je collega’s op door in kolom **Contactnr.** te zoeken.
 10. Selecteer de collega uit de gevonden resultaten en geef in kolom **Functiecode** een rol op die hij/zij zal vervullen op het project.
 11. Herhaal deze stappen 8 t/m 10 voor iedereen die deel uitmaakt van het projectteam.
@@ -38,6 +38,6 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTk5OTM5Nyw3NTc2NzI0MjMsMTQyMD
+eyJoaXN0b3J5IjpbMTk3Mjk4ODgwNSw3NTc2NzI0MjMsMTQyMD
 MxMDIzNF19
 -->
