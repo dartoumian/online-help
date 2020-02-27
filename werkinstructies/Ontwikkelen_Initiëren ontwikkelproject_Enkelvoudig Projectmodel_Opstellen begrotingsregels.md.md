@@ -19,9 +19,7 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 14. Klik op de projectmodelkaart op **Opmerkingen** om uw collega (projectcontroller) te vragen om het model om te zetten.
 16. Dynamics Empire opent een lijstscherm waarin u een opmerking richting gebruikers van Dynamics Empire kunt toekennen aan het projectmodel.
 Zoek uw collega’s op via kolom **Contactnr.**
-17. Voer de notitie in en klik op **Sluiten**. Dynamics Empire zal een bericht sturen naar uw collega (projectcontroller) waar je de notitie aan hebt gericht. Dit bericht
-ontvangt de projectcontroller in Startpagina, Rolcentrum,  item Mijn
-berichten.
+17. Voer de notitie in en klik op **Sluiten**. Dynamics Empire zal een bericht sturen naar de betreffende collega.
 
 
 
@@ -33,6 +31,6 @@ berichten.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTAzODUzNSwtMTIxODExMzI1OCw3NT
+eyJoaXN0b3J5IjpbMTQzNjk5MTc0OCwtMTIxODExMzI1OCw3NT
 c2NzI0MjMsMTQyMDMxMDIzNF19
 -->
