@@ -4,7 +4,7 @@ In de volgende stappen gaan we een begroting/budgetten opvoeren.
 **Let wel:** Deze stappen zijn niet nodig wanneer u met een expertsysteem zoals Reaforce of Ortec werkt. De begroting is immers in dat systeem opgevoerd, aangeboden aan het bestuur en goedgekeurd. Ga in dat geval verder met het SYNCHRONISEREN VAN GEGEVENS MET EXPERTSYSTEEM. 
 De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppeling werkt.
 
- 1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectmodeloverzicht**.
  2. Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.  
  3. Door in het lint te kiezen **Beheren - Bewerken** is het projectmodel van uw keuze te openen.
  4. Verberg op de projectmodelkaart eventueel tabblad **Algemeen** door eenmaal op de tekst van het tabblad te klikken en zo de regels maximaal in beeld te hebben.
@@ -38,5 +38,5 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDk3MzY4OF19
+eyJoaXN0b3J5IjpbMTQyMDMxMDIzNF19
 -->
