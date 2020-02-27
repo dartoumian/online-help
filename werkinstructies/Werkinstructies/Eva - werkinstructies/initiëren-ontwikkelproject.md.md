@@ -1,4 +1,6 @@
-# Aanmaken projectmodel
+
+
+## Aanmaken projectmodel
 
 ## Omschrijving
 In Dynamics Empire worden in de projectenadministratie de projectmodellen aangemaakt. De projectmodellen zijn typen projecten. Het is in Dynamics Empire mogelijk om enkelvoudige en gemengde projectmodellen aan te maken.
@@ -47,5 +49,5 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMzg5MTg4XX0=
+eyJoaXN0b3J5IjpbLTE5MDg0MTg3ODNdfQ==
 -->
