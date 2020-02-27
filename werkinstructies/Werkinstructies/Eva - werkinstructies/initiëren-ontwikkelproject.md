@@ -11,9 +11,9 @@ Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject,
 - Projectnaam: Renovatie Geisenlaan
 - Projectomschrijving: Renovatie 6 appartementen te Zeist
 
-Het project bestaat uit huurwoningen DAEB. Voor de huurwoningen geldt een BTW-regime Niet terugvorderbaar.
+Het project bestaat uit huurwoningen DAEB. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
 
-De werkinstructie behandelt het opstellen van een investeringsbegroting en budget in Dynamics Empire. Wanneer je de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen nog steeds van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
+De werkinstructie behandelt het opstellen van een investeringsbegroting en budget in Dynamics Empire. Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen nog steeds van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
 
  1. Navigeer via het zoekveld naar de lijst **Projectmodeloverzicht**.
  2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**.
@@ -38,5 +38,5 @@ De werkinstructie behandelt het opstellen van een investeringsbegroting en budge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODIwMTU5NSwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbLTI4MTY5MTI1OSwtMTI4NDAzNjI5OF19
 -->
