@@ -14,7 +14,7 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
  2. Kies het projecttype waarmee u een projectmodel wilt aanmaken.
  3. Er verschijnt een lijstpagina met een eerder aangemaakt projectmodel van het betreffende projecttype.
  4. Klik op **Nieuw**. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
- 6. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
+ 6. Vul op het tabblad **Algemeen** in ieder geval de onderstaande velden op de projectmodelkaart:
 	* **Projectmodelnr.**
 	* **Projectnaam**
 	* **Projectomschrijving**
@@ -52,6 +52,7 @@ Zoek uw collega’s op via kolom **Contactnr.**
 17. Voer de notitie in en klik op **Sluiten**. Dynamics Empire zal een bericht sturen naar de betreffende collega.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMj
-A3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNj
+UzNDkxOCwtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYy
+OThdfQ==
 -->
