@@ -2,8 +2,8 @@
 
 De projectgegevens worden vastgelegd op het aangemaakte project.
 
- 1. Het zojuist aangemaakt project is zichtbaar tussen alle actieve projecten in de lijst **Projectoverzicht** (
- 2. Na een project te hebben gekozen en in het lint op **Bewerken** te klikken, wordt de projectkaart van uw keuze geopend.
+ 1. Het zojuist aangemaakt project is zichtbaar tussen alle actieve projecten in de lijst **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")).
+ 2. Na keuze van een project en het kiezen van de actie **Bewerken** wordt de projectkaart van uw keuze geopend.
  3. Voer een fase op voor het project bij het veld **Projectfase** op het tabblad **Algemeen**.
  4. Op het tabblad **Boekingsinfo** staan de default projectbudgethouders ingesteld. Deze default budgethouders zijn gekoppeld aan het projecttype (overwegend de manager en directie). Voeg de projectleider toe aan de budgethouders. Deze handeling is nodig omdat het systeem niet weet wie de projectleider wordt.
  5. Klik hiervoor op de drie puntjes naast het veld **Orderbudgethouders**.
@@ -13,5 +13,5 @@ De projectgegevens worden vastgelegd op het aangemaakte project.
  9. Sluit de project-kaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUwMzkxMDddfQ==
+eyJoaXN0b3J5IjpbMjg2MzIwMjZdfQ==
 -->
