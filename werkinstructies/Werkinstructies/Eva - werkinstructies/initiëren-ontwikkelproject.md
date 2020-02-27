@@ -6,12 +6,7 @@ In Dynamics Empire worden in de projectenadministratie de projectmodellen aangem
 
 ## Aanmaken projectmodel - enkelvoudig
 
-Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, waarbij zes appartementen in Zeist zullen worden gerenoveerd.
-- Projectnummer: P2000
-- Projectnaam: Renovatie Geisenlaan
-- Projectomschrijving: Renovatie 6 appartementen te Zeist
-
-Het project bestaat uit huurwoningen DAEB. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
+Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, bestaande uit huurwoningen DAEB. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
 
 De werkinstructie behandelt het opstellen van een investeringsbegroting en budget in Dynamics Empire. Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen nog steeds van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
 
@@ -38,5 +33,6 @@ De werkinstructie behandelt het opstellen van een investeringsbegroting en budge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTY5MTI1OSwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbLTIxMDAxMjk5MTYsLTEyODQwMzYyOThdfQ
+==
 -->
