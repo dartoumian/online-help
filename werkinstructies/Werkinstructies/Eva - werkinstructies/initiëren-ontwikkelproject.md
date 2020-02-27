@@ -24,7 +24,7 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
  7. Ga via de actie **Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
  8. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en klik op **OK**.
  9.  Dynamics Empire zal het tabblad **Regels** vullen met budgetregels. Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is, alsook het default BTW-percentage per werksoort. Dit is te herkennen aan de werksoortboekingsgroepen in de regels van het projectmodel. (01_N21 staat voor Huurwoningen DAEB, Niet-terug vorderbare BTW en 21% BTW.)
- 10. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel zichtbaar is.
+ 10. Sluit de kaart van het projectmodelkaart. U komt daarmee terug op het **Projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel zichtbaar is.
 
 >#### Uitlichten van tip/extra aandachtspunt o.i.d. (H4)
 >
@@ -32,6 +32,6 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTQ5NDQwMywtMjA3NTYwNDExNyw2Mj
-I3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbMTk1Njk0MTk2LC0yMDc1NjA0MTE3LDYyMj
+cyMTY2NSwtMTI4NDAzNjI5OF19
 -->
