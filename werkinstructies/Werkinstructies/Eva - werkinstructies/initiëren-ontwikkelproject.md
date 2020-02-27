@@ -11,13 +11,12 @@ Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject,
 Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toepassing, met uitzondering van het daadwerkelijk opvoeren van begroting en budgetbedragen. De begroting en budgetten worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe.
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectmodeloverzicht**.
- 2. Kies het projecttype waarmee u een projectmodel wilt aanmaken .
- 3. Er verschijnt een lijstpagina met eerder aangemaakte projectmodel van het betreffende projecttype. 
- 4. Klik op **Nieuw** in het lint van deze lijstpagina.
- 5. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
+ 2. Kies het projecttype waarmee u een projectmodel wilt aanmaken.
+ 3. Er verschijnt een lijstpagina met een eerder aangemaakt projectmodel van het betreffende projecttype.
+ 4. Klik op **Nieuw**. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
  6. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
-	* **Projectmodelnr.** P2000
-	* **Projectnaam** Renovatie Geisenlaan
+	* **Projectmodelnr.**
+	* **Projectnaam**
 	* **Projectomschrijving** Gemengd
 	* **Besluit** Initiatiefase
 	* **Start- en opleverdatum** Naar eigen inzicht
@@ -33,6 +32,6 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyODgxNDEsNjIyNzIxNjY1LC0xMjg0MD
-M2Mjk4XX0=
+eyJoaXN0b3J5IjpbLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMj
+g0MDM2Mjk4XX0=
 -->
