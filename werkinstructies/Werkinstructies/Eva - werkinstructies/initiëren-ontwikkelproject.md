@@ -60,9 +60,17 @@ Zoek uw collega’s op via kolom **Contactnr.**
 ## Aanmaken project
 (...)
 
+## Verwerken projectgegevens op projectkaart
+(...)
+
+## Offerte aanmaken
+(...)
+
+## Orders aanmaken
+(...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5NT
-A0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1
-LC0xMjg0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbNzMzMjY5ODIxLDYyNjA4NTY2MSw5ODEzMj
+M5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMDc1NjA0MTE3
+LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
 -->
