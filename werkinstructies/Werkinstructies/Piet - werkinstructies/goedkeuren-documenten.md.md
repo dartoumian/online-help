@@ -1,11 +1,8 @@
 # Verwerken inkoopfacturen
 
-
 In dit werkproces worden verzoeken ter goedkeuring beoordeeld en wordt de beslissing vastgelegd.
 
 ## Processchema
-
-## Processtappen
 
 ## Beoordeel verzoek
 Wanneer u een document goed moet keuren krijgt u een goedkeuringsverzoek door middel van een aan u toegewezen goedkeuringspost. 
@@ -52,5 +49,5 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ1MjM0MDMsOTQ3MzEwMTU4XX0=
+eyJoaXN0b3J5IjpbLTI3MDg2OTQ0Miw5NDczMTAxNThdfQ==
 -->
