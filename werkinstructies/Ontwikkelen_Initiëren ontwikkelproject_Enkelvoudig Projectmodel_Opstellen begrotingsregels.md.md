@@ -1,6 +1,6 @@
 ## Opstellen begrotingsregels - Enkelvoudig project
 
-Het vorige proces beschrijft het aanmaken van een projectmodel. In de volgende stappen gaan we een begroting/ budgetten opvoeren voor vier appartementen. *Deze stappen zijn niet nodig wanneer je met een expertsysteem (Reaforce of Ortec) werkt. De begroting is immers in Reaforce of Ortec opgevoerd, aangeboden aan het bestuur en goedgekeurd. Ga in dit geval verder met het synchroniseren van gegevens met het expertsysteem *(andere werkomschrijving)** De volgende stappen zijn wel relevant als je niet met de Reaforce- of Orteckoppeling werkt.
+In de volgende stappen gaan we een begroting/budgetten opvoeren. Deze stappen zijn niet nodig wanneer u met een expertsysteem zoals Reaforce of Ortec werkt. De begroting is immers in dat systeem opgevoerd, aangeboden aan het bestuur en goedgekeurd. Ga in dat geval verder met het synchroniseren van gegevens met het expertsysteem *(andere werkomschrijving)** De volgende stappen zijn wel relevant als je niet met de Reaforce- of Orteckoppeling werkt.
  1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
  2. Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.  
  3. Door in het lint te kiezen **Beheren - Bewerken** is het projectmodel van uw keuze te openen.
@@ -35,5 +35,5 @@ Het vorige proces beschrijft het aanmaken van een projectmodel. In de volgende s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzUzMTk4N119
+eyJoaXN0b3J5IjpbNzI5MjI3NzA2XX0=
 -->
