@@ -1,4 +1,4 @@
-# Verwerken inkoopfacturen
+# Goedkeuren documenten
 
 In dit werkproces worden verzoeken ter goedkeuring beoordeeld en wordt de beslissing vastgelegd.
 
@@ -49,5 +49,5 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDg2OTQ0Ml19
+eyJoaXN0b3J5IjpbMjA3NDI5NDk3NiwtMjcwODY5NDQyXX0=
 -->
