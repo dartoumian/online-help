@@ -27,18 +27,18 @@ Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed 
 8. Heeft u de toegevoegde fiatteur een positie gegeven ná uw eigen positie, ga dan verder naar de stap **[Akkoord geven](#geven-akkoord)**.
 
 ## Delegeren goedkeuring
-Wanneer  u het document door iemand wil laten goedkeuren namens u, dan kunt u de goedkeuringsaanvraag delegeren. 
+Wanneer  u het document door iemand wil laten goedkeuren namens u, dan kunt u de goedkeuringsaanvraag delegeren.
 
 > - Een goedkeuringsaanvraag kan alleen gedelegeerd worden naar een gebruiker met gelijke of hogere procuratie.
-> - Een goedkeuringsaanvraag kan maar één keer gedelegeerd worden. Is het document al een keer gedelegeerd en wordt opnieuw geprobeerd het document te delegeren dan zal een foutmelding getoont worden. 
+> - Een goedkeuringsaanvraag kan maar één keer gedelegeerd worden. Is het document al een keer gedelegeerd en wordt opnieuw geprobeerd het document te delegeren, dan zal een foutmelding getoond worden. 
 
-1. U delegeert de goedkeuringspost door de regel te selecteren op **Delegeren** te klikken. De goedkeuringsaanvraag is gedelegeerd. 
+1. U delegeert de goedkeuringspost door de regel te selecteren en op **Delegeren** te klikken. De goedkeuringsaanvraag is gedelegeerd. 
 
 ## Weigeren goedkeuringsaanvraag
 
 U kunt een goedkeuringsaanvraag weigeren. 
 
-1. U weigert de goedkeuringspost door de regel te selecteren op **Weigeren** te klikken. 
+1. U weigert de goedkeuringspost door de regel te selecteren en op **Weigeren** te klikken. 
 2. Het scherm **Opmerkingen bij goedkeuring** opent. Geef in het veld **Opmerking** de reden van weigering op en sluit de pagina. De goedkeuringsaanvraag is geweigerd.
 
 ## Akkoord geven
@@ -47,6 +47,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTYyMjI4OSw4Mjg4NTE5NzAsLTI3MD
-g2OTQ0Ml19
+eyJoaXN0b3J5IjpbODA2NjU0NjEsODI4ODUxOTcwLC0yNzA4Nj
+k0NDJdfQ==
 -->
