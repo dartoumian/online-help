@@ -13,12 +13,12 @@ Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door mid
 	-  Wanneer u de factuur ook door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Toevoegen goedkeurder](#toevoegen-goedkeurder)**.
 	- Wanneer u de factuur namens u door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Delegeren goedkeuring](#delegeren-goedkeuring)**.
 	- Wilt u de goedkeuringsaanvraag weigeren, ga dan verder naar de processtap **[Weigeren goedkeuringsaanvraag](#weigeren-goedkeuringsaanvraag)**.
-	- Bent u akkoord, dan kunt u de factuur goedkeuren ga verder naar de processtap **[Geven akkoord](#geven-akkoord)**.
+	- Bent u akkoord, dan kunt u de factuur goedkeuren Ga hiervoor naar de processtap **[Geven akkoord](#geven-akkoord)**.
 
 ## Toevoegen goedkeurder
-Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed wilt laten keuren kunt u een ongelimiteerd aantal extra goedkeurders toevoegen. Dit kunnen personen zijn die het document goed dienen te keuren voordat u het document goedkeurt of het kunnen personen zijn die na u het document goed dienen te keuren. 
+Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed wil laten keuren, kunt u een ongelimiteerd aantal extra goedkeurders toevoegen. Dit kunnen personen zijn die het document goed dienen te keuren voordat uzelf het document goedkeurt, of het kunnen personen zijn die ná u het document goed dienen te keuren. 
 
-1. In het feitenblok **Fiateurs** ziet u een overzicht van alle personen die het document goed moeten keuren. In de kolom **Status** zie u welke fiateurs het document al goedgekeurd hebben (status = goedgekeurd) en welke fiateurs het document nog goed moeten keuren (status = Gemaakt). De volgorde van de fiateurs in dit feitenblok geeft de volgorde van goedkeuring aan. 
+1. In het feitenblok **Fiatteurs** ziet u een overzicht van alle personen die het document goed moeten keuren. In de kolom **Status** zie u welke fiatteurs het document al goedgekeurd hebben (status = goedgekeurd) en welke fiateurs het document nog goed moeten keuren (status = Gemaakt). De volgorde van de fiateurs in dit feitenblok geeft de volgorde van goedkeuring aan. 
 2. Klik op de naam van het feitenblok **Fiateurs** en klik op **Fiateur toevoegen**. Het scherm **Fiateurs** opent. 
 3. Selecteer de fiateur die u toe wilt voegen en klik op **OK**. U keert terug naar het scherm met goedkeuringsposten.
 4. De toegevoegde fiateur is als laatste fiateur toegevoegd. Selecteer de regel met de toegevoegde fiateur. Klik op de naam van het feitenblok **Fiateurs** en klik op **Omhoog** om de toegevoegde fiateur 1 plaats om hoog te verplaatsten. 
@@ -48,6 +48,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA5MDI3MTQsODI4ODUxOTcwLC0yNz
-A4Njk0NDJdfQ==
+eyJoaXN0b3J5IjpbLTg2MTE1MzM5NSw4Mjg4NTE5NzAsLTI3MD
+g2OTQ0Ml19
 -->
