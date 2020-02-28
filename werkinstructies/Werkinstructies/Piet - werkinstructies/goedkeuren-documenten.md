@@ -8,13 +8,12 @@ In dit werkproces worden verzoeken ter goedkeuring beoordeeld en wordt de beslis
 Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door middel van een aan u toegewezen goedkeuringspost. 
 
 1. In uw Rolcenter (startpagina) klikt u op de tegel **Goedkeuringen**. De gelijknamige pagina opent. Hierop worden alle documenten getoond die u goed dient te keuren. 
-2. Klik op **Record openen**. Het document wordt geopend. 
-	- Betreft het document een inkoopfactuur of inkoop creditnota dan kunt u via de knop **Toon factuur** de originele factuur tonen. 
+2. Klik op **Record openen**. Het document wordt geopend. Betreft het document een inkoopfactuur of inkoopcreditnota, dan kunt u via de knop **Toon factuur** de originele factuur tonen. 
 3. Controleer het document. Daarna kunt u een aantal zaken doen. 
-	-  Wanneer de factuur ook door iemand anders goed wil laten keuren ga dan verder naar de processtap **[Toevoegen goedkeurder](#toevoegen-goedkeurder)**.
-	- Wanneer u de factuur namens u door iemand anders goed wil laten keuren ga verder naar de processtap **[Delegeren goedkeuring](#delegeren-goedkeuring)**.
-	- Wilt u de goedkeuringsaanvraag weigeren ga verder naar de processtap **[Weigeren goedkeuringsaanvraag](#weigeren-goedkeuringsaanvraag)**.
-	- Bent u akkoord dan kunt u de factuur goedkeuren ga verder naar de processtap **[Geven akkoord](#geven-akkoord)**.
+	-  Wanneer u de factuur ook door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Toevoegen goedkeurder](#toevoegen-goedkeurder)**.
+	- Wanneer u de factuur namens u door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Delegeren goedkeuring](#delegeren-goedkeuring)**.
+	- Wilt u de goedkeuringsaanvraag weigeren, ga dan verder naar de processtap **[Weigeren goedkeuringsaanvraag](#weigeren-goedkeuringsaanvraag)**.
+	- Bent u akkoord, dan kunt u de factuur goedkeuren ga verder naar de processtap **[Geven akkoord](#geven-akkoord)**.
 
 ## Toevoegen goedkeurder
 Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed wilt laten keuren kunt u een ongelimiteerd aantal extra goedkeurders toevoegen. Dit kunnen personen zijn die het document goed dienen te keuren voordat u het document goedkeurt of het kunnen personen zijn die na u het document goed dienen te keuren. 
@@ -49,5 +48,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODUxOTcwLC0yNzA4Njk0NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzA5MDI3MTQsODI4ODUxOTcwLC0yNz
+A4Njk0NDJdfQ==
 -->
