@@ -45,8 +45,8 @@ U kunt een goedkeuringsaanvraag weigeren.
 
 Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren. 
 
-1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
+1. U keurt de goedkeuringspost goed door de regel te selecteren en op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NjU0NjEsODI4ODUxOTcwLC0yNzA4Nj
-k0NDJdfQ==
+eyJoaXN0b3J5IjpbMTc5MDg5MDA1Miw4Mjg4NTE5NzAsLTI3MD
+g2OTQ0Ml19
 -->
