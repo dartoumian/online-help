@@ -5,7 +5,7 @@ In dit werkproces worden verzoeken ter goedkeuring beoordeeld en wordt de beslis
 ## Processchema
 
 ## Beoordeel verzoek
-Wanneer u een document goed moet keuren krijgt u een goedkeuringsverzoek door middel van een aan u toegewezen goedkeuringspost. 
+Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door middel van een aan u toegewezen goedkeuringspost. 
 
 1. In uw Rolcenter (startpagina) klikt u op de tegel **Goedkeuringen**. De pagina **Goedkeuringen** opent. Op deze pagina worden alle documenten die u goed dient te keuren getoond. 
 2. Klik op **Record openen**. Het document wordt geopend. 
@@ -49,5 +49,5 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDI5NDk3NiwtMjcwODY5NDQyXX0=
+eyJoaXN0b3J5IjpbLTExNzkwNTA5MjQsLTI3MDg2OTQ0Ml19
 -->
