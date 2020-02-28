@@ -20,8 +20,8 @@ Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed 
 
 1. In het feitenblok **Fiatteurs** ziet u een overzicht van alle personen die het document goed moeten keuren. In de kolom **Status** ziet u welke fiatteurs het document al goedgekeurd hebben (status = 'Goedgekeurd') en welke fiatteurs het document nog goed moeten keuren (status = 'Gemaakt'). De volgorde van de fiatteurs in dit feitenblok geeft de volgorde van goedkeuring aan. 
 2. Klik op de naam van het feitenblok **Fiatteurs** en klik op **Fiatteur toevoegen**. Het scherm **Fiatteurs** opent. 
-3. Selecteer de fiateur die u toe wilt voegen en klik op **OK**. U keert terug naar het scherm met goedkeuringsposten.
-4. De toegevoegde fiatteur is als laatste fiatteur toegevoegd. Selecteer de regel met de toegevoegde fiateur. Klik op de naam van het feitenblok **Fiateurs** en klik op **Omhoog** om de toegevoegde fiateur 1 plaats om hoog te verplaatsten. 
+3. Selecteer de fiatteur die u toe wilt voegen en klik op **OK**. U keert terug naar het scherm met goedkeuringsposten.
+4. De toegevoegde fiatteur staat als laatste vermeld. Selecteer de regel met de toegevoegde fiateur. Klik op de naam van het feitenblok **Fiateurs** en klik op **Omhoog** om de toegevoegde fiateur 1 plaats om hoog te verplaatsten. 
 	- LET OP: De laatste fiateur moet altijd voldoende procutatie hebben om het document goed te keuren. Wanneer u een fiateur toevoegt die onvoldoende procuratie heeft kan deze dus niet als laatste fiateur toegevoegd worden.
 6. Herhaal stap 4 tot de toegevoegde fiatteur op de juiste plaats staat.  
 7. Heeft u de toegevoegde fiateur een positie gegeven voor u eigen positie dan dient het document eerst door de toegevoegde persoon goed gekeurd te worden. De goedkeuringspost zal uit u scherm verdwijnen en terug keren wanneer de toegevoegde fiateur het document goedgekeurd heeft. 
@@ -48,6 +48,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU4MjUyNDEsODI4ODUxOTcwLC0yNz
+eyJoaXN0b3J5IjpbLTIxMzAxOTcyMjgsODI4ODUxOTcwLC0yNz
 A4Njk0NDJdfQ==
 -->
