@@ -18,13 +18,12 @@ Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door mid
 ## Toevoegen goedkeurder
 Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed wil laten keuren, kunt u een ongelimiteerd aantal extra goedkeurders toevoegen. Dit kunnen personen zijn die het document goed dienen te keuren voordat uzelf het document goedkeurt, of het kunnen personen zijn die ná u het document goed dienen te keuren. 
 
-1. In het feitenblok **Fiatteurs** ziet u een overzicht van alle personen die het document goed moeten keuren. In de kolom **Status** ziet u welke fiatteurs het document al goedgekeurd hebben (status = 'Goedgekeurd') en welke fiatteurs het document nog goed moeten keuren (status = 'Gemaakt'). De volgorde van de fiatteurs in dit feitenblok geeft de volgorde van goedkeuring aan. 
-2. Klik op de naam van het feitenblok **Fiatteurs** en klik op **Fiatteur toevoegen**. Het scherm **Fiatteurs** opent. 
-3. Selecteer de fiatteur die u toe wilt voegen en klik op **OK**. U keert terug naar het scherm met goedkeuringsposten.
-4. De toegevoegde fiatteur staat als laatste vermeld. Selecteer deze regel, klik op de naam van het feitenblok **Fiatteurs** en klik op **Omhoog** om de toegevoegde fiatteur één plaats omhoog te verplaatsten. 
+ 1. In het feitenblok **Fiatteurs** ziet u een overzicht van alle personen die het document goed moeten keuren. In de kolom **Status** ziet u welke fiatteurs het document al goedgekeurd hebben (status = 'Goedgekeurd') en welke fiatteurs het document nog goed moeten keuren (status = 'Gemaakt'). De volgorde van de fiatteurs in dit feitenblok geeft de volgorde van goedkeuring aan. 
+ 2. Klik op de naam van het feitenblok **Fiatteurs** en klik op **Fiatteur toevoegen**. Het scherm **Fiatteurs** opent. 
+ 3. Selecteer de fiatteur die u toe wilt voegen en klik op **OK**. U keert terug naar het scherm met goedkeuringsposten.
+ 4. De toegevoegde fiatteur staat als laatste vermeld. Selecteer deze regel, klik op de naam van het feitenblok **Fiatteurs** en klik op **Omhoog** om de toegevoegde fiatteur één plaats omhoog te verplaatsten. Herhaal deze stap tot de toegevoegde fiatteur op de juiste plaats staat.
 >**LET OP**: De laatste fiatteur moet altijd voldoende procuratie hebben om het document goed te keuren. Wanneer u een fiatteur toevoegt die onvoldoende procuratie heeft kan deze dus niet als laatste fiatteur toegevoegd worden.
-6. Herhaal stap 4 tot de toegevoegde fiatteur op de juiste plaats staat.  
-7. Heeft u de toegevoegde fiateur een positie gegeven voor u eigen positie dan dient het document eerst door de toegevoegde persoon goed gekeurd te worden. De goedkeuringspost zal uit u scherm verdwijnen en terug keren wanneer de toegevoegde fiateur het document goedgekeurd heeft. 
+ 5. Heeft u de toegevoegde fiateur een positie gegeven voor u eigen positie dan dient het document eerst door de toegevoegde persoon goed gekeurd te worden. De goedkeuringspost zal uit u scherm verdwijnen en terug keren wanneer de toegevoegde fiateur het document goedgekeurd heeft. 
 8. Heeft u de toegevoegde fiateur een positie gegeven nu u eigen positie ga dan verder naar de stap **[Geven akkoord](#geven-akkoord)**.
 
 ## Delegeren goedkeuring
@@ -48,6 +47,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDM3NjU3Miw4Mjg4NTE5NzAsLTI3MD
+eyJoaXN0b3J5IjpbLTMwNjc0MTYyOCw4Mjg4NTE5NzAsLTI3MD
 g2OTQ0Ml19
 -->
