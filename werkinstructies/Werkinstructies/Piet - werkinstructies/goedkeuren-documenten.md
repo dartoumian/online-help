@@ -24,10 +24,10 @@ Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed 
  4. De toegevoegde fiatteur staat als laatste vermeld. Selecteer deze regel, klik op de naam van het feitenblok **Fiatteurs** en klik op **Omhoog** om de toegevoegde fiatteur één plaats omhoog te verplaatsten. Herhaal deze stap tot de toegevoegde fiatteur op de juiste plaats staat.
 >**LET OP**: De laatste fiatteur moet altijd voldoende procuratie hebben om het document goed te keuren. Wanneer u een fiatteur toevoegt die onvoldoende procuratie heeft kan deze dus niet als laatste fiatteur toegevoegd worden.
  5. Heeft u de toegevoegde fiatteur een positie gegeven vóór uw eigen positie, dan dient het document eerst door de toegevoegde persoon goedgekeurd te worden. De goedkeuringspost zal uit uw scherm verdwijnen en terugkeren wanneer de toegevoegde fiatteur het document goedgekeurd heeft. 
-8. Heeft u de toegevoegde fiatteur een positie gegeven ná uw eigen positie, ga dan verder naar de stap **[Geven akkoord](#geven-akkoord)**.
+8. Heeft u de toegevoegde fiatteur een positie gegeven ná uw eigen positie, ga dan verder naar de stap **[Akkoord geven](#geven-akkoord)**.
 
 ## Delegeren goedkeuring
-Wanneer  u het document door iemand wil laten goedkeuren namens u dan kunt u de goedkeuringsaanvraag delegeren. 
+Wanneer  u het document door iemand wil laten goedkeuren namens u, dan kunt u de goedkeuringsaanvraag delegeren. 
 
 > - Een goedkeuringsaanvraag kan alleen gedelegeerd worden naar een gebruiker met gelijke of hogere procuratie.
 > - Een goedkeuringsaanvraag kan maar één keer gedelegeerd worden. Is het document al een keer gedelegeerd en wordt opnieuw geprobeerd het document te delegeren dan zal een foutmelding getoont worden. 
@@ -41,12 +41,12 @@ U kunt een goedkeuringsaanvraag weigeren.
 1. U weigert de goedkeuringspost door de regel te selecteren op **Weigeren** te klikken. 
 2. Het scherm **Opmerkingen bij goedkeuring** opent. Geef in het veld **Opmerking** de reden van weigering op en sluit de pagina. De goedkeuringsaanvraag is geweigerd.
 
-## Geven akkoord
+## Akkoord geven
 
 Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren. 
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDU3NjkyMyw4Mjg4NTE5NzAsLTI3MD
+eyJoaXN0b3J5IjpbMTU2MTYyMjI4OSw4Mjg4NTE5NzAsLTI3MD
 g2OTQ0Ml19
 -->
