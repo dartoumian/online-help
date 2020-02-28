@@ -1,6 +1,6 @@
-# Welkom bij Dynamics Empire
+# Welcome to StackEdit!
 
-Dynamics Empire is het enterprise resource planning (ERP)-systeem van cegeka-dsa: een integraal en compleet product voor vastgoedbeheer. Onze oplossing bestaat uit een achttal modules, waarvan de kern is gebaseerd op Microsoft Dynamics 365 Business Central en de marktstandaarden VERA en KOVRA. De software bevat gestandaardiseerde functionaliteiten voor alle aspecten van volkshuisvesting; van woningbeheer en klantrelaties tot personeelsmanagement en financiële administratie.
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MTAzNDA4XX0=
+eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
 -->
