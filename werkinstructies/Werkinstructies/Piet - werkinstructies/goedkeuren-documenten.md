@@ -23,8 +23,8 @@ Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed 
  3. Selecteer de fiatteur die u toe wilt voegen en klik op **OK**. U keert terug naar het scherm met goedkeuringsposten.
  4. De toegevoegde fiatteur staat als laatste vermeld. Selecteer deze regel, klik op de naam van het feitenblok **Fiatteurs** en klik op **Omhoog** om de toegevoegde fiatteur één plaats omhoog te verplaatsten. Herhaal deze stap tot de toegevoegde fiatteur op de juiste plaats staat.
 >**LET OP**: De laatste fiatteur moet altijd voldoende procuratie hebben om het document goed te keuren. Wanneer u een fiatteur toevoegt die onvoldoende procuratie heeft kan deze dus niet als laatste fiatteur toegevoegd worden.
- 5. Heeft u de toegevoegde fiateur een positie gegeven voor u eigen positie dan dient het document eerst door de toegevoegde persoon goed gekeurd te worden. De goedkeuringspost zal uit u scherm verdwijnen en terug keren wanneer de toegevoegde fiateur het document goedgekeurd heeft. 
-8. Heeft u de toegevoegde fiateur een positie gegeven nu u eigen positie ga dan verder naar de stap **[Geven akkoord](#geven-akkoord)**.
+ 5. Heeft u de toegevoegde fiatteur een positie gegeven vóór uw eigen positie, dan dient het document eerst door de toegevoegde persoon goedgekeurd te worden. De goedkeuringspost zal uit uw scherm verdwijnen en terugkeren wanneer de toegevoegde fiatteur het document goedgekeurd heeft. 
+8. Heeft u de toegevoegde fiatteur een positie gegeven ná uw eigen positie, ga dan verder naar de stap **[Geven akkoord](#geven-akkoord)**.
 
 ## Delegeren goedkeuring
 Wanneer  u het document door iemand wil laten goedkeuren namens u dan kunt u de goedkeuringsaanvraag delegeren. 
@@ -47,6 +47,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjc0MTYyOCw4Mjg4NTE5NzAsLTI3MD
+eyJoaXN0b3J5IjpbMTg5NDU3NjkyMyw4Mjg4NTE5NzAsLTI3MD
 g2OTQ0Ml19
 -->
