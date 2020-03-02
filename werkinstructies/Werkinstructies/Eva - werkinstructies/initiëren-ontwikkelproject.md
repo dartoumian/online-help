@@ -64,9 +64,15 @@ De begroting is d.m.v. een bestuursbesluit vastgesteld nu dient de begroting van
  4. Controleer of begroting en budget op tabblad **Regels** overeenkomen met het bestuursbesluit dat aan het projectdossier in DMS is toegevoegd.
  5. Schakel op tabblad **Algemeen** het veld **Definitieve versie** in.
 
-## Aanmaken project - enkelvoudig project
+## Aanmaken enkelvoudig project
 
-
+De begroting is d.m.v. een bestuursbesluit vastgesteld. Ook de begroting van het projectmodel is vastgesteld en definitief gemaakt te worden nu kan op basis van het definitieve projectmodel het project aangemaakt worden.
+ 1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
+ 2.  Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.
+ 3. Door in het lint te kiezen **Beheren - Bewerken** is het projectmodel van uw keuze te openen.
+ 4. Omdat begroting is vastgesteld, heeft ook het projectmodel de status definitieve versie. Controleert u dit door op het tabblad **Algemeen** te kijken of de schuif achter het veld **Definitieve versie** naar rechts staat ingesteld.
+ 5. Door te navigeren naar **Acties - Functies - Definitieve versie** maakt Dynamics Empire een project aan op basis van de parameters uit het definitieve projectmodel.
+ 6. Sluit de projectmodel-kaart met **pijltje naar links** linksboven in het venster.
 
 ## Verwerken projectgegevens
 
@@ -175,11 +181,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE1MjU1NzQsLTE2Mzc3ODgxODcsLT
-E1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5
-MTczODg4LDUxMzI5OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MT
-ExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05
-MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0ND
-QsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0x
-Mjg0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbLTEyNDI2MzEzMjEsLTE0NDE1MjU1NzQsLT
+E2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2
+ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMzND
+A2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwt
+NDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMz
+kyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcs
+NjIyNzIxNjY1XX0=
 -->
