@@ -151,33 +151,32 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
 >- Druk vervolgens op het prullenbak-icoon midden bovenaan de inkooporderkaart.
 >- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen**	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)
  11. U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
- 13. Vul in de inkooporderregels de **Directe kostprijs** als orderbedragen excl. BTW.
- 14. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de directe kostprijs aan als u onderhandeld heeft over de offerteprijs.
- 15. Als het ingevulde bedrag **Directe kostprijs excl. BTW** hoger is dan het budgetbedrag excl. BTW zal Dynamic Empire hiervan melding doen: "Het budget ........wordt € xx,xx overschreden". Tevens kleurt de orderregel rood.
- 16. Inkooporderregels kunnen opgesplitst worden ten behoeve van termijnen. Dit moet echter binnen de structuur van de aanwezige orderregels, rekening houdend met de volgorde waarin de werkzaamheden worden uitgevoerd.
- 17. Kies binnen het tabblad **Regels** inkooporderregel(s) die u wilt opdelen in termijnen door te kiezen voor de actie **Regel -  Termijnen toevoegen**.
- 18. Het scherm Termijnen toevoegen wordt geopend.
- 19. Om met 2 termijnen te werken vult u bij **Extra aantal termijnen** de waarde 1 in.  
- 20. De inkooporderregel zal gesplitst worden.
- 21. Pas het veld **Directe kostprijs** aan als de termijnen niet evenredig zijn. Let op! Dynamics Empire rekent het aanpassen van de directe kostprijs niet door naar andere regels. Bedenk dus, voordat je deze handeling gaat doen, wat het bedrag per termijn zal zijn. Mocht de inkooporder uit meer regels bestaan die je wilt opdelen t.b.v. termijnen, selecteer dan alle regels.
- 22. Voer in kolom **Omschrijving 2** een omschrijving in van de termijnen.
- 23. Voer een verwachte factuurdatum per termijn op in kolom **Verwachte factuurdatum**. 
+ 12. Vul in de inkooporderregels de **Directe kostprijs** als orderbedragen excl. BTW.
+ 13. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de directe kostprijs aan als u onderhandeld heeft over de offerteprijs.
+ 14. Als het ingevulde bedrag **Directe kostprijs excl. BTW** hoger is dan het budgetbedrag excl. BTW zal Dynamic Empire hiervan melding doen: "Het budget ........wordt € xx,xx overschreden". Tevens kleurt de orderregel rood.
+ 15. Inkooporderregels kunnen opgesplitst worden ten behoeve van termijnen. Dit moet echter binnen de structuur van de aanwezige orderregels, rekening houdend met de volgorde waarin de werkzaamheden worden uitgevoerd.
+ 16. Kies binnen het tabblad **Regels** inkooporderregel(s) die u wilt opdelen in termijnen door te kiezen voor de actie **Regel -  Termijnen toevoegen**.
+ 17. Het gelijknamige scherm wordt geopend.
+ 18. Om met twee termijnen te werken vult u bij **Extra aantal termijnen** de waarde 1 in. De inkooporderregel zal gesplitst worden.
+ 19. Pas het veld **Directe kostprijs** aan als de termijnen niet evenredig zijn.
+ >**Let op!** Dynamics Empire rekent het aanpassen van de directe kostprijs niet door naar andere regels. Bedenk dus, voordat u deze handeling gaat doen, wat het bedrag per termijn zal zijn. Mocht de inkooporder uit meer regels bestaan die u wilt opdelen t.b.v. termijnen, selecteer dan alle regels.
+ 20. Voer in kolom **Omschrijving 2** een omschrijving in van de termijnen.
+ 22. Voer een verwachte factuurdatum per termijn op in kolom **Verwachte factuurdatum**. 
 ### Inkoopofferte omzetten in order
- 24. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorders naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
- 25. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
- 26. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
- 27. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en klik in het lint op **Kaart** om de offertekaart te openen.
- 28. Klik via het lint op **Verwerken - Order maken**.
- 29. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
- 30. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = Order . Tevens is te zien dat de status van de offerte is veranderd in Omgezet. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = Open.
- 31. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
+ 23. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorders naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 24. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
+ 25. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
+ 26. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en klik in het lint op **Kaart** om de offertekaart te openen.
+ 27. Klik via het lint op **Verwerken - Order maken**.
+ 28. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
+ 29. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = Order . Tevens is te zien dat de status van de offerte is veranderd in Omgezet. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = Open.
+ 30. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDY5NDUyMSwtMTU0NDg2ODA1MSwxNj
-k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
-MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
-wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
-ODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOC
-wtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
-
+eyJoaXN0b3J5IjpbNTcxMjQ2MDUsLTE1NDQ4NjgwNTEsMTY5OT
+U2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1
+NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLT
+E5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1
+NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLT
+IwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 -->
