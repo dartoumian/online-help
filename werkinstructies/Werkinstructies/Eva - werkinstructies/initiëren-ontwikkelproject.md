@@ -79,15 +79,15 @@ De projectgegevens worden vastgelegd op het aangemaakte project.
  8. Herhaal de stappen 4 en 5 voor de **Verkoopbudgethouder** en de **Factuurbudgethouder**.
  9. Sluit de projectkaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
 
-## Offerte aanmaken
-(...)
+## Aanmaken offertes
+
 
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MT
-M3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQs
-LTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMj
-g0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC00MD
+U3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMzIzOTIs
+LTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDExNyw2Mj
+I3MjE2NjUsLTEyODQwMzYyOThdfQ==
 -->
