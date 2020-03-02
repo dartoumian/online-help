@@ -40,22 +40,21 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 	* **Besluit**
 	* **Start en opleverdatum**
 	* **Clusternr.**
- 5. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
- 6. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Gemengd** en druk op **OK**.
- 7.   Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 00_G21 staat voor Gemengd en 21% BTW. 
- 8. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel Gemengd zichtbaar is.
+ 5. Ga via **Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
+ 6. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Gemengd** en klik op **OK**.
+ 7.   Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW-percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 
+ 8. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **Projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel 'Gemengd' zichtbaar is.
  9. Op het gemengde projectmodel zullen straks de individuele begrotingen voor de appartementen en winkels worden gecumuleerd. We gaan nu verder met het aanmaken van projectmodellen voor de appartementen en winkels.
- 10. Klik op **Nieuw** in het lint van deze lijstpagina.
- 11. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
- 12. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
-	 * **Projectmodelnr.** P2000-02
-	 * **Projectnaam** Renovatie Geisenlaan
-	 * **Projectomschrijving** 2 winkels
-	 * **Clusternr.** P2000
- 13. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
- 14. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **BOG NDAEB TV** en druk op **OK**.
- 15. Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 23_T21 staat voor Bedrijfs Onroerend Goed en terugvorderbare BTW en 21% BTW.
- 16. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel Gemengd zichtbaar is.
+ 10. Klik op **Nieuw**. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
+ 11. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
+	 * **Projectmodelnr.**
+	 * **Projectnaam**
+	 * **Projectomschrijving**
+	 * **Clusternr.**
+ 12. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
+ 13. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **BOG NDAEB TV** en druk op **OK**.
+ 14. Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 23_T21 staat voor Bedrijfs Onroerend Goed en terugvorderbare BTW en 21% BTW.
+ 15. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel Gemengd zichtbaar is.
 
 <hr>
 
@@ -230,7 +229,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODQ0NDEzNiwxMTI1MzU0Njg4LC0yMj
+eyJoaXN0b3J5IjpbMTc0Mzc2OTUxNywxMTI1MzU0Njg4LC0yMj
 Y2MjQ5NzgsLTM5NzAyODU1LDQ1MTc0NzAzNSwtMTQ0MTUyNTU3
 NCwtMTYzNzc4ODE4NywtMTU0NDg2ODA1MSwxNjk5NTY5MTE1LD
 E4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4
