@@ -114,11 +114,30 @@ In dit proces moeten de aanvragen verstuurd worden naar de verschillende leveran
  3. Als de brief vragen stelt, wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
  4. Zie verder het proces VERWERKEN UITGAANDE POST.
 
+### Ontvangen inkoopoffertes
+De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuurd. In dit proces worden de volgende handelingen verricht:
+- Verwerken ontvangen offertes
+- Archiveren offertes in DMS
+
+Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd, gearchiveerd en pas daarna toegekend aan u. Dit doen zij door een taak in Dynamics Empire voor u aan te maken.
+ 1. *Nader uit te werken m.b.t. taakoverzicht in DE R20?*
+ 2. 
+ 3. De binnenkomende offerte wordt in **DMS** geopend. Bestudeer de offerte en leg daarna de volgende gegevens uit de offerte op de offertekaart in Dynamics Empire vast:
+	- Ontvangstdatum
+	- Offertenummer leverancier
+	- Prijs
+ 4. Ga voor het vastleggen van gegevens van de inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 5. Klik op het item **Werkderden** in het feitenblok. Het **werkderdenoverzicht** wordt geopend.
+ 6. Selecteer de betreffende offerte en klik op **Kaart** op de inkoopoffertekaart te openen.
+ 7. Leg de gegevens uit de ontvangen offerte vast.
+ 8. Het geoffreerde bedrag(en) legt u vast in het veld **Direct kostprijs** op de regels van de offerte.
+ 9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
+
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzA2NzA0OSwxNjk5NTY5MTE1LDE4OD
+eyJoaXN0b3J5IjpbLTEzNDkwNzM1NywxNjk5NTY5MTE1LDE4OD
 Y4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4MzM0
 MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC
 00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMzIz
