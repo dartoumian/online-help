@@ -88,18 +88,25 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
  2. Dynamics Empire opent de projectkaart. Deze bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een menu met acties (boven).
  3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
  4. Klik op de actie **Inkoopofferte aanvragen**. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
- 6. U komt in een overzicht met leveranciers. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
- 8. Klik op **OK** om de melding hiervan te sluiten.
- 9. Voor de **budgetregel** wordt een **Inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde budgetregel en feitenblok **Projectgegevens** toont alle inkoopregels van het project.
- 10. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
- 11. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
+ 5. U komt in een overzicht met leveranciers. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
+ 6. Klik op **OK** om de melding hiervan te sluiten.
+ 7. Voor de **budgetregel** wordt een **Inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde budgetregel en feitenblok **Projectgegevens** toont alle inkoopregels van het project.
+ 8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
+ 9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
+ 10. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
+
+ 12. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
  
  >**Tip!** Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:
 >- Ga naar de inkoopoffertekaart door te kiezen voor **kaart**.
 >- Verwijder met het *prullenbak-icoon* midden bovenaan het venster de inkoopofferte.
 
 
- 12. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
+ 
+
+ 1. List item
+
+
  13. De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
 	 - Verzochte ontvangstdatum (vereist)
 	 - Contact = naam van jouw contactpersoon bij de leverancier (niet vereist)
@@ -110,9 +117,9 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTAxNzUsNTEzMjk5MDU1LC0zODM4Mz
-M0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyNDc5
-LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMz
-IzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDEx
-Nyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbMTg2MDI3ODA2Myw1MTMyOTkwNTUsLTM4Mz
+gzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0xOTI0NjI0
+NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2MSw5OD
+EzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMDc1NjA0
+MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
 -->
