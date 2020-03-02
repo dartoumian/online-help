@@ -82,15 +82,39 @@ De projectgegevens worden vastgelegd op het aangemaakte project.
 ## Aanmaken offertes
 De offerteaanvraag kan per brief, via het Leveranciersportaal of door een aanbesteding in verschillende media-typen worden gecommuniceerd. Nadat brieven in DMS zijn gearchiveerd kunnen ze (ook per e-mail) verstuurd worden. Hiermee wordt voorkomen dat een brief wel bij een leverancier ligt, maar niet in het projectdossier zit.
 Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden gebruikt om alle relevante informatie uit Dynamics Empire naar de brief over te zetten. Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegewezen ter beoordeling.
-### Vastleggen inkoopoffertes
 
+### Vastleggen inkoopoffertes
+ 1. Ga voor het vastleggen van inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 2. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
+ 3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
+ 4. Klik op de actie **Inkoopofferte aanvragen** (tabblad **Budgetregels > Functies - Inkoop - Inkoopofferte aanvragen** in het lint).
+ 5. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
+ 6. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
+ 7. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
+ 8. Klik op **OK** om de melding hiervan te sluiten.
+ 9. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
+ 10. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
+ 11. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
+ 
+ *Tip! 
+Mocht je een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doe je als volgt:*
+*- ga naar de inkoopoffertekaart door in het lint te kiezen voor **kaart***
+*- met het **prullenbak-icoon** midden bovenaan de inkoopoffertekaart wordt inkoopofferte verwijderd.* 
+
+
+ 12. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
+ 13. De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
+	 - Verzochte ontvangstdatum (vereist)
+	 - Contact = naam van jouw contactpersoon bij de leverancier (niet vereist)
+	 - Omschrijving van offerteregels
+ 14. Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.
 
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjE5NTA1OSwxODU2OTMxNjkxLC0xOT
-I0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2
-MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMD
-c1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMT
+kyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2
+NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMj
+A3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
 -->
