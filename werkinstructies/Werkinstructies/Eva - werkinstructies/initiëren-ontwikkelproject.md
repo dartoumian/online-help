@@ -141,11 +141,10 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een order wilt aanmaken.
  4. Klik op de actie **Inkooporder aanmaken**.
  5. Dynamics Empire vraagt uw bevestiging voor een inkoopoorder op de betreffende budgetregel; klik op **Ja**.
- 6. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
- 7. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
+ 6. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
  8. Klik op **OK** om de melding hiervan te sluiten.
- 9. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in 3 Order. De aangemaakte inkooporder is te vinden vanuit het feitenblok via item Werkderden. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
- 10. Klik op het aantal in feitenblok Budgetgegevens (als het een VGO-project betreft) of feitenblok projectgegevens (als het een Onderhoudsproject betreft) om de inkooporder te openen.
+ 9. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in 'Order'. De aangemaakte inkooporder is te vinden vanaf het feitenblok via item Werkderden. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
+ 10. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen.
  11. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. Een inkooporder kan uit meerdere inkoopregels bestaan. De regels worden afzonderlijk weergegeven omdat de status van beide regels op enig moment kan verschillen. Eén regel kan gegund zijn, terwijl de andere regel is gereed gemeld. Door beide regels te tonen heb je overzicht over de status van de regels.
  
  *Tip!*
@@ -177,7 +176,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMjg5ODYxLC0xNTQ0ODY4MDUxLDE2OT
+eyJoaXN0b3J5IjpbNjUyNDkyMDY3LC0xNTQ0ODY4MDUxLDE2OT
 k1NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkw
 NTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC
 0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4
