@@ -93,8 +93,11 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
  7. Voor de **budgetregel** wordt een **Inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde budgetregel en feitenblok **Projectgegevens** toont alle inkoopregels van het project.
  8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
  9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
- 10. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
- 11. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
+ 10. U gaat nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en open de kaart.
+ 11. Vul op de offertekaart de volgende gegevens in:
+	 - Verzochte ontvangstdatum (vereist)
+	 - Contact = naam van jouw contactpersoon bij de leverancier (niet vereist)
+	 - Omschrijving van offerteregels
  
  >**Tip!** Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:
 >- Ga naar de inkoopoffertekaart door te kiezen voor **kaart**.
@@ -116,9 +119,10 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zOD
-M4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYy
-NDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOT
-gxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYw
-NDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbMjEwODE3MDA0NiwtMTA1OTE3Mzg4OCw1MT
+MyOTkwNTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMx
+NjkxLC0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLD
+YyNjA4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0
+OTE4LC0yMDc1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF
+19
 -->
