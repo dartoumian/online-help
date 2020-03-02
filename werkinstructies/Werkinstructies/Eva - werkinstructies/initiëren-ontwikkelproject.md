@@ -94,12 +94,12 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
  8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
  9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  10. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
- >**Tip!** Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:
+ 
  12. 
  
  13. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
  
- 
+ >**Tip!** Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:
 >- Ga naar de inkoopoffertekaart door te kiezen voor **kaart**.
 >- Verwijder met het *prullenbak-icoon* midden bovenaan het venster de inkoopofferte.
 
@@ -119,9 +119,9 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUzNDQ1Myw1MTMyOTkwNTUsLTM4Mz
-gzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0xOTI0NjI0
-NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2MSw5OD
-EzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMDc1NjA0
-MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbMTI5MDU4NzI1LDUxMzI5OTA1NSwtMzgzOD
+MzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3
+OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MT
+MyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQx
+MTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 -->
