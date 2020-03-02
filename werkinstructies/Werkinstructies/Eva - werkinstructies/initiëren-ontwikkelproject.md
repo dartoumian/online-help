@@ -135,12 +135,12 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
 Het vastleggen van inkooporders in Dynamics Empire kan door de inkoopofferte om te zetten naar een inkooporder of door het rechtstreek aanmaken van een inkooporder.
 
 ### Rechtstreeks aanmaken inkooporders
-Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit doet u wanneer de inkoopprijs op een andere wijze is verkregen dan via een inkoopofferte, bijvoorbeeld bij meer–minderwerk, met behulp van eenheidsprijzen of een contract. 
- 1. Ga voor het vastleggen van inkoopoorders naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
- 2. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
+Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit doet u wanneer de inkoopprijs op een andere wijze is verkregen dan via een inkoopofferte, bijvoorbeeld bij meer/minderwerk, met behulp van eenheidsprijzen of een contract. 
+ 1. Ga voor het vastleggen van inkoopoorders naar het **Projectoverzicht**  (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** het project van uw keuze.
+ 2. Dynamics Empire zal op de projectkaart openen.
  3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een order wilt aanmaken.
- 4. Klik op de actie **Inkooporder aanmaken** (tabblad **Budgetregels > Functies - Inkoop - Inkooporder aanmaken** in het lint).
- 5. Dynamics Empire vraagt uw bevestiging voor een inkoopoorder op de betreffende budgetregel, klik op **Ja**.
+ 4. Klik op de actie **Inkooporder aanmaken**.
+ 5. Dynamics Empire vraagt uw bevestiging voor een inkoopoorder op de betreffende budgetregel; klik op **Ja**.
  6. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
  7. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
  8. Klik op **OK** om de melding hiervan te sluiten.
@@ -177,7 +177,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNTExNDU0LC0xNTQ0ODY4MDUxLDE2OT
+eyJoaXN0b3J5IjpbOTIwMjg5ODYxLC0xNTQ0ODY4MDUxLDE2OT
 k1NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkw
 NTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC
 0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4
