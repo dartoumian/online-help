@@ -52,21 +52,19 @@ Zoek uw collega’s op via kolom **Contactnr.**
 17. Voer de notitie in en klik op **Sluiten**. Dynamics Empire zal een bericht sturen naar de betreffende collega.
 
 ## Herberekenen begrotingsregels - enkelvoudig project
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **projectmodeloverzicht**.
- 2.  Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.
- 3. Door in het lint te kiezen **Beheren - Bewerken** is het projectmodel van uw keuze te openen.
- 4. Deze versie van het projectmodel is bevroren en is niet meer te wijzigen. Alle wijzigingen moeten in een versie 2 worden doorgevoerd.
- 6. Navigeer in het lint van het geopende projectmodel naar **Nieuw - Nieuwe Versie** om een versie 2 aan te maken. Deze nieuwe versie van het projectmodel bevat  nu nog geen gegevens.
- 7. Deze gegevens kopiert u vanuit het voorgaande projectmodel door in het lint te navigeren naar **Acties - Functies - Projectmodel kopiëren**
- 8. Dynamics Empire opent een venster **Kopiëren van/naar projectmodel**. 
- 9. Selecteer versie 1 in bij het veld **Bron modelnr.**
- 10. Plaats een vinkje in veld **Inclusief Kop** om ook de gegevens op tabblad Algemeen mee te kopiëren en klik op **OK**.
- 11. Dynamics Empire zal alle gegevens van versie 1 kopiëren naar versie 2. Met deze status van versie 2 kan u nu de gewenste  wijzigingen op de regels van specifieke werksoorten doorvoeren.
- 12. Verberg op de projectmodelkaart eventueel tabblad **Algemeen** door eenmaal op de tekst van het tabblad te klikken en zo de regels maximaal in beeld te hebben.
- 13. Wijzig de begroting door op de regel(s) van een specifieke werksoort(en) een bedrag in te vullen of te veranderen in de kolom **Kostprijs**.
- 14. De begroting wordt bepaald op basis van aantal x kostprijs. *Het default aantal op alle regels is 1 en de default eenheidcode is post.* Je kunt de begroting ook vaststellen door het aantal aan te passen en een **kostprijs** per **aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **eenheidcode**. Pas daarom, indien gewenst, de eenheidcode aan.
- 15. Klik op **Verwerken - Cashflowprognose fase verdeelsleutel** in het lint om de initiële verdeling te bekijken en eventueel project specifiek te maken.
- 16. Voer in kolom **Toelichting** een toelichting op het bedrag in.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectmodeloverzicht**.
+ 2.  Het **Overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.
+ 3. Door te kiezen voor **Bewerken** is het projectmodel van uw keuze te openen. Deze versie van het projectmodel is bevroren en is niet meer te wijzigen. Alle wijzigingen moeten in een versie 2 worden doorgevoerd.
+ 4. Navigeer naar **Nieuw - Nieuwe Versie** om een versie 2 aan te maken. Deze nieuwe versie van het projectmodel bevat  nu nog geen gegevens.
+ 5. Deze gegevens kopieert u vanuit het voorgaande projectmodel door te navigeren naar **Projectmodel kopiëren**. Dynamics Empire opent het venster **Kopiëren van/naar projectmodel**. 
+ 7. Selecteer versie 1 in bij het veld **Bron modelnr.**
+ 8. Plaats een vinkje in veld **Inclusief Kop** om ook de gegevens op tabblad Algemeen mee te kopiëren en klik op **OK**.
+ 9. Dynamics Empire zal alle gegevens van versie 1 kopiëren naar versie 2. Met deze status van versie 2 kan u nu de gewenste  wijzigingen op de regels van specifieke werksoorten doorvoeren.
+ 10. Verberg op de projectmodelkaart eventueel tabblad **Algemeen** door eenmaal op de tekst van het tabblad te klikken en zo de regels maximaal in beeld te hebben.
+ 11. Wijzig de begroting door op de regel(s) van een specifieke werksoort(en) een bedrag in te vullen of te veranderen in de kolom **Kostprijs**.
+ 12. De begroting wordt bepaald op basis van aantal x kostprijs. *Het default aantal op alle regels is 1 en de default eenheidcode is post.* Je kunt de begroting ook vaststellen door het aantal aan te passen en een **kostprijs** per **aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **eenheidcode**. Pas daarom, indien gewenst, de eenheidcode aan.
+ 13. Klik op **Verwerken - Cashflowprognose fase verdeelsleutel** in het lint om de initiële verdeling te bekijken en eventueel project specifiek te maken.
+ 14. Voer in kolom **Toelichting** een toelichting op het bedrag in.
 15. Klik in het lint van de projectmodelkaart op **Navigeren - Projectmodel - Opmerkingen** om je collega (projectcontroller) te vragen om het model om te zetten.
 
 
@@ -197,11 +195,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzUzODI1Miw0NTE3NDcwMzUsLTE0ND
-E1MjU1NzQsLTE2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMTY5OTU2
-OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NS
-wtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5
-MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1Nj
-YxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIw
-NzU2MDQxMTddfQ==
+eyJoaXN0b3J5IjpbLTEzODMxOTY3NjAsNDUxNzQ3MDM1LC0xND
+QxNTI1NTc0LC0xNjM3Nzg4MTg3LC0xNTQ0ODY4MDUxLDE2OTk1
+NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkwNT
+UsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0x
+OTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NT
+Y2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0y
+MDc1NjA0MTE3XX0=
 -->
