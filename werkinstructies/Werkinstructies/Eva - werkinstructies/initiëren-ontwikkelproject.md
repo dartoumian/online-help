@@ -164,21 +164,21 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  21. Voer een verwachte factuurdatum per termijn op in kolom **Verwachte factuurdatum**.
  
 ### Inkoopofferte omzetten in order
- 1. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorder naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** in het lint het project van uw keuze.
- 24. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
- 25. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
- 26. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en klik in het lint op **Kaart** om de offertekaart te openen.
- 27. Klik via het lint op **Verwerken - Order maken**.
- 28. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
- 29. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = Order . Tevens is te zien dat de status van de offerte is veranderd in Omgezet. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = Open.
- 30. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
+ 1. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorder naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** het project van uw keuze.
+ 2. Dynamics Empire zal op de projectkaart openen.
+ 3. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
+ 4. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en kies voor **Kaart** om de offertekaart te openen.
+ 5. Klik op de actie **Verwerken - Order maken**.
+ 6. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
+ 7. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = 'Order'. Tevens is te zien dat de status van de offerte is veranderd in 'Omgezet'. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = 'Open'.
+ 8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTcxMzUyNiwtMTU0NDg2ODA1MSwxNj
-k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
-MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
-wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
-ODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOC
-wtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMT
+Y5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5
+OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OT
+EsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2
+MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MT
+gsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 
 -->
