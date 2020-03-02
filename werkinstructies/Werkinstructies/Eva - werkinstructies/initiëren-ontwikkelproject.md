@@ -124,21 +124,21 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
 	- Ontvangstdatum
 	- Offertenummer leverancier
 	- Prijs
- 4. Ga voor het vastleggen van gegevens van de inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 4. Ga voor het vastleggen van gegevens van de inkoopoffertes naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open het project van uw keuze.
  5. Klik op het item **Werkderden** in het feitenblok. Het **werkderdenoverzicht** wordt geopend.
  6. Selecteer de betreffende offerte en klik op **Kaart** op de inkoopoffertekaart te openen.
  7. Leg de gegevens uit de ontvangen offerte vast.
- 8. Het geoffreerde bedrag(en) legt u vast in het veld **Direct kostprijs** op de regels van de offerte.
+ 8. Het geoffreerde bedrag legt u vast in het veld **Directe kostprijs** op de regels van de offerte.
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTY2NTE5OSwxNjk5NTY5MTE1LDE4OD
-Y4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4MzM0
-MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC
-00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMzIz
-OTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDExNy
-w2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxOD
+g2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMz
+NDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OS
+wtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMy
+MzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMT
+csNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 -->
