@@ -28,8 +28,58 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 >Bij het ophalen van het exploitatiemodel wordt het sjabloon met **Cashflowprognose fase verdeelsleutels** overgenomen naar het Projectmodel. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfasen gekoppeld aan het gekozen projectmodel. Klik op **Cashflowprognose fase verdeelsleutel** om de initiële verdeling te bekijken en eventueel projectspecifiek te maken.
 
-## Aanmaken projectmodel - meervoudig project
+## Aanmaken projectmodel - gemengd project
 
+In Dynamics Empire worden in de projectenadministratie de projectmodellen aangemaakt. De projectmodellen zijn typen projecten. Het is in Dynamics Empire mogelijk om enkelvoudige en gemengde projectmodellen aan te maken.
+Bij een gemengd project worden meerdere projectmodellen aangemaakt voor het project.
+
+Deze werkinstructie behandelt het aanmaken van een gemengd renovatieproject, waarbij vier appartementen en twee winkels in Zeist zullen worden gerenoveerd. Het project betreft renovatie van appartementen en winkels aan de Geisenlaan in Zeist.
+- Projectnummer: P2000
+- Projectnaam: Renovatie Geisenlaan
+- Projectomschrijving: Renovatie 6 appartementen en 2 winkels
+
+Het project bestaat uit huurwoningen DAEB en winkels. Voor de huurwoningen geldt een BTW-regime Niet terugvorderbaar. De renovatie van de winkels betreft een niet-DAEB-activiteit en de BTW van de winkels is wel terugvorderbaar. Verder spreken we in dit voorbeeld van twee verschillende corporate datatypen, namelijk Woningen en Winkels, waarover gescheiden moet worden gerapporteerd.
+
+Bovenstaande verschillen bieden een uitdaging voor de administratie. De verschillen zijn dermate dat je twee projecten in de administratie zou moeten opvoeren. De woning en winkels worden echter in één bouwstroom gerenoveerd. Twee projecten betekent dat alle handelingen dubbel moeten worden uitgevoerd. Denk bijvoorbeeld aan het aanmaken van een inkooporder voor de aannemer, dat twee keer zal moeten.
+
+Dynamics Empire biedt voor dit probleem een oplossing, genaamd gemengde projecten. Bij een gemengd project wordt één project in de administratie opgevoerd met in dit voorbeeld een verdeelsleutel voor appartementen en winkels. De verdeelsleutel wordt afgeleid van de begroting. En daarvoor is het nodig om twee begrotingen op te stellen: één begroting voor de appartementen en één begroting voor de winkels. Beide begrotingen worden ten behoeve van het project gecumuleerd, waarbij de verdeelsleutels worden berekend voor alle budgetregels met een begrotingsbedrag. De verhouding in het bedrag bepaalt de verdeelsleutel. Voor alle regels zonder begroting wordt een default verdeelsleutel vastgesteld.
+
+De werkinstructie behandelt het opstellen van begroting en budget in Dynamics Empire. Wanneer je de Reaforce- of Ortec-koppeling gebruikt zijn de stappen identiek, met uitzondering van het begroten en budgetteren. De gegevens worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe dat in zijn werk gaat.
+
+ 1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
+ 2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**.
+ 3. Er verschijnt een lijstpagina met eerder aangemaakte projectmodel van het betreffende projecttype. 
+ 4. Klik op **Nieuw** in het lint van deze lijstpagina.
+ 5. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
+ 6. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
+	* **Projectmodelnr.** P2000
+	* **Projectnaam** Renovatie Geisenlaan
+	* **Projectomschrijving** Gemengd
+	* **Besluit** Initiatiefase
+	* **Start en opleverdatum** Naar eigen inzicht
+	* **Clusternr.** P2000 
+ 7. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
+ 8. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Gemengd** en druk op **OK**.
+ 9.   Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 00_G21 staat voor Gemengd en 21% BTW. 
+ 10. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel Gemengd zichtbaar is.
+ 11. Op het gemengde projectmodel zullen straks de individuele begrotingen voor de appartementen en winkels worden gecumuleerd. We gaan nu verder met het aanmaken van projectmodellen voor de appartementen en winkels.
+ 12. Klik op **Nieuw** in het lint van deze lijstpagina.
+ 13. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
+ 14. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
+	 * **Projectmodelnr.** P2000-02
+	 * **Projectnaam** Renovatie Geisenlaan
+	 * **Projectomschrijving** 2 winkels
+	 * **Clusternr.** P2000
+ 15. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
+ 16. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **BOG NDAEB TV** en druk op **OK**.
+ 17. Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 23_T21 staat voor Bedrijfs Onroerend Goed en terugvorderbare BTW en 21% BTW.
+ 18. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel Gemengd zichtbaar is.
+
+<hr>
+
+>#### Uitlichten van tip/extra aandachtspunt o.i.d. (H4)
+>
+>Bij het ophalen van het exploitatiemodel wordt het sjabloon met Cashflowprognose fase verdeelsleutels overgenomen naar het Projectmodel. De gegevens van de tabel “Cashflowprognose fase verdeelsleutel sjabloon” worden overgenomen naar de tabel “Projectmodel Cashflowprognose fase verdeelsleutel”. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfase gekoppeld aan het gekozen projectmodel. Klik op Cashflowprognose fase verdeelsleutel in het lint om de initiële verdeling te bekijken en eventueel project specifiek te maken.
 
 
 ## Opstellen begrotingsregels - enkelvoudig project
@@ -198,11 +248,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjYyNDk3OCwtMzk3MDI4NTUsNDUxNz
-Q3MDM1LC0xNDQxNTI1NTc0LC0xNjM3Nzg4MTg3LC0xNTQ0ODY4
-MDUxLDE2OTk1NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OC
-w1MTMyOTkwNTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2
-OTMxNjkxLC0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0Nz
-gwLDYyNjA4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2
-NTM0OTE4XX0=
+eyJoaXN0b3J5IjpbLTYzOTE4NTYxNywtMjI2NjI0OTc4LC0zOT
+cwMjg1NSw0NTE3NDcwMzUsLTE0NDE1MjU1NzQsLTE2Mzc3ODgx
+ODcsLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2ODIwNjQyLC
+0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMzNDA2LC0xOTc2
+MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwtNDA1NzIyMz
+YwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5
+NTA0NDRdfQ==
 -->
