@@ -64,8 +64,9 @@ De begroting is d.m.v. een bestuursbesluit vastgesteld nu dient de begroting van
  4. Controleer of begroting en budget op tabblad **Regels** overeenkomen met het bestuursbesluit dat aan het projectdossier in DMS is toegevoegd.
  5. Schakel op tabblad **Algemeen** het veld **Definitieve versie** in.
 
-## Aanmaken project - Enkelvoudig
-(...)
+## Aanmaken project - enkelvoudig project
+
+
 
 ## Verwerken projectgegevens
 
@@ -174,11 +175,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzE0ODIxOCwtMTYzNzc4ODE4NywtMT
-U0NDg2ODA1MSwxNjk5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkx
-NzM4ODgsNTEzMjk5MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMT
-EsMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkx
-MzcxNDc4MCw2MjYwODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NC
-wtMTMwNjUzNDkxOCwtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEy
-ODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTE0NDE1MjU1NzQsLTE2Mzc3ODgxODcsLT
+E1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5
+MTczODg4LDUxMzI5OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MT
+ExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05
+MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0ND
+QsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0x
+Mjg0MDM2Mjk4XX0=
 -->
