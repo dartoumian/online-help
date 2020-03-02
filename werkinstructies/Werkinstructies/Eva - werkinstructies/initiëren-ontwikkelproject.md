@@ -94,17 +94,22 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
  8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
  9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  10. U gaat nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en open de kaart.
- 11. Vul op de offertekaart de volgende gegevens in:
-	 - Verzochte ontvangstdatum (vereist)
-	 - Contact = naam van uw contactpersoon bij de leverancier (niet vereist)
-	 - Omschrijving van offerteregels
+ 
  
  
  >**Tip!** Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:
 >- Ga naar de inkoopoffertekaart door te kiezen voor **kaart**.
 >- Verwijder met het *prullenbak-icoon* midden bovenaan het venster de inkoopofferte.
+ 11. List item
 
- 13. De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
+Vul op de offertekaart de volgende gegevens in:
+	 - Verzochte ontvangstdatum (vereist)
+	 - Contact = naam van uw contactpersoon bij de leverancier (niet vereist)
+	 - Omschrijving van offerteregels
+	 - 
+ 13. List item
+
+De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
 	 - Verzochte ontvangstdatum (vereist)
 	 - Contact = naam van jouw contactpersoon bij de leverancier (niet vereist)
 	 - Omschrijving van offerteregels
@@ -114,10 +119,10 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxOTU1NjA1LC0xMDU5MTczODg4LDUxMz
-I5OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2
-OTEsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNj
-I2MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5
-MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX
-0=
+eyJoaXN0b3J5IjpbMTIzMDYyNzA3MCwtMTA1OTE3Mzg4OCw1MT
+MyOTkwNTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMx
+NjkxLC0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLD
+YyNjA4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0
+OTE4LC0yMDc1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF
+19
 -->
