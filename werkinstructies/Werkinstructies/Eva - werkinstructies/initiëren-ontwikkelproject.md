@@ -85,14 +85,12 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
 
 ### Vastleggen inkoopoffertes
  1. Ga voor het vastleggen van inkoopoffertes naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** het project van uw keuze.
- 2. Dynamics Empire opent de projectkaart. Deze bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
+ 2. Dynamics Empire opent de projectkaart. Deze bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een menu met acties (boven).
  3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
- 4. Klik op de actie **Inkoopofferte aanvragen** (tabblad **Budgetregels > Functies - Inkoop - Inkoopofferte aanvragen** in het lint).
- 5. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
- 6. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
- 7. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
+ 4. Klik op de actie **Inkoopofferte aanvragen**. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
+ 6. U komt in een overzicht met leveranciers. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
  8. Klik op **OK** om de melding hiervan te sluiten.
- 9. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
+ 9. Voor de **budgetregel** wordt een **Inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
  10. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
  11. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  
@@ -113,7 +111,7 @@ Mocht je een fout hebben gemaakt bij het selecteren van de leverancier, verwijde
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTE1OTg5NCwtMzgzODMzNDA2LC0xOT
+eyJoaXN0b3J5IjpbMTc5MDU1MTk4MywtMzgzODMzNDA2LC0xOT
 c2MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwtNDA1NzIy
 MzYwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zOD
 A5NTA0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIx
