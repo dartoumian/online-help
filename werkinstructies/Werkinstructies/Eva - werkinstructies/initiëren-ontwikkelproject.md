@@ -146,14 +146,15 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in 'Order'. De aangemaakte inkooporder is te vinden vanaf het feitenblok via item Werkderden. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
  9. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen.
  10. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. Een inkooporder kan uit meerdere inkoopregels bestaan. De regels worden afzonderlijk weergegeven omdat de status van beide regels op enig moment kan verschillen. Eén regel kan gegund zijn, terwijl de andere regel is gereedgemeld. Door beide regels te tonen heeft u overzicht over de status van de regels.
+ > **Tip!** *Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt deze inkooporder verwijderen:*
+>- Selecteer één van de orderregels in het **Werkderdenoverzicht** en kies voor **Kaart**.
+>- Druk vervolgens op het prullenbak-icoon midden bovenaan de inkooporderkaart.
+>- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen**	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)
+ 11. List item
+ 12. U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
  
-> **Tip!** *Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt deze inkooporder verwijderen:*
-- Selecteer één van de orderregels in het **Werkderdenoverzicht** en kies voor **Kaart**.
-- Druk vervolgens op het prullenbak-icoon midden bovenaan de inkooporderkaart.
-- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen**	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)
  
  
-U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
  13. Vul in de inkooporderregels de **Directe kostprijs** als orderbedragen excl. BTW.
  14. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de Directe kostprijs aan als u onderhandeld heeft over de offerteprijs.
  15. Als het ingevulde bedrag Directe kostprijs excl. BTW hoger is dan het budgetbedrag excl. BTW zal Dynamic Empire hiervan   melding doen: "het budget ........wordt € xx,xx overschreden". Tevens kleurt de orderregel rood.
@@ -166,21 +167,21 @@ U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de 
  22. Voer in kolom **Omschrijving 2** een omschrijving in van de termijnen.
  23. Voer een verwachte factuurdatum per termijn op in kolom **Verwachte factuurdatum**. 
 ### Inkoopofferte omzetten in order
- 1. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorders naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
- 2. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
- 3. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
- 4. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en klik in het lint op **Kaart** om de offertekaart te openen.
- 5. Klik via het lint op **Verwerken - Order maken**.
- 6. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
- 7. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = Order . Tevens is te zien dat de status van de offerte is veranderd in Omgezet. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = Open.
- 8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
+ 24. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorders naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 25. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
+ 26. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
+ 27. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en klik in het lint op **Kaart** om de offertekaart te openen.
+ 28. Klik via het lint op **Verwerken - Order maken**.
+ 29. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
+ 30. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = Order . Tevens is te zien dat de status van de offerte is veranderd in Omgezet. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = Open.
+ 31. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTE2NDIwNCwtMTU0NDg2ODA1MSwxNj
-k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
-MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
-wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
-ODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOC
-wtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTEwNDIzODc0MTgsLTE1NDQ4NjgwNTEsMT
+Y5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5
+OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OT
+EsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2
+MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MT
+gsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
 
 -->
