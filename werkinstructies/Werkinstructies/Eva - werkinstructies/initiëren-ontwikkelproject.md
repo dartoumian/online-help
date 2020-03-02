@@ -149,8 +149,8 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  
 > **Tip!** *Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt deze inkooporder verwijderen:*
 - Selecteer één van de orderregels in het **Werkderdenoverzicht** en kies voor **Kaart**.
-	*-Druk vervolgens op prullenbak-icoon midden bovenaan de inkooporderkaart.*
-	*- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op Inkooporder afhandelen	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)*  
+- Druk vervolgens op het prullenbak-icoon midden bovenaan de inkooporderkaart.
+- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)*  
  
  12. U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
  13. Vul in de inkooporderregels de **Directe kostprijs** als orderbedragen excl. BTW.
@@ -175,7 +175,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTk1MDg5NywtMTU0NDg2ODA1MSwxNj
+eyJoaXN0b3J5IjpbLTk4NjE3OTg3NiwtMTU0NDg2ODA1MSwxNj
 k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
 MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
 wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
