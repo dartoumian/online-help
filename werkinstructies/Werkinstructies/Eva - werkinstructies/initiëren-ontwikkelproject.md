@@ -112,16 +112,16 @@ In dit proces moeten de aanvragen verstuurd worden naar de verschillende leveran
  1. Klik vanaf Offertekaart op **Nieuw-Worddocument** om een offertebrief te genereren en te versturen.
  2. U komt in een overzicht met briefsjablonen ten behoeve van inkoop. Selecteer het gewenste briefsjabloon en klik op **OK**.
  3. Als de brief vragen stelt, wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
- 4. Zie verder het proces **[Verwerken uitgaande post](#Verwerken-uitgaande-post)**.
+ 4. Zie verder het proces VERWERKEN UITGAANDE POST.
 
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDY1Mzk2LDE2OTk1NjkxMTUsMTg4Nj
-gyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkwNTUsLTM4MzgzMzQw
-NiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0xOTI0NjI0NzksLT
-QwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2MSw5ODEzMjM5
-MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMDc1NjA0MTE3LD
-YyMjcyMTY2NSwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbMTMxNzA2NzA0OSwxNjk5NTY5MTE1LDE4OD
+Y4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4MzM0
+MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC
+00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMzIz
+OTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDExNy
+w2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
 -->
