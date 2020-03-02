@@ -28,6 +28,10 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 >Bij het ophalen van het exploitatiemodel wordt het sjabloon met **Cashflowprognose fase verdeelsleutels** overgenomen naar het Projectmodel. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfasen gekoppeld aan het gekozen projectmodel. Klik op **Cashflowprognose fase verdeelsleutel** om de initiële verdeling te bekijken en eventueel projectspecifiek te maken.
 
+## Aanmaken projectmodel - meervoudig project
+
+
+
 ## Opstellen begrotingsregels - enkelvoudig project
 
 In de volgende stappen gaan we een begroting/budget opvoeren.
@@ -194,11 +198,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzAyODU1LDQ1MTc0NzAzNSwtMTQ0MT
-UyNTU3NCwtMTYzNzc4ODE4NywtMTU0NDg2ODA1MSwxNjk5NTY5
-MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC
-0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTky
-NDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2Nj
-EsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3
-NTYwNDExN119
+eyJoaXN0b3J5IjpbLTIyNjYyNDk3OCwtMzk3MDI4NTUsNDUxNz
+Q3MDM1LC0xNDQxNTI1NTc0LC0xNjM3Nzg4MTg3LC0xNTQ0ODY4
+MDUxLDE2OTk1NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OC
+w1MTMyOTkwNTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2
+OTMxNjkxLC0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0Nz
+gwLDYyNjA4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2
+NTM0OTE4XX0=
 -->
