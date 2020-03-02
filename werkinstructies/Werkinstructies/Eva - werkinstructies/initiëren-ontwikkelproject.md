@@ -115,11 +115,11 @@ In dit proces moeten de aanvragen verstuurd worden naar de verschillende leveran
  4. Zie verder het proces VERWERKEN UITGAANDE POST.
 
 ### Ontvangen inkoopoffertes
-De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuurd. In dit proces worden de volgende handelingen verricht:
+De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuurd. In dit deelproces worden de volgende handelingen verricht:
 - Verwerken ontvangen offertes
 - Archiveren offertes in DMS
 
-Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd, gearchiveerd en pas daarna toegekend aan u. Dit doen zij door een taak in Dynamics Empire voor u aan te maken.
+Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd, gearchiveerd en pas daarna toegekend aan u. Dit wordt gedaan door een taak in Dynamics Empire voor u aan te maken.
  1. *Nader uit te werken m.b.t. taakoverzicht in DE R20?*
  2. 
  3. De binnenkomende offerte wordt in **DMS** geopend. Bestudeer de offerte en leg daarna de volgende gegevens uit de offerte op de offertekaart in Dynamics Empire vast:
@@ -137,7 +137,7 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkwNzM1NywxNjk5NTY5MTE1LDE4OD
+eyJoaXN0b3J5IjpbMTM1NTc1ODczMiwxNjk5NTY5MTE1LDE4OD
 Y4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4MzM0
 MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC
 00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMzIz
