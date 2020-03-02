@@ -145,11 +145,10 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Klik op **OK** om de melding hiervan te sluiten.
  9. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in 'Order'. De aangemaakte inkooporder is te vinden vanaf het feitenblok via item Werkderden. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
  10. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen.
- 11. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. Een inkooporder kan uit meerdere inkoopregels bestaan. De regels worden afzonderlijk weergegeven omdat de status van beide regels op enig moment kan verschillen. Eén regel kan gegund zijn, terwijl de andere regel is gereed gemeld. Door beide regels te tonen heb je overzicht over de status van de regels.
+ 11. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. Een inkooporder kan uit meerdere inkoopregels bestaan. De regels worden afzonderlijk weergegeven omdat de status van beide regels op enig moment kan verschillen. Eén regel kan gegund zijn, terwijl de andere regel is gereedgemeld. Door beide regels te tonen heeft u overzicht over de status van de regels.
  
- *Tip!*
-*Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt deze inkooporder verwijderen:*
-	*- Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** in het lint.*
+> **Tip!** *Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt deze inkooporder verwijderen:*
+- Selecteer één van de orderregels in het **Werkderdenoverzicht** en kies voor **Kaart**.
 	*-Druk vervolgens op prullenbak-icoon midden bovenaan de inkooporderkaart.*
 	*- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op Inkooporder afhandelen	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)*  
  
@@ -176,10 +175,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNDkyMDY3LC0xNTQ0ODY4MDUxLDE2OT
-k1NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkw
-NTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC
-0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4
-NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC
-0yMDc1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
+eyJoaXN0b3J5IjpbMTQxMTk1MDg5NywtMTU0NDg2ODA1MSwxNj
+k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
+MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
+wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
+ODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOC
+wtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+
 -->
