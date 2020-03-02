@@ -142,17 +142,18 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  4. Klik op de actie **Inkooporder aanmaken**.
  5. Dynamics Empire vraagt uw bevestiging voor een inkoopoorder op de betreffende budgetregel; klik op **Ja**.
  6. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
- 8. Klik op **OK** om de melding hiervan te sluiten.
- 9. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in 'Order'. De aangemaakte inkooporder is te vinden vanaf het feitenblok via item Werkderden. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
- 10. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen.
- 11. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. Een inkooporder kan uit meerdere inkoopregels bestaan. De regels worden afzonderlijk weergegeven omdat de status van beide regels op enig moment kan verschillen. Eén regel kan gegund zijn, terwijl de andere regel is gereedgemeld. Door beide regels te tonen heeft u overzicht over de status van de regels.
+ 7. Klik op **OK** om de melding hiervan te sluiten.
+ 8. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in 'Order'. De aangemaakte inkooporder is te vinden vanaf het feitenblok via item Werkderden. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
+ 9. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen.
+ 10. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. Een inkooporder kan uit meerdere inkoopregels bestaan. De regels worden afzonderlijk weergegeven omdat de status van beide regels op enig moment kan verschillen. Eén regel kan gegund zijn, terwijl de andere regel is gereedgemeld. Door beide regels te tonen heeft u overzicht over de status van de regels.
  
 > **Tip!** *Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt deze inkooporder verwijderen:*
 - Selecteer één van de orderregels in het **Werkderdenoverzicht** en kies voor **Kaart**.
 - Druk vervolgens op het prullenbak-icoon midden bovenaan de inkooporderkaart.
-- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)*  
+- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen**	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)
  
- 12. U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
+ 
+U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
  13. Vul in de inkooporderregels de **Directe kostprijs** als orderbedragen excl. BTW.
  14. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de Directe kostprijs aan als u onderhandeld heeft over de offerteprijs.
  15. Als het ingevulde bedrag Directe kostprijs excl. BTW hoger is dan het budgetbedrag excl. BTW zal Dynamic Empire hiervan   melding doen: "het budget ........wordt € xx,xx overschreden". Tevens kleurt de orderregel rood.
@@ -175,7 +176,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjE3OTg3NiwtMTU0NDg2ODA1MSwxNj
+eyJoaXN0b3J5IjpbLTgwNTE2NDIwNCwtMTU0NDg2ODA1MSwxNj
 k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
 MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
 wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
