@@ -97,24 +97,31 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
 >- Ga naar de inkoopoffertekaart door te kiezen voor **kaart**.
 >- Verwijder met het *prullenbak-icoon* midden bovenaan het venster de inkoopofferte.
  10. U gaat nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en open de kaart.
- 12. Vul op de offertekaart de volgende gegevens in:
+ 11. Vul op de offertekaart de volgende gegevens in:
 	 - Verzochte ontvangstdatum (vereist)
 	 - Contact = naam van uw contactpersoon bij de leverancier (niet vereist)
 	 - Omschrijving van offerteregels
- 13. De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
+ 12. De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
 	 - Verzochte ontvangstdatum (vereist)
 	 - Contact = naam van jouw contactpersoon bij de leverancier (niet vereist)
 	 - Omschrijving van offerteregels
- 14. Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.
+ 13. Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.
+ 
+### Versturen inkoopoffertes
+In dit proces moeten de aanvragen verstuurd worden naar de verschillende leveranciers.
+ 1. Klik vanuit het lint op de Offertekaart op **Nieuw-Worddocument** om een offertebrief te genereren en te versturen.
+ 2. U komt in een overzicht met briefsjablonen ten behoeve van inkoop. Selecteer het gewenste briefsjabloon en klik op **OK**
+ 3. Als de brief vragen stelt, wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
+ 4. Zie verder het proces **[Verwerken uitgaande post](#Verwerken-uitgaande-post)**
 
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MT
-MyOTkwNTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMx
-NjkxLC0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLD
-YyNjA4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0
-OTE4LC0yMDc1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF
-19
+eyJoaXN0b3J5IjpbMTY5OTU2OTExNSwxODg2ODIwNjQyLC0xMD
+U5MTczODg4LDUxMzI5OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3
+MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC
+05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0
+NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC
+0xMjg0MDM2Mjk4XX0=
 -->
