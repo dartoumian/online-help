@@ -84,7 +84,7 @@ De offerteaanvraag kan per brief, via het Leveranciersportaal of door een aanbes
 Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden gebruikt om alle relevante informatie uit Dynamics Empire naar de brief over te zetten. Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegewezen ter beoordeling.
 
 ### Vastleggen inkoopoffertes
- 1. Ga voor het vastleggen van inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 1. Ga voor het vastleggen van inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** het project van uw keuze.
  2. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
  3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
  4. Klik op de actie **Inkoopofferte aanvragen** (tabblad **Budgetregels > Functies - Inkoop - Inkoopofferte aanvragen** in het lint).
@@ -113,8 +113,8 @@ Mocht je een fout hebben gemaakt bij het selecteren van de leverancier, verwijde
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMT
-kyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2
-NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMj
-A3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTM4MzgzMzQwNiwxODU2OTMxNjkxLC0xOT
+I0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2
+MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMD
+c1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
 -->
