@@ -30,10 +30,12 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 ## Aanmaken projectmodel - gemengd project
 
+We gaan uit van een project dat bestaat uit huurwoningen DAEB en winkels.
+
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Projectmodeloverzicht**.
  2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**. Er verschijnt een lijstpagina met eerder aangemaakte projectmodellen van het betreffende projecttype.
  3. Klik op **Nieuw**. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
- 4. Vul op het tabblad **Algemeen** de onderstaande velden m.b.t. huurwo:
+ 4. Vul op het tabblad **Algemeen** de onderstaande velden m.b.t. huurwoningen DAEB:
 	* **Projectmodelnr.**
 	* **Projectnaam**
 	* **Projectomschrijving**
@@ -46,14 +48,13 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
  8. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **Projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel 'Gemengd' zichtbaar is.
  9. Op het gemengde projectmodel zullen straks de individuele begrotingen voor de appartementen en winkels worden gecumuleerd. We gaan nu verder met het aanmaken van projectmodellen voor de appartementen en winkels.
  10. Klik op **Nieuw**. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
- 11. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart:
+ 11. Vul op het tabblad **Algemeen** de onderstaande velden op projectmodelkaart m.b.t. de winkels in het project:
 	 * **Projectmodelnr.**
 	 * **Projectnaam**
 	 * **Projectomschrijving**
 	 * **Clusternr.**
- 12. Navigeer in het lint van de projectmodelkaart via **Acties - Functies - Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen.
- 13. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **BOG NDAEB TV** en druk op **OK**.
- 14. Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 23_T21 staat voor Bedrijfs Onroerend Goed en terugvorderbare BTW en 21% BTW.
+ 12. Navigeer via **Exploitatiemodel ophalen** naar de lijst met exploitatiemodellen. Kies het exploitatiemodel waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **BOG NDAEB TV** en druk op **OK**.
+Dynamics Empire zal het tabblad **Regels** vullen met budgetregels (STIKO). Met het selecteren van een exploitatiemodel is tevens voor het projectmodel bepaald wat de boekingsgang is en default BTW percentage per werksoort. Dit is te herkennen aan de Werksoortboekingsgroepen in de regels van het projectmodel. 23_T21 staat voor Bedrijfs Onroerend Goed en terugvorderbare BTW en 21% BTW.
  15. Sluit de kaart van het projectmodelkaart. U komt daarmee terug in de lijst met het **projectmodeloverzicht** waarin het zojuist aangemaakte projectmodel Gemengd zichtbaar is.
 
 <hr>
@@ -229,11 +230,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTg1OTc1OCwxMTI1MzU0Njg4LC0yMj
-Y2MjQ5NzgsLTM5NzAyODU1LDQ1MTc0NzAzNSwtMTQ0MTUyNTU3
-NCwtMTYzNzc4ODE4NywtMTU0NDg2ODA1MSwxNjk5NTY5MTE1LD
-E4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4
-MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyND
-c5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgx
-MzIzOTJdfQ==
+eyJoaXN0b3J5IjpbLTQzMDYxNTc3LDExMjUzNTQ2ODgsLTIyNj
+YyNDk3OCwtMzk3MDI4NTUsNDUxNzQ3MDM1LC0xNDQxNTI1NTc0
+LC0xNjM3Nzg4MTg3LC0xNTQ0ODY4MDUxLDE2OTk1NjkxMTUsMT
+g4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkwNTUsLTM4Mzgz
+MzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0xOTI0NjI0Nz
+ksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2MSw5ODEz
+MjM5Ml19
 -->
