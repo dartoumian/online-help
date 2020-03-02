@@ -33,7 +33,7 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Projectmodeloverzicht**.
  2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**. Er verschijnt een lijstpagina met eerder aangemaakte projectmodellen van het betreffende projecttype.
  3. Klik op **Nieuw**. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
- 4. Vul op het tabblad **Algemeen** de onderstaande velden:
+ 4. Vul op het tabblad **Algemeen** de onderstaande velden m.b.t. huurwo:
 	* **Projectmodelnr.**
 	* **Projectnaam**
 	* **Projectomschrijving**
@@ -229,7 +229,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mzc2OTUxNywxMTI1MzU0Njg4LC0yMj
+eyJoaXN0b3J5IjpbLTIxNTg1OTc1OCwxMTI1MzU0Njg4LC0yMj
 Y2MjQ5NzgsLTM5NzAyODU1LDQ1MTc0NzAzNSwtMTQ0MTUyNTU3
 NCwtMTYzNzc4ODE4NywtMTU0NDg2ODA1MSwxNjk5NTY5MTE1LD
 E4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4
