@@ -4,7 +4,7 @@ In Dynamics Empire worden in de projectenadministratie de projectmodellen aangem
 
 ## Processchema
 
-## Aanmaken projectmodel - enkelvoudig
+## Aanmaken projectmodel - enkelvoudig project
 
 Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, bestaande uit huurwoningen DAEB, met opstellen van een investeringsbegroting en budget in Dynamics Empire. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
 
@@ -28,7 +28,7 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 >Bij het ophalen van het exploitatiemodel wordt het sjabloon met **Cashflowprognose fase verdeelsleutels** overgenomen naar het Projectmodel. Daarmee worden alle voorkeursinstellingen met betrekking tot het verdelen van de cashflowprognose over verschillende projectfasen gekoppeld aan het gekozen projectmodel. Klik op **Cashflowprognose fase verdeelsleutel** om de initiële verdeling te bekijken en eventueel projectspecifiek te maken.
 
-## Opstellen begrotingsregels - Enkelvoudig project
+## Opstellen begrotingsregels - enkelvoudig project
 
 In de volgende stappen gaan we een begroting/budgetten opvoeren.
 **Let wel:** Deze stappen zijn niet nodig wanneer u met een expertsysteem zoals Reaforce of Ortec werkt. De begroting is immers in dat systeem opgevoerd, aangeboden aan het bestuur en goedgekeurd. Ga in dat geval verder met het SYNCHRONISEREN VAN GEGEVENS MET EXPERTSYSTEEM. 
@@ -64,7 +64,7 @@ De begroting is d.m.v. een bestuursbesluit vastgesteld nu dient de begroting van
  4. Controleer of begroting en budget op tabblad **Regels** overeenkomen met het bestuursbesluit dat aan het projectdossier in DMS is toegevoegd.
  5. Schakel op tabblad **Algemeen** het veld **Definitieve versie** in.
 
-## Aanmaken project
+## Aanmaken project - Enkelvoudig
 (...)
 
 ## Verwerken projectgegevens
@@ -174,11 +174,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMT
-Y5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5
-OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OT
-EsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2
-MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MT
-gsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
-
+eyJoaXN0b3J5IjpbMTYwMzE0ODIxOCwtMTYzNzc4ODE4NywtMT
+U0NDg2ODA1MSwxNjk5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkx
+NzM4ODgsNTEzMjk5MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMT
+EsMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkx
+MzcxNDc4MCw2MjYwODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NC
+wtMTMwNjUzNDkxOCwtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEy
+ODQwMzYyOThdfQ==
 -->
