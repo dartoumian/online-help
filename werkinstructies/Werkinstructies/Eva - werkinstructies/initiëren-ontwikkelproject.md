@@ -132,13 +132,15 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 ## Orders aanmaken
-(...)
+Het vastleggen van inkooporders in Dynamics Empire kan door de inkoopofferte om te zetten naar een inkooporder of door het rechtstreek aanmaken van een inkooporder.
+
+### Rechtstreeks aanmaken inkooporders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxOD
-g2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMz
-NDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OS
-wtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMy
-MzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMT
-csNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbNTE2OTEyMzI3LC0xNTQ0ODY4MDUxLDE2OT
+k1NjkxMTUsMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkw
+NTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC
+0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4
+NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC
+0yMDc1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
 -->
