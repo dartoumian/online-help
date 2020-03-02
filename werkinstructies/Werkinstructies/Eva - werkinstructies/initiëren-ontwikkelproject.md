@@ -30,15 +30,7 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 ## Aanmaken projectmodel - gemengd project
 
-In Dynamics Empire worden in de projectenadministratie de projectmodellen aangemaakt. De projectmodellen zijn typen projecten. Het is in Dynamics Empire mogelijk om enkelvoudige en gemengde projectmodellen aan te maken.
-Bij een gemengd project worden meerdere projectmodellen aangemaakt voor het project.
-
-Deze werkinstructie behandelt het aanmaken van een gemengd renovatieproject, waarbij vier appartementen en twee winkels in Zeist zullen worden gerenoveerd. Het project betreft renovatie van appartementen en winkels aan de Geisenlaan in Zeist.
-- Projectnummer: P2000
-- Projectnaam: Renovatie Geisenlaan
-- Projectomschrijving: Renovatie 6 appartementen en 2 winkels
-
-Het project bestaat uit huurwoningen DAEB en winkels. Voor de huurwoningen geldt een BTW-regime Niet terugvorderbaar. De renovatie van de winkels betreft een niet-DAEB-activiteit en de BTW van de winkels is wel terugvorderbaar. Verder spreken we in dit voorbeeld van twee verschillende corporate datatypen, namelijk Woningen en Winkels, waarover gescheiden moet worden gerapporteerd.
+Het project bestaat uit huurwoningen DAEB en winkels. Voor de huurwoningen geldt een BTW-regime Niet-terugvorderbaar. De renovatie van de winkels betreft een niet-DAEB-activiteit en de BTW van de winkels is wel terugvorderbaar. Verder spreken we in dit voorbeeld van twee verschillende corporate datatypen, namelijk Woningen en Winkels, waarover gescheiden moet worden gerapporteerd.
 
 Bovenstaande verschillen bieden een uitdaging voor de administratie. De verschillen zijn dermate dat je twee projecten in de administratie zou moeten opvoeren. De woning en winkels worden echter in één bouwstroom gerenoveerd. Twee projecten betekent dat alle handelingen dubbel moeten worden uitgevoerd. Denk bijvoorbeeld aan het aanmaken van een inkooporder voor de aannemer, dat twee keer zal moeten.
 
@@ -248,7 +240,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTE4NTYxNywtMjI2NjI0OTc4LC0zOT
+eyJoaXN0b3J5IjpbMTEyNTM1NDY4OCwtMjI2NjI0OTc4LC0zOT
 cwMjg1NSw0NTE3NDcwMzUsLTE0NDE1MjU1NzQsLTE2Mzc3ODgx
 ODcsLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2ODIwNjQyLC
 0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMzNDA2LC0xOTc2
