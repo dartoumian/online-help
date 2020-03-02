@@ -67,7 +67,7 @@ De begroting is d.m.v. een bestuursbesluit vastgesteld nu dient de begroting van
 ## Aanmaken enkelvoudig project
 
 De begroting is d.m.v. een bestuursbesluit vastgesteld. Ook de begroting van het projectmodel is vastgesteld en definitief gemaakt te worden nu kan op basis van het definitieve projectmodel het project aangemaakt worden.
- 1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectmodeloverzicht**.
  2.  Het **overzicht projecttype** verschijnt.  Na een projecttype te hebben gekozen en op **OK** te klikken verschijnt het projectmodeloverzicht met projectmodellen op basis van het projecttype van uw keuze.
  3. Door in het lint te kiezen **Beheren - Bewerken** is het projectmodel van uw keuze te openen.
  4. Omdat begroting is vastgesteld, heeft ook het projectmodel de status definitieve versie. Controleert u dit door op het tabblad **Algemeen** te kijken of de schuif achter het veld **Definitieve versie** naar rechts staat ingesteld.
@@ -181,11 +181,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI2MzEzMjEsLTE0NDE1MjU1NzQsLT
-E2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2
-ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMzND
-A2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwt
-NDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMz
-kyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIwNzU2MDQxMTcs
-NjIyNzIxNjY1XX0=
+eyJoaXN0b3J5IjpbNDUxNzQ3MDM1LC0xNDQxNTI1NTc0LC0xNj
+M3Nzg4MTg3LC0xNTQ0ODY4MDUxLDE2OTk1NjkxMTUsMTg4Njgy
+MDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkwNTUsLTM4MzgzMzQwNi
+wtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0xOTI0NjI0NzksLTQw
+NTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2MSw5ODEzMjM5Mi
+wtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMDc1NjA0MTE3LDYy
+MjcyMTY2NV19
 -->
