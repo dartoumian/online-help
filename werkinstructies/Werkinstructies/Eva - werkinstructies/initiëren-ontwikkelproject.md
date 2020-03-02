@@ -80,14 +80,17 @@ De projectgegevens worden vastgelegd op het aangemaakte project.
  9. Sluit de projectkaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
 
 ## Aanmaken offertes
+De offerteaanvraag kan per brief, via het Leveranciersportaal of door een aanbesteding in verschillende media-typen worden gecommuniceerd. Nadat brieven in DMS zijn gearchiveerd kunnen ze (ook per e-mail) verstuurd worden. Hiermee wordt voorkomen dat een brief wel bij een leverancier ligt, maar niet in het projectdossier zit.
+Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden gebruikt om alle relevante informatie uit Dynamics Empire naar de brief over te zetten. Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegewezen ter beoordeling.
+### Vastleggen inkoopoffertes
 
 
 ## Orders aanmaken
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjkzMTY5MSwtMTkyNDYyNDc5LC00MD
-U3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgxMzIzOTIs
-LTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3NTYwNDExNyw2Mj
-I3MjE2NjUsLTEyODQwMzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTU5MjE5NTA1OSwxODU2OTMxNjkxLC0xOT
+I0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2
+MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0OTE4LC0yMD
+c1NjA0MTE3LDYyMjcyMTY2NSwtMTI4NDAzNjI5OF19
 -->
