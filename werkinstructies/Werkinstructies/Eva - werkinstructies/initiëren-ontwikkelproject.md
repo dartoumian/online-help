@@ -30,16 +30,7 @@ Wanneer u de Reaforce- of Ortec-koppeling gebruikt zijn deze stappen ook van toe
 
 ## Aanmaken projectmodel - gemengd project
 
-Het project bestaat uit huurwoningen DAEB en winkels. Voor de huurwoningen geldt een BTW-regime Niet-terugvorderbaar. De renovatie van de winkels betreft een niet-DAEB-activiteit en de BTW van de winkels is wel terugvorderbaar. Verder spreken we in dit voorbeeld van twee verschillende corporate datatypen, namelijk Woningen en Winkels, waarover gescheiden moet worden gerapporteerd.
-
-Bovenstaande verschillen bieden een uitdaging voor de administratie. De verschillen zijn dermate dat je twee projecten in de administratie zou moeten opvoeren. De woning en winkels worden echter in één bouwstroom gerenoveerd. Twee projecten betekent dat alle handelingen dubbel moeten worden uitgevoerd. Denk bijvoorbeeld aan het aanmaken van een inkooporder voor de aannemer, dat twee keer zal moeten.
-
-Dynamics Empire biedt voor dit probleem een oplossing, genaamd gemengde projecten. Bij een gemengd project wordt één project in de administratie opgevoerd met in dit voorbeeld een verdeelsleutel voor appartementen en winkels. De verdeelsleutel wordt afgeleid van de begroting. En daarvoor is het nodig om twee begrotingen op te stellen: één begroting voor de appartementen en één begroting voor de winkels. Beide begrotingen worden ten behoeve van het project gecumuleerd, waarbij de verdeelsleutels worden berekend voor alle budgetregels met een begrotingsbedrag. De verhouding in het bedrag bepaalt de verdeelsleutel. Voor alle regels zonder begroting wordt een default verdeelsleutel vastgesteld.
-
-De werkinstructie behandelt het opstellen van begroting en budget in Dynamics Empire. Wanneer je de Reaforce- of Ortec-koppeling gebruikt zijn de stappen identiek, met uitzondering van het begroten en budgetteren. De gegevens worden met een druk op de knop overgehaald van het expertsysteem. Deze instructie legt uit hoe dat in zijn werk gaat.
-
- 1. Navigeer via het zoekveld naar de lijst **projectmodeloverzicht**.
- 2. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Projectmodeloverzicht**. Kies het projecttype waarmee u een projectmodel wilt aanmaken en selecteer bijvoorbeeld **Investeringen bestaand bezit in exploitatie**.
  3. Er verschijnt een lijstpagina met eerder aangemaakte projectmodel van het betreffende projecttype. 
  4. Klik op **Nieuw** in het lint van deze lijstpagina.
  5. Dynamics Empire zal een nieuwe lege projectmodelkaart aanmaken. Op de kaart is slechts een versienummer (1) en een projecttype ingevuld.
@@ -240,11 +231,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTM1NDY4OCwtMjI2NjI0OTc4LC0zOT
-cwMjg1NSw0NTE3NDcwMzUsLTE0NDE1MjU1NzQsLTE2Mzc3ODgx
-ODcsLTE1NDQ4NjgwNTEsMTY5OTU2OTExNSwxODg2ODIwNjQyLC
-0xMDU5MTczODg4LDUxMzI5OTA1NSwtMzgzODMzNDA2LC0xOTc2
-MzM3MTExLDE4NTY5MzE2OTEsLTE5MjQ2MjQ3OSwtNDA1NzIyMz
-YwLC05MTM3MTQ3ODAsNjI2MDg1NjYxLDk4MTMyMzkyLC0zODA5
-NTA0NDRdfQ==
+eyJoaXN0b3J5IjpbOTcyOTMwMjE5LDExMjUzNTQ2ODgsLTIyNj
+YyNDk3OCwtMzk3MDI4NTUsNDUxNzQ3MDM1LC0xNDQxNTI1NTc0
+LC0xNjM3Nzg4MTg3LC0xNTQ0ODY4MDUxLDE2OTk1NjkxMTUsMT
+g4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MTMyOTkwNTUsLTM4Mzgz
+MzQwNiwtMTk3NjMzNzExMSwxODU2OTMxNjkxLC0xOTI0NjI0Nz
+ksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLDYyNjA4NTY2MSw5ODEz
+MjM5Ml19
 -->
