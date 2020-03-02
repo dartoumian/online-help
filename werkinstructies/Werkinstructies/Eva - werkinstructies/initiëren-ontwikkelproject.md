@@ -92,24 +92,16 @@ Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden
  6. Klik op **OK** om de melding hiervan te sluiten.
  7. Voor de **budgetregel** wordt een **Inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde budgetregel en feitenblok **Projectgegevens** toont alle inkoopregels van het project.
  8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
- 9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
- 10. U gaat nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en open de kaart.
- 
- 
- 
+ 9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel. 
  >**Tip!** Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:
 >- Ga naar de inkoopoffertekaart door te kiezen voor **kaart**.
 >- Verwijder met het *prullenbak-icoon* midden bovenaan het venster de inkoopofferte.
- 11. List item
-
-Vul op de offertekaart de volgende gegevens in:
+ 10. U gaat nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en open de kaart.
+ 12. Vul op de offertekaart de volgende gegevens in:
 	 - Verzochte ontvangstdatum (vereist)
 	 - Contact = naam van uw contactpersoon bij de leverancier (niet vereist)
 	 - Omschrijving van offerteregels
-	 - 
- 13. List item
-
-De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
+ 13. De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens in:
 	 - Verzochte ontvangstdatum (vereist)
 	 - Contact = naam van jouw contactpersoon bij de leverancier (niet vereist)
 	 - Omschrijving van offerteregels
@@ -119,7 +111,7 @@ De **offertekaart** wordt geopend. Vul op de offertekaart de volgende gegevens i
 (...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDYyNzA3MCwtMTA1OTE3Mzg4OCw1MT
+eyJoaXN0b3J5IjpbMTg4NjgyMDY0MiwtMTA1OTE3Mzg4OCw1MT
 MyOTkwNTUsLTM4MzgzMzQwNiwtMTk3NjMzNzExMSwxODU2OTMx
 NjkxLC0xOTI0NjI0NzksLTQwNTcyMjM2MCwtOTEzNzE0NzgwLD
 YyNjA4NTY2MSw5ODEzMjM5MiwtMzgwOTUwNDQ0LC0xMzA2NTM0
