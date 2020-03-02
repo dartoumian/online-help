@@ -136,7 +136,7 @@ Het vastleggen van inkooporders in Dynamics Empire kan door de inkoopofferte om 
 
 ### Rechtstreeks aanmaken inkooporders
 Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit doet u wanneer de inkoopprijs op een andere wijze is verkregen dan via een inkoopofferte, bijvoorbeeld bij meer/minderwerk, met behulp van eenheidsprijzen of een contract. 
- 1. Ga voor het vastleggen van inkoopoorders naar het **Projectoverzicht**  (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** het project van uw keuze.
+ 1. Ga voor het vastleggen van inkoopoorders naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** het project van uw keuze.
  2. Dynamics Empire zal op de projectkaart openen.
  3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een order wilt aanmaken.
  4. Klik op de actie **Inkooporder aanmaken**.
@@ -161,9 +161,10 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  19. Pas het veld **Directe kostprijs** aan als de termijnen niet evenredig zijn.
  >**Let op!** Dynamics Empire rekent het aanpassen van de directe kostprijs niet door naar andere regels. Bedenk dus, voordat u deze handeling gaat doen, wat het bedrag per termijn zal zijn. Mocht de inkooporder uit meer regels bestaan die u wilt opdelen t.b.v. termijnen, selecteer dan alle regels.
  20. Voer in kolom **Omschrijving 2** een omschrijving in van de termijnen.
- 22. Voer een verwachte factuurdatum per termijn op in kolom **Verwachte factuurdatum**. 
+ 21. Voer een verwachte factuurdatum per termijn op in kolom **Verwachte factuurdatum**.
+ 
 ### Inkoopofferte omzetten in order
- 23. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorders naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 1. Ga voor het omzetten van een inkoopofferte naar een  inkoopoorder naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open met **Bewerken** in het lint het project van uw keuze.
  24. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
  25. Klik in het feitenblok projectgegevens op het item **Werkderden**. U komt hiermee in het Werkderdenoverzicht.
  26. Selecteer in het Werkderdenoverzicht de inkoopofferte die u wilt omzetten en klik in het lint op **Kaart** om de offertekaart te openen.
@@ -173,10 +174,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  30. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMjQ2MDUsLTE1NDQ4NjgwNTEsMTY5OT
-U2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1
-NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLT
-E5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1
-NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLT
-IwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbLTc1NTcxMzUyNiwtMTU0NDg2ODA1MSwxNj
+k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
+MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
+wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
+ODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOC
+wtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
+
 -->
