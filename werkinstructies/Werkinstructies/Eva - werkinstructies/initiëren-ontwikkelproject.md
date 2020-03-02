@@ -65,8 +65,7 @@ Zoek uw collega’s op via kolom **Contactnr.**
  11. De begroting wordt bepaald op basis van aantal x kostprijs. *Het default aantal op alle regels is 1 en de default eenheidcode is post.* U kunt de begroting ook vaststellen door het aantal aan te passen en een **kostprijs** per **aantal** op te voeren. Bij deze rekenwijze hoort ook een andere **eenheidcode**. Pas daarom, indien gewenst, de eenheidcode aan.
  12. Klik op **Cashflowprognose fase verdeelsleutel** om de initiële verdeling te bekijken en eventueel project-specifiek te maken.
  13. Voer in kolom **Toelichting** een toelichting op het bedrag in.
-15. Klik in het lint van de projectmodelkaart op **Navigeren - Projectmodel - Opmerkingen** om je collega (projectcontroller) te vragen om het model om te zetten.
-
+15. Ga naar **Projectmodel - Opmerkingen** om uw collega (projectcontroller) te vragen om het model om te zetten.
 
 ## Definitief maken projectmodel
 
@@ -195,11 +194,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTE2NDg3OCw0NTE3NDcwMzUsLTE0ND
-E1MjU1NzQsLTE2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMTY5OTU2
-OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NS
-wtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5
-MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2MDg1Nj
-YxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MTgsLTIw
-NzU2MDQxMTddfQ==
+eyJoaXN0b3J5IjpbLTM5NzAyODU1LDQ1MTc0NzAzNSwtMTQ0MT
+UyNTU3NCwtMTYzNzc4ODE4NywtMTU0NDg2ODA1MSwxNjk5NTY5
+MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC
+0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTky
+NDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2Nj
+EsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOCwtMjA3
+NTYwNDExN119
 -->
