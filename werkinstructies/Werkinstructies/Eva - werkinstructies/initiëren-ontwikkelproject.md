@@ -150,16 +150,12 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
 >- Selecteer één van de orderregels in het **Werkderdenoverzicht** en kies voor **Kaart**.
 >- Druk vervolgens op het prullenbak-icoon midden bovenaan de inkooporderkaart.
 >- Als een deel van de inkooporder al gefactureerd is, kan de order niet worden verwijderd. Klik dan op **Inkooporder afhandelen**	(tabblad **Algemeen**, veld **Status** naar **Afgehandeld**)
- 11. List item
- 12. U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
- 
- 
- 
+ 11. U gaat nu de orderkaart invullen met relevante gegevens. Selecteer één van de orderregels in het **Werkderdenoverzicht** en klik op **Kaart** om de orderkaart te openen.
  13. Vul in de inkooporderregels de **Directe kostprijs** als orderbedragen excl. BTW.
- 14. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de Directe kostprijs aan als u onderhandeld heeft over de offerteprijs.
- 15. Als het ingevulde bedrag Directe kostprijs excl. BTW hoger is dan het budgetbedrag excl. BTW zal Dynamic Empire hiervan   melding doen: "het budget ........wordt € xx,xx overschreden". Tevens kleurt de orderregel rood.
+ 14. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de directe kostprijs aan als u onderhandeld heeft over de offerteprijs.
+ 15. Als het ingevulde bedrag **Directe kostprijs excl. BTW** hoger is dan het budgetbedrag excl. BTW zal Dynamic Empire hiervan melding doen: "Het budget ........wordt € xx,xx overschreden". Tevens kleurt de orderregel rood.
  16. Inkooporderregels kunnen opgesplitst worden ten behoeve van termijnen. Dit moet echter binnen de structuur van de aanwezige orderregels, rekening houdend met de volgorde waarin de werkzaamheden worden uitgevoerd.
- 17. Kies binnen het tabblad **Regels** inkooporderregel(s) die u wilt opdelen in termijnen door in het lint van het tabblad naar **Regel -  Termijnen toevoegen** te gaan.
+ 17. Kies binnen het tabblad **Regels** inkooporderregel(s) die u wilt opdelen in termijnen door te kiezen voor de actie **Regel -  Termijnen toevoegen**.
  18. Het scherm Termijnen toevoegen wordt geopend.
  19. Om met 2 termijnen te werken vult u bij **Extra aantal termijnen** de waarde 1 in.  
  20. De inkooporderregel zal gesplitst worden.
@@ -177,11 +173,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  31. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 3 Order.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIzODc0MTgsLTE1NDQ4NjgwNTEsMT
-Y5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5
-OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OT
-EsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2
-MDg1NjYxLDk4MTMyMzkyLC0zODA5NTA0NDQsLTEzMDY1MzQ5MT
-gsLTIwNzU2MDQxMTcsNjIyNzIxNjY1LC0xMjg0MDM2Mjk4XX0=
+eyJoaXN0b3J5IjpbMTY2NDY5NDUyMSwtMTU0NDg2ODA1MSwxNj
+k5NTY5MTE1LDE4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5
+MDU1LC0zODM4MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MS
+wtMTkyNDYyNDc5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYw
+ODU2NjEsOTgxMzIzOTIsLTM4MDk1MDQ0NCwtMTMwNjUzNDkxOC
+wtMjA3NTYwNDExNyw2MjI3MjE2NjUsLTEyODQwMzYyOThdfQ==
 
 -->
