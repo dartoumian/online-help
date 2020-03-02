@@ -51,7 +51,7 @@ De volgende stappen zijn wel relevant als u niet met de Reaforce- of Orteckoppel
 Zoek uw collega’s op via kolom **Contactnr.**
 17. Voer de notitie in en klik op **Sluiten**. Dynamics Empire zal een bericht sturen naar de betreffende collega.
 
-## Herberekenen begrotingsregels
+## Herberekenen begrotingsregels enkelvoudig pr
 (...)
 
 ## Definitief maken projectmodel
@@ -181,7 +181,7 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTU5MzI5NSw0NTE3NDcwMzUsLTE0ND
+eyJoaXN0b3J5IjpbLTc3MDM2MTg2OCw0NTE3NDcwMzUsLTE0ND
 E1MjU1NzQsLTE2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMTY5OTU2
 OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5OTA1NS
 wtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OTEsLTE5
