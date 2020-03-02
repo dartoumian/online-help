@@ -46,9 +46,7 @@ De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuu
 	- Archiveren offertes in DMS
 
 Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd, gearchiveerd en pas daarna toegekend aan u. Dit doen zij door een taak in Dynamics Empire voor u aan te maken.
- 1. *Nader uit te werken m.b.t. taakoverzicht in DE R20?*
- 2. 
- 3. De binnenkomende offerte wordt in **DMS** geopend. Bestudeer de offerte en leg daarna de volgende gegevens uit de offerte op de offertekaart in Dynamics Empire vast:
+ 1. De binnenkomende offerte wordt in **DMS** geopend. Bestudeer de offerte en leg daarna de volgende gegevens uit de offerte op de offertekaart in Dynamics Empire vast:
 	- Ontvangstdatum
 	- Offertenummer leverancier
 	- Prijs
@@ -73,5 +71,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIyNzg4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc1MDk5OTUsLTE0MzIyNzg4NTJdfQ
+==
 -->
