@@ -37,9 +37,9 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
 
 ### Het oplossen van samenvoegingsconflicten
 
- 1. Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de Projectomschrijving, Contactpersonen, Plaats of vrije tekstvelden van die regels verschillen, treed er een samenvoegingsconflict op. Dit is te zien aan een JA in kolom **Samenvoegingsconflict** op tabblad **Voorlopige projectregels**.
+ 1. Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de Projectomschrijving, Contactpersonen, Plaats of vrije tekstvelden van die regels verschillen, treed er een samenvoegingsconflict op. Dit is te zien aan een JA in kolom **Samenvoegconflict** op tabblad **Voorlopige projectregels**.
  2. Klik op **Ja** in deze kolom om de oorspronkelijke regels te tonen.
- 3. Doorloop alle samenvoegingsconflicten en los ze één voor één op.
+ 3. Doorloop alle samenvoegconflicten en los ze één voor één op.
 
 >**Tip!** Plaats een filter op alle regels met een samenvoegingsconflict voordat u bezig gaat met het oplossen. Dit doet u door met de rechter muisknop op een willekeurige **Ja** in kolom **Samenvoegingsconflict** te klikken en **Filteren op deze waarde** te selecteren. (Met **Filter wissen** heft u het filter weer op.
 
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMTE1ODA0LC02MDIyNzI2MTEsLTI3OD
-A3ODQ2MV19
+eyJoaXN0b3J5IjpbLTE1MTExOTc2MzYsLTYwMjI3MjYxMSwtMj
+c4MDc4NDYxXX0=
 -->
