@@ -25,14 +25,14 @@ Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics E
  3. Dynamics Empire zal alle begrotingsregels op tabblad **Kladblok importregels** samenvoegen of kopiëren naar tabblad **Voorlopige projectregels** waarbij een tweetal bewerkingen wordt uitgevoerd (hieronder beschreven).
  
 ### Samenvoegen van de begrotingsregels
-Het samenvoegen van begrotingsregels is nodig om de vele regels terug te brengen naar een ingedikte vorm ten behoeve van de budgetbewaking. De stelregels is dat de begroting zo gedetailleerd mogelijk overzet naar Dynamics Empire, zodat je in Dynamics Empire kan terugkijken hoe een project begroot is. Dit is nodig om budgetoverschrijdingen te kunnen verklaren. Echter, op dit detailniveau is het niet wenselijk om budgetten te bewaken.
+Het samenvoegen van begrotingsregels is nodig om de vele regels terug te brengen naar een ingedikte vorm ten behoeve van de budgetbewaking. De stelregels is dat de begroting zo gedetailleerd mogelijk moet worden overgezet naar Dynamics Empire, zodat je in kaar kunt terugkijken hoe een project begroot is. Dit is nodig om budgetoverschrijdingen te kunnen verklaren. Echter, op dit detailniveau is het niet wenselijk om budgetten te bewaken.
 
 Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zijn opgebouwd uit dezelfde waarden voor Cluster, Bouwblok, Werksoort, Werksoortboekingsgroep, Sjablooncode en Vrije code budget.
 
- 1. Deze regels zullen na actie **Samenvoegen alle regels op basis van Sjablooncode**, worden samengevoegd tot één regel.
+ 1. Deze regels zullen na actie **Samenvoegen alle regels op basis van Sjablooncode** worden samengevoegd tot één regel.
  2. De samengevoegde regel is terug te vinden op tabblad **Voorlopige projectregels**.
  3. Alle begrotingsregels die niet kunnen worden samengevoegd, zijn binnen de kladblokimportregels te herkennen aan hun opmaak van de kolom clusternummer.
- 4. Door deze regels te selecteren en in het lint van de kladblokimportregels te kiezen voor **Beheren - Kopiëren**   worden deze regels als losse Voorlopige projectregels bij de samengevoegde regels geplaatst.
+ 4. Door deze regels te selecteren te kiezen voor **Beheren - Kopiëren**   worden deze regels als losse Voorlopige projectregels bij de samengevoegde regels geplaatst.
  5. Alle regels met dezelfde Voorlopige projectnummer zullen bij het aanmaken van onderhoudsprojecten gekoppeld worden onder één project. De sjablooncode is deze kolom is aan te passen, indien in Excel een foutje is gemaakt.
 
 ### Het oplossen van samenvoegingsconflicten
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NjE5MTkzLC02MDIyNzI2MTEsLTI3OD
-A3ODQ2MV19
+eyJoaXN0b3J5IjpbMTAwODA5NTk5MSwtNjAyMjcyNjExLC0yNz
+gwNzg0NjFdfQ==
 -->
