@@ -100,12 +100,12 @@ Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegeweze
  4. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
  5. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
  6. Klik op **OK** om de melding hiervan te sluiten.
- 7. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
- 8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
- 9. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
+ 7. Voor de **budgetregel** wordt een **Inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** en feitenblok **Projectgegevens** toont alle inkoopregels van het project (nu nog in beide gevallen '1').
+ 8. Herhaal bovenstaande stappen als u bij een tweede leverancier een offerte wilt aanvragen. Het resultaat zal een tweede offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen in feitenblokitem **Werkderden**.
+ 9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  
- *Tip! 
-Mocht je een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doe je als volgt:*
+>**Tip!** 
+Mocht j een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doe je als volgt:*
 *- ga naar de inkoopoffertekaart door in het lint te kiezen voor **kaart***
 *- met het **prullenbak-icoon** midden bovenaan de inkoopoffertekaart wordt inkoopofferte verwijderd.* 
 
@@ -142,9 +142,9 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1MzY0NjU1LDEyMzI0NDM2OTcsNzE5OT
-UzMTI4LC0xNjczMjkxMzg1LDM5MzkwNzYwOSwtMTE4MTY2MDY3
-OSw3ODE0OTk3NjMsNTg3Mjk3Mzg1LC00OTcwNzMwOSwyMDg4Mz
-IwMDM2LDIxMzYyNDExMjUsOTkxMzgxNDc0LC05MDUzMzgzNzAs
-LTYwMjI3MjYxMSwtMjc4MDc4NDYxXX0=
+eyJoaXN0b3J5IjpbLTEwMDU2OTAyNDQsNDU1MzY0NjU1LDEyMz
+I0NDM2OTcsNzE5OTUzMTI4LC0xNjczMjkxMzg1LDM5MzkwNzYw
+OSwtMTE4MTY2MDY3OSw3ODE0OTk3NjMsNTg3Mjk3Mzg1LC00OT
+cwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUsOTkxMzgxNDc0
+LC05MDUzMzgzNzAsLTYwMjI3MjYxMSwtMjc4MDc4NDYxXX0=
 -->
