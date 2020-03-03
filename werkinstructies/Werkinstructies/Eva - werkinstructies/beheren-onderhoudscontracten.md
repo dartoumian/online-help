@@ -96,9 +96,9 @@ Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegeweze
 ### Vastleggen inkoopoffertes
  1. Ga voor het vastleggen van inkoopoffertes met behulp van de zoekfunctie naar het **Projectoverzicht** en open met **Bewerken** het project van uw keuze.
  2. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
- 3. Klik op de actie **Inkoopofferte aanvragen** (tabblad **Budgetregels > Functies - Inkoop - Inkoopofferte aanvragen** in het lint).
+ 3. Kies voor de functie **Inkoopofferte aanvragen** (te vinden in het menu bovenin het tabblad **Budgetregels**).
  4. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
- 5. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
+ 5. U komt in een overzicht met leveranciers, waarin u de juistleverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
  6. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
  7. Klik op **OK** om de melding hiervan te sluiten.
  8. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
@@ -143,9 +143,9 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjQ0MzY5Nyw3MTk5NTMxMjgsLTE2Nz
-MyOTEzODUsMzkzOTA3NjA5LC0xMTgxNjYwNjc5LDc4MTQ5OTc2
-Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwODgzMjAwMzYsMjEzNj
-I0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMjcyNjEx
-LC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTExMTc4NjAsMTIzMjQ0MzY5Nyw3MT
+k5NTMxMjgsLTE2NzMyOTEzODUsMzkzOTA3NjA5LC0xMTgxNjYw
+Njc5LDc4MTQ5OTc2Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwOD
+gzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3
+MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
 -->
