@@ -15,10 +15,9 @@ Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics E
 	 * **Begrotingsjaar**
  4. Klik op de knop **Budget importeren**. Wanneer de import slaagt, krijgt u melding *De import is succesvol verlopen*.
  5. Klik op **OK** om de melding te sluiten.
- 6. Het importeer-resultaat is te zien op de eerste twee tabbladen (Algemeen en Kladblokimportregels) van de Kladblokbudget-importkaart. Sluit het Kladblokbudget-importkaart met pijltje links boven op deze kaart.
- 7. In overzicht **Kladblokimportoverzicht** is nu een nieuwe record te zien waarin handmatige begrotingsregels zijn geïmporteerd.
- 8. Wanneer u een foutief bestand hebt geïmporteerd, selecteer de betreffende regel en klik op **Verwijderen** in het lint. De Kladblokbudget-importkaart wordt dan in zijn geheel verwijdert en u kan opnieuw beginnen met de knop **Nieuw**
- 9. Wanneer u de begrotingsregels verder wilt verwerken, selecteer dan de nieuwe record en klik op **Bewerken** in het lint. U opent daarmee de Kladblokbudget-importkaart in een bewerken modus. 
+ 6. Het importresultaat is te zien op de eerste twee tabbladen (**Algemeen** en **Kladblokimportregels**) van de Kladblokbudget-importkaart. Sluit de kaart met het pijltje linksboven. Op de pagina **Kladblokimportoverzicht** is nu een nieuw record te zien waarin handmatige begrotingsregels zijn geïmporteerd.
+ 7. Wanneer u een foutief bestand hebt geïmporteerd, selecteer de betreffende regel en klik op **Verwijderen** in het lint. De Kladblokbudget-importkaart wordt dan in zijn geheel verwijdert en u kan opnieuw beginnen met de knop **Nieuw**
+ 8. Wanneer u de begrotingsregels verder wilt verwerken, selecteer dan de nieuwe record en klik op **Bewerken** in het lint. U opent daarmee de Kladblokbudget-importkaart in een bewerken modus. 
 
 ### Het verwerken van de begrotingsregels
  1. De begrotingsregels in dit eerste voorbeeld zijn compleet geimporteerd. Dat wil zeggen, in de begrotingsregels is de samenstelling van de projecten al bepaald d.m.v. een **Sjablooncode**. Daarnaast is per begrotingsregels bepaald wie het **contactpersoon** welke rol deze persoon binnen de projecten zal uitvoeren (projectleider, toezichthouder, woonconsulent, contractbeheerder). Tevens in de initiële planning bepaald in de velden **start -en opleverdatum**.
@@ -73,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjU3OTg4MSwtNjAyMjcyNjExLC0yNz
-gwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzgzNDcyOTksLTYwMjI3MjYxMSwtMj
+c4MDc4NDYxXX0=
 -->
