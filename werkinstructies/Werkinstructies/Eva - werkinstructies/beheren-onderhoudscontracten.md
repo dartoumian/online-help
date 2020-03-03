@@ -94,17 +94,16 @@ De offerteaanvraag kan per brief, via het Leveranciersportaal of door een aanbes
 Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegewezen ter beoordeling.
 
 ### Vastleggen inkoopoffertes
- 1. Ga voor het vastleggen van inkoopoffertes met behulp van de zoekfunctie naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
- 2. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
- 3. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
- 4. Klik op de actie **Inkoopofferte aanvragen** (tabblad **Budgetregels > Functies - Inkoop - Inkoopofferte aanvragen** in het lint).
- 5. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
- 6. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
- 7. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
- 8. Klik op **OK** om de melding hiervan te sluiten.
- 9. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
- 10. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
- 11. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
+ 1. Ga voor het vastleggen van inkoopoffertes met behulp van de zoekfunctie naar het **Projectoverzicht** en open met **Bewerken** het project van uw keuze.
+ 2. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
+ 3. Klik op de actie **Inkoopofferte aanvragen** (tabblad **Budgetregels > Functies - Inkoop - Inkoopofferte aanvragen** in het lint).
+ 4. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
+ 5. U komt in een overzicht met leveranciers, waarin je de betreffende leverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
+ 6. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
+ 7. Klik op **OK** om de melding hiervan te sluiten.
+ 8. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
+ 9. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
+ 10. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  
  *Tip! 
 Mocht je een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doe je als volgt:*
@@ -144,9 +143,9 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY5OTI2NDgsNzE5OTUzMTI4LC0xNj
-czMjkxMzg1LDM5MzkwNzYwOSwtMTE4MTY2MDY3OSw3ODE0OTk3
-NjMsNTg3Mjk3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2LDIxMz
-YyNDExMjUsOTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMjI3MjYx
-MSwtMjc4MDc4NDYxXX0=
+eyJoaXN0b3J5IjpbMTIzMjQ0MzY5Nyw3MTk5NTMxMjgsLTE2Nz
+MyOTEzODUsMzkzOTA3NjA5LC0xMTgxNjYwNjc5LDc4MTQ5OTc2
+Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwODgzMjAwMzYsMjEzNj
+I0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMjcyNjEx
+LC0yNzgwNzg0NjFdfQ==
 -->
