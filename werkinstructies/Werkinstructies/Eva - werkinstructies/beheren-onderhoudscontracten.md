@@ -51,11 +51,12 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
 
  1. Controleer voor het aanmaken van onderhoudsprojecten of alle regels zijn verwerkt op de **Kladblokbudgetimport**. Alle regels op tabblad **Kladblokimportregels** zijn verwerkt als het clusternummer groen kleurt. Met de functionaliteit **Gekopieerde regels verbergen** (via item **Beheren** bovenin het tabblad) kunt u snel controleren of alle regels zijn verwerkt. Met **Gekopieerde regels tonen** brengt u ze weer in beeld.
  
->**Tip!** Als regels niet zijn verwerkt, dient u deze handmatig te kopiëren of samen te voegen. Selecteer  hiervoor de niet-verwerkte regels en klik op de knop ***Kopiëren*** of ***Samenvoegen***. Hebt u hierbij een fout gemaakt, verwijder dan de gekopieerde/samengevoegde regel uit
-tabblad **Voorlopige projectregels**.*
+>**Tip!** Als regels niet zijn verwerkt, dient u deze handmatig te kopiëren of samen te voegen. Selecteer  hiervoor de niet-verwerkte regels en klik op de knop **Kopiëren** of **Samenvoegen**. Hebt u hierbij een fout gemaakt, verwijder dan de gekopieerde/samengevoegde regel uit
+tabblad **Voorlopige projectregels**.
+
  2. Plaats vervolgens een vinkje in veld **Definitieve versie** op tabblad **Algemeen**.
- 3. Controleer of het totaal-bedrag in het veld **Regeltotaal excl. BTW** op tabblad **Algemeen** overeenkomt met het bedrag dat door de bestuurder is goedgekeurd voor Planmatig- , Contract- of Serviceonderhoud. Voer indien gewenst een detailcontrole uit.
- 4. Navigeer in het lint van de importkaart naar **Acties-Functies-Aanmaken onderhoudsprojecten**.
+ 3. Controleer of het totaalbedrag in het veld **Regeltotaal excl. BTW** op tabblad **Algemeen** overeenkomt met het bedrag dat door de bestuurder is goedgekeurd voor Planmatig, Contract- of Serviceonderhoud. Voer indien gewenst een detailcontrole uit.
+ 4. Navigeer naar de functie **Aanmaken onderhoudsprojecten**.
  5. Na het voltooien van deze actie verschijnt een venster waarin Dynamics Empire aangeeft dat er een X aantal projecten is aangemaakt. Klik vervolgens op **OK** om dit venster te sluiten.
  6. Er kunnen vanaf dit moment geen wijzigingen meer worden aangebracht in het Kladblokbudget importkaart. Alle correcties van fouten in de voorbereiding dienen in de projectadministratie te worden gecorrigeerd.
   
@@ -78,7 +79,7 @@ tabblad **Voorlopige projectregels**.*
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODI2NTExOSw1ODcyOTczODUsLTQ5Nz
-A3MzA5LDIwODgzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQs
-LTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbNDUyNTk5MTczLDU4NzI5NzM4NSwtNDk3MD
+czMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MTM4MTQ3NCwt
+OTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3ODA3ODQ2MV19
 -->
