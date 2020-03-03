@@ -91,13 +91,8 @@ tabblad **Voorlopige projectregels**.
 ## Offerte aanmaken
 
 De offerteaanvraag kan per brief, via het Leveranciersportaal of door een aanbesteding in verschillende media-typen worden gecommuniceerd. Nadat brieven in DMS zijn gearchiveerd kunnen ze (ook per e-mail) verstuurd worden. Hiermee wordt voorkomen dat een brief wel bij een leverancier ligt, maar niet in het projectdossier zit.
-
 Bij het genereren van brieven worden zogenaamde tabelrelaties en samenvoegvelden gebruikt om alle relevante informatie uit Dynamics Empire naar de brief over te zetten. Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegewezen ter beoordeling.
 
-## Processchema (H2)
-(Hier komt link naar Mavim of plaatje van proces.)
-
-## Processtappen
 ### Vastleggen inkoopoffertes
  1. Ga voor het vastleggen van inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
  2. Dynamics Empire zal op de projectkaart openen. Deze projectkaart bestaat uit vier tabbladen (midden), feitenblokken (rechts) en een lint met knoppen (boven).
@@ -149,9 +144,9 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5OTUzMTI4LC0xNjczMjkxMzg1LDM5Mz
-kwNzYwOSwtMTE4MTY2MDY3OSw3ODE0OTk3NjMsNTg3Mjk3Mzg1
-LC00OTcwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUsOTkxMz
-gxNDc0LC05MDUzMzgzNzAsLTYwMjI3MjYxMSwtMjc4MDc4NDYx
-XX0=
+eyJoaXN0b3J5IjpbMTg5MDU1NzMxNiw3MTk5NTMxMjgsLTE2Nz
+MyOTEzODUsMzkzOTA3NjA5LC0xMTgxNjYwNjc5LDc4MTQ5OTc2
+Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwODgzMjAwMzYsMjEzNj
+I0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMjcyNjEx
+LC0yNzgwNzg0NjFdfQ==
 -->
