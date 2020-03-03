@@ -58,9 +58,9 @@ tabblad **Voorlopige projectregels**.
  3. Controleer of het totaalbedrag in het veld **Regeltotaal excl. BTW** op tabblad **Algemeen** overeenkomt met het bedrag dat door de bestuurder is goedgekeurd voor Planmatig, Contract- of Serviceonderhoud. Voer indien gewenst een detailcontrole uit.
  4. Navigeer naar de functie **Aanmaken onderhoudsprojecten**.
  5. Na het voltooien van deze actie verschijnt een venster waarin Dynamics Empire aangeeft dat er een X aantal projecten is aangemaakt. Klik vervolgens op **OK** om dit venster te sluiten.
- 6. Er kunnen vanaf dit moment geen wijzigingen meer worden aangebracht in het Kladblokbudget importkaart. Alle correcties van fouten in de voorbereiding dienen in de projectadministratie te worden gecorrigeerd.
+ 6. Er kunnen vanaf dit moment geen wijzigingen meer worden aangebracht op de Kladblokbudgetimportkaart. Alle correcties van fouten in de voorbereiding dienen in de projectadministratie te worden gecorrigeerd.
   
-### Verbeteren projectnaam en omschrijving
+### Verbeteren projectnaam en -omschrijving
  1. Het verbeteren van projectnaam en -omschrijving is een actie die de projectleider moet uitvoeren, direct na het aanmaken van onderhoudsprojecten.
  2. Alle aangemaakte projecten zijn terug te vinden via het **Projectoverzicht**.
  3. Open een projectkaart door één van de regels te selecteren en in het lint te klikken op **Bewerken**.
@@ -79,7 +79,7 @@ tabblad **Voorlopige projectregels**.
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNTk5MTczLDU4NzI5NzM4NSwtNDk3MD
-czMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MTM4MTQ3NCwt
-OTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3ODA3ODQ2MV19
+eyJoaXN0b3J5IjpbMTIwNDgwMDg4NCw1ODcyOTczODUsLTQ5Nz
+A3MzA5LDIwODgzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQs
+LTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
 -->
