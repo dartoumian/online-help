@@ -68,7 +68,7 @@ tabblad **Voorlopige projectregels**.
  5. Doorloop alle projecten en pas naar behoefte **Naam** en **Omschrijving** aan.
 
 >**Tip!** Maak een uniforme afspraak voor de naamstelling en omschrijving van projecten, bijv.:
- >**Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) 	of indien meer clusters, (diverse clusters)
+ >**Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) of indien meer clusters (diverse clusters)
  > **Omschrijving** = uitgebreide omschrijving werk (Schilderwerk kozijnen, ramen, deuren, boeiborden)
      
 
@@ -79,7 +79,8 @@ tabblad **Voorlopige projectregels**.
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNDk5NzYzLDU4NzI5NzM4NSwtNDk3MD
-czMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MTM4MTQ3NCwt
-OTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3ODA3ODQ2MV19
+eyJoaXN0b3J5IjpbLTk2MDc1ODQ3MSw3ODE0OTk3NjMsNTg3Mj
+k3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUs
+OTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMjI3MjYxMSwtMjc4MD
+c4NDYxXX0=
 -->
