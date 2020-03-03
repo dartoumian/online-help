@@ -20,7 +20,7 @@ Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics E
  8. Wanneer u de begrotingsregels verder wilt verwerken, selecteer dan het nieuwe record en klik op **Bewerken**. U opent daarmee de Kladblokbudget-importkaart in een 'bewerken'-modus. 
 
 ### Verwerken van de begrotingsregels
- 1. Uitgangspunt is dat de begrotingsregels compleet zijn geïmporteerd. Dat wil zeggen, in de begrotingsregels is de samenstelling van de projecten al bepaald d.m.v. een **Sjablooncode**. Daarnaast is per begrotingsregels bepaald wie de **Contactpersoon** is en welke rol deze persoon binnen de projecten zal uitvoeren (projectleider, toezichthouder, woonconsulent, contractbeheerder). Tevens in de initiële planning bepaald in de velden **start -en opleverdatum**.
+ 1. Uitgangspunt is dat de begrotingsregels compleet zijn geïmporteerd. Dat wil zeggen, in de begrotingsregels is de samenstelling van de projecten al bepaald d.m.v. een **Sjablooncode**. Daarnaast is per begrotingsregels bepaald wie de **Contactpersoon** is en welke rol deze persoon binnen de projecten zal uitvoeren (projectleider, toezichthouder, woonconsulent, contractbeheerder). Tevens is de initiële planning bepaald in de velden **Startdatum** en **Opleverdatum**.
  2. Klik om de regels te verwerken op door in het lint **Acties - Functies - Samenvoegen alle regels op basis van Sjablooncode**.
  3. Dynamics Empire zal alle begrotingsregels op tabblad **Kladblok importregels** samenvoegen of kopiëren naar tabblad **Voorlopige projectregels** waarbij de volgende bewerkingen worden uitgevoerd.
  
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDExNzc4MiwtNjAyMjcyNjExLC0yNz
+eyJoaXN0b3J5IjpbLTg4NjY1NTg3MSwtNjAyMjcyNjExLC0yNz
 gwNzg0NjFdfQ==
 -->
