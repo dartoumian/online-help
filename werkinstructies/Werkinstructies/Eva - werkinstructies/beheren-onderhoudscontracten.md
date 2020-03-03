@@ -88,9 +88,10 @@ tabblad **Voorlopige projectregels**.
  8. Herhaal de stappen 4 t/m 6 bij de **Verkoopbudgethouder** en de **Factuurbudgethouder**.
  9. Sluit de projectkaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzOTA3NjA5LC0xMTgxNjYwNjc5LDc4MT
-Q5OTc2Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwODgzMjAwMzYs
-MjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMj
-cyNjExLC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbLTE2NzMyOTEzODUsMzkzOTA3NjA5LC0xMT
+gxNjYwNjc5LDc4MTQ5OTc2Myw1ODcyOTczODUsLTQ5NzA3MzA5
+LDIwODgzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNT
+MzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
 -->
