@@ -22,7 +22,7 @@ Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics E
 ### Verwerken van de begrotingsregels
  1. Uitgangspunt is dat de begrotingsregels compleet zijn geïmporteerd. Dat wil zeggen, in de begrotingsregels is de samenstelling van de projecten al bepaald d.m.v. een **Sjablooncode**. Daarnaast is per begrotingsregels bepaald wie de **Contactpersoon** is en welke rol deze persoon binnen de projecten zal uitvoeren (projectleider, toezichthouder, woonconsulent, contractbeheerder). Tevens is de initiële planning bepaald in de velden **Startdatum** en **Opleverdatum**.
  2. Klik om de regels te verwerken op de **Kladblokbudget-importkaart** op **Samenvoegen alle regels op basis van Sjablooncode**.
- 3. Dynamics Empire zal alle begrotingsregels op tabblad **Kladblok importregels** samenvoegen of kopiëren naar tabblad **Voorlopige projectregels** waarbij de volgende bewerkingen worden uitgevoerd.
+ 3. Dynamics Empire zal alle begrotingsregels op tabblad **Kladblok importregels** samenvoegen of kopiëren naar tabblad **Voorlopige projectregels** waarbij een tweetal bewerkingen wordt uitgevoerd (hieronder beschreven).
  
 ### Samenvoegen van de begrotingsregels
 Het samenvoegen van begrotingsregels is nodig om de vele regels terug te brengen naar een ingedikte vorm ten behoeve van de budgetbewaking. De stelregels is, dat je de begroting zo gedetailleerd mogelijk overzet naar Dynamics Empire, zodat je in Dynamics Empire kan terugkijken hoe een project begroot is. Dit is nodig om budgetoverschrijdingen te kunnen verklaren. Echter, op dit detailniveau is het niet wenselijk om budgetten te bewaken.
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTIxMDA0OCwtNjAyMjcyNjExLC0yNz
+eyJoaXN0b3J5IjpbMTU2ODYyODQ3MiwtNjAyMjcyNjExLC0yNz
 gwNzg0NjFdfQ==
 -->
