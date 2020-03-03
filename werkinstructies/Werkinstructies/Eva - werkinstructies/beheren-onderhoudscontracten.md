@@ -25,7 +25,7 @@ Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics E
  3. Dynamics Empire zal alle begrotingsregels op tabblad **Kladblok importregels** samenvoegen of kopiëren naar tabblad **Voorlopige projectregels** waarbij een tweetal bewerkingen wordt uitgevoerd (hieronder beschreven).
  
 ### Samenvoegen van de begrotingsregels
-Het samenvoegen van begrotingsregels is nodig om de vele regels terug te brengen naar een ingedikte vorm ten behoeve van de budgetbewaking. De stelregels is, dat je de begroting zo gedetailleerd mogelijk overzet naar Dynamics Empire, zodat je in Dynamics Empire kan terugkijken hoe een project begroot is. Dit is nodig om budgetoverschrijdingen te kunnen verklaren. Echter, op dit detailniveau is het niet wenselijk om budgetten te bewaken.
+Het samenvoegen van begrotingsregels is nodig om de vele regels terug te brengen naar een ingedikte vorm ten behoeve van de budgetbewaking. De stelregels is dat de begroting zo gedetailleerd mogelijk overzet naar Dynamics Empire, zodat je in Dynamics Empire kan terugkijken hoe een project begroot is. Dit is nodig om budgetoverschrijdingen te kunnen verklaren. Echter, op dit detailniveau is het niet wenselijk om budgetten te bewaken.
 
 Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zijn opgebouwd uit dezelfde waarden voor Cluster, Bouwblok, Werksoort, Werksoortboekingsgroep, Sjablooncode en Vrije code budget.
 
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODYyODQ3MiwtNjAyMjcyNjExLC0yNz
-gwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbNzI2NjE5MTkzLC02MDIyNzI2MTEsLTI3OD
+A3ODQ2MV19
 -->
