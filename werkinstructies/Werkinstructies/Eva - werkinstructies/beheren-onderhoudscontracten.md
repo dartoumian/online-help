@@ -41,12 +41,12 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
  2. Klik op **Ja** in deze kolom om de oorspronkelijke regels te tonen.
  3. Doorloop alle samenvoegconflicten en los ze één voor één op.
 
->**Tip!** Plaats een filter op alle regels met een samenvoegconflict voordat u bezig gaat met het oplossen. Dit doet u door met de rechter muisknop op een willekeurige **Ja** in kolom **Samenvoegconflict** te klikken en **Filteren op deze waarde** te selecteren. (Met **Filter wissen** heft u het filter weer op.
+>**Tip!** Plaats een filter op alle regels met een samenvoegconflict voordat u bezig gaat met het oplossen. Dit doet u door met de rechter muisknop op een willekeurige **Ja** in kolom **Samenvoegconflict** te klikken en **Filteren op deze waarde** te selecteren. (Met **Filter wissen** heft u het filter weer op.)
 
 ### Functie instellen voor contactpersonen
 
  1. Op tabblad **Functies** kunt u instellen welke functiegroepcode (**Functie contact**) toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMj
-I3MjYxMSwtMjc4MDc4NDYxXX0=
+eyJoaXN0b3J5IjpbMjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNT
+MzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
 -->
