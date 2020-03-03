@@ -22,10 +22,10 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 
 ## Invullen huurprijsmutatie
 
-In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u in elk geval om welke reden de huurprijs van de verhuurbare eenheid wijzigt. Mocht de nieuwe nettohuur ongelijk zijn aan de streefhuur van de verhuurbare eenheid, specificeert u daarnaast ook wat de reden van die afwijking is. 
+In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden is waarom de huurprijs van de verhuurbare eenheid wijzigt. Mocht de nieuwe nettohuur ongelijk zijn aan de streefhuur van de verhuurbare eenheid, specificeert u daarnaast ook wat de reden van die afwijking is. 
 
 1. . 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTI5Njg0XX0=
+eyJoaXN0b3J5IjpbLTE4NjgzNTg4MTYsMTEzMTI5Njg0XX0=
 -->
