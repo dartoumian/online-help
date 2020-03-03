@@ -35,13 +35,13 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
  4. Door deze regels te selecteren en te kiezen voor **Kopiëren** worden deze regels als losse voorlopige projectregels bij de samengevoegde regels geplaatst.
  5. Alle regels met hetzelfde voorlopige projectnummer zullen bij het aanmaken van onderhoudsprojecten gekoppeld worden onder één project. De sjablooncode is deze kolom is aan te passen, voor het geval in Excel een foutje is gemaakt.
 
-### Het oplossen van samenvoegingsconflicten
+### Het oplossen van samenvoegconflicten
 
- 1. Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de Projectomschrijving, Contactpersonen, Plaats of vrije tekstvelden van die regels verschillen, treed er een samenvoegingsconflict op. Dit is te zien aan een JA in kolom **Samenvoegconflict** op tabblad **Voorlopige projectregels**.
+ 1. Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de Projectomschrijving, Contactpersonen, Plaats of vrije tekstvelden van die regels verschillen, treed er een samenvoegconflict op. Dit is te zien aan een JA in kolom **Samenvoegconflict** op tabblad **Voorlopige projectregels**.
  2. Klik op **Ja** in deze kolom om de oorspronkelijke regels te tonen.
  3. Doorloop alle samenvoegconflicten en los ze één voor één op.
 
->**Tip!** Plaats een filter op alle regels met een samenvoegingsconflict voordat u bezig gaat met het oplossen. Dit doet u door met de rechter muisknop op een willekeurige **Ja** in kolom **Samenvoegingsconflict** te klikken en **Filteren op deze waarde** te selecteren. (Met **Filter wissen** heft u het filter weer op.
+>**Tip!** Plaats een filter op alle regels met een samenvoegconflict voordat u bezig gaat met het oplossen. Dit doet u door met de rechter muisknop op een willekeurige **Ja** in kolom **Samenvoegconflict** te klikken en **Filteren op deze waarde** te selecteren. (Met **Filter wissen** heft u het filter weer op.
 
 ### Functie instellen voor contactpersonen
 
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTExOTc2MzYsLTYwMjI3MjYxMSwtMj
-c4MDc4NDYxXX0=
+eyJoaXN0b3J5IjpbLTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNz
+gwNzg0NjFdfQ==
 -->
