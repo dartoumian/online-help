@@ -49,8 +49,6 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
 
 ## Aanmaken project
 
-## Aanmaken PO project
-
  1. Controleer voor het aanmaken van onderhoudsprojecten of alle regels zijn verwerkt op de **Kladblokbudgetimport**. Alle regels op tabblad **Kladblokimportregels** zijn verwerkt als het clusternummer groen kleurt. Met de functionaliteit **Beheren-Gekopieerde regels verbergen** in het lint het tabblad kladblokimportregels kan u snel controleren of alle regels zijn verwerkt. Met **Gekopieerde regels** tonen breng u ze weer in beeld.
  
 *Tip! Als regels niet zijn verwerkt, dient u deze handmatig te kopiëren of samen te voegen. Selecteer  hiervoor de niet-verwerkte regels en klik op de knoppen ***Kopiëren*** of ***Samenvoegen***. Hebt u hierbij een fout gemaakt, verwijder dan de gekopieerde/samengevoegde regel uit
@@ -80,7 +78,7 @@ tabblad **Voorlopige projectregels**.*
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MTY3NjU3LDIwODgzMjAwMzYsMjEzNj
+eyJoaXN0b3J5IjpbLTQ5NzA3MzA5LDIwODgzMjAwMzYsMjEzNj
 I0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMjcyNjEx
 LC0yNzgwNzg0NjFdfQ==
 -->
