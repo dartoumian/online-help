@@ -11,7 +11,7 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de aanbiedhuur moet worden bepaald.
-3. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Er verschijnt een popup met de vraag op basis van welke bestaande contractregel u de nieuwe verhuuraanbieding wil baseren. Selecteer het getoonde leegstandscontract en klik op **OK**. 
+3. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. , waarbij u . een popup met de vraag op basis van welke bestaande contractregel u de nieuwe verhuuraanbieding wil baseren. Selecteer het getoonde leegstandscontract en klik op **OK**. 
 4. 
 
 ## Aanpassen aanbiedhuur
@@ -27,5 +27,6 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 1. . 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgzNTg4MTYsMTEzMTI5Njg0XX0=
+eyJoaXN0b3J5IjpbMTczMDU2NDcyNCwtMTg2ODM1ODgxNiwxMT
+MxMjk2ODRdfQ==
 -->
