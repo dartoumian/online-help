@@ -46,7 +46,12 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
 ### Functie instellen voor contactpersonen
 
  1. Op tabblad **Functies** kunt u instellen welke functiegroepcode (**Functie contact**) toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
+
+## Aanmaken project
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNT
-MzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MT
+M4MTQ3NCwtOTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3ODA3ODQ2
+MV19
 -->
