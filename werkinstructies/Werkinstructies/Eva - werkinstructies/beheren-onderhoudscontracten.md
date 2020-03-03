@@ -98,12 +98,11 @@ Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegeweze
  2. Selecteer op tabblad **Budgetregels** de budgetregel(s) waarvoor u een offerte wilt aanvragen.
  3. Kies voor de functie **Inkoopofferte aanvragen** (te vinden in het menu bovenin het tabblad **Budgetregels**).
  4. Dynamics Empire vraagt uw bevestiging voor een inkoopofferte op de betreffende budgetregel, klik op **Ja**.
- 5. U komt in een overzicht met leveranciers, waarin u de juistleverancier kunt opzoeken met het snelfilterveld en kunt selecteren voor de offerteaanvraag.
- 6. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
- 7. Klik op **OK** om de melding hiervan te sluiten.
- 8. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
- 9. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
- 10. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
+ 5. Zoek en selecteer de gewenste leverancier en klik op **OK**. Dynamics Empire zal een offertekaart aanmaken die aan het project gekoppeld is.
+ 6. Klik op **OK** om de melding hiervan te sluiten.
+ 7. Voor de **budgetregel** wordt een **inkoopoffertekaart** aangemaakt. In het feitenblok verschijnt een 1 achter item **Budgetgegevens-Werkderden**. Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde **budgetregel** (1) en feitenblok **Projectgegevens** toont alle inkoopregels van het project (1).
+ 8. Herhaal bovenstaande stappen als u bij een 2e leverancier een offerte wilt aanvragen. Het resultaat zal een 2e offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en gewijzigde aantallen (2) in feitenblok item **Werkderden**.
+ 9. Klik op het getal 2 in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  
  *Tip! 
 Mocht je een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doe je als volgt:*
@@ -143,9 +142,9 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTExMTc4NjAsMTIzMjQ0MzY5Nyw3MT
-k5NTMxMjgsLTE2NzMyOTEzODUsMzkzOTA3NjA5LC0xMTgxNjYw
-Njc5LDc4MTQ5OTc2Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwOD
-gzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3
-MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbNDU1MzY0NjU1LDEyMzI0NDM2OTcsNzE5OT
+UzMTI4LC0xNjczMjkxMzg1LDM5MzkwNzYwOSwtMTE4MTY2MDY3
+OSw3ODE0OTk3NjMsNTg3Mjk3Mzg1LC00OTcwNzMwOSwyMDg4Mz
+IwMDM2LDIxMzYyNDExMjUsOTkxMzgxNDc0LC05MDUzMzgzNzAs
+LTYwMjI3MjYxMSwtMjc4MDc4NDYxXX0=
 -->
