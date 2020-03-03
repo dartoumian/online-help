@@ -41,11 +41,11 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
  2. Klik op **Ja** in deze kolom om de oorspronkelijke regels te tonen.
  3. Doorloop alle samenvoegingsconflicten en los ze één voor één op.
 
-Tip! Plaats een filter op alle regels met een samenvoegingsconflict voordat je bezig gaat met het oplossen. Dit doe je door met de rechter muisknop op een willekeurige Ja in kolom Samenvoegingsconflict te klikken en Filteren op deze waarde te selecteren. Met Filter wissen hef je de filter weer op*
+>**Tip!** Plaats een filter op alle regels met een samenvoegingsconflict voordat u bezig gaat met het oplossen. Dit doet u door met de rechter muisknop op een willekeurige **Ja** in kolom **Samenvoegingsconflict** te klikken en **Filteren op deze waarde** te selecteren. (Met **Filter wissen** heft u het filter weer op.
 
 ### Functie instellen voor contactpersonen
 
- 1. Op tabblad **Functies** kan je instellen welke **rol code** toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
+ 1. Op tabblad **Functies** kunt u instellen welke **Rol code** toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
 
  
 
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzMyNzUzNiwtNjAyMjcyNjExLC0yNz
+eyJoaXN0b3J5IjpbMTMxNzY3NTY3MiwtNjAyMjcyNjExLC0yNz
 gwNzg0NjFdfQ==
 -->
