@@ -21,10 +21,9 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 
 ## Invullen huurprijsmutatie
 
-1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart) of via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op **Huuropzeggingen**).
-2. Kies voor functie **Worddocument**.
-3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
+In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u in elk geval om welke reden de huurprijs van de verhuurbare eenheid wijzigt. Mocht de nieuwe nettohuur ongelijk
+1. . 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTE4MDgxMV19
+eyJoaXN0b3J5IjpbLTEyMDI3OTc4NzJdfQ==
 -->
