@@ -82,15 +82,15 @@ tabblad **Voorlopige projectregels**.
 
  1. Aangemaakte projecten zijn zichtbaar tussen alle actieve projecten in de lijst Projectoverzicht. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectoverzicht**.
  2. Na een project te hebben gekozen en voor **Bewerken** te hebben gekozen, wordt de projectkaart van uw keuze geopend.
- 4. Op het tabblad **Boekingsinfo** staan de default projectbudgethouders ingesteld. Deze default budgethouders zijn gekoppeld aan het projecttype (overwegend de manager en directie). Voeg de projectleider toe aan de budgethouders, zodat het systeem hiervan op de hoogte is. iervoor op de drie puntjes naast het veld **Orderbudgethouders**.
+ 4. Op het tabblad **Boekingsinfo** staan de default projectbudgethouders ingesteld. Deze default budgethouders zijn gekoppeld aan het projecttype (overwegend de manager en directie). Voeg de projectleider toe aan de budgethouders, zodat het systeem hiervan op de hoogte is. Klik hiervoor op de drie puntjes naast het veld **Orderbudgethouders**.
  6. Klik op de eerste lege regel in kolom **Budgethouder**, zoek de projectleider op in de lijst en selecteer deze.
  7. Sluit de Budgethouder-kaart door op de knop **Sluiten** rechtsonder in het venster te klikken.
  8. Herhaal de stappen 4 t/m 6 bij de **Verkoopbudgethouder** en de **Factuurbudgethouder**.
- 9. Sluit de project-kaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
+ 9. Sluit de projectkaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjEzNDg5OSwtMTE4MTY2MDY3OSw3OD
-E0OTk3NjMsNTg3Mjk3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2
-LDIxMzYyNDExMjUsOTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMj
-I3MjYxMSwtMjc4MDc4NDYxXX0=
+eyJoaXN0b3J5IjpbMzkzOTA3NjA5LC0xMTgxNjYwNjc5LDc4MT
+Q5OTc2Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwODgzMjAwMzYs
+MjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMj
+cyNjExLC0yNzgwNzg0NjFdfQ==
 -->
