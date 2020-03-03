@@ -73,13 +73,13 @@ tabblad **Voorlopige projectregels**.
      
 
 ### Toevoegen contactpersonen aan project
- 1. Het toevoegen van een contactpersoon binnen een project kan op het tabblad **Contactpersonen** van de projectkaart.
- 2. Klik op een lege regel in de cel van kolom **contactnr.** op het dropdown menu en selecteer de juiste contactpersoon uit de lijst die verschijnt.
- 3. Voer vervolgens (indien van toepassing) de functiecode, bedrijfsnaam, telefoon en E-mail in.
+ 1. Het toevoegen van een contactpersoon aan een project kan op het tabblad **Contactpersonen** van de projectkaart.
+ 2. Klik op een lege regel in de cel van kolom **Contactnr.** op het dropdown-menu en selecteer de juiste contactpersoon uit de lijst die verschijnt.
+ 3. Voer vervolgens (indien van toepassing) de functiecode, bedrijfsnaam, telefoon en e-mail in.
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDc1ODQ3MSw3ODE0OTk3NjMsNTg3Mj
+eyJoaXN0b3J5IjpbMTY5MjA4Nzg0Miw3ODE0OTk3NjMsNTg3Mj
 k3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUs
 OTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMjI3MjYxMSwtMjc4MD
 c4NDYxXX0=
