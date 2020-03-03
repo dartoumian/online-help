@@ -182,8 +182,10 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  6. Dynamics Empire vraagt of u de offerte wilt omzetten. Klik hier op **Ja**.
  7. Sluit de offertekaart. U komt hiermee terug in het Werkderdenoverzicht. In dit overzicht zijn nieuwe regels te zien met regelsoort = 'Order'. Tevens is te zien dat de status van de offerte is veranderd in 'Omgezet'. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status = 'Open'.
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzQzOTQyOCwzOTM3NDU0NzAsNDU1Mz
+eyJoaXN0b3J5IjpbMTkxMzYzODY4OCwzOTM3NDU0NzAsNDU1Mz
 Y0NjU1LDEyMzI0NDM2OTcsNzE5OTUzMTI4LC0xNjczMjkxMzg1
 LDM5MzkwNzYwOSwtMTE4MTY2MDY3OSw3ODE0OTk3NjMsNTg3Mj
 k3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUs
