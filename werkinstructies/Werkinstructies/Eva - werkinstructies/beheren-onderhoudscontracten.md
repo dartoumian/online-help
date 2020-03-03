@@ -80,17 +80,16 @@ tabblad **Voorlopige projectregels**.
 
 ## Aanvullen projectgegevens op projectkaart
 
- 1. Aangemaakte projecten zijn zichtbaar tussen alle actieve projecten in de lijst Projectoverzicht. Navigeer via het zoekveld naar de lijst **Projectoverzicht**.
- 2. Na een project te hebben gekozen en in het lint op **Bewerken** te klikken, wordt de projectkaart van uw keuze geopend.
- 4. Op het tabblad **Boekingsinfo** staan de default projectbudgethouders ingesteld. Deze default budgethouders zijn gekoppeld aan het projecttype (overwegend de manager en directie). Voeg de projectleider toe aan de budgethouders. Deze handeling is nodig omdat het systeem niet weet wie de projectleider wordt.
- 5. Klik hiervoor op de drie puntjes naast het veld **Orderbudgethouders**.
+ 1. Aangemaakte projecten zijn zichtbaar tussen alle actieve projecten in de lijst Projectoverzicht. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Projectoverzicht**.
+ 2. Na een project te hebben gekozen en voor **Bewerken** te hebben gekozen, wordt de projectkaart van uw keuze geopend.
+ 4. Op het tabblad **Boekingsinfo** staan de default projectbudgethouders ingesteld. Deze default budgethouders zijn gekoppeld aan het projecttype (overwegend de manager en directie). Voeg de projectleider toe aan de budgethouders, zodat het systeem hiervan op de hoogte is. iervoor op de drie puntjes naast het veld **Orderbudgethouders**.
  6. Klik op de eerste lege regel in kolom **Budgethouder**, zoek de projectleider op in de lijst en selecteer deze.
  7. Sluit de Budgethouder-kaart door op de knop **Sluiten** rechtsonder in het venster te klikken.
  8. Herhaal de stappen 4 t/m 6 bij de **Verkoopbudgethouder** en de **Factuurbudgethouder**.
  9. Sluit de project-kaart met **pijltje naar links** en informeer de projectleider dat zijn project is aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTMyMDY2NSwtMTE4MTY2MDY3OSw3OD
+eyJoaXN0b3J5IjpbMTQ4MjEzNDg5OSwtMTE4MTY2MDY3OSw3OD
 E0OTk3NjMsNTg3Mjk3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2
 LDIxMzYyNDExMjUsOTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMj
 I3MjYxMSwtMjc4MDc4NDYxXX0=
