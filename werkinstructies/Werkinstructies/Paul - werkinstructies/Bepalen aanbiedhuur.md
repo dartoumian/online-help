@@ -5,9 +5,9 @@ De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald 
 
 ## Processchema
 
-## Vastleggen huuropzegging
+## Berekenen nieuwe nettohuur conform huurbeleid 
 
-In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres van de vertrekkende huurder en een leegstandscontract voor de OG Eenheid.
+In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe netto.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huuropzegging moet worden vastgelegd.
@@ -49,5 +49,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTczOTY5OTRdfQ==
+eyJoaXN0b3J5IjpbMjA4NTM5MTQwMV19
 -->
