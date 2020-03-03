@@ -62,9 +62,9 @@ tabblad **Voorlopige projectregels**.
   
 ### Verbeteren projectnaam en -omschrijving
  1. Het verbeteren van projectnaam en -omschrijving is een actie die de projectleider moet uitvoeren, direct na het aanmaken van onderhoudsprojecten.
- 2. Alle aangemaakte projecten zijn terug te vinden via het **Projectoverzicht**.
- 3. Open een projectkaart door één van de regels te selecteren en in het lint te klikken op **Bewerken**.
- 4. Op de Projectkaart, tabblad **Algemeen**, is een projectnaam en omschrijving te zien. De **Naam** en **Omschrijving** van het project wordt door het systeem bepaald op basis van de bovenste voorlopige projectregel in het **Kladblokbudget importkaart** en dekt mogelijk de lading niet voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. 
+ 2. Alle aangemaakte projecten zijn terug te vinden via het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")).
+ 3. Open een projectkaart door één van de regels te selecteren en te klikken op **Bewerken**.
+ 4. Op de Projectkaart, tabblad **Algemeen**, is een projectnaam en omschrijving te zien. De **Naam** en **Omschrijving** van het project wordt door het systeem bepaald op basis van de bovenste voorlopige projectregel in de **Kladblokbudgetimportkaart** en dekt mogelijk de lading niet voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. 
  5. Doorloop alle projecten en pas naar behoefte **Naam** en **Omschrijving** aan. Gebruik hierbij de bladerknoppen links en rechts in het midden naast de projectkaart.
 
 *Tip! Maak een uniforme afspraak voor de naamstelling en omschrijving van projecten bijv:*
@@ -79,7 +79,7 @@ tabblad **Voorlopige projectregels**.
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDgwMDg4NCw1ODcyOTczODUsLTQ5Nz
+eyJoaXN0b3J5IjpbMTU3NzU5NzU5Miw1ODcyOTczODUsLTQ5Nz
 A3MzA5LDIwODgzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQs
 LTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
 -->
