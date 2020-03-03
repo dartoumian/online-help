@@ -6,7 +6,7 @@
 ## Importeren begroting
 Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics Empire en samengevoegd tot  gecombineerde uitvoeringsprojecten.
 
- 1. Ga voor het importeren van begrotingsregels naar **Kladblokimportoverzicht**, en kies in lint voor **nieuw**
+ 1. Ga voor het importeren van begrotingsregels via de zoekfunctie ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Kladblokimportoverzicht**, en kies voor de actie **Nieuw**.
  2. Dynamics Empire maakt een zogenaamde **Kladblokbudget-importkaart** aan met een eerst volgende volgnummer.
  3. Klik in het lint op de knop **Budget importeren** om een bestand met begrotingsregels te importeren.
  4. Dynamics Empire opent een venster genaamd **Import budget planmatig onderhoud**. Vult u de velden in dit venster als volgt in:
@@ -75,5 +75,5 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NzgzNzkzLC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbLTYwMjI3MjYxMSwtMjc4MDc4NDYxXX0=
 -->
