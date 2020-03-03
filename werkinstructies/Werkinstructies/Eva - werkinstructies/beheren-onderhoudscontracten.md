@@ -68,18 +68,18 @@ tabblad **Voorlopige projectregels**.
  5. Doorloop alle projecten en pas naar behoefte **Naam** en **Omschrijving** aan.
 
 >**Tip!** Maak een uniforme afspraak voor de naamstelling en omschrijving van projecten, bijv.:
- >***Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) 	of indien meer clusters, (diverse clusters)*
-  ***Omschrijving** = uitgebreide omschrijving werk (Schilderwerk kozijnen, ramen, deuren, boeiborden)*     
+ >**Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) 	of indien meer clusters, (diverse clusters)
+ > **Omschrijving** = uitgebreide omschrijving werk (Schilderwerk kozijnen, ramen, deuren, boeiborden)
      
 
-### Toevoegen contractpersonen aan project
- 1. Het toevoegen van een contactpersoon binnen een project kan onder het tablad **contactpersonen** van de projectkaart.
+### Toevoegen contactpersonen aan project
+ 1. Het toevoegen van een contactpersoon binnen een project kan op het tabblad **Contactpersonen** van de projectkaart.
  2. Klik op een lege regel in de cel van kolom **contactnr.** op het dropdown menu en selecteer de juiste contactpersoon uit de lijst die verschijnt.
  3. Voer vervolgens (indien van toepassing) de functiecode, bedrijfsnaam, telefoon en E-mail in.
  4. De contactpersoon staat nu gekoppeld aan het project. 
  5. Wanneer op de regel van de contactpersoon ook de kolominformatie **prioriteit** wordt ingevoerd, worden de contactpersonen met de prioriteit 1, 2 en 3 getoond in het tabblad **algemeen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzk4MTk0Miw1ODcyOTczODUsLTQ5Nz
-A3MzA5LDIwODgzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQs
-LTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbNzgxNDk5NzYzLDU4NzI5NzM4NSwtNDk3MD
+czMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MTM4MTQ3NCwt
+OTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3ODA3ODQ2MV19
 -->
