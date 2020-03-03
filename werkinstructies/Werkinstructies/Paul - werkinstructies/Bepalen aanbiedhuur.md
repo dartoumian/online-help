@@ -1,6 +1,7 @@
 # Bepalen aanbiedhuur
 
-Per een gegeven datum, liefst met inachtneming van een opzegtermijn, kan de huur van een eenheid worden opgezegd. Vervolgens wordt de woning geïnspecteerd en zo spoedig mogelijk weer klaargemaakt voor verhuring aan een volgende huurder.
+De aanbiedhuur van de beschikbare verhuurbare eenheid wordt bepaald op basis van het voor die eenheid geldende huurbeleid. 
+
 
 ## Processchema
 
@@ -48,5 +49,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTczOTY5OF19
+eyJoaXN0b3J5IjpbMTA0MDU0NzQyOF19
 -->
