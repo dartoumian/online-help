@@ -7,10 +7,10 @@ De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald 
 
 ## Berekenen nieuwe nettohuur conform huurbeleid 
 
-In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe netto.
+In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekend op basis van het bij die eenheid ingestelde huurbeleid.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-2. Zoek de OG Eenheid op waarvoor de huuropzegging moet worden vastgelegd.
+2. Zoek de OG Eenheid op waarvoor de aanbiedhuur moet worden bepaald.
 3. Klik op de link achter **Klantnr.** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
 4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegd is namens die klant het huurcontract te beëindigen.
 5. Sluit de Klantkaart. U keert weer terug naar het overzicht met OG Eenheden.
@@ -49,5 +49,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTM5MTQwMV19
+eyJoaXN0b3J5IjpbNTY3MDU5MzU0XX0=
 -->
