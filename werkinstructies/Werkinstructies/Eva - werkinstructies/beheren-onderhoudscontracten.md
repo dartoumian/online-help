@@ -105,9 +105,9 @@ Ontvangen offertes worden tevens in DMS vastgelegd en aan de gebruiker toegeweze
  9. Klik op het getal in het feitenblok om de offertekaarten op te vragen. U komt daarmee in een overzicht genaamd **Werkderdenoverzicht**. Dit overzicht toont alle inkoopstukken die zijn aangemaakt vanuit het project en de budgetregel.
  
 >**Tip!** 
-Mocht j een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doe je als volgt:*
-*- ga naar de inkoopoffertekaart door in het lint te kiezen voor **kaart***
-*- met het **prullenbak-icoon** midden bovenaan de inkoopoffertekaart wordt inkoopofferte verwijderd.* 
+Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder dan de offertekaart. Dit doet u als volgt:*
+>- Ga naar de inkoopoffertekaart door te kiezen voor **Kaart***.
+>- Met het **prullenbak-icoon** midden bovenop de inkoopoffertekaart wordt de inkoopofferte verwijderd.
 
 
  12. U gaat nu nu de offertekaarten invullen met relevante gegevens voor de aanvraag. Selecteer hiervoor de eerste offerte in het **Werkderdenoverzicht** en klik op **Kaart** in het lint, om de kaart van de offerte te openen.
@@ -142,9 +142,9 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU2OTAyNDQsNDU1MzY0NjU1LDEyMz
-I0NDM2OTcsNzE5OTUzMTI4LC0xNjczMjkxMzg1LDM5MzkwNzYw
-OSwtMTE4MTY2MDY3OSw3ODE0OTk3NjMsNTg3Mjk3Mzg1LC00OT
-cwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUsOTkxMzgxNDc0
-LC05MDUzMzgzNzAsLTYwMjI3MjYxMSwtMjc4MDc4NDYxXX0=
+eyJoaXN0b3J5IjpbMTM5OTA2NjI1MCw0NTUzNjQ2NTUsMTIzMj
+Q0MzY5Nyw3MTk5NTMxMjgsLTE2NzMyOTEzODUsMzkzOTA3NjA5
+LC0xMTgxNjYwNjc5LDc4MTQ5OTc2Myw1ODcyOTczODUsLTQ5Nz
+A3MzA5LDIwODgzMjAwMzYsMjEzNjI0MTEyNSw5OTEzODE0NzQs
+LTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNzgwNzg0NjFdfQ==
 -->
