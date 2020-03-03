@@ -29,7 +29,7 @@ Het samenvoegen van begrotingsregels is nodig om de vele regels terug te brengen
 
 Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zijn opgebouwd uit dezelfde waarden voor Cluster, Bouwblok, Werksoort, Werksoortboekingsgroep, Sjablooncode en Vrije code budget.
 
- 1. Deze regels zullen na actie **Samenvoegen alle regels op basis van Sjablooncode** worden samengevoegd tot één regel.
+ 1. Deze regels zullen na actie **Samenvoegen alle regels op basis van sjablooncode** worden samengevoegd tot één regel.
  2. De samengevoegde regel is terug te vinden op tabblad **Voorlopige projectregels**.
  3. Alle begrotingsregels die niet kunnen worden samengevoegd, zijn binnen de kladblokimportregels te herkennen aan hun opmaak van de kolom clusternummer.
  4. Door deze regels te selecteren en te kiezen voor **Kopiëren** worden deze regels als losse voorlopige projectregels bij de samengevoegde regels geplaatst.
@@ -45,7 +45,7 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
 
 ### Functie instellen voor contactpersonen
 
- 1. Op tabblad **Functies** kunt u instellen welke **Rol code** toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
+ 1. Op tabblad **Functies** kunt u instellen welke **Rolcode** toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
 
  
 
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzY3NTY3MiwtNjAyMjcyNjExLC0yNz
-gwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbNjAzMTE1ODA0LC02MDIyNzI2MTEsLTI3OD
+A3ODQ2MV19
 -->
