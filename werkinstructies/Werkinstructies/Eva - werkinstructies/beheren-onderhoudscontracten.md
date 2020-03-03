@@ -9,17 +9,16 @@ Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics E
  1. Ga voor het importeren van begrotingsregels via de zoekfunctie ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Kladblokimportoverzicht**, en kies op die pagina voor de actie **Nieuw**. Dynamics Empire maakt een zogenaamde **Kladblokbudget-importkaart** aan met een eerstvolgend volgnummer.
  2. Kies voor **Budget importeren** om een bestand met begrotingsregels te importeren.
  3. Dynamics Empire opent een venster genaamd **Import budget planmatig onderhoud**. Vul in ieder geval de volgende velden in:
-	 * **Importsjablooncode**: de code van het te gebruiken importsjabloon.
-	 * **Bestandsnaam**: Selecteer met behulp van de AssitEdit (…) het te importeren bestand.
-	 * **Projecttype**: betreft de projecttype van de begrotingsregels die je wilt importeren (PO-CO-SO).
-	 * **Begrotingsjaar**: betreft een boekjaar van de begrotingsregels.
- 4. Klik op de knop **Import** in het lint.
- 5. Wanneer de import slaagt, krijgt u melding *De import is succesvol verlopen*.
- 6. Klik op **OK** om de melding te sluiten
- 7. Het importeer-resultaat is te zien op de eerste twee tabbladen (Algemeen en Kladblokimportregels) van de Kladblokbudget-importkaart. Sluit het Kladblokbudget-importkaart met pijltje links boven op deze kaart.
- 8. In overzicht **Kladblokimportoverzicht** is nu een nieuwe record te zien waarin handmatige begrotingsregels zijn geïmporteerd.
- 9. Wanneer u een foutief bestand hebt geïmporteerd, selecteer de betreffende regel en klik op **Verwijderen** in het lint. De Kladblokbudget-importkaart wordt dan in zijn geheel verwijdert en u kan opnieuw beginnen met de knop **Nieuw**
- 10. Wanneer u de begrotingsregels verder wilt verwerken, selecteer dan de nieuwe record en klik op **Bewerken** in het lint. U opent daarmee de Kladblokbudget-importkaart in een bewerken modus. 
+	 * **Importsjablooncode**
+	 * **Bestandsnaam**
+	 * **Projecttype**
+	 * **Begrotingsjaar**
+ 4. Klik op de knop **Budget importeren**. Wanneer de import slaagt, krijgt u melding *De import is succesvol verlopen*.
+ 5. Klik op **OK** om de melding te sluiten.
+ 6. Het importeer-resultaat is te zien op de eerste twee tabbladen (Algemeen en Kladblokimportregels) van de Kladblokbudget-importkaart. Sluit het Kladblokbudget-importkaart met pijltje links boven op deze kaart.
+ 7. In overzicht **Kladblokimportoverzicht** is nu een nieuwe record te zien waarin handmatige begrotingsregels zijn geïmporteerd.
+ 8. Wanneer u een foutief bestand hebt geïmporteerd, selecteer de betreffende regel en klik op **Verwijderen** in het lint. De Kladblokbudget-importkaart wordt dan in zijn geheel verwijdert en u kan opnieuw beginnen met de knop **Nieuw**
+ 9. Wanneer u de begrotingsregels verder wilt verwerken, selecteer dan de nieuwe record en klik op **Bewerken** in het lint. U opent daarmee de Kladblokbudget-importkaart in een bewerken modus. 
 
 ### Het verwerken van de begrotingsregels
  1. De begrotingsregels in dit eerste voorbeeld zijn compleet geimporteerd. Dat wil zeggen, in de begrotingsregels is de samenstelling van de projecten al bepaald d.m.v. een **Sjablooncode**. Daarnaast is per begrotingsregels bepaald wie het **contactpersoon** welke rol deze persoon binnen de projecten zal uitvoeren (projectleider, toezichthouder, woonconsulent, contractbeheerder). Tevens in de initiële planning bepaald in de velden **start -en opleverdatum**.
@@ -74,6 +73,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjA1NjIyNCwtNjAyMjcyNjExLC0yNz
+eyJoaXN0b3J5IjpbMTg0MjU3OTg4MSwtNjAyMjcyNjExLC0yNz
 gwNzg0NjFdfQ==
 -->
