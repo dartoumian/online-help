@@ -1,6 +1,6 @@
 # Bepalen aanbiedhuur
 
-De aanbiedhuur van de beschikbare verhuurbare eenheid wordt bepaald op basis van het voor die eenheid geldende huurbeleid. 
+De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald op basis van het voor die eenheid geldende huurbeleid. Indien nodig, wordt de aanbiedhuur handmatig aangepast. Daarnaast wordt de huurprijsmutatie ingevuld en indien nodig gefiatteerd. 
 
 
 ## Processchema
@@ -49,5 +49,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDU0NzQyOF19
+eyJoaXN0b3J5IjpbLTEyOTczOTY5OTRdfQ==
 -->
