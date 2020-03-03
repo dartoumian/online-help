@@ -45,33 +45,8 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
 
 ### Functie instellen voor contactpersonen
 
- 1. Op tabblad **Functies** kunt u instellen welke **Rolcode** toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
-
- 
-
-
-
-
-
-
- 
-
-
-
-<hr>
-
->#### Uitlichten van tip/extra aandachtspunt o.i.d. (H4)
->
->
-
-
-<hr>
-
-## Zie ook (links naar andere werkprocessen uit dezelfde bedrijfsfunctie) (H2)
-Werkinstructie X  
-Werkinstructie Y  
-Werkinstructie Z
+ 1. Op tabblad **Functies** kunt u instellen welke functiegroepcode (**Functie contact**) toegekend moet worden aan de contactpersonen bij het aanmaken van projecten.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTMzODM3MCwtNjAyMjcyNjExLC0yNz
-gwNzg0NjFdfQ==
+eyJoaXN0b3J5IjpbOTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMj
+I3MjYxMSwtMjc4MDc4NDYxXX0=
 -->
