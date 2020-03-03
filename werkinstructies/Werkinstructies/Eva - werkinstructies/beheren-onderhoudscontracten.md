@@ -124,28 +124,27 @@ In dit proces moeten de aanvragen verstuurd worden naar de verschillende leveran
  4. Zie verder het proces VERWERKEN UITGAANDE POST.
 
 ### Ontvangen inkoopoffertes
-De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuurd. In dit proces worden de volgende handelingen verricht:
-	- Verwerken ontvangen offertes
-	- Archiveren offertes in DMS
 
-Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd, gearchiveerd en pas daarna toegekend aan u. Dit doen zij door een taak in Dynamics Empire voor u aan te maken.
- 1. *Nader uit te werken m.b.t. taakoverzicht in DE R20?*
- 2. 
- 3. De binnenkomende offerte wordt in **DMS** geopend. Bestudeer de offerte en leg daarna de volgende gegevens uit de offerte op de offertekaart in Dynamics Empire vast:
+De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuurd. In dit deelproces worden de volgende handelingen verricht:
+- Verwerken ontvangen offertes
+- Archiveren offertes in DMS
+
+Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd, gearchiveerd en pas daarna toegekend aan u. Dit wordt gedaan door een taak in Dynamics Empire voor u aan te maken.
+ 1. De binnenkomende offerte wordt in **DMS** geopend. Bestudeer de offerte en leg daarna de volgende gegevens uit de offerte op de offertekaart in Dynamics Empire vast:
 	- Ontvangstdatum
 	- Offertenummer leverancier
 	- Prijs
- 4. Ga voor het vastleggen van gegevens van de inkoopoffertes naar het **Projectoverzicht** en open met **Bewerken** in het lint het project van uw keuze.
+ 4. Ga voor het vastleggen van gegevens van de inkoopoffertes naar het **Projectoverzicht** (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")) en open het project van uw keuze.
  5. Klik op het item **Werkderden** in het feitenblok. Het **werkderdenoverzicht** wordt geopend.
  6. Selecteer de betreffende offerte en klik op **Kaart** op de inkoopoffertekaart te openen.
  7. Leg de gegevens uit de ontvangen offerte vast.
- 8. Het geoffreerde bedrag(en) legt u vast in het veld **Direct kostprijs** op de regels van de offerte.
+ 8. Het geoffreerde bedrag legt u vast in het veld **Directe kostprijs** op de regels van de offerte.
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNzQ1NDcwLDQ1NTM2NDY1NSwxMjMyND
-QzNjk3LDcxOTk1MzEyOCwtMTY3MzI5MTM4NSwzOTM5MDc2MDks
-LTExODE2NjA2NzksNzgxNDk5NzYzLDU4NzI5NzM4NSwtNDk3MD
-czMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MTM4MTQ3NCwt
-OTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3ODA3ODQ2MV19
+eyJoaXN0b3J5IjpbLTEzNzcyMzY1MDgsMzkzNzQ1NDcwLDQ1NT
+M2NDY1NSwxMjMyNDQzNjk3LDcxOTk1MzEyOCwtMTY3MzI5MTM4
+NSwzOTM5MDc2MDksLTExODE2NjA2NzksNzgxNDk5NzYzLDU4Nz
+I5NzM4NSwtNDk3MDczMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1
+LDk5MTM4MTQ3NCwtOTA1MzM4MzcwLC02MDIyNzI2MTEsLTI3OD
+A3ODQ2MV19
 -->
