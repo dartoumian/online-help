@@ -32,16 +32,16 @@ Aan het samenvoegen zijn voorwaarden verbonden. De begrotingsregels dienen te zi
  1. Deze regels zullen na actie **Samenvoegen alle regels op basis van Sjablooncode** worden samengevoegd tot één regel.
  2. De samengevoegde regel is terug te vinden op tabblad **Voorlopige projectregels**.
  3. Alle begrotingsregels die niet kunnen worden samengevoegd, zijn binnen de kladblokimportregels te herkennen aan hun opmaak van de kolom clusternummer.
- 4. Door deze regels te selecteren te kiezen voor **Beheren - Kopiëren**   worden deze regels als losse Voorlopige projectregels bij de samengevoegde regels geplaatst.
- 5. Alle regels met dezelfde Voorlopige projectnummer zullen bij het aanmaken van onderhoudsprojecten gekoppeld worden onder één project. De sjablooncode is deze kolom is aan te passen, indien in Excel een foutje is gemaakt.
+ 4. Door deze regels te selecteren en te kiezen voor **Kopiëren** worden deze regels als losse voorlopige projectregels bij de samengevoegde regels geplaatst.
+ 5. Alle regels met hetzelfde voorlopige projectnummer zullen bij het aanmaken van onderhoudsprojecten gekoppeld worden onder één project. De sjablooncode is deze kolom is aan te passen, voor het geval in Excel een foutje is gemaakt.
 
 ### Het oplossen van samenvoegingsconflicten
 
- 1. Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de Projectomschrijving, Contactpersonen, Plaats of vrije tekstvelden van die regels verschillen, treed er een samenvoegingsconflict op. Dit is te zien aan een JA in kolom **Samenvoegingsconflict** op tabblad Voorlopige projectregels
+ 1. Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de Projectomschrijving, Contactpersonen, Plaats of vrije tekstvelden van die regels verschillen, treed er een samenvoegingsconflict op. Dit is te zien aan een JA in kolom **Samenvoegingsconflict** op tabblad **Voorlopige projectregels**.
  2. Klik op **Ja** in deze kolom om de oorspronkelijke regels te tonen.
- 3. Doorloop op alle samenvoegingsconflicten en los ze één voor één op.
+ 3. Doorloop alle samenvoegingsconflicten en los ze één voor één op.
 
-*Tip! Plaats een filter op alle regels met een samenvoegingsconflict voordat je bezig gaat met het oplossen. Dit doe je door met de rechter muisknop op een willekeurige Ja in kolom Samenvoegingsconflict te klikken en Filteren op deze waarde te selecteren. Met Filter wissen hef je de filter weer op*
+Tip! Plaats een filter op alle regels met een samenvoegingsconflict voordat je bezig gaat met het oplossen. Dit doe je door met de rechter muisknop op een willekeurige Ja in kolom Samenvoegingsconflict te klikken en Filteren op deze waarde te selecteren. Met Filter wissen hef je de filter weer op*
 
 ### Functie instellen voor contactpersonen
 
@@ -72,6 +72,6 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODA5NTk5MSwtNjAyMjcyNjExLC0yNz
+eyJoaXN0b3J5IjpbLTcwNzMyNzUzNiwtNjAyMjcyNjExLC0yNz
 gwNzg0NjFdfQ==
 -->
