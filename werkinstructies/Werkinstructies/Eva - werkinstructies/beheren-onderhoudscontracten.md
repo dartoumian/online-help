@@ -118,10 +118,11 @@ Mocht u een fout hebben gemaakt bij het selecteren van de leverancier, verwijder
 
 ### Versturen inkoopoffertes
 In dit proces moeten de aanvragen verstuurd worden naar de verschillende leveranciers.
- 1. Klik op de offertekaart op **Nieuw-Worddocument** om een offertebrief te genereren en te versturen.
- 3. U komt in een overzicht met briefsjablonen ten behoeve van inkoop. Selecteer het gewenste briefsjabloon en klik op **OK**
- 4. Als de brief vragen stelt, wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
- 5. Zie verder het proces **[Verwerken uitgaande post](#Verwerken-uitgaande-post)**
+ 1. Klik op de offertekaart op **Nieuw - Worddocument** om een offertebrief te genereren en te versturen.
+ 2. U komt in een overzicht met briefsjablonen ten behoeve van inkoop. Selecteer het gewenste briefsjabloon en klik op **OK**.
+ 3. Als de brief vragen stelt, wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
+ 4. Zie verder het proces VERWERKEN UITGAANDE POST.
+
 ### Ontvangen inkoopoffertes
 De verschillende offertes worden ontvangen en naar de juiste afdeling doorgestuurd. In dit proces worden de volgende handelingen verricht:
 	- Verwerken ontvangen offertes
@@ -142,7 +143,7 @@ Inkomende poststukken worden over het algemeen gescand door de postkamer, geïnd
  9.  Gebruik de bladerknoppen links en rechts van de offertekaart om te bladeren naar de 2e offertekaart om de gegevens in te vullen.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNDQ0NzM0LDQ1NTM2NDY1NSwxMjMyND
+eyJoaXN0b3J5IjpbMzkzNzQ1NDcwLDQ1NTM2NDY1NSwxMjMyND
 QzNjk3LDcxOTk1MzEyOCwtMTY3MzI5MTM4NSwzOTM5MDc2MDks
 LTExODE2NjA2NzksNzgxNDk5NzYzLDU4NzI5NzM4NSwtNDk3MD
 czMDksMjA4ODMyMDAzNiwyMTM2MjQxMTI1LDk5MTM4MTQ3NCwt
