@@ -19,12 +19,12 @@ Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een
 
 U kunt een deel van de vordering binnen een derdendossier afboeken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
-2. Selecteer het derdendossier waarvoor u een deel van de vordering af wilt boeken en open deze. 
-3. Vul in het veld **Bedrag betaling** het deel van de vordering in dat u niet af wilt boeken. Of vul in het veld **% betaling** het percentage van de vordering in dat u niet af wilt boeken. In het veld **Af te boeken** wordt het af te boeken bedrag getoont. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
+2. Selecteer het derdendossier waarvoor u een deel van de vordering af wilt boeken en open dit. 
+3. Vul in het veld **Bedrag betaling** het deel van de vordering in dat u niet af wilt boeken, of vul in het veld **% betaling** het percentage van de vordering in dat u niet af wilt boeken. In het veld **Af te boeken** wordt het af te boeken bedrag getoond. 
 4. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 5. Vul de boekingsdatum van de afboeking in. 
-6. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batch naam** de Batch die u wilt gebruiken voor het afboeken. Afhankelijk of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
+6. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
 7. Klik op **OK** om dit deel van de vordering af te boeken. 
 
 ## Afboeken restant vordering
@@ -68,6 +68,6 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDY2MDc1OCwtMTQxMDIxMjc3OCwxOD
-E4ODY3NjIwLDYyNDk5ODU0MF19
+eyJoaXN0b3J5IjpbLTEyNTg5OTk0MzgsLTU1NDY2MDc1OCwtMT
+QxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF19
 -->
