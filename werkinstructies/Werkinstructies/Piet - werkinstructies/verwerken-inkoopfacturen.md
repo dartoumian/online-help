@@ -64,7 +64,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 > Wanneer u meerdere factuurregels aan wilt maken kunt u de factuurregels ook bewerken in Excel. 
 > 1. Selecteer één of meer factuurregels. Kopieer de regels (Ctrl+C) en plak de deze (Ctrl+V) in een Excelbestand.
 > 2. Voer onderstaande stappen uit voor alle regels.
-> 3. Selecteer de regels in het Excelbestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur, kopieer de regels en plak ze met Ctrl+V terug in de factuur.
+> 3. Selecteer de regels in het Excelbestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur, kopieer de regels en plak ze terug in de factuur.
 
 1. Wanneer alle benodigde informatie beschikbaar is kan de factuurregel gevuld worden. Vul de volgende velden:
 	- **Soort**: In geval van Service en Verbruik facturen selecteer **Kostencode**. In geval van reguliere kosten kies **Grootboekrekening**
@@ -162,7 +162,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDE0MzcyMiwtMTE0NTI5MTc1MywtNz
+eyJoaXN0b3J5IjpbLTUyNTMwOTg4OCwtMTE0NTI5MTc1MywtNz
 MzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQw
 NDk2LDE3MTQyMzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLT
 E2OTk2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2
