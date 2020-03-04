@@ -29,11 +29,11 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 
 1. Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
 2. Dienen er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
-3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud-administrate), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud-administratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
-Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA koppeling of via het leveranciersportaal dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
+Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA-koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
 2. Zoek het ordernummer wat op de factuur vermeld staat. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is betekend dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
@@ -163,6 +163,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTcwMjIwNCw5ODU2OTcwMTAsMTE5Mz
-MyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
+eyJoaXN0b3J5IjpbLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5OD
+U2OTcwMTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgx
+NjVdfQ==
 -->
