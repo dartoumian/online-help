@@ -25,7 +25,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat l vr**[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
- Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+ - Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
  -  er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
 Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoudadministratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
@@ -47,6 +47,7 @@ Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstre
 3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ### Ophalen overige orderregels
+
 Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'reguliere' orderregels opgehaald te worden. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Orderregels ophalen**. De pagina **Orderregels ophalen** opent. 
@@ -158,8 +159,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzg5Nzk3NiwxODEwMDkzNDAxLC01OD
-E2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcw
-MTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTIxNDA0MTE1LDE4MTAwOTM0MDEsLTU4MT
+Y3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4NTY5NzAx
+MCwxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5ODE2NV19
 -->
