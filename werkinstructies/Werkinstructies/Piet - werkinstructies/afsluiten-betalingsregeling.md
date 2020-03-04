@@ -18,7 +18,7 @@ U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalin
 	-	**Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend).
 	**OF**
 	-	**Termijnbedrag**: Geef het bedrag per termijn op (het aantal termijnen wordt automatisch berekend.
- 3. Klik op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**) worden. U keer terug naar de pagina **Klanten.**
+ 3. Klik op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan worden gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**). U keert terug naar de pagina **Klanten**.
 
 
 ## Aanmaken betalingsregeling zonder sjabloon
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxOTMwOTEsLTE0MjA4NTA1NzEsLT
-UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbMTg0MDY4NTgyMywtMTQyMDg1MDU3MSwtNT
+M4OTY2MTA3LDU1MDI2NTczMV19
 -->
