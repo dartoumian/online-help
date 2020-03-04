@@ -36,9 +36,9 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
 2. Zoek het ordernummer dat op de factuur vermeld staat. Wanneer dit nummer niet op te halen is, betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.
-3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie (BTW type, bedragen en/of aantallen) aanvullen. 
+3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen (BTW-type, bedragen en/of aantallen). 
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
-5. U keer terug naar de pagina inkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**
+5. U keer terug naar de pagina inkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 
 ### Ophalen ontvangstregels
@@ -162,9 +162,10 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MT
-QyMzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLTE2OTk2Nzgz
-NTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2NzgyODcsLT
-EyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcwMTAsMTE5MzMy
-MjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
+eyJoaXN0b3J5IjpbLTU4OTQ5Mjk5MSwtODY2NjExNDU0LDE1Nj
+I5NDA0OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcwMjE1
+NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MDEsLT
+U4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4NTY5
+NzAxMCwxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5ODE2NV
+19
 -->
