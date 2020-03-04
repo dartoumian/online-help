@@ -17,9 +17,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW-bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  Indien zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels.
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
- Nadat u bovenstaande gegevens gecontroleerd en aangevuld het boekt u de verplichting door op **Boeken verplichting** te klikken. De **oekstatus** van de factuur wijzigt naar Verplichting geboekt
- - Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
-	-  er al factuurregels aanwezig zijn,  dan v **[Controleren factuurregels](#controleren-factuurregels)**.
+ 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld het boekt u de verplichting door op **Boeken verplichting** te klikken. De **boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
+ 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
+	-  Alser al factuurregels aanwezig zijn,  dan v **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder  **[Regels ophalen](#regels-ophalen)**.
 	- s er **geen ordernummer** vermeld op de factuur
 		- Had er wel een ordernummer op de factuur moeten staan, ga ded r **[Toewijzen factuur](#toewijzen-factuur)**.
@@ -159,8 +159,9 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLTE2OT
-k2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2Nzgy
-ODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcwMTAsMT
-E5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc3NTI0NTQsMTg3NjQ2OTQzOCwxNT
+g3MDIxNTYsLTE2OTk2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkz
+NDAxLC01ODE2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNC
+w5ODU2OTcwMTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDEx
+OTgxNjVdfQ==
 -->
