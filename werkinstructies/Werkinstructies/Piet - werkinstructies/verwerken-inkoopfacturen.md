@@ -27,9 +27,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 		
 ## Regels ophalen
 
-1. Heeft de order betrekking op reparatie- of mutatieonderhoud, ga dan verder met processtap **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
-2. Dienen er voor de order ontvangstregels opgehaald te worden, ga dan verder met processtap **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
-3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate). Ga dan verder bij processtap  **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+1. Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+2. Dienen er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
+3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud-administrate), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
@@ -163,6 +163,6 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU5NDg1NzQsOTg1Njk3MDEwLDExOT
-MzMjIwNDIsLTUxNzc5NjMzNSwtMzQxMTk4MTY1XX0=
+eyJoaXN0b3J5IjpbLTU3MTcwMjIwNCw5ODU2OTcwMTAsMTE5Mz
+MyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
 -->
