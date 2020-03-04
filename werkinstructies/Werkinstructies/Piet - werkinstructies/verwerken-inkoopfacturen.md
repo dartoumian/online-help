@@ -90,11 +90,11 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
 		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
-	- **Nr.**: Het grootboekrekening nummer of de kostencode
-	- **Omschrijving**: Dit is de omschrijving de meegegeven wordt aan de grootboekposten. 
-	- **Btw-productboekingsgroep**: De BTW-productboekingsgroep die van toepassing is. 
-	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
-	- **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Nr.**: Dit betreft het grootboekrekeningnummer of de kostencode.
+	- **Omschrijving**
+	- **Btw-productboekingsgroep**
+	- **Directe kostprijs Excl. btw**
+	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig ga verder bij de processtap **[Match en boek factuur](#match-en-boek-factuur)**.
 5. Zijn er wel aanpassingen nodig ga dan verder bij de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yND
-c3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1Mjkx
-NzUzLC03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LD
-E1NjI5NDA0OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcw
-MjE1NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MD
-EsLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4
-NTY5NzAxMF19
+eyJoaXN0b3J5IjpbNzE5NjAwMjU4LDE4ODUwOTk3ODMsMTIwND
+I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
+OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLT
+g2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2
+OTQzOCwxNTg3MDIxNTYsLTE2OTk2NzgzNTcsMTc4NjE5MDUzMC
+wxODEwMDkzNDAxLC01ODE2NzgyODcsLTEyNzI1NTc3NzAsLTU3
+MTcwMjIwNF19
 -->
