@@ -88,7 +88,7 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
-		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer of minderwerk order aan dient te maken **[Toewijzen factuur](#toewijzen-factuur)**.
+		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Het grootboekrekening nummer of de kostencode
 	- **Omschrijving**: Dit is de omschrijving de meegegeven wordt aan de grootboekposten. 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcwMzMyMTIsMTIwNDI2NTY4MSwtMj
-Q3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5
-MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NC
-wxNTYyOTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2OTQzOCwxNTg3
-MDIxNTYsLTE2OTk2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzND
-AxLC01ODE2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5
-ODU2OTcwMTBdfQ==
+eyJoaXN0b3J5IjpbMTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yND
+c3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1Mjkx
+NzUzLC03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LD
+E1NjI5NDA0OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcw
+MjE1NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MD
+EsLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4
+NTY5NzAxMF19
 -->
