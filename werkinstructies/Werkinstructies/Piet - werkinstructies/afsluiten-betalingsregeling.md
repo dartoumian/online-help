@@ -42,13 +42,13 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 
 ## Aanmaken nieuwe mandaatcode
 
-Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingstermijn automatisch incasseren, maar de klant heeft nog geen mandaat voor automatische incasso, volg dan de volgenden stappen uit.
+Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingstermijn automatisch incasseren, maar de klant heeft nog geen mandaat voor automatische incasso, voer dan de volgende stappen uit.
 
-1. Klik in veld waar u een mandaat moet selecteren op de knop **Nieuw**. Het scherm **Mandaat incasso** opent. 
-2. Klik op enter. Er wordt een nummer gevuld in het veld **Code**
+1. Klik in het veld waar u een mandaat moet selecteren op de knop **Nieuw**. Het scherm **Mandaat incasso** opent.
+2. Druk op **Enter**. Er wordt een nummer gevuld in het veld **Code**.
 3. Vul de volgende velden:
-	- **Rede incasso**: Selecteer een incasso rede
-	- **Doorlopend**: Ja
+	- **Reden incasso**
+	- **Doorlopend**: 'Ja'
 	- **Datum tekening**: Wordt automatisch gevuld met de datum van vandaag
 	- **Onze bankrekening**: Vul de bankrekening in vanaf waar geïncasseerd wordt. 
 3. Klik op **OK**. Het mandaat wordt aangepast en wordt gevuld in het veld vanaf waar u het nieuwe mandaat aangemaakt is. 
@@ -78,6 +78,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTYzMzk2OCwtMTQyMDg1MDU3MSwtNT
-M4OTY2MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTEzNDE1MDUzMjQsLTE0MjA4NTA1NzEsLT
+UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
 -->
