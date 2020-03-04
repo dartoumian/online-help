@@ -48,7 +48,7 @@ U kunt de vordering in een derdendossier in één keer in zijn geheel afboeken.
 3. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 4. Vul de boekingsdatum van de afboeking in. 
 5. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batch naam** de Batch die u wilt gebruiken voor het afboeken. Afhankelijk of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
-6. Klik op **OK** om dit deel van de vordering af te boeken.
+6. Klik op **OK** om de vordering af te boeken.
 
 ## Terugboeken vordering
 
@@ -69,5 +69,6 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODg2NzYyMCw2MjQ5OTg1NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk4NDE4MTgsMTgxODg2NzYyMCw2Mj
+Q5OTg1NDBdfQ==
 -->
