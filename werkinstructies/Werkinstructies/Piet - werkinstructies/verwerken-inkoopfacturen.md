@@ -103,7 +103,7 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en moeten worden, pas dan de waarden in de desbetreffende velden aan. 
 
 1. De volgende velden zijn nog muteerbaar nadat ze o.b.v. een order zijn aangemaakt:
-	- **Omschrijving**: Dit is de omschrijving de meegegeven wordt aan de grootboekposten. 
+	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep**: De BTW-productboekingsgroep die van toepassing is. 
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
 	- **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4OD
-UwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYw
-OTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC
-01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQy
-MzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLTE2OTk2NzgzNT
-csMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2NzgyODcsLTEy
-NzI1NTc3NzBdfQ==
+eyJoaXN0b3J5IjpbMTg3MTY2OTQ5LDE3MDA5MDUxNTIsLTc4NT
+k2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5
+MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3NTMsLT
+czMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0
+MDQ5NiwxNzE0MjMwMTM5LDE4NzY0Njk0MzgsMTU4NzAyMTU2LC
+0xNjk5Njc4MzU3LDE3ODYxOTA1MzAsMTgxMDA5MzQwMSwtNTgx
+Njc4Mjg3XX0=
 -->
