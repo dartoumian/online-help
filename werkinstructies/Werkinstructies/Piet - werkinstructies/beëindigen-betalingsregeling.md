@@ -15,12 +15,12 @@ In deze processtap wordt uitgelegd hoe betalingsregeling beëindigd en hoe u de 
 ## Beëindigen betalingsregeling in bulk
 In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaan zijn, in bulk beëindigt. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregeling beëindigen** Het gelijknamige scherm opent. 
-2. Selecteer in het filterveld **Toon** de waarde Volledig betaald. In het scherm worden nu alle volledig betaalde betalingsregelingen getoond die nog niet beëindigd zijn. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregeling beëindigen**. Het gelijknamige scherm opent. 
+2. Selecteer in het filterveld **Toon** de waarde 'Volledig betaald'. In het scherm worden nu alle volledig betaalde betalingsregelingen getoond die nog niet beëindigd zijn. 
 3. Selecteer alle regels en klik op **Markering aan**. 
 4. Klik op **Betalingsregeling(en) beëindigen**. Het scherm **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjQ4MTE1NSwtODEwMTY5NjUyLDIwNT
+eyJoaXN0b3J5IjpbLTI0MjEwMDMyMSwtODEwMTY5NjUyLDIwNT
 Y3MjMwNCwxOTc4MTczMjkxLDg5OTQyMTgxLC02MjE1NjkyODMs
 LTIwMDIxMjQ4OTEsNTYxODc1MDkzXX0=
 -->
