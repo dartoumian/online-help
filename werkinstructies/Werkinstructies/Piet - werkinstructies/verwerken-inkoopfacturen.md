@@ -20,16 +20,16 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld hebt boekt u de verplichting door op **Boeken verplichting** te klikken. De **Boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	- Als er al factuurregels aanwezig zijn, ga dan verder bij processtap **[Controleren factuurregels](#controleren-factuurregels)**.
-	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder bij **[Regels ophalen](#regels-ophalen)**.
+	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
 	- Als er **geen ordernummer** vermeld staat op de factuur:
-		- Had er wel een ordernummer op de factuur moeten staan, ga dan verder bij processtap **[Toewijzen factuur](#toewijzen-factuur)**.
-		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder bij processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
+		- Had er wel een ordernummer op de factuur moeten staan, ga dan verder met processtap **[Toewijzen factuur](#toewijzen-factuur)**.
+		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
 
-1. Heeft de order betrekking op reparatie- of mutatieonderhoud ga verder bij processtap **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+1. Heeft de order betrekking op reparatie- of mutatieonderhoud, ga dan verder met processtap **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
 2. Dienen er voor de order ontvangstregels opgehaald te worden ga dan verder bij de processtap **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
-3.Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate). Ga dan verder bij processtap  **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate). Ga dan verder bij processtap  **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
@@ -163,6 +163,6 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyOTUxMTE5LDExOTMzMjIwNDIsLTUxNz
+eyJoaXN0b3J5IjpbOTg1Njk3MDEwLDExOTMzMjIwNDIsLTUxNz
 c5NjMzNSwtMzQxMTk4MTY1XX0=
 -->
