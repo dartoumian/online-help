@@ -14,10 +14,10 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Factuurnr. leverancier**
 	- **Omschrijving**: **LET OP!** Dit is niet de omschrijving die meekomt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
 	- **Factuurbedrag**
-	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW bedrag wat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**. Indien zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is wordt de BTW-post o.b.v de verplichting tegen geboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
+	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW-bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**. Als zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels.
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
-4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door op **Boeken verplichting** te klikken. De **boekstatus** van de factuur wijzigt naar **Verplichting geboekt**.
+4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld hebt boekt u de verplichting door op **Boeken verplichting** te klikken. De **Boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	- Indien er al factuurregels aanwezig zijn ga verder bij processstap **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Indien er een **ordernummer vermeld** staat op de factuur ga dan verder bij **[Regels ophalen](#regels-ophalen)**.
@@ -163,6 +163,6 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NjEwMjU3LDExOTMzMjIwNDIsLTUxNz
-c5NjMzNSwtMzQxMTk4MTY1XX0=
+eyJoaXN0b3J5IjpbLTE4ODc5NDcyMTksMTE5MzMyMjA0MiwtNT
+E3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
 -->
