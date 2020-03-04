@@ -5,9 +5,9 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = 'Ongeboekt'. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
-2. Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. 
-3. Controleer de volgende velden en pas waar nodig de gegevens aan:
+ - Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = 'Ongeboekt'. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
+ - Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. 
+ - Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
 	- **Boekingsdatum**: **LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
 	- **Documentdatum**
@@ -17,8 +17,8 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW-bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**. Als zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels.
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
-4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld hebt boekt u de verplichting door op **Boeken verplichting** te klikken. De **Boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
-5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
+ - Nadat u bovenstaande gegevens gecontroleerd en aangevuld hebt boekt u de verplichting door op **Boeken verplichting** te klikken. De **Boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
+ - Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	- Als er al factuurregels aanwezig zijn, ga dan verder bij processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
 	- Als er **geen ordernummer** vermeld staat op de factuur:
@@ -26,10 +26,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
-
-1. Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
-2. Dienen er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
-3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud-administratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+ - Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+ - Dienen er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
+ - Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud-administratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
@@ -163,7 +162,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5OD
-U2OTcwMTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgx
-NjVdfQ==
+eyJoaXN0b3J5IjpbLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNT
+cxNzAyMjA0LDk4NTY5NzAxMCwxMTkzMzIyMDQyLC01MTc3OTYz
+MzUsLTM0MTE5ODE2NV19
 -->
