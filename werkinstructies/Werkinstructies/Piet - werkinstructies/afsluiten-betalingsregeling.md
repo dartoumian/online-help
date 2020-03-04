@@ -22,7 +22,7 @@ U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalin
 
 
 ## Aanmaken betalingsregeling zonder sjabloon
-Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wanneer u een betalingsregeling die niet binnen de sjabloonwaarde past aan wilt maken, kunt u zonder een sjabloon een betalingsregeling aanmaken. 
+Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wanneer u een betalingsregeling die niet binnen de sjabloonwaarde past aan wilt maken, kunt u dit zonder een sjabloon doen. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Klanten**. 
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling**. De pagina **Betalingsregeling** opent. Wanneer u op Enter klikt krijgt de betalingsregeling een nummer. 
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk3Mjg2MiwtMTQyMDg1MDU3MSwtNT
-M4OTY2MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTE4MDgwMjA5MDUsLTE0MjA4NTA1NzEsLT
+UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
 -->
