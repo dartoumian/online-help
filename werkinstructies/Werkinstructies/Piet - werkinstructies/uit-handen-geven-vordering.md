@@ -1,13 +1,9 @@
 
 # Uit handen geven vordering
 
-## Omschrijving:
 In dit werkproces worden vorderingen op klanten uit handen gegeven aan een deurwaarder en wordt de voortgang van het dossier bijgehouden.
 
 ## Processchema
-
-## Processtappen
-
 
 ## Opvoeren deurwaarderdossier
 
@@ -82,5 +78,6 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTEwMjA2MCwtMTc0MTM3MTI1XX0=
+eyJoaXN0b3J5IjpbLTk4NTYyMDI3OCwyMDg5MTAyMDYwLC0xNz
+QxMzcxMjVdfQ==
 -->
