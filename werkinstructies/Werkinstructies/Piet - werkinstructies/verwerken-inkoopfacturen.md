@@ -5,38 +5,37 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden.
 
- - Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = 'Ongeboekt'. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
- - Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. 
- - Controleer de volgende velden en pas waar nodig de gegevens aan:
+ Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = 'Ongeboekt'. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
+ Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen  Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
 	- **Boekingsdatum**: **LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
 	- **Documentdatum**
 	- **Factuurnr. leverancier**
-	- **Omschrijving**: **LET OP!** Dit is niet de omschrijving die meekomt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
+	- **Omschrijving**: **LET OP Dit is niet de omschrijving die meekomt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
 	- **Factuurbedrag**
-	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW-bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**. Als zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels.
+	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van kt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTWbedrag at geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels.
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
- - Nadat u bovenstaande gegevens gecontroleerd en aangevuld hebt boekt u de verplichting door op **Boeken verplichting** te klikken. De **Boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
+ Nadat u bovenstaande gegevens gecontroleerd en aangevuld het boekt u de verplichting door op **Boeken verplichting** te klikken. De **oekstatus** van de factuur wijzigt naar Verplichting geboekt
  - Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
-	- Als er al factuurregels aanwezig zijn, ga dan verder bij processtap **[Controleren factuurregels](#controleren-factuurregels)**.
-	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
-	- Als er **geen ordernummer** vermeld staat op de factuur:
-		- Had er wel een ordernummer op de factuur moeten staan, ga dan verder met processtap **[Toewijzen factuur](#toewijzen-factuur)**.
-		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
+	-  er al factuurregels aanwezig zijn,  dan vr **[Controleren factuurregels](#controleren-factuurregels)**.
+	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder  **[Regels ophalen](#regels-ophalen)**.
+	- s er **geen ordernummer** vermeld op de factuur
+		- Had er wel een ordernummer op de factuur moeten staan, ga ded r **[Toewijzen factuur](#toewijzen-factuur)**.
+		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat l vr**[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
- - Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
- - Dienen er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
- - Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud-administratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+ Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+ -  er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
+Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoudadministratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
-Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA-koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
+Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRAkoppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
-2. Zoek het ordernummer dat op de factuur vermeld staat. Als dit nummer niet op te halen is betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
-3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen, zoals BTW-type, bedragen en/of aantallen.
+2. Zoek het ordernummer at op de factuur vermeld staat. Als dit nummer niet op te halen is betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen, zoals BTWtype, bedragen en/of aantallen.
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
 5. U keer terug naar de pagina nkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**
 
@@ -46,7 +45,7 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstregels opgehaald te worden in de factuur. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vind deze knop onder de FastTab **Regels**. De pagina **Ontvangstregels ophalen** opent. 
-2. Zoek het ordernummer wat op de factuur vermeld staat op. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is betekend dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+2. Zoek het ordernummer wat op de factuur vermeld staat op.  t nummer niet op te halen is beteken dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ### Ophalen overige orderregels
@@ -162,7 +161,8 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDI3MjEwMCwtNTgxNjc4Mjg3LC0xMj
-cyNTU3NzcwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIw
-NDIsLTUxNzc5NjMzNSwtMzQxMTk4MTY1XX0=
+eyJoaXN0b3J5IjpbMTgxMDA5MzQwMSwyMDk0MjcyMTAwLC01OD
+E2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcw
+MTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ
+==
 -->
