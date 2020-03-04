@@ -7,18 +7,18 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indi
 ## Aanmaken betalingsregeling via sjabloon
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden (zie **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**).
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me") aar **Klanten**.
-2. waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me") aar **Klanten**.
+ 2. waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
 	-	**Sjablooncode**
 	-	**Mandaatcode**mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
 	-	**Totaalbedrag Regeling**:
 		-	Klik op de drie puntjes. Het scherm **Betalingsregelingwizard** opent. 
-		-	Selecteer de posten die u op wilt nemen in de betalingsregeling
-		-	Klik op **OK**
-	-	**Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend
+		-	Selecteer de posten die u op wilt nemen in de betalingsregeling.
+		-	Klik op **OK**.
+	-	**Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend).
 	**OF**
-	-	**Termijnbedrag**: Geef het bedrag per termijn op (het aantal termijnen wordt automatisch berekend
-2. Klik op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**) worden. U keer terug naar de pagina **Klanten.**
+	-	**Termijnbedrag**: Geef het bedrag per termijn op (het aantal termijnen wordt automatisch berekend.
+ 3. Klik op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**) worden. U keer terug naar de pagina **Klanten.**
 
 
 ## Aanmaken betalingsregeling zonder sjabloon
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA4NTA1NzEsLTIxODA4MzQ3MywtNT
-M4OTY2MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTE4MzYxOTMwOTEsLTE0MjA4NTA1NzEsLT
+UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
 -->
