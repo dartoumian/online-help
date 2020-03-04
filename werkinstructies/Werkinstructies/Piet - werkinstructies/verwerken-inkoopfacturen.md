@@ -131,13 +131,13 @@ Wanneer een factuur aan u toegewezen is beteken dit dat er een vraag of verzoek 
 
 ## Match en boek factuur
 
-Wanneer de factuurregels aangemaakt zijn kan het document gematch en geboekt worden. 
+Wanneer de factuurregels aangemaakt zijn kan het document gematcht en geboekt worden. 
 
-1. Klik op Match en Boek. Eventueel wordt er een goedkeuringspost toegewezen aan een gebruiker. Dit niet alleen afhankelijk van het overeenkomen van de factuurregels met de order- of ontvangstregels, maar ook van de steekproefinstellingen.Blijkt op basis van de instellingen dat de factuur niet meer goedgekeurd hoeft te worden dan wordt de factuur direct geboekt. 
+1. Klik op **Match en Boek**. Eventueel wordt er een goedkeuringspost toegewezen aan een gebruiker. Dit is niet alleen afhankelijk van het overeenkomen van de factuurregels met de order- of ontvangstregels, maar ook van de steekproefinstellingen.Blijkt op basis van de instellingen dat de factuur niet meer goedgekeurd hoeft te worden, dan wordt de factuur direct geboekt. 
 
 ## Goedkeuren document
 
-Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces GOEDKEUREN DOCUMENTEN
+Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces GOEDKEUREN DOCUMENTEN.
 
 ## Behandelen geweigerde documenten 
 
@@ -163,11 +163,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwND
-AwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIs
-LTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nz
-c5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3
-NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMT
-U2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4NzY0Njk0MzgsMTU4NzAy
-MTU2XX0=
+eyJoaXN0b3J5IjpbLTYxMzQ3NzgzOSwtMjg2MDgxMDQ5LDk5OT
+gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcs
+MTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwND
+I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
+OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLT
+g2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2
+OTQzOF19
 -->
