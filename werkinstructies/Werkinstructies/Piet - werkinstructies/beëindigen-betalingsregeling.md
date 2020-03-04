@@ -1,12 +1,8 @@
 # Beëindigen betalingsregeling
 
-
-## Omschrijving:
 In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indien mogelijk een betalingsregeling aangemaakt.
 
 ## Processchema
-
-## Processtappen
 
 ## Aanmaken betalingsregeling via sjabloon
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**. 
@@ -81,5 +77,5 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQ0NjM5NF19
+eyJoaXN0b3J5IjpbMTUxNjA4MjE0MCwxNzQ4NDQ2Mzk0XX0=
 -->
