@@ -42,11 +42,11 @@ Wanneer u een deel van de vordering afgeboekt heeft kunt u het restant ook afboe
 
 U kunt de vordering in een derdendossier in één keer in zijn geheel afboeken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
-2. Selecteer het derdendossier waarvoor u een deel van de vordering af wilt boeken en open het dossier 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
+2. Selecteer het derdendossier waarvoor u een deel van de vordering af wilt boeken en open het dossier.
 3. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 4. Vul de boekingsdatum van de afboeking in. 
-5. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batch naam** de Batch die u wilt gebruiken voor het afboeken. Afhankelijk of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
+5. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
 6. Klik op **OK** om de vordering af te boeken.
 
 ## Terugboeken vordering
@@ -68,7 +68,7 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTYyOTEwMywtMTI1ODk5OTQzOCwtNT
+eyJoaXN0b3J5IjpbLTcyMzMyNTQxMCwtMTI1ODk5OTQzOCwtNT
 U0NjYwNzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2MjAsNjI0OTk4
 NTQwXX0=
 -->
