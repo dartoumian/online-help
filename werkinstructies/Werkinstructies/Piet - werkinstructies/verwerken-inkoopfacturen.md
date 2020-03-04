@@ -35,7 +35,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA-koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
-2. Zoek het ordernummer wat op de factuur vermeld staat. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is betekend dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+2. Zoek het ordernummer dat op de factuur vermeld staat. Als dit nummer niet op te halen is betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie (BTW type, bedragen en/of aantallen) aanvullen. 
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
 5. U keer terug naar de pagina inkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**
@@ -162,7 +162,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNT
-cxNzAyMjA0LDk4NTY5NzAxMCwxMTkzMzIyMDQyLC01MTc3OTYz
-MzUsLTM0MTE5ODE2NV19
+eyJoaXN0b3J5IjpbMTQwMTI2MzM0NiwtNTgxNjc4Mjg3LC0xMj
+cyNTU3NzcwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIw
+NDIsLTUxNzc5NjMzNSwtMzQxMTk4MTY1XX0=
 -->
