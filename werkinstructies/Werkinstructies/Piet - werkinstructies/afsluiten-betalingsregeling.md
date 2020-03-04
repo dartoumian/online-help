@@ -66,7 +66,7 @@ Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klan
 7. Is de betalingsregeling akkoord, dan kunt u verder gaan naar de stap **[Activeren betalingsregeling](#activeren-betalingsregeling)**. 
 
 ## Activeren betalingsregeling
-Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling activeren. 
+Wanneer u de betalingsregeling gecontroleerd heeft kunt u dez\e betalingsregeling activeren. 
 
 1. Vanaf de pagina betalingsregeling klikt u op **Activeren**. U krijgt een bevestigingsvraag die u met Ja beantwoord. U keer terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
 2. Klik op Worddocument. Het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor een nieuwe betalingsregeling en klik op **OK**. 
@@ -77,6 +77,7 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC0xND
-IwODUwNTcxLC01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
+eyJoaXN0b3J5IjpbODgyMDAxMjc3LDEwNDUwODkzNTIsMTQyNj
+g4OTUyMSwtMTQyMDg1MDU3MSwtNTM4OTY2MTA3LDU1MDI2NTcz
+MV19
 -->
