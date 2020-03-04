@@ -13,9 +13,9 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
 2. Klik op  **Nieuw** om een nieuw inkooporder aan te maken. 
 3. Selecteer in het veld **Leverancier** de leverancier waarvoor u een order aan wilt maken. 
 4. Vul in de orderregels de volgende velden:
-	- **Soort**: Grootboekrekening
-	- **Nr.**: De grootboekrekening waarop de kosten geboekt dienen te worden
-	- **Btw-productboekingsgroep**: De btw soort die van toepassing is op deze kosten
+	- **Soort**: 'Grootboekrekening'
+	- **Nr.**: Dit is het nummer van de grootboekrekening waarop de kosten geboekt dienen te worden.
+	- **Btw-productboekingsgroep**: Dit betreft de BTW-soort die van toepassing is op deze kosten.
 	- **Omschrijving**: De omschrijving van het gene u inkoopt
 	- **Aantal**: In de meeste gevallen 1
 	- **Directe kostprijs Excl. btw**: De prijs zonder BTW
@@ -38,5 +38,5 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen**. De order is verwijderd.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTYxOTAzNCw3NDE0MDEyMjJdfQ==
+eyJoaXN0b3J5IjpbLTIwODYxMTgyNjEsNzQxNDAxMjIyXX0=
 -->
