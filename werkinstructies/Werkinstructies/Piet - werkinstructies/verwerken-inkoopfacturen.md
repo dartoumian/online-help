@@ -5,7 +5,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Processchema
 
 ## Boeken verplichting
-Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
+Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = **Ongeboekt**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
 2. Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
@@ -165,5 +165,5 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODkwOTExMSwtMzQxMTk4MTY1XX0=
+eyJoaXN0b3J5IjpbNzczMzQyNDQzLC0zNDExOTgxNjVdfQ==
 -->
