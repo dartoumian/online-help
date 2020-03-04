@@ -29,7 +29,7 @@ U kunt een deel van de vordering binnen een derdendossier afboeken.
 
 ## Afboeken restant vordering
 
-Wanneer u in een deel van de vordering afgeboekt heeft kunt u het restant ook afboeken. 
+Wanneer u een deel van de vordering afgeboekt heeft kunt u het restant ook afboeken. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier waarvoor u het restant af wilt boeken en open deze. 
@@ -68,6 +68,7 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg5OTk0MzgsLTU1NDY2MDc1OCwtMT
-QxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF19
+eyJoaXN0b3J5IjpbLTE3NzQ2ODQ5MzMsLTEyNTg5OTk0MzgsLT
+U1NDY2MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5
+ODU0MF19
 -->
