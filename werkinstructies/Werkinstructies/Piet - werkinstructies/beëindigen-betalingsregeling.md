@@ -1,10 +1,10 @@
 # Beëindigen betalingsregeling
 
-In dit werkproces worden (een) betalingsregeling(en) beëindigd. Dit kan voor een enkele regeling, maar het kan ook in bulk beëindigd.
+In dit werkproces worden (een) betalingsregeling(en) beëindigd. Dit kan voor een enkele regeling, maar het kan ook in bulk worden gedaan.
 
 ## Processchema
 
-## Beëindigen betalingsregeling
+## Beëindigen enkele betalingsregeling
 In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe u de klant hierover informeert. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Betalingsregelinglijst**. 
@@ -14,7 +14,7 @@ In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe
 5. U krijgt een vraag op u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent. Vul in de kolom **Antwoord** de vragen op de antwoorden in en klik op **Sluiten**. 
 6. ................
 
-## Beëindigen betalingsregeling in Bulk
+## Beëindigen betalingsregeling in bulk
 In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaan zijn in bulk beëindigt. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Betalingsregeling beëindigen**. Het scherm **Betalingsregeling beëindigen** opent. 
@@ -22,5 +22,6 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 3. Selecteer alle regels en klik op **Markering aan**. 
 4. Klik op **Betalingsregeling(en) beëindigen**. Het scherm **Beëindigingscode betalingsregeling ** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindig. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIxMjQ4OTEsNTYxODc1MDkzXX0=
+eyJoaXN0b3J5IjpbNzM3NDA3NzA5LC0yMDAyMTI0ODkxLDU2MT
+g3NTA5M119
 -->
