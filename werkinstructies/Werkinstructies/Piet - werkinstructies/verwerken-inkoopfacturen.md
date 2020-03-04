@@ -122,8 +122,8 @@ Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (d
 Wanneer een factuur aan u toegewezen is betekent dit dat er een vraag of verzoek tot actie is die betrekking heeft op deze factuur.
 
 1. Navigeer naar uw Rolcentrum (startpagina van Dynamics Empire). Klik op de tegel **Toegewezen facturen**.  De pagina toont de facturen die aan u toegewezen zijn en waarop u actie dient te ondernemen. 
-2. U opent de factuur door op het factuurnummer te klikken. De pagina **Inkoopfactuur** opent. 
-3. Klik op de pagina **Inkoopfactuur** aan de rechter kant van het scherm op **Bijlagen**.  De notitie(s) worden getoond. Hier vindt u de vraag of het verzoek. 
+2. U opent een factuur door op het factuurnummer te klikken. De pagina **Inkoopfactuur** opent. 
+3. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**.  De notitie(s) worden getoond. Hier vindt u de vraag of het verzoek. 
 4. Wanneer u wordt gevraagd iets te doen, bijvoorbeeld het gereed melden van een order of het boeken van ontvangsten voer dan eerst deze acties uit. 
 5. Heeft u de actie uitgevoerd of wilt u een vraag beantwoorden, klik op het + teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
 6. Maak op de pagina **Inkoopfactuur** het veld **Toegewezen gebruikers-ID** leeg. Hiermee wordt de factuur weer toegewezen aan de afdeling die de inkoopfacturen verwerkt. Heeft u een vervolg vraag aan een specifiek iemand of dient iemand anders een actie uit te voeren, vul dan in het veld **Toegewezen gebruikers-ID** de desbetreffende gebruiker. De factuur wordt nu toegevoegd aan het bakje toegewezen facturen van de desbetreffende gebruiker. 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM4MjA4NTgsNDIwNDAwODg2LDQ4OT
-k4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3
-OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5MCwxMD
-YwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5
-Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5Ni
-wxNzE0MjMwMTM5LDE4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5
-Njc4MzU3XX0=
+eyJoaXN0b3J5IjpbMjkzNDk2ODEsNDIwNDAwODg2LDQ4OTk4MT
+Y2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwx
+ODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNT
+I2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0
+MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNz
+E0MjMwMTM5LDE4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4
+MzU3XX0=
 -->
