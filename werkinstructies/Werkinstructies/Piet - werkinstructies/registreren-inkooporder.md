@@ -27,10 +27,10 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
 ## Gunnen order
 
 Wanneer de order goedgekeurd is dient deze gegund te worden. 
-1. Navigeer naar 
-2. Open de order die u wilt gunnen en klik op **Order gunnen**. Afhankelijk van de inkoopwerkwijze van de leverancier wordt 
-	- De order geopend in Outlook vanaf waar u de order kunt versturen
-	- De pagina **Order** geopend. Klik op **Verzenden naar** om de order als PDF of te drukken. U kunt deze order versturen aan de leverancier. 
+1. Navigeer via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Inkooporders**. 
+2. Open de order die u wilt gunnen en klik op **Order gunnen**. Afhankelijk van de inkoopwerkwijze van de leverancier wordt:
+	- de order geopend in Outlook vanaf waar u de order kunt versturen;
+	- de pagina **Order** geopend. Klik op **Verzenden naar** om de order als PDF af te drukken. U kunt deze order versturen aan de leverancier.
 3. De order is nu gegund.
 
 ## Verwijderen order
@@ -38,6 +38,6 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen**. De order is verwijderd.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3Njc3Nzg5LC04Mzc4MDg4OTcsNzQxND
-AxMjIyXX0=
+eyJoaXN0b3J5IjpbLTEzMTI0NDYxMjgsLTgzNzgwODg5Nyw3ND
+E0MDEyMjJdfQ==
 -->
