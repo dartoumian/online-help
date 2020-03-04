@@ -62,9 +62,9 @@ Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'regul
 Als er geen order beschikbaar is voor de factuur en er had ook geen order aangemaakt hoeven te worden, kan de factuurregel handmatig aangemaakt en ingevuld worden. Wanneer er vragen zijn over de te selecteren waarden, bijvoorbeeld op welke grootboekrekening de factuur geboekt dient te worden of welke afdelingsdimensie geselecteerd dient te worden, verzamel dan eerst deze informatie door de factuur toe te wijzen aan de persoon die de informatie kan verschaffen, via **[Toewijzen factuur](#toewijzen-factuur)**. 
 
 > Wanneer u meerdere factuurregels aan wilt maken kunt u de factuurregels ook bewerken in Excel. 
-> 1. Selecteer één of meer factuurregels. Kopieer de regels met Ctrl+c en plak de regels in een Excel bestand
+> 1. Selecteer één of meer factuurregels. Kopieer de regels (Ctrl+C) en plak de deze (Ctrl+V) in een Excelbestand.
 > 2. Voer onderstaande stappen uit voor alle regels.
-> 3. Selecteer de regels in het Excel bestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur en plak de regels met Ctrl+v terug in de factuur. =
+> 3. Selecteer de regels in het Excelbestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur, kopieer de regels en plak ze met Ctrl+V terug in de factuur.
 
 1. Wanneer alle benodigde informatie beschikbaar is kan de factuurregel gevuld worden. Vul de volgende velden:
 	- **Soort**: In geval van Service en Verbruik facturen selecteer **Kostencode**. In geval van reguliere kosten kies **Grootboekrekening**
@@ -162,10 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NzczNTY1LC0xMTQ1MjkxNzUzLC03Mz
-MxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LDE1NjI5NDA0
-OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcwMjE1NiwtMT
-Y5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MDEsLTU4MTY3
-ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4NTY5NzAxMC
-wxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5ODE2NV19
+eyJoaXN0b3J5IjpbMTE4MDE0MzcyMiwtMTE0NTI5MTc1MywtNz
+MzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQw
+NDk2LDE3MTQyMzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLT
+E2OTk2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2
+NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcwMT
+AsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
+
 -->
