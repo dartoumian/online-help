@@ -9,7 +9,7 @@ In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigt en hoe
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregelinglijst**. 
 2. Selecteer de betalingsregeling die u wilt beëindigen en open deze. Klik op **Beëindigen**. U krijgt de vraag of u het zeker weet; klik op **Ja**.
-3. De pagina **Beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **Word**. Het scherm voor aanmaken van een WordLinkbrief opent. Selecteer het sjabloon voor nen van een Wordnre het beëindigen betalingsregeling en vul de benodigde vragen in. 
+3. De pagina **Beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betaling**Word**. Het scherm voor aanmaken van een WordLinkbrief opent. Selecteer het sjabloon voor nen van een Wordnre het beëindigen betalingsregeling en vul de benodigde vragen in. 
 5. Verstuur het document naar de klant. De betalingsregeling is nu beëindiggeactiveerd en de klant is geïnformeerd.
 
 ## Beëindigen betalingsregeling in bulk
@@ -20,7 +20,8 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 3. Selecteer alle regels en klik op **Markering aan**. 
 4. Klik op **Betalingsregeling(en) beëindigen**. Het scherm **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI1OTIxMzAsLTE5MTkyNzY0MDIsLT
-gxMDE2OTY1MiwyMDU2NzIzMDQsMTk3ODE3MzI5MSw4OTk0MjE4
-MSwtNjIxNTY5MjgzLC0yMDAyMTI0ODkxLDU2MTg3NTA5M119
+eyJoaXN0b3J5IjpbLTE2MzIwMjA1NzUsLTE1MzI1OTIxMzAsLT
+E5MTkyNzY0MDIsLTgxMDE2OTY1MiwyMDU2NzIzMDQsMTk3ODE3
+MzI5MSw4OTk0MjE4MSwtNjIxNTY5MjgzLC0yMDAyMTI0ODkxLD
+U2MTg3NTA5M119
 -->
