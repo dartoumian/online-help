@@ -26,9 +26,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
- - Heeft de order betrekking op reparatie- of mutatieonderhoud ga verder bij processtap **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
- - Dienen er voor de order ontvangstregels opgehaald te worden ga dan verder bij de processtap **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
- - Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate). Ga dan verder bij processtap  **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+ - Heeft de order betrekking op reparatie- of mutatieonderhoud, ga dan verder met **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+ - Dienen er voor de order ontvangstregels opgehaald te worden, ga dan verder met **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
+ - Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate), ga dan verder met **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
@@ -162,7 +162,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDc2MTY1NywxNzE0MjMwMTM5LDE4Nz
+eyJoaXN0b3J5IjpbMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4Nz
 Y0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LDE3ODYxOTA1
 MzAsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcyNTU3NzcwLC
 01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwNDIsLTUxNzc5
