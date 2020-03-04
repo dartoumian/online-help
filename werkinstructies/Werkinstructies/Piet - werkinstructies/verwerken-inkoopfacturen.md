@@ -59,10 +59,10 @@ Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'regul
 
 ## Coderen factuurregel(s)
 
-Als er geen order beschikbaar is voor de factuur en er had ook geen order aangemaakt hoeven te worden, kan de factuurregel handmatig aangemaakt en ingevuld worden. Wanneer er vragen zijn over de te selecteren waarden, bijvoorbeeld op welke grootboekrekening de factuur geboekt dient te worden of welke afdelingsdimensie geselecteerd dient te worden verzamel dan eerst deze informatie door de factuur toe te wijzen aan de persoon die de informatie kan verschaffen **[Toewijzen factuur](#toewijzen-factuur)**. 
+Als er geen order beschikbaar is voor de factuur en er had ook geen order aangemaakt hoeven te worden, kan de factuurregel handmatig aangemaakt en ingevuld worden. Wanneer er vragen zijn over de te selecteren waarden, bijvoorbeeld op welke grootboekrekening de factuur geboekt dient te worden of welke afdelingsdimensie geselecteerd dient te worden, verzamel dan eerst deze informatie door de factuur toe te wijzen aan de persoon die de informatie kan verschaffen, via **[Toewijzen factuur](#toewijzen-factuur)**. 
 
-> Wanneer u meerder factuurregels aan wilt maken kunt u de factuurregels ook bewerken in Excel. 
-> 1. Selecteer 1 of meer factuurregels. Kopieer de regels met Ctrl+c en plak de regels in een Excel bestand
+> Wanneer u meerdere factuurregels aan wilt maken kunt u de factuurregels ook bewerken in Excel. 
+> 1. Selecteer één of meer factuurregels. Kopieer de regels met Ctrl+c en plak de regels in een Excel bestand
 > 2. Voer onderstaande stappen uit voor alle regels.
 > 3. Selecteer de regels in het Excel bestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur en plak de regels met Ctrl+v terug in de factuur. =
 
@@ -162,10 +162,10 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNT
-g5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMw
-MTM5LDE4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LD
-E3ODYxOTA1MzAsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcy
-NTU3NzcwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwND
-IsLTUxNzc5NjMzNSwtMzQxMTk4MTY1XX0=
+eyJoaXN0b3J5IjpbODI4NzczNTY1LC0xMTQ1MjkxNzUzLC03Mz
+MxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LDE1NjI5NDA0
+OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcwMjE1NiwtMT
+Y5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MDEsLTU4MTY3
+ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4NTY5NzAxMC
+wxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5ODE2NV19
 -->
