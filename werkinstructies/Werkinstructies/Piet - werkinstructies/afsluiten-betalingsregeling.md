@@ -49,10 +49,9 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 3. Vul de volgende velden:
 	- **Reden incasso**
 	- **Doorlopend**: 'Ja'
-	- **Datum tekening**: Wordt automatisch gevuld met de datum van vandaag
+	- **Datum tekening**: Wordt automatisch gevuld met de datum van vandaag.
 	- **Onze bankrekening**: Vul de bankrekening in vanaf waar geïncasseerd wordt. 
-3. Klik op **OK**. Het mandaat wordt aangepast en wordt gevuld in het veld vanaf waar u het nieuwe mandaat aangemaakt is. 
-
+3. Klik op **OK**. Het mandaat wordt aangepast en wordt gevuld in het veld vanaf waar het nieuwe mandaat is aangemaakt. 
 
 ## Controleren betalingsregeling
 
@@ -78,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE1MDUzMjQsLTE0MjA4NTA1NzEsLT
-UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNT
+M4OTY2MTA3LDU1MDI2NTczMV19
 -->
