@@ -21,9 +21,9 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt worden. Deze aanmaning kunt u controleren voordat u ze verstuur naar de deurwaarder. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de  **Deurwaarderdossiers**.
-2. Selecteer het deurwaarderdossier at u wilt controleren. 
+2. Selecteer het deurwaarderdossier dat u wilt controleren. 
 3. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
-4. Controleer of de juistealle posten opgenomen zijn in het dossier.
+4. Controleer of de juiste/alle posten opgenomen zijn in het dossier.
 5. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 
@@ -78,7 +78,7 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDQ4NzQyNSwtNjc3MTMzMjIyLDE2NT
-QwNzAwNTgsMjI5NTk5NTM4LC05ODU2MjAyNzgsMjA4OTEwMjA2
-MCwtMTc0MTM3MTI1XX0=
+eyJoaXN0b3J5IjpbOTI3MTU5MzcwLC01MTA0ODc0MjUsLTY3Nz
+EzMzIyMiwxNjU0MDcwMDU4LDIyOTU5OTUzOCwtOTg1NjIwMjc4
+LDIwODkxMDIwNjAsLTE3NDEzNzEyNV19
 -->
