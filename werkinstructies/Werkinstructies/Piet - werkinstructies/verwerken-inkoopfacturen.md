@@ -104,7 +104,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 
 1. De volgende velden zijn nog muteerbaar nadat ze o.b.v. een order zijn aangemaakt:
 	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
-	- **Btw-productboekingsgroep**: De BTW-productboekingsgroep die van toepassing is. 
+	- **Btw-productboekingsgroep**: Dit is de BTW-productboekingsgroep die van toepassing is. 
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
 	- **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals 
 2. Zijn andere waardes niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen / een nieuwe order aan dient te maken. **[Toewijzen factuur](#toewijzen-factuur)**.
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTY2OTQ5LDE3MDA5MDUxNTIsLTc4NT
-k2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5
-MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3NTMsLT
-czMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0
-MDQ5NiwxNzE0MjMwMTM5LDE4NzY0Njk0MzgsMTU4NzAyMTU2LC
-0xNjk5Njc4MzU3LDE3ODYxOTA1MzAsMTgxMDA5MzQwMSwtNTgx
-Njc4Mjg3XX0=
+eyJoaXN0b3J5IjpbLTEwNDc4MDEwNTgsMTcwMDkwNTE1MiwtNz
+g1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1
+ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1My
+wtNzMzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYy
+OTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNT
+YsLTE2OTk2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01
+ODE2NzgyODddfQ==
 -->
