@@ -70,15 +70,16 @@ Wanneer een geplande ontruiming afgelast is kunt u dit opvoeren op het deurwaard
 
 ## Afsluiten deurwaarderdossier
 
-Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar blijkt kunt u het deurwaarderdossier afsluiten.
+Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar blijkt, kunt u het deurwaarderdossier afsluiten.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
-2. Selecteer het dossier wat af wilt sluiten en open het dossier. 
+2. Selecteer het dossier dat u af wilt sluiten en open het. 
 3. Vul in het veld **Reden afsluiting** de regen voor afsluiten. Het veld **Datum Afsluiting** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNzEzOTAxLC0xMTU0NjE3NTgyLC01MT
-A0ODc0MjUsLTY3NzEzMzIyMiwxNjU0MDcwMDU4LDIyOTU5OTUz
-OCwtOTg1NjIwMjc4LDIwODkxMDIwNjAsLTE3NDEzNzEyNV19
+eyJoaXN0b3J5IjpbLTIwOTIzMjIwNTgsOTYwNzEzOTAxLC0xMT
+U0NjE3NTgyLC01MTA0ODc0MjUsLTY3NzEzMzIyMiwxNjU0MDcw
+MDU4LDIyOTU5OTUzOCwtOTg1NjIwMjc4LDIwODkxMDIwNjAsLT
+E3NDEzNzEyNV19
 -->
