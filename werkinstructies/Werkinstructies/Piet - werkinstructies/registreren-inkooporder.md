@@ -15,11 +15,11 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
 4. Vul in de orderregels de volgende velden:
 	- **Soort**: 'Grootboekrekening'
 	- **Nr.**: Dit is het nummer van de grootboekrekening waarop de kosten geboekt dienen te worden.
-	- **Btw-productboekingsgroep**: Dit betreft de BTW-soort die van toepassing is op deze kosten.
-	- **Omschrijving**: De omschrijving van het gene u inkoopt
-	- **Aantal**: In de meeste gevallen 1
-	- **Directe kostprijs Excl. btw**: De prijs zonder BTW
-	- **Afdeling code**: De afdeling waar de kosten betrekking op hebben. 
+	- **Btw-productboekingsgroep**
+	- **Omschrijving**
+	- **Aantal**
+	- **Directe kostprijs Excl. btw**
+	- **Afdeling code**
 5. Klik op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden en wordt opgepakt binnen het werkproces GOEDKEUREN DOCUMENTEN.
 6. Wanneer u zelf voldoende procuratie heeft wordt het document vrijgegeven en kunt u verder gaan bij processtap **[Gunnen order](#gunnen-order)**.
 
@@ -38,5 +38,5 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen**. De order is verwijderd.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYxMTgyNjEsNzQxNDAxMjIyXX0=
+eyJoaXN0b3J5IjpbLTgzNzgwODg5Nyw3NDE0MDEyMjJdfQ==
 -->
