@@ -5,12 +5,12 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indi
 ## Processchema
 
 ## Aanmaken betalingsregeling via sjabloon
-U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**. 
+U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden (zie **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**).
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Klanten**. 
-2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizzard** opent. Vul de volgende velden: 
-	-	**Sjablooncode**: Selecteer het sjabloon wat u wilt gebruiken
-	-	**Mandaatcode**: Selecteer de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Klanten**.
+2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
+	-	**Sjablooncode**
+	-	**Mandaatcode**(mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
 	-	**Totaalbedrag Regeling**:
 		-	Kik op de drie puntjes. Het scherm **Betalingsregelingwizzard** opent. 
 		-	Selecteer de posten die u op wilt nemen in de betalingsregeling
@@ -77,5 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDYwMDU3MzcsLTUzODk2NjEwNyw1NT
+AyNjU3MzFdfQ==
 -->
