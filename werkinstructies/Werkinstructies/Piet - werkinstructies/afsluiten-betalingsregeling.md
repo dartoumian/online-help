@@ -7,10 +7,10 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indi
 ## Aanmaken betalingsregeling via sjabloon
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden (zie **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**).
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me") aar **Klanten**.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me") naar **Klanten**.
  2. waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
 	-	**Sjablooncode**
-	-	**Mandaatcode**mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
+	-	**Mandaatcode**: Dit is de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
 	-	**Totaalbedrag Regeling**:
 		-	Klik op de drie puntjes. Het scherm **Betalingsregelingwizard** opent. 
 		-	Selecteer de posten die u op wilt nemen in de betalingsregeling.
@@ -24,7 +24,7 @@ U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalin
 ## Aanmaken betalingsregeling zonder sjabloon
 Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wanneer u een betalingsregeling die niet binnen de sjabloonwaarde past aan wilt maken, kunt u dit zonder een sjabloon doen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Klanten**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Klanten**. 
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling**. De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
 3. Selecteer in het veld **Code transactiewijze** de transactiewijze waarmee de betalingsregeling betaald moet worden. 
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
@@ -77,7 +77,7 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjU0ODkzOCwxMDQ1MDg5MzUyLDE0Mj
-Y4ODk1MjEsLTE0MjA4NTA1NzEsLTUzODk2NjEwNyw1NTAyNjU3
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTE0NTg2MTYsLTY5MjU0ODkzOCwxMD
+Q1MDg5MzUyLDE0MjY4ODk1MjEsLTE0MjA4NTA1NzEsLTUzODk2
+NjEwNyw1NTAyNjU3MzFdfQ==
 -->
