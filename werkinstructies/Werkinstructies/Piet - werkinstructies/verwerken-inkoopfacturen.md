@@ -19,9 +19,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Bedrag naar G-rekening**
 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld hebt boekt u de verplichting door op **Boeken verplichting** te klikken. De **Boekstatus** van de factuur wijzigt naar 'Verplichting geboekt'.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
-	- Indien er al factuurregels aanwezig zijn ga verder bij processstap **[Controleren factuurregels](#controleren-factuurregels)**.
-	- Indien er een **ordernummer vermeld** staat op de factuur ga dan verder bij **[Regels ophalen](#regels-ophalen)**.
-	- Is er **geen ordernummer vermeld** op de factuur?
+	- Als er al factuurregels aanwezig zijn, ga dan verder bij processtap **[Controleren factuurregels](#controleren-factuurregels)**.
+	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder bij **[Regels ophalen](#regels-ophalen)**.
+	- Als er **geen ordernummer** vermeld staat op de factuur?
 		- Had er wel een ordernummer op de factuur moeten staan, ga verder bij processtap **[Toewijzen factuur](#toewijzen-factuur)**.
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga verder bij processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
@@ -163,6 +163,6 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc5NDcyMTksMTE5MzMyMjA0MiwtNT
-E3Nzk2MzM1LC0zNDExOTgxNjVdfQ==
+eyJoaXN0b3J5IjpbNTYzNDgwODY2LDExOTMzMjIwNDIsLTUxNz
+c5NjMzNSwtMzQxMTk4MTY1XX0=
 -->
