@@ -30,7 +30,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoudadministratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
-Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRAkoppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
+Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA-koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
 2. Zoek het ordernummer at op de factuur vermeld staat. Als dit nummer niet op te halen is betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
@@ -159,7 +159,8 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA0MTE1LDE4MTAwOTM0MDEsLTU4MT
-Y3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4NTY5NzAx
-MCwxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5ODE2NV19
+eyJoaXN0b3J5IjpbMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01OD
+E2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcw
+MTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ
+==
 -->
