@@ -1,6 +1,6 @@
 # Afboeken vordering
 
-In dit werkproces worden vordering van klanten afgeboekt waarbij de financiën van de betreffende klant niet worden beheerd door derden.
+In dit werkproces worden vorderingen van klanten afgeboekt, waarbij de financiën van de betreffende klant niet worden beheerd door derden.
 
 ## Processchema
 
@@ -8,11 +8,11 @@ In dit werkproces worden vordering van klanten afgeboekt waarbij de financiën v
 
 Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derdendossier.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
-3. Vul het veld **Soort** met het soort dossier wat van toepassing is.
+3. Vul het veld **Soort** met het soort dossier dat van toepassing is.
 4. Vul het veld **Klant** met het klantnummer waarvoor u de vordering af wilt boeken. 
-5. Klik op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantpost(en) die u af wilt boeken en klik op **Ok**
+5. Klik op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantpost(en) die u af wilt boeken en klik op **OK**.
 
 ## Afboeken vordering
 
@@ -29,5 +29,5 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc4MTI5NjFdfQ==
+eyJoaXN0b3J5IjpbLTExMDM0ODMzMSwtMTczNzgxMjk2MV19
 -->
