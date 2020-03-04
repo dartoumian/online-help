@@ -12,9 +12,9 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de aanbiedhuur moet worden bepaald.
 3. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
-4. De verhuuraanbieding wordt aangemaakt met één of meer aanbiedingscontracten: één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur* die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel die u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
-5. Bepaal op basis van welk aanbiedingscontract u de OG Eenheid wilt publiceren en opnieuw verhuren. Verwijder eventueel de overige aanbiedingscontracten. 
-6. 
+4. De verhuuraanbieding wordt aangemaakt met één of meer aanbiedingscontracten: één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur*Er verschijnt een popup met de vraag op basis van welke bestaande contractregel u die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel die u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
+5. Bepaal op basis van welk aanbiedingscontract u de OG Eenheid wilt publiceren en opnieuw verhuren. Verwijder eventueel de overige aanbiedingnieuwe verhuuraanbieding wil baseren. Selecteer het getoonde leegstandscontracten. 
+64. 
 
 ## Aanpassen aanbiedhuur
 
@@ -25,7 +25,12 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 3. Herhaal dit voor alle elementen waarvan u het bedrag wil aanpassen. 
 4. Als u een bestaand element wilt verwijderen uit het aanbiedingscontract, selecteer dan dat element en klik op **Regel verwijderen**. 
 5. Herhaal  dit voor alle elementen die u wilt verwijderen. 
-6. Als u een extra element wil toevoegen aan het aanbiedingscontract, klik dan op **Nieuwe regel**, selecteer een elementnummer en vul in een eenheidprijs. 
+6. Als u een extra element wil toevoegen aan het aanbiedingscontract, klik dan op **Nieuwe re
+1. .
+
+## Invullen huurprijsmutatie
+
+1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**). Het kan ook via overzichtspagina **Huuropzeggingeln**, (selecteer een elementnummer en vul in een eenheidprijs. 
 7. Herhaal dit voor alle extra elementen die u wilt toevoegen. 
 8. Klik op **Sluiten**. 
 
@@ -35,10 +40,13 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 
 1. . Selecteer het aanbiedingscontract en klik op **Huurprijsmutatie** (voorheen genoemd **Verhuurmutatie**). Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
 2. Selecteer een reden in veld **Reden wijziging**. 
-3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan ook een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur**. 
-4. Klik op **Sluiten**. 
+3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dade Huuropzegging die is aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart) of via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op **Huuropzeggingen**).
+2. Kies voor functie **Worddocument**.
+3. Selecteer het juiste Word-sjabloon vook een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur**. 
+4. Kr de bevestiging van de huuropzegging en klik op **SluitenOK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDkwMDI3LDEyOTg4NzcxODMsMTQ4Nj
-k5MzI0MCwtMTg2ODM1ODgxNiwxMTMxMjk2ODRdfQ==
+eyJoaXN0b3J5IjpbMTA1ODgxMzkzMCw3MTkwOTAwMjcsMTI5OD
+g3NzE4MywxNDg2OTkzMjQwLC0xODY4MzU4ODE2LDExMzEyOTY4
+NF19
 -->
