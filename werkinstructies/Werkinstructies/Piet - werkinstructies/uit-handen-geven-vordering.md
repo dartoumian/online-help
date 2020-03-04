@@ -10,11 +10,11 @@ In dit werkproces worden vorderingen op klanten uit handen gegeven aan een deurw
 U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurwaarderdossier echter automatisch aangemaakt zijn vanuit het aanmaningsproces. In dat geval gaat u verder met **[Controleren deurwaarderdossier](#controleren-deurwaarderdossier)**.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
-2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Klik op **Deurwaarderdossiers**, waarna de gelijknamige  pagina opent.
-3. Klik op **Nieuw**. Een deurwaarderdossier voor de klant wordt aangemaakt. 
+2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Klik op **Deurwaarderdossiers**, waarna de gelijknamige  paginai opent.
+3. Klik op **Nieuw** e nrderdossier voor de klant wordt aangemaakt. 
 4. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
-5. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier.
-6. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+5. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OKk**, waarna t terugkeert naar het dossier. 
+6. AlsWanneer de gegevens ingevuld zijn, ga dan verder metbij stap **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 ## Controleren deurwaarderdossier
 
@@ -23,8 +23,8 @@ Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt wo
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het deurwaarderdossier wat u wilt controleren. 
 3. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
-4. Controleer of de juiste / alle posten opgenomen zijn in het dossier. 
-5. Wanneer de gegevens ingevuld zijn ga verder bij stap **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+4. Controleer of de juiste / alle posten opgenomen zijn in het dossier.
+5.  de gegevens ingevuld zijn ga verder  **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 
 ## Versturen deurwaarderdossier
@@ -78,6 +78,7 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjIxMjQzMSwyMjk1OTk1MzgsLTk4NT
-YyMDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ==
+eyJoaXN0b3J5IjpbMTY1NDA3MDA1OCwxMTk2MjEyNDMxLDIyOT
+U5OTUzOCwtOTg1NjIwMjc4LDIwODkxMDIwNjAsLTE3NDEzNzEy
+NV19
 -->
