@@ -80,6 +80,7 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 2. Selecteer het dossier wat af wilt sluiten en open het dossier. 
 3. Vul in het veld **Reden afsluiting** de regen voor afsluiten. Het veld **Datum Afsluiting** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
+5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEzNzEyNV19
+eyJoaXN0b3J5IjpbMjA4OTEwMjA2MCwtMTc0MTM3MTI1XX0=
 -->
