@@ -28,10 +28,10 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling**. De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
 3. Selecteer in het veld **Code transactiewijze** de transactiewijze waarmee de betalingsregeling betaald moet worden. 
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
-5. Klik in pagina**Betalingsregeling** op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantposten die opgenomen moeten worden in de betalingsregeling en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantposten** worden de opgenomen posten getoont. 
+5. Kies op pagina **Betalingsregeling** voor **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantposten die opgenomen moeten worden in de betalingsregeling en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantposten** worden de opgenomen posten getoond.
 6. Klik op **Termijnen aanmaken**. De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
-	- **Datum eerste termijn**: De datum waarop de betalingsregeling in gaat. Dit is ook de datum waarop de eerste termijn betaald dient te worden. Gebruikelijk is om hier de eerste dag van de volgende maand in te vullen. 
-	- **Betalingsconditie**: 0D, hiermee geeft u aan dat de betalingsregeling op de eerste van de maand betaald dient te worden.
+	- **Datum eerste termijn**: De datum waarop de betalingsregeling ingaat. Dit is ook de datum waarop de eerste termijn betaald dient te worden. Gebruikelijk is om hier de eerste dag van de volgende maand in te vullen. 
+	- **Betalingsconditie**: Met '0D' geeft u aan dat de betalingsregeling op de eerste van de maand betaald dient te worden.
 	- **Frequentie**: 1M. Dit betekend dat er elke maand een termijn betaald dient te worden. 
 	- **Aantal termijnen**: Het aantal termijn van de betalingsregeling. Het veld **Termijnbedrag** wordt automatisch berekend. 
 	- **Termijnbedrag**. Is automatisch gevuld o.b.v. de opgegeven waarde in het veld **Aantal termijnen**. U kunt het bedrag aanpassen. Het aantal termijnen zal opnieuw berekend worden o.b.v. het opgegeven bedrag. 
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE0NzQzNzYsLTE0MjA4NTA1NzEsLT
-UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbLTg2ODQ0NzQxLC0xNDIwODUwNTcxLC01Mz
+g5NjYxMDcsNTUwMjY1NzMxXX0=
 -->
