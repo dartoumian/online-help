@@ -6,7 +6,7 @@ In dit werkproces wordt schuldbeheer bij instanties geregistreerd, worden afspra
 
 ## Aanmaken derdendossier
 
-Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een derdendossier aanmaken. 
+Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een derdendossier aanmaken.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
@@ -68,7 +68,7 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MzY4MjI5LC0xMjU4OTk5NDM4LC01NT
-Q2NjA3NTgsLTE0MTAyMTI3NzgsMTgxODg2NzYyMCw2MjQ5OTg1
-NDBdfQ==
+eyJoaXN0b3J5IjpbMzc5OTYxMDA1LDk4NzM2ODIyOSwtMTI1OD
+k5OTQzOCwtNTU0NjYwNzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2
+MjAsNjI0OTk4NTQwXX0=
 -->
