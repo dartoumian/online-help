@@ -5,7 +5,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden.
 
- Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = 'Ongeboekt'. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = 'Ongeboekt'. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is. 
  Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen  Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
 	- **Boekingsdatum**: **LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
@@ -158,8 +158,8 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk2NzgzNTcsMTc4NjE5MDUzMCwxOD
-EwMDkzNDAxLC01ODE2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcw
-MjIwNCw5ODU2OTcwMTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC
-0zNDExOTgxNjVdfQ==
+eyJoaXN0b3J5IjpbNjQwNzk3NzcwLC0xNjk5Njc4MzU3LDE3OD
+YxOTA1MzAsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcyNTU3
+NzcwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwNDIsLT
+UxNzc5NjMzNSwtMzQxMTk4MTY1XX0=
 -->
