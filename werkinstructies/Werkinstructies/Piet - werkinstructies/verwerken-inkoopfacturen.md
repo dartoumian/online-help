@@ -59,7 +59,7 @@ Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'regul
 
 ## Coderen factuurregel(s)
 
-Wanneer er geen order beschikbaar is voor de factuur en er had ook geen order aangemaakt hoeven worden kan de factuurregel handmatig aangemaakt en ingevuld worden. Wanneer er vragen zijn over de te selecteren waarden, bijvoorbeeld op welke grootboekrekening de factuur geboekt dient te worden of welke afdelingsdimensie geselecteerd dient te worden verzamel dan eerst deze informatie door de factuur toe te wijzen aan de persoon die de informatie kan verschaffen **[Toewijzen factuur](#toewijzen-factuur)**. 
+Als er geen order beschikbaar is voor de factuur en er had ook geen order aangemaakt hoeven te worden, kan de factuurregel handmatig aangemaakt en ingevuld worden. Wanneer er vragen zijn over de te selecteren waarden, bijvoorbeeld op welke grootboekrekening de factuur geboekt dient te worden of welke afdelingsdimensie geselecteerd dient te worden verzamel dan eerst deze informatie door de factuur toe te wijzen aan de persoon die de informatie kan verschaffen **[Toewijzen factuur](#toewijzen-factuur)**. 
 
 > Wanneer u meerder factuurregels aan wilt maken kunt u de factuurregels ook bewerken in Excel. 
 > 1. Selecteer 1 of meer factuurregels. Kopieer de regels met Ctrl+c en plak de regels in een Excel bestand
@@ -162,10 +162,10 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04Nj
-Y2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4NzY0Njk0
-MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LDE3ODYxOTA1MzAsMT
-gxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcyNTU3NzcwLC01NzE3
-MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwNDIsLTUxNzc5NjMzNS
-wtMzQxMTk4MTY1XX0=
+eyJoaXN0b3J5IjpbLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNT
+g5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMw
+MTM5LDE4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LD
+E3ODYxOTA1MzAsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcy
+NTU3NzcwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwND
+IsLTUxNzc5NjMzNSwtMzQxMTk4MTY1XX0=
 -->
