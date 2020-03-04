@@ -83,9 +83,9 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
 1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten](#behandelen-geweigerde-documenten)**.
-2. Controleer of het totaal bedrag van de factuurregels (bedrag incl. BTW op de factuurkop) en het totaal factuurbedrag (Factuurbedrag)  overeen komen:
+2. Controleer of het totaalbedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeen komen:
 	- **Ja**: Ga verder naar stap. 
-	- **Nee (paar cent verschil)**: Ga veder naar stap 3.
+	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen. Ga verder naar stap 3 en daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
 		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen. Bijvoorbeeld omdat er een meer- of minder werk order aangemaakt moet worden. Wijs de factuur in dit geval toe aan de persoon die de meer of minderwerk order aan dient te maken **[Toewijzen factuur](#toewijzen-factuur)**.
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNj
-A1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1MywtNzMzMTkz
-ODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQwNDk2LD
-E3MTQyMzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLTE2OTk2
-NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2NzgyOD
-csLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcwMTAsMTE5
-MzMyMjA0Ml19
+eyJoaXN0b3J5IjpbMjA4NzQ2NTE0MSwxMjA0MjY1NjgxLC0yND
+c3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1Mjkx
+NzUzLC03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LD
+E1NjI5NDA0OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcw
+MjE1NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MD
+EsLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LDk4
+NTY5NzAxMF19
 -->
