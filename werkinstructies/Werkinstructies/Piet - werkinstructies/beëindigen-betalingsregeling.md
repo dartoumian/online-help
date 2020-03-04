@@ -5,7 +5,7 @@ In dit werkproces worden (wordt een) betalingsregeling(en) beëindigd. Dit kan v
 ## Processchema
 
 ## Beëindigen enkele betalingsregeling
-In deze processtap wordt uitgelegd hoe betalingsregeling beëindigd en hoe u de klant hierover informeert. 
+In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe u de klant hierover informeert. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregelinglijst**. 
 2. Selecteer de betalingsregeling die beëiigen en open deze. Klik op **Beëindigen**. U krige vraaof u het zeker we
@@ -20,7 +20,7 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 3. Selecteer alle regels en klik op **Markering aan**. 
 4. Klik op **Betalingsregeling(en) beëindigen**. Het scherm **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI3MjcxNjQsLTE5MTkyNzY0MDIsLT
-gxMDE2OTY1MiwyMDU2NzIzMDQsMTk3ODE3MzI5MSw4OTk0MjE4
-MSwtNjIxNTY5MjgzLC0yMDAyMTI0ODkxLDU2MTg3NTA5M119
+eyJoaXN0b3J5IjpbMTUxOTEwOTU3NSwtMTkxOTI3NjQwMiwtOD
+EwMTY5NjUyLDIwNTY3MjMwNCwxOTc4MTczMjkxLDg5OTQyMTgx
+LC02MjE1NjkyODMsLTIwMDIxMjQ4OTEsNTYxODc1MDkzXX0=
 -->
