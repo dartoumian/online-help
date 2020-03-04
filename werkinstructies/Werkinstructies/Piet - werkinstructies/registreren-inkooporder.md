@@ -1,15 +1,15 @@
 # Registreren inkooporder
 
-In dit werkproces wordt er op basis van een inkoopbehoefte een inkooporder aangemaakt en deze wordt beoordeeld. Bij goedkeuring wordt de inkooporder gegund aan de leverancier.
+In dit werkproces wordt op basis van een inkoopbehoefte een inkooporder aangemaakt en deze wordt beoordeeld. Bij goedkeuring wordt de inkooporder gegund aan de leverancier.
 
 Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd aan onderhoud, projecten, vastgoed en artikelen die op voorraad worden gehouden.
 
 
 ## Aanmaken inkooporder
 
-Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens m.b.t. de order op te voeren. 
+Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met betrekking tot de order op te voeren.
 
-1. Navigeer naar ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  **Inkooporders**. De pagina **Inkooporders** opent. 
+1. Navigeer naar de pagina **Inkooporders** via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  **Inkooporders**. De  opent. 
 2. Klik op  **Nieuw** om een nieuw inkooporder aan te maken. 
 3. Selecteer in het veld **Leverancier** de leverancier waarvoor u een order aan wilt maken. 
 4. Vul in de orderregels de volgende velden:
@@ -38,5 +38,5 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen**. De order is verwijderd.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNDAxMjIyXX0=
+eyJoaXN0b3J5IjpbMjA4MzE4MjQxOCw3NDE0MDEyMjJdfQ==
 -->
