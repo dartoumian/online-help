@@ -80,9 +80,9 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 
 ## Controleren factuurregels
 
-Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels kunnen de factuurregels gecontroleerd worden. 
+Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
-1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en geweigerd is. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**
+1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**
 2. Controleer of het totaal bedrag van de factuurregels (bedrag incl. BTW op de factuurkop) en het totaal factuurbedrag (Factuurbedrag)  overeen komen:
 	- **Ja**: Ga verder naar stap. 
 	- **Nee (paar cent verschil)**: Ga veder naar stap 3.
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MDgxODY4LDEwNjA1MjYwOTAsLTUyNT
-MwOTg4OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5
-OTEsLTg2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQyMzAxMzksMT
-g3NjQ2OTQzOCwxNTg3MDIxNTYsLTE2OTk2NzgzNTcsMTc4NjE5
-MDUzMCwxODEwMDkzNDAxLC01ODE2NzgyODcsLTEyNzI1NTc3Nz
-AsLTU3MTcwMjIwNCw5ODU2OTcwMTAsMTE5MzMyMjA0MiwtNTE3
-Nzk2MzM1XX0=
+eyJoaXN0b3J5IjpbLTk4MTcyODI2NiwxMDYwNTI2MDkwLC01Mj
+UzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDky
+OTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LD
+E4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LDE3ODYx
+OTA1MzAsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcyNTU3Nz
+cwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwNDIsLTUx
+Nzc5NjMzNV19
 -->
