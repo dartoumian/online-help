@@ -55,10 +55,10 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 
 ## Controleren betalingsregeling
 
-Betalingsregelingen kunnen op verschillende wijze aangemaakt zijn (via klantportaal, o.b.v. betalingsregeling sjabloon of handmatig). Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
+Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klantportaal, o.b.v. een betalingsregelingssjabloon of handmatig. Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Betalingsregelingoverzicht**.  De pagina **Betalingsregelingoverzicht** opent. 
-2. Stel een filter in op het veld **Status**. De status dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
+2. Stel een filter in op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
 5. Wilt u de betalingsregeling aanpassen kijk in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNT
-M4OTY2MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbNTQwMjUwMzQyLDE0MjY4ODk1MjEsLTE0Mj
+A4NTA1NzEsLTUzODk2NjEwNyw1NTAyNjU3MzFdfQ==
 -->
