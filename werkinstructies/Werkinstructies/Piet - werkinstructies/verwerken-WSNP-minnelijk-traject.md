@@ -51,24 +51,24 @@ U kunt de vordering in een derdendossier in één keer in zijn geheel afboeken.
 
 ## Terugboeken vordering
 
-U kunt (gedeeltelijk) afgeboekte vordering in een derdendossier terugboeken. 
+U kunt een (gedeeltelijk) afgeboekte vordering in een derdendossier terugboeken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier waarvoor u (een deel van) de afgeboekte vordering terug wilt boeken en open het dossier. 
 3. Klik op **Terugboeken - gehele afboeking**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
-4. Geef de datum waarop de terugboeking geboekt moet worden op. De vordering wordt terug geboekt.
+4. Geef de datum waarop de terugboeking geboekt moet worden op. De vordering wordt teruggeboekt.
 
 ## Afsluiten derdendossier
 
-Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering in zijn geheel heeft afgeboekt heeft kunt u het derdendossier afsluiten. 
+Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering in zijn geheel heeft afgeboekt kunt u het derdendossier afsluiten.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
-2. Selecteer het derdendossier wat u wilt afsluiten en open het dossier. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
+2. Selecteer het derdendossier dat u wilt afsluiten en open het dossier. 
 3. Vul in het veld **Reden afsluiting** de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten. 
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzMyNTQxMCwtMTI1ODk5OTQzOCwtNT
-U0NjYwNzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2MjAsNjI0OTk4
-NTQwXX0=
+eyJoaXN0b3J5IjpbOTg3MzY4MjI5LC0xMjU4OTk5NDM4LC01NT
+Q2NjA3NTgsLTE0MTAyMTI3NzgsMTgxODg2NzYyMCw2MjQ5OTg1
+NDBdfQ==
 -->
