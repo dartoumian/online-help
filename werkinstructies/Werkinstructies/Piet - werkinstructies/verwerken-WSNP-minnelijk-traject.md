@@ -1,15 +1,14 @@
 # Verwerken WSNP/minnelijk traject
 
-In dit werkproces worden schuldbeheer bij instanties geregistreerd, afspraken bewaakt en, indien van toepassing, de bijbehorende vordering afgeboekt.
+In dit werkproces wordt schuldbeheer bij instanties geregistreerd, worden afspraken bewaakt en wordt, indien van toepassing, de bijbehorende vordering afgeboekt.
 
 ## Processchema
 
-
 ## Aanmaken derdendossier
 
-Wanneer een klant schuldbeheer bij een instantiate heeft lopen kunt u hiervoor een derdendossier voor aanmaken. 
+Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een derdendossier aanmaken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Derdendossieroverzicht**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
 3. Vul het veld **Soort** met het soort dossier wat van toepassing is.
 4. Vul het veld **Klant** met het klantnummer waarvoor u een dossier aan wilt maken. 
@@ -69,6 +68,6 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAyMTI3NzgsMTgxODg2NzYyMCw2Mj
-Q5OTg1NDBdfQ==
+eyJoaXN0b3J5IjpbMTc4MjgyMDkzNSwtMTQxMDIxMjc3OCwxOD
+E4ODY3NjIwLDYyNDk5ODU0MF19
 -->
