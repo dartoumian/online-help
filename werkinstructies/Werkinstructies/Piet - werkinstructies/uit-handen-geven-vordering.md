@@ -14,7 +14,7 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 3. Klik op **Nieuw**. Een deurwaarderdossier voor de klant wordt aangemaakt. 
 4. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
 5. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier.
-6. Wanneer de gegevens ingevuld zijn ga verder bij stap **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+6. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 ## Controleren deurwaarderdossier
 
@@ -78,6 +78,6 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTY2NjQwMywyMjk1OTk1MzgsLTk4NT
+eyJoaXN0b3J5IjpbMTE5NjIxMjQzMSwyMjk1OTk1MzgsLTk4NT
 YyMDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ==
 -->
