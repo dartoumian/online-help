@@ -141,11 +141,11 @@ Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces
 
 ## Behandelen geweigerde documenten 
 
-Wanneer een document geweigerd is dient u de weigeringsreden te beoordeelden
+Wanneer een document geweigerd is dient u de weigeringsreden te beoordelen.
 
 1. Vanaf de pagina **Inkoopfacturen** klikt u op **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen. 
 2. Klik op **Opmerkingen**. De pagina **Opmerkingen bij goedkeuring** opent. U ziet hier de reden van weigeren en wie de aanvraag geweigerd heeft.
-3. Dient een andere order gekoppeld te worden ga dan verder bij stap **[Regels ophalen](#regels-ophalen)**.
+3. Dient een andere order gekoppeld te worden, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
 4. Dient de codering van de factuurregels aangepast te worden ga dan verder bij stap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 
@@ -163,11 +163,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzQ3NzgzOSwtMjg2MDgxMDQ5LDk5OT
-gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcs
-MTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwND
-I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
-OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLT
-g2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2
-OTQzOF19
+eyJoaXN0b3J5IjpbLTE2MDM4OTUwNTEsLTI4NjA4MTA0OSw5OT
+k4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3
+LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMD
+QyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4
+ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC
+04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4NzY0
+Njk0MzhdfQ==
 -->
