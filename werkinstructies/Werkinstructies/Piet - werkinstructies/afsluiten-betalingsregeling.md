@@ -10,9 +10,9 @@ U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalin
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Klanten**.
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
 	-	**Sjablooncode**
-	-	**Mandaatcode**(mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
+	-	**Mandaatcode**: Dit is de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
 	-	**Totaalbedrag Regeling**:
-		-	Kik op de drie puntjes. Het scherm **Betalingsregelingwizzard** opent. 
+		-	Klik op de drie puntjes. Het scherm **Betalingsregelingwizard** opent. 
 		-	Selecteer de posten die u op wilt nemen in de betalingsregeling
 		-	Klik op **OK**
 	-	**Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYwMDU3MzcsLTUzODk2NjEwNyw1NT
-AyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbLTIxODA4MzQ3MywtNTM4OTY2MTA3LDU1MD
+I2NTczMV19
 -->
