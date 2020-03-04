@@ -1,12 +1,8 @@
 # Verwerken inkoopfacturen
 
-
-## Omschrijving:
 In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en geboekt.
 
 ## Processchema
-
-## Processtappen
 
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
@@ -169,5 +165,5 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTE5ODE2NV19
+eyJoaXN0b3J5IjpbLTI4ODkwOTExMSwtMzQxMTk4MTY1XX0=
 -->
