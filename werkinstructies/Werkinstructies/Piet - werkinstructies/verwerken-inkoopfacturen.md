@@ -43,15 +43,14 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstregels opgehaald te worden in de factuur. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vind deze knop onder de FastTab **Regels**. De pagina **Ontvangstregels ophalen** opent. 
-2. Zoek het ordernummer wat op de factuur vermeld staat op.  t nummeWanneer het ordernummer wat vermeld staat op de factuur niet op te halen is beteken dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+2. Zoek het ordernummer wat op de factuur vermeld staat op.  t nummefactuur niet op te halen is beteken dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ### Ophalen overige orderregels
-
 Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'reguliere' orderregels opgehaald te worden. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Orderregels ophalen**. De pagina **Orderregels ophalen** opent. 
-2. Zoek het ordernummer wat op de factuur vermeld staat op. r niet op te halen is kan dit betekenen dat het werk nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+2. Zoek het ordernummer wat op de r vermeld staat op. r niet op te halen is kan dit betekenen dat het werk nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de orderregel(s) met de juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de orderregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ## Coderen factuurregel(s)
@@ -159,8 +158,8 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01OD
-E2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcwMjIwNCw5ODU2OTcw
-MTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC0zNDExOTgxNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE2OTk2NzgzNTcsMTc4NjE5MDUzMCwxOD
+EwMDkzNDAxLC01ODE2NzgyODcsLTEyNzI1NTc3NzAsLTU3MTcw
+MjIwNCw5ODU2OTcwMTAsMTE5MzMyMjA0MiwtNTE3Nzk2MzM1LC
+0zNDExOTgxNjVdfQ==
 -->
