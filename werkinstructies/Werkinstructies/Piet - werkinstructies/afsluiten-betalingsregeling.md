@@ -7,10 +7,10 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indi
 ## Aanmaken betalingsregeling via sjabloon
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden (zie **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**).
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Klanten**.
-2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me") aar **Klanten**.
+2. waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
 	-	**Sjablooncode**
-	-	**Mandaatcode**: Dit is de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
+	-	**Mandaatcode**mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
 	-	**Totaalbedrag Regeling**:
 		-	Klik op de drie puntjes. Het scherm **Betalingsregelingwizard** opent. 
 		-	Selecteer de posten die u op wilt nemen in de betalingsregeling
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODA4MzQ3MywtNTM4OTY2MTA3LDU1MD
-I2NTczMV19
+eyJoaXN0b3J5IjpbLTE0MjA4NTA1NzEsLTIxODA4MzQ3MywtNT
+M4OTY2MTA3LDU1MDI2NTczMV19
 -->
