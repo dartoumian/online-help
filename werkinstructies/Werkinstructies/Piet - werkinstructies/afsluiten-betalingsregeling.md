@@ -38,11 +38,11 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 	- **Restbedrag**: Wanneer er een restbedrag overblijft geeft u hier aan met welke termijn het restbedrag verrekend moet worden.
 7. Klik op **Termijnen aanmaken**. De termijnen worden aangemaakt. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Termijnen** worden de aangemaakte termijnen getoond.
 8.  U kunt in het veld **Te betalen** het te betalen bedrag per termijn opgeven.
->**Let op!** Wanneer u termijnen aanpast en het totaalbedrag van de termijnen is lager dan het totaalbedrag van de opgenomen posten dan blijft een deel van de opgenomen posten open staan. 
+>**Let op!** Wanneer u termijnen aanpast en het totaalbedrag van de termijnen is lager dan het totaalbedrag van de opgenomen posten, dan blijft een deel van de opgenomen posten openstaan.
 
 ## Aanmaken nieuwe mandaatcode
 
-Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingstermijn automatisch incasseren maar heeft de klant nog geen mandaat voor automatische incasso volg dan de volden stappen uit.
+Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingstermijn automatisch incasseren, maar de klant heeft nog geen mandaat voor automatische incasso, volg dan de volgenden stappen uit.
 
 1. Klik in veld waar u een mandaat moet selecteren op de knop **Nieuw**. Het scherm **Mandaat incasso** opent. 
 2. Klik op enter. Er wordt een nummer gevuld in het veld **Code**
@@ -78,6 +78,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU0NjY4ODQsLTE0MjA4NTA1NzEsLT
-UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbMTY5MTYzMzk2OCwtMTQyMDg1MDU3MSwtNT
+M4OTY2MTA3LDU1MDI2NTczMV19
 -->
