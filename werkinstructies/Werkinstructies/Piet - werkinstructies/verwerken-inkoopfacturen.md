@@ -26,32 +26,36 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
- - Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
- -  er voor de order ontvangstregels opgehaald te worden, kies dan voor **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
-Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoudadministratie), kies dan voor **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+
+1. Heeft de order betrekking op reparatie- of mutatieonderhoud ga verder bij processtap **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+2. Dienen er voor de order ontvangstregels opgehaald te worden ga dan verder bij de processtap **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
+3.Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate). Ga dan verder bij processtap  **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
-Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA-koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
+
+Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA koppeling of via het leveranciersportaal dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
-2. Zoek het ordernummer at op de factuur vermeld staat. Als dit nummer niet op te halen is betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
-3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen, zoals BTWtype, bedragen en/of aantallen.
+2. Zoek het ordernummer wat op de factuur vermeld staat. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is betekend dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie (BTW type, bedragen en/of aantallen) aanvullen. 
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
-5. U keer terug naar de pagina **Inkoopfactuur**. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
+5. U keer terug naar de pagina inkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**
 
 
 ### Ophalen ontvangstregels
+
 Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstregels opgehaald te worden in de factuur. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vind deze knop onder de FastTab **Regels**. De pagina **Ontvangstregels ophalen** opent. 
-2. Zoek het ordernummer wat op de factuur vermeld staat op.  t nummefactuur niet op te halen is beteken dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+2. Zoek het ordernummer wat op de factuur vermeld staat op. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is betekend dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ### Ophalen overige orderregels
+
 Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'reguliere' orderregels opgehaald te worden. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Orderregels ophalen**. De pagina **Orderregels ophalen** opent. 
-2. Zoek het ordernummer wat op de r vermeld staat op. r niet op te halen is kan dit betekenen dat het werk nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+2. Zoek het ordernummer wat op de factuur vermeld staat op. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is kan dit betekenen dat het werk nog niet gereed gemeld is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de orderregel(s) met de juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de orderregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ## Coderen factuurregel(s)
@@ -159,9 +163,9 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1OD
-cwMjE1NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0
-MDEsLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LD
-k4NTY5NzAxMCwxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5
-ODE2NV19
+eyJoaXN0b3J5IjpbMTU3MDAzOTg0LDE3MTQyMzAxMzksMTg3Nj
+Q2OTQzOCwxNTg3MDIxNTYsLTE2OTk2NzgzNTcsMTc4NjE5MDUz
+MCwxODEwMDkzNDAxLC01ODE2NzgyODcsLTEyNzI1NTc3NzAsLT
+U3MTcwMjIwNCw5ODU2OTcwMTAsMTE5MzMyMjA0MiwtNTE3Nzk2
+MzM1LC0zNDExOTgxNjVdfQ==
 -->
