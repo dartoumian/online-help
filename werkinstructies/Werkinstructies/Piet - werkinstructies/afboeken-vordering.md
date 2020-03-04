@@ -18,7 +18,7 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 1. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 2. Vul de boekingsdatum van de afboeking in. 
-3. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batch naam** de Batch die u wilt gebruiken voor het afboeken. Afhankelijk of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
+3. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
 4. Klik op **OK** om de vordering af te boeken.
 
 ## Afsluiten afboekdossier
@@ -29,5 +29,6 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM0ODMzMSwtMTczNzgxMjk2MV19
+eyJoaXN0b3J5IjpbLTE3ODY1MDI3NTYsLTE3Mzc4MTI5NjFdfQ
+==
 -->
