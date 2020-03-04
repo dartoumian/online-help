@@ -13,14 +13,14 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 	-	**Btw-posten opnemen**: Open
 	-	**Btw-posten opnemen**: Tijdens periode
 	-	**Datumfilter**: 1 januari van het huidige jaar tot de einddatum waarover u de BTW aan wilt geven.  
-4. De kolom **Bedrag** toont het bedrag per BTW-productboekingsgroep wat meegenomen zal worden in de aangifte. Wanneer u op één van de getallen klikt kunt u zien uit welke posten het bedrag opgebouwd is. 
+4. De kolom **Bedrag** toont het bedrag per BTW-productboekingsgroep dat meegenomen zal worden in de aangifte. Wanneer u op één van de getallen klikt kunt u zien uit welke posten het bedrag opgebouwd is. 
 
-## Genereren BTW aangifte
+## Genereren BTW-aangifte
 
-in deze stap wordt het rapport met daarop de bedragen die op BTW aangifte overgenomen kunnen worden gegenereerd.
+In deze stap wordt het rapport met daarop de bedragen die op BTW-aangifte overgenomen kunnen worden gegenereerd.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften**. De pagina **Btw-aangift opent**. 
-2. Klik op **Afdrukken**. De pagina **Btw-aangift** opent. Vul de volgende velden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften**. De gelijknamige pagina opent. 
+2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Vul de volgende velden:
 	- **Begindatum**: 1 januari van het huidige jaar. 
 	- **Einddatum**: De einddatum van de periode waarover u de BTW aan wilt geven. 
 	-	**Btw-posten opnemen**: Open
@@ -44,5 +44,5 @@ Het boeken van de bedragen op BTW aangifte.
 	- **Boeken**: Kies voor ja wanneer u direct wilt boeken. Kies voor nee wanneer u eerst een voorbeeld wilt genereren. 
 4. Klik op **Verzenden naar**. Wanneer u aan heeft gegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de Btw-aangifte geboekt. De Btw-aangifte wordt ook al vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjk0MTQ5Nl19
+eyJoaXN0b3J5IjpbLTk0MjI2NzY5M119
 -->
