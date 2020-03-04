@@ -19,9 +19,9 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
 	- **Omschrijving**
 	- **Aantal**
 	- **Directe kostprijs Excl. btw**
-	- **Afdeling code**
+	- **Afdelingscode**
 5. Klik op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden en wordt opgepakt binnen het werkproces GOEDKEUREN DOCUMENTEN.
-6. Wanneer u zelf voldoende procuratie heeft wordt het document vrijgegeven en kunt u verder gaan bij processtap **[Gunnen order](#gunnen-order)**.
+6. Wanneer u zelf voldoende procuratie heeft wordt het document vrijgegeven en kunt u verder gaan met **[Gunnen order](#gunnen-order)**.
 
 
 ## Gunnen order
@@ -38,5 +38,6 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen**. De order is verwijderd.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzgwODg5Nyw3NDE0MDEyMjJdfQ==
+eyJoaXN0b3J5IjpbMjY3Njc3Nzg5LC04Mzc4MDg4OTcsNzQxND
+AxMjIyXX0=
 -->
