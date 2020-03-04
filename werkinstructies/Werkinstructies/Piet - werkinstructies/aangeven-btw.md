@@ -42,7 +42,7 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	-  **Documentnr.** : Hier vermeldt u het documentnummer dat u mee wilt geven bij de boeking. 
 	- **Vereffeningsrekening**: Dit is de rekening waarop de BTW-aangifte geboekt moet worden. 
 	- **Boeken**: Kies voor **Ja** als u direct wilt boeken. Kies voor **Nee** als u eerst een voorbeeld wilt genereren.
-4. Klik op **Verzenden naar**. Wanneer u heeft gegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de Btw-aangifte geboekt. De Btw-aangifte wordt ook al vordering op de leverancierskaart van de belastingdienst geboekt. 
+4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTQzMjI2M119
+eyJoaXN0b3J5IjpbMTA3NzY1Mzg0Ml19
 -->
