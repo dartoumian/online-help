@@ -84,7 +84,7 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 
 1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten](#behandelen-geweigerde-documenten)**.
 2. Controleer of het totaalbedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeen komen:
-	- **Ja**: Ga verder naar stap. 
+	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
@@ -100,9 +100,9 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 
 ## Aanpassen factuurregels
 
-Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepas mogen en moeten worden. Pas dan de waarder in de desbetreffende velden aan. 
+Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en moeten worden, pas dan de waarden in de desbetreffende velden aan. 
 
-1. De volgende velden zijn nog muteerbaar nadat ze o.b.v. een order zijn aangemaakt. 
+1. De volgende velden zijn nog muteerbaar nadat ze o.b.v. een order zijn aangemaakt:
 	- **Omschrijving**: Dit is de omschrijving de meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep**: De BTW-productboekingsgroep die van toepassing is. 
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMD
-QyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4
-ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC
-04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4NzY0
-Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LDE3ODYxOTA1Mz
-AsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcyNTU3NzcwLC01
-NzE3MDIyMDRdfQ==
+eyJoaXN0b3J5IjpbMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4OD
+UwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYw
+OTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC
+01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQy
+MzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNTYsLTE2OTk2NzgzNT
+csMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01ODE2NzgyODcsLTEy
+NzI1NTc3NzBdfQ==
 -->
