@@ -61,9 +61,9 @@ Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klan
 2. Stel een filter in op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
-5. Wilt u de betalingsregeling aanpassen kijk in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
-6. Wilt u de betalingsregeling verwijderen informeer de klant hier over en klik op **Verwijderen**. De betalingsregeling wordt verwijderd. U keert terug naar de pagina **Betalingsregelingoverzicht**.
-7. Is de betalingsregeling akkoord dan kunt u verder gaan naar de stap **[Activeren betalingsregeling](#activeren-betalingsregeling)**. 
+5. Wilt u de betalingsregeling aanpassen, kijk dan in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
+6. Wilt u de betalingsregeling verwijderen, informeer de klant hier dan over en klik op **Verwijderen**. De betalingsregeling wordt verwijderd. U keert terug naar de pagina **Betalingsregelingoverzicht**.
+7. Is de betalingsregeling akkoord, dan kunt u verder gaan naar de stap **[Activeren betalingsregeling](#activeren-betalingsregeling)**. 
 
 ## Activeren betalingsregeling
 Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling activeren. 
@@ -77,6 +77,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMjUwMzQyLDE0MjY4ODk1MjEsLTE0Mj
-A4NTA1NzEsLTUzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC0xND
+IwODUwNTcxLC01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
 -->
