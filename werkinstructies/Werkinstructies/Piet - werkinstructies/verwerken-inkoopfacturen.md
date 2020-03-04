@@ -107,7 +107,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 	- **Btw-productboekingsgroep**
 	- **Directe kostprijs Excl. btw**
 	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
-2. Zijn andere waarden niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen / een nieuwe order aan dient te maken. **[Toewijzen factuur](#toewijzen-factuur)**.
+2. Zijn andere waarden niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 
 ## Toewijzen factuur
 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyMTIxOTMsMTcwMDkwNTE1MiwtNz
-g1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1
-ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1My
-wtNzMzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYy
-OTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2OTQzOCwxNTg3MDIxNT
-YsLTE2OTk2NzgzNTcsMTc4NjE5MDUzMCwxODEwMDkzNDAxLC01
-ODE2NzgyODddfQ==
+eyJoaXN0b3J5IjpbMTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03OD
+U5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yNDc3OTU4
+OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1MjkxNzUzLC
+03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LDE1NjI5
+NDA0OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcwMjE1Ni
+wtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0MDEsLTU4
+MTY3ODI4N119
 -->
