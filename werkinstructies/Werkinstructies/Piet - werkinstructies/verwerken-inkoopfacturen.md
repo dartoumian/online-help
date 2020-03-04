@@ -157,13 +157,13 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**.
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
-5. Facturen waarbij de boekingsdatum in een afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt. 
+5. Facturen waarbij de boekingsdatum in een afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzY2NDM5MCwtMjg2MDgxMDQ5LDk5OT
+eyJoaXN0b3J5IjpbLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OT
 gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcs
 MTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwND
 I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
