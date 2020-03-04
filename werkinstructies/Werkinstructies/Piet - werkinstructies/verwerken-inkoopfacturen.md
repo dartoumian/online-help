@@ -146,14 +146,14 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelen.
 1. Vanaf de pagina **Inkoopfacturen** klikt u op **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen. 
 2. Klik op **Opmerkingen**. De pagina **Opmerkingen bij goedkeuring** opent. U ziet hier de reden van weigeren en wie de aanvraag geweigerd heeft.
 3. Dient een andere order gekoppeld te worden, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
-4. Dient de codering van de factuurregels aangepast te worden ga dan verder bij stap **[Controleren factuurregels](#controleren-factuurregels)**.
+4. Dient de codering van de factuurregels aangepast te worden, ga dan verder met **[Controleren factuurregels](#controleren-factuurregels)**.
 
 
 ## Boeken factuur
 
-Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is kan de factuur geboekt worden. 
+Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
 2. Klik op **Batchboeken (verplichting)**. de pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt**. En zet het veld **Status** op **Vrijgegeven** 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
@@ -163,7 +163,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM4OTUwNTEsLTI4NjA4MTA0OSw5OT
+eyJoaXN0b3J5IjpbLTEwNDIwMDA5MTYsLTI4NjA4MTA0OSw5OT
 k4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3
 LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMD
 QyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4
