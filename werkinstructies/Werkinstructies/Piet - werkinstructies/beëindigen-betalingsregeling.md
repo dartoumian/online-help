@@ -11,7 +11,7 @@ In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigt en hoe
 2. Selecteer de betalingsregeling die u wilt beëindigen en open deze. Klik op **Beëindigen**. U krijgt de vraag of u het zeker weet; klik op **Ja**.
 3. De pagina **Beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is beëindigd.
 4. Wanneer u de klant wilt informeren over het voortijdig beëindigen van een betalingsregeling klik u op **Worddocument**. Het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor het vroegtijdig beëindigen van een betalingsregeling en klik op **OK**. 
-5. U krijgt een vraag op u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent. Vul in de kolom **Antwoord** de vragen op de antwoorden in en klik op **Sluiten**.  
+5. U krijgt een vraag of u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent. Vul in de kolom **Antwoord** de antwoorden op de vragen in en klik op **Sluiten**.  
 
 ## Beëindigen betalingsregeling in bulk
 In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaan zijn, in bulk beëindigt. 
@@ -21,8 +21,8 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 3. Selecteer alle regels en klik op **Markering aan**. 
 4. Klik op **Betalingsregeling(en) beëindigen**. Het scherm **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU5MDczMjksNzAzOTA4MTIxLC0xNT
-MyNTkyMTMwLC0xOTE5Mjc2NDAyLC04MTAxNjk2NTIsMjA1Njcy
-MzA0LDE5NzgxNzMyOTEsODk5NDIxODEsLTYyMTU2OTI4MywtMj
-AwMjEyNDg5MSw1NjE4NzUwOTNdfQ==
+eyJoaXN0b3J5IjpbMTk5NDU0OTgxMywtMTYxNTkwNzMyOSw3MD
+M5MDgxMjEsLTE1MzI1OTIxMzAsLTE5MTkyNzY0MDIsLTgxMDE2
+OTY1MiwyMDU2NzIzMDQsMTk3ODE3MzI5MSw4OTk0MjE4MSwtNj
+IxNTY5MjgzLC0yMDAyMTI0ODkxLDU2MTg3NTA5M119
 -->
