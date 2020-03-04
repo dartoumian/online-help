@@ -21,9 +21,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
  5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	-  Als er al **factuurregels aanwezig** zijn, ga dan verder met **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Als er een **ordernummer** vermeld staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
-	- Als er **geen ordernummer** vermeld staat op de factuur
-		- Had er wel een ordernummer op de factuur moeten staan, ga ded r **[Toewijzen factuur](#toewijzen-factuur)**.
-		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat l vr**[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
+	- Als er **geen ordernummer** vermeld staat op de factuur:
+		- Had er wel een ordernummer op de factuur moeten staan, ga dan verder met **[Toewijzen factuur](#toewijzen-factuur)**.
+		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
  - Heeft de order betrekking op reparatie- of mutatieonderhoud, kies dan voor **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
@@ -159,7 +159,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjcyNTA1NCwxODc2NDY5NDM4LDE1OD
+eyJoaXN0b3J5IjpbMTcxNDIzMDEzOSwxODc2NDY5NDM4LDE1OD
 cwMjE1NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAwOTM0
 MDEsLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMjA0LD
 k4NTY5NzAxMCwxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0MTE5
