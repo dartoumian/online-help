@@ -105,13 +105,14 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 1. De volgende velden zijn nog muteerbaar nadat ze o.b.v. een order zijn aangemaakt:
 	- **Omschrijving**
 	- **Btw-productboekingsgroep**
+	- **Btw-productboekingsgroep**
 	- **Directe kostprijs Excl. btw**
 	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
-2. Zijn andere waarden niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
+2. Zijn andere waarde niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken **[Toewijzen factuur](#toewijzen-factuur)**.
 
 ## Toewijzen factuur
 
-Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (de status van) de order die ten grondslag ligt aan de factuur, of iemand dient een actie uit te voeren, dan kan er op de factuur een notitie toegevoegd worden met de vraag of verzoek tot actie. Vervolgens kan de factuur toegewezen worden aan de gebruiker die de vraag dient te beantwoorden of de actie dient uit te voeren.
+Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (de status van) de order die ten grondslag ligt aan de factuur, of iemand dient een actie uit te voeren, dan kan er op de factuur een notitie toegevoegd worden mbt de vraag of verzoek tot actie. Vervolgens kan de factuur toegewezen worden aan de gebruiker die de vraag dient te beantwoorden of de actie dient uit te voeren.
 
 1. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**. 
 2. Om een vraag of verzoek toe te voegen, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
@@ -119,10 +120,10 @@ Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (d
 
 ## Behandelen toegewezen factuur
 
-Wanneer een factuur aan u toegewezen is betekent dit dat er een vraag of verzoek tot actie is die betrekking heeft op deze factuur.
+Wanneer een factuur aan u toegewezen is beteken dit dat er een vraag of verzoek tot actie is die betrekking heeft op deze factuur.
 
 1. Navigeer naar uw Rolcentrum (startpagina van Dynamics Empire). Klik op de tegel **Toegewezen facturen**.  De pagina toont de facturen die aan u toegewezen zijn en waarop u actie dient te ondernemen. 
-2. U opent een factuur door op het factuurnummer te klikken. De pagina **Inkoopfactuur** opent. 
+2. U opent en factuur door op het factuurnummer te klikken. De pagina **Inkoopfactuur** opent. 
 3. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**.  De notitie(s) worden getoond. Hier vindt u de vraag of het verzoek. 
 4. Wanneer u wordt gevraagd iets te doen, bijvoorbeeld het gereed melden van een order of het boeken van ontvangsten, voer dan eerst deze acties uit. 
 5. Heeft u de actie uitgevoerd of wilt u een vraag beantwoorden, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
@@ -162,11 +163,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5ODMxMDIwLDQyMDQwMDg4Niw0ODk5OD
-E2NjIsMTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2Nzks
-MTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yNDc3OTU4OTAsMTA2MD
-UyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1MjkxNzUzLC03MzMxOTM4
-NDIsLTU4OTQ5Mjk5MSwtODY2NjExNDU0LDE1NjI5NDA0OTYsMT
-cxNDIzMDEzOSwxODc2NDY5NDM4LDE1ODcwMjE1NiwtMTY5OTY3
-ODM1N119
+eyJoaXN0b3J5IjpbLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwND
+AwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIs
+LTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nz
+c5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3
+NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMT
+U2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4NzY0Njk0MzgsMTU4NzAy
+MTU2XX0=
 -->
