@@ -153,21 +153,21 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelen.
 
 Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
-2. Klik op **Batchboeken (verplichting)**. de pagina **Batchboeken verplichting inkoopfacturen** opent. 
-3. Zet het veld **Boekstatus** op **Verplichting geboekt**. En zet het veld **Status** op **Vrijgegeven** 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
+2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
+3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**.
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
-5. Facturen waarbij de boekingsdatum in afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt. 
+5. Facturen waarbij de boekingsdatum in een afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIwMDA5MTYsLTI4NjA4MTA0OSw5OT
-k4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3
-LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMD
-QyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4
-ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC
-04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LDE4NzY0
-Njk0MzhdfQ==
+eyJoaXN0b3J5IjpbLTg3NzY2NDM5MCwtMjg2MDgxMDQ5LDk5OT
+gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcs
+MTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwND
+I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
+OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLT
+g2NjYxMTQ1NCwxNTYyOTQwNDk2LDE3MTQyMzAxMzksMTg3NjQ2
+OTQzOF19
 -->
