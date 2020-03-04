@@ -71,10 +71,10 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 	- **Nr.**: Selecteer het grootboekrekeningnummer of de kostencode (in geval van S&V-facturen). 
 	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep** 
-	- **Clusternummer**: Vullen wanneer van toepassing, Wanneer **Kostencode** geselecteerd is in het veld **Soort ** is dit veld verplicht. 
+	- **Clusternummer**: Vullen wanneer van toepassing, Als 'Kostencode' geselecteerd is in het veld **Soort** is dit veld verplicht. 
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
-	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de service en verbruik kosten op van toepassing zijn. (alleen invullen bij service en verbruik facturen)
-	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
+	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-kosten op van toepassing zijn (alleen invullen bij S&V-facturen).
+	- **Directe kostprijs Excl. btw**
 	- **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
 2. Wanneer de gegeven is de factuurregel gevuld zijn kan de factuur gematch & geboekt worden. **[Match en boek factuur](#match-en-boek-factuur)**.
 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMT
-Q1MjkxNzUzLC03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjEx
-NDU0LDE1NjI5NDA0OTYsMTcxNDIzMDEzOSwxODc2NDY5NDM4LD
-E1ODcwMjE1NiwtMTY5OTY3ODM1NywxNzg2MTkwNTMwLDE4MTAw
-OTM0MDEsLTU4MTY3ODI4NywtMTI3MjU1Nzc3MCwtNTcxNzAyMj
-A0LDk4NTY5NzAxMCwxMTkzMzIyMDQyLC01MTc3OTYzMzUsLTM0
-MTE5ODE2NV19
+eyJoaXN0b3J5IjpbMTIwNzUyNzM2MCwxMDYwNTI2MDkwLC01Mj
+UzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDky
+OTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LD
+E4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LDE3ODYx
+OTA1MzAsMTgxMDA5MzQwMSwtNTgxNjc4Mjg3LC0xMjcyNTU3Nz
+cwLC01NzE3MDIyMDQsOTg1Njk3MDEwLDExOTMzMjIwNDIsLTUx
+Nzc5NjMzNV19
 -->
