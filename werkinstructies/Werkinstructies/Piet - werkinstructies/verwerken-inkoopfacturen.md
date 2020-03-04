@@ -9,12 +9,10 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 2. Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
-	- **Boekingsdatum**
-	>**LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
+	- **Boekingsdatum**: **LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
 	- **Documentdatum**
 	- **Factuurnr. leverancier**
-	- **Omschrijving**
-	>LET OP. Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
+	- **Omschrijving**: **LET OP!** Dit is niet de omschrijving die meekomt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
 	- **Factuurbedrag**
 	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW bedrag wat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**. Indien zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is wordt de BTW-post o.b.v de verplichting tegen geboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
@@ -165,6 +163,6 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDU3Mzk2LDExOTMzMjIwNDIsLTUxNz
+eyJoaXN0b3J5IjpbNDA1NjEwMjU3LDExOTMzMjIwNDIsLTUxNz
 c5NjMzNSwtMzQxMTk4MTY1XX0=
 -->
