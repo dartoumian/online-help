@@ -33,11 +33,12 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 	- **Datum eerste termijn**: De datum waarop de betalingsregeling ingaat. Dit is ook de datum waarop de eerste termijn betaald dient te worden. Gebruikelijk is om hier de eerste dag van de volgende maand in te vullen. 
 	- **Betalingsconditie**: Met '0D' geeft u aan dat de betalingsregeling op de eerste van de maand betaald dient te worden.
 	- **Frequentie**: Met '1M' geeft u aan dat er elke maand een termijn betaald dient te worden.
-	- **Aantal termijnen**: Het aantal termijnen van de betalingsregeling. Het veld **Termijnbedrag**: wordt automatisch berekend.
+	- **Aantal termijnen**: Het aantal termijnen van de betalingsregeling. Het veld **Termijnbedrag** wordt automatisch berekend.
 	- **Termijnbedrag**: Dit is automatisch gevuld o.b.v. de opgegeven waarde in het veld **Aantal termijnen**. U kunt het bedrag aanpassen. Het aantal termijnen zal opnieuw berekend worden o.b.v. het opgegeven bedrag. 
-	- **Restbedrag**: Wanneer er een restbedrag overblijft geeft u hier aan met welke termijn het restbedrag verrekend moet worden. 
-7. Klik op **Termijnen aanmaken**. De termijnen worden aangemaakt. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Termijnen** worden de aangemaakte termijnen getoont.
-8.  U kunt in het veld **Te betalen** het te betalen bedrag per termijn opgeven. Let op! Wanneer u termijnen aanpast en het totaal bedrag van de termijnen is lager dan het totaalbedrag van de opgenomen posten dan blijft een deel van de opgenomen posten open staan. 
+	- **Restbedrag**: Wanneer er een restbedrag overblijft geeft u hier aan met welke termijn het restbedrag verrekend moet worden.
+7. Klik op **Termijnen aanmaken**. De termijnen worden aangemaakt. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Termijnen** worden de aangemaakte termijnen getoond.
+8.  U kunt in het veld **Te betalen** het te betalen bedrag per termijn opgeven.
+>**Let op!** Wanneer u termijnen aanpast en het totaalbedrag van de termijnen is lager dan het totaalbedrag van de opgenomen posten dan blijft een deel van de opgenomen posten open staan. 
 
 ## Aanmaken nieuwe mandaatcode
 
@@ -77,6 +78,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MTA2NzM2LC0xNDIwODUwNTcxLC01Mz
-g5NjYxMDcsNTUwMjY1NzMxXX0=
+eyJoaXN0b3J5IjpbLTE0MTU0NjY4ODQsLTE0MjA4NTA1NzEsLT
+UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
 -->
