@@ -14,17 +14,17 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 3. Klik op **Nieuw** e nrderdossier voor de klant wordt aangemaakt. 
 4. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
 5. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OKk**, waarna t terugkeert naar het dossier. 
-6. AlsWanneer de gegevens ingevuld zijn, ga dan verder metbij stap **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+6. AlsWanneer de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 ## Controleren deurwaarderdossier
 
-Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt worden. Deze aanmaning kunt u controleren voordat u ze verstuurd naar de deurwaarder. 
+Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt worden. Deze aanmaning kunt u controleren voordat u ze verstuur naar de deurwaarder. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
-2. Selecteer het deurwaarderdossier wat u wilt controleren. 
+2. Selecteer het deurwaarderdossier at u wilt controleren. 
 3. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
-4. Controleer of de juiste / alle posten opgenomen zijn in het dossier.
-5.  de gegevens ingevuld zijn ga verder  **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+4. Controleer of de juistealle posten opgenomen zijn in het dossier.
+5.  de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 
 ## Versturen deurwaarderdossier
@@ -78,7 +78,7 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDA3MDA1OCwxMTk2MjEyNDMxLDIyOT
-U5OTUzOCwtOTg1NjIwMjc4LDIwODkxMDIwNjAsLTE3NDEzNzEy
-NV19
+eyJoaXN0b3J5IjpbNjM2NTMxNDg2LDE2NTQwNzAwNTgsMjI5NT
+k5NTM4LC05ODU2MjAyNzgsMjA4OTEwMjA2MCwtMTc0MTM3MTI1
+XX0=
 -->
