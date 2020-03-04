@@ -114,8 +114,8 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (de status van) de order die ten grondslag ligt aan de factuur, of iemand dient een actie uit te voeren, dan kan er op de factuur een notitie toegevoegd worden met de vraag of verzoek tot actie. Vervolgens kan de factuur toegewezen worden aan de gebruiker die de vraag dient te beantwoorden of de actie dient uit te voeren.
 
 1. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**. 
-2. Om een vraag of verzoek toe te voegen, klik op het +-teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
-3. Vul op de pagina **Inkoopfactuur** in het veld **Toegewezen gebruikers-ID** de gebruiker aan wie u de factuur toe wilt wijzen. De factuur wordt nu toegevoegd aan het bakje toegewezen facturen van de desbetreffende gebruiker. 
+2. Om een vraag of verzoek toe te voegen, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
+3. Vul op de pagina **Inkoopfactuur** in het veld **Toegewezen gebruikers-ID** de gebruiker in aan wie u de factuur toe wilt wijzen. De factuur wordt nu toegevoegd aan het bakje 'toegewezen facturen' van de desbetreffende gebruiker. 
 
 ## Behandelen toegewezen factuur
 
@@ -162,11 +162,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzIzMjE2Nyw0ODk5ODE2NjIsMTE0OT
-E4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4
-MywxMjA0MjY1NjgxLC0yNDc3OTU4OTAsMTA2MDUyNjA5MCwtNT
-I1MzA5ODg4LC0xMTQ1MjkxNzUzLC03MzMxOTM4NDIsLTU4OTQ5
-Mjk5MSwtODY2NjExNDU0LDE1NjI5NDA0OTYsMTcxNDIzMDEzOS
-wxODc2NDY5NDM4LDE1ODcwMjE1NiwtMTY5OTY3ODM1NywxNzg2
-MTkwNTMwXX0=
+eyJoaXN0b3J5IjpbNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MT
+gzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5Nzgz
+LDEyMDQyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01Mj
+UzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDky
+OTkxLC04NjY2MTE0NTQsMTU2Mjk0MDQ5NiwxNzE0MjMwMTM5LD
+E4NzY0Njk0MzgsMTU4NzAyMTU2LC0xNjk5Njc4MzU3LDE3ODYx
+OTA1MzBdfQ==
 -->
