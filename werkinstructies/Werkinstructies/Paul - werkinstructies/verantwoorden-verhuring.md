@@ -70,10 +70,10 @@ In deze stap controleert de account de verantwoordingen verhuringen van het voor
 
 In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
 
-1. . Bla bla. 
-
+1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTkxOTcwMiwzMTM4NDQ4NjgsLTE3Mz
+eyJoaXN0b3J5IjpbMTU2MzQ0OTk3OCwzMTM4NDQ4NjgsLTE3Mz
 M4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5
 NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLT
 IwODYwODMyNzIsNTk3ODE5MDQ4XX0=
