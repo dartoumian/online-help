@@ -33,7 +33,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **Getoetst huishoudinkomen** =  
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
 13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
-14. Zoals niet alle gegevens zijn geregistreerd nodig zijn 
+14. Zoals niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toot het systeem het veld genaamd **Aantal fouten** een veld met 
  
  
 
@@ -57,7 +57,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTg2NDk5NSwtNjEzMDY0NzcsLTM3ND
-AyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2
-MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbNDM2MTcyMTMsLTYxMzA2NDc3LC0zNzQwMj
+kyOTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1
+LC0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
 -->
