@@ -41,12 +41,12 @@ Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de defini
 1. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
 2. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
 3. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
-4. Markeer de nieuwe versie 
+4. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**. 
  
 
 ## Monitoren wettelijke normen 
 
-In deze stap . 
+In deze stap monitort u of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen (95-5 norm voor de . 
 
 1. Bla bla 
 
@@ -64,8 +64,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYzNzY3MzAsLTE3MzM4MjYzMTMsLT
-I4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUw
-ODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNz
-IsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbLTgwNDM3NTM0NiwtMTczMzgyNjMxMywtMj
+g0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4
+NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Mi
+w1OTc4MTkwNDhdfQ==
 -->
