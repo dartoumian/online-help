@@ -55,7 +55,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klidruk op 'Bbewerken'. 
+ 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (Laat ongewijzigd.)
@@ -74,9 +74,9 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQyMDU3NzAsLTE2Nzk2Mjc2NzIsMT
-YyMzI4MjYzMyw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAw
-Miw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OT
-UwMDIsOTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NTQ0NzMxMyw2
-NTMxNTY1NDQsLTc2NTQwNzAzNV19
+eyJoaXN0b3J5IjpbMjExMzg4NjU4OSwtMTcxNDIwNTc3MCwtMT
+Y3OTYyNzY3MiwxNjIzMjgyNjMzLDkwNDQ5NTAwMiw5MTMwNjA4
+MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMD
+YwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsMTA2Njc4NzA5OSwx
+Mzc1NDQ3MzEzLDY1MzE1NjU0NCwtNzY1NDA3MDM1XX0=
 -->
