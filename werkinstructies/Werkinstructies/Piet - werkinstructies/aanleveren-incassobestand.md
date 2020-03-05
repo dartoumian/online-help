@@ -44,7 +44,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken.** 
 2. In het scherm **Betaalrunkaart** kunt u de regelnummers vinden van de regels die u wilt annuleren. Noteer hiervan de betreffende nummers. 
-3. Klik op **Status wijzigen**, waarna h. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+3. Klik op **Status wijzigen**, waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (Laat ongewijzigd.)
 	* **Runnummer:** (Laat ongewijzigd.)
@@ -74,7 +74,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAxNTAwMTgsLTE2Nzk2Mjc2NzIsMT
+eyJoaXN0b3J5IjpbLTE3MTQyMDU3NzAsLTE2Nzk2Mjc2NzIsMT
 YyMzI4MjYzMyw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAw
 Miw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OT
 UwMDIsOTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NTQ0NzMxMyw2
