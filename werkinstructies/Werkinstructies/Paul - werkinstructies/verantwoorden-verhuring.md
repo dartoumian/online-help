@@ -52,7 +52,8 @@ In deze stap monitort u of het percentage passende toewijzingen die gedurende he
 2. Vul de optie **Ingangsdatum huurcontract** in met de criteria waaraan de ingangsdatum van de nieuwe verhuurcontracten moet voldoen, willen de bijbehorende passendheidstoetsen worden meegenomen in de rapportage. Bijvoorbeeld: **>31-12-2019** 
 3. Geef aan met optie **Incompleet dossiers weergeven** of u de verantwoordingen verhuringen waarbij de indicatie **Incompleet dossier** van toepassing is voor de laatste versie van de verantwoording verhuring, al dan niet wil meenemen in de rapportage. 
 4. Klik op **Voorbeeld** of **Afdrukken**. Het rapport wordt gegenereerd.  
-5. Het rapport toont alle *definitieve* verantwoordingen verhuringen die behoren bij een *geaccepteerde* verantwoording verhuring waarvan de ingangsdatum voldoet aan het ingegeven criterium. Dit betekent dat zolang de verhuuraanbie
+5. Het rapport toont alle *definitieve* verantwoordingen verhuringen die behoren bij een *geaccepteerde* verantwoording verhuring waarvan de ingangsdatum voldoet aan het ingegeven criterium. Let op: dit betekent dat zolang de verhuuraanbieding niet is geaccepteerd, de bijbehorende verantwoording verhuring niet wordt meegenomen in de rapportage. Let op: per verantwoording verhuring wordt alleen de laatste versie die is gemarkeerd als zijnde definitief meegenomen in de rapportage. 
+6. E
 
 
 ## Controle door accountant 
@@ -68,8 +69,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUxOTgzNzgsLTE3MzM4MjYzMTMsLT
-I4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUw
-ODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNz
-IsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbMzU2NTAzNTIsLTE3MzM4MjYzMTMsLTI4ND
+E0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUwODcz
+LDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNzIsNT
+k3ODE5MDQ4XX0=
 -->
