@@ -31,7 +31,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **Geboortedatum oudste bewoner** = 
    - **AOW-gerechtigd** =  
    - **Getoetst huishoudinkomen** =  
-12. Op basis van de in voorgaande genoemde velden enerzijds en 
+12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat   
  
  
 
@@ -55,7 +55,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk5MjYyMjIsLTYxMzA2NDc3LC0zNz
-QwMjkyOTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3
-NjM1LC0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbNzAzNDUwMTk4LC02MTMwNjQ3NywtMzc0MD
+I5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYz
+NSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
 -->
