@@ -161,8 +161,8 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
 Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") nNaar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
-2. Klik op **Batchboeken (verplichting)**. Dde pagina **Batchboeken verplichting inkoopfacturen** opent. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
+2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** e. En zet het veld **Status** op **Vrijgegeven**. 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
 5. Facturen waarbij de boekingsdatum in een afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt. 
@@ -171,7 +171,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDQ3ODQwMiwtNjQ1NTIwMTksNjE3Mj
+eyJoaXN0b3J5IjpbLTg0OTEyNjQxNiwtNjQ1NTIwMTksNjE3Mj
 c4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNjcyNDcw
 LC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4Niw0ODk5OD
 E2NjIsMTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2Nzks
