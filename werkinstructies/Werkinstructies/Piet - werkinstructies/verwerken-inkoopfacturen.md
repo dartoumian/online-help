@@ -89,11 +89,11 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
 1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd is. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
-2. Controleer of het totaal bedrag van de factuurregels (**Bbedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
+2. Controleer of het totaal bedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
 	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
-		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen?. Ga dan verder naar stap 3 en volg daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
+		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
 		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Dit betreft het grootboekrekeningnummer of de kostencode.
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTg0NzE2MiwtMjA0NDI3OTQ0MywxND
-g3NjI4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQxNiwtNjQ1NTIw
-MTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNj
-gzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4
-Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03OD
-U5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yNDc3OTU4
-OTBdfQ==
+eyJoaXN0b3J5IjpbOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0OD
+c2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAx
+OSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02OD
+M2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2
+LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NT
+k2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5
+MF19
 -->
