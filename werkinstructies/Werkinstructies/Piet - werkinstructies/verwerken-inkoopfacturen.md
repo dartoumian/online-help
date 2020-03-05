@@ -97,7 +97,7 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen?. Ga dan verder naar stap 3 en volg daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
-		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minder werk order aangemaakt moet worden?. Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerk order aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
+		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Dit betreft hHet grootboekrekening nummer of de kostencode.
 	- **Omschrijving**
@@ -173,11 +173,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjkyMTgxNSwxOTkwNDE1MTE2LDE5NT
-U4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAy
-MCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMD
-kwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4
-MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMT
-E0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYx
-MTQ1NF19
+eyJoaXN0b3J5IjpbLTE2OTA2MzkwNTMsMTk5MDQxNTExNiwxOT
+U1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEw
+MjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MD
+A5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2
+ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLT
+ExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2
+MTE0NTRdfQ==
 -->
