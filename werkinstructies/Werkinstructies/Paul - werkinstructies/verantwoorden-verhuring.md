@@ -33,8 +33,8 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **Getoetst huishoudinkomen** =  
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
 13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
-14. Zoals niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toot het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup pagina met een nadere beschrijving van de ontbrekende gegevens. 
-15. Markeer de verantwoording verhuring als zijnde definitief 
+14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toot het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup pagina met een nadere beschrijving van de ontbrekende gegevens. 
+15. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op:
  
  
 
@@ -58,7 +58,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY5MDEyOTYsLTYxMzA2NDc3LC0zNz
-QwMjkyOTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3
-NjM1LC0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbNTEzNzUxMzI0LC02MTMwNjQ3NywtMzc0MD
+I5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYz
+NSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
 -->
