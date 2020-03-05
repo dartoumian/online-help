@@ -17,7 +17,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
     -   **Documentnr.:**  nummer van bank afschrift + jaar indicatie. Bijvoorbeeld BM0012_20 voor bankafschrift 12 van 2020.
         -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), voeg dan een A toe aan het nummer. Voorbeeld: BM0012_20A
     -   **Beginsaldo:**  Controleer het beginsaldo. Pas waar nodig aan
-        -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incassobetaalrun verwerkt heeft.
+        -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incasso betaalrun verwerkt heeft.
     -   **Eindsaldo:**  Vul het eindsaldo van het bankafschrift in.
 
 ## Controleren aanwezigheid betaalrun
@@ -102,10 +102,10 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjI3MjQ2MywxNDUyNzUwMjk3LC0xNT
-M4OTYxODgyLDQ4OTA5NDQ1Niw5NzIzMzU4MTgsLTE4MDg0OTcw
-NjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1NiwtMj
-AzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLTE4ODYx
-OTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTkyMTYxMz
-M5XX0=
+eyJoaXN0b3J5IjpbMTY2NTAyNjc3NSwxNjMyMjcyNDYzLDE0NT
+I3NTAyOTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3MjMzNTgx
+OCwtMTgwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMT
+U5Njg2NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5
+NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NT
+I1LC05OTIxNjEzMzldfQ==
 -->
