@@ -82,7 +82,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 	- **Btw-productboekingsgroep** 
 	- **Clusternummer**: Vullen wanneer van toepassing. Als 'Kostencode' geselecteerd is in het veld **Soort** is dit veld verplicht. 
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
-	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruik kosten op van toepassing zijn. (alleen invullen bij S&V-service en verbruik facturen).
+	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruikskosten op van toepassing zijn (alleen invullen bij S&V-facturen).
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
 	- **Dimensie waarden velden**: Velden die eindigen met de het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
 2. Wanneer de gegevens ins de factuurregel gevuld zijn kan de factuur gematcht en & geboekt worden via. **[Match en boek factuur](#match-en-boek-factuur)**.
@@ -173,7 +173,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MTU4NTgwLDE5OTA0MTUxMTYsMTk1NT
+eyJoaXN0b3J5IjpbNDE4ODIxMjEzLDE5OTA0MTUxMTYsMTk1NT
 g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
 LDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOT
 A1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1Njgx
