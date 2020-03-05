@@ -82,7 +82,7 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 
 >#### IBAN-nummer toevoegen ter herkenning
 >
->In Dynamics empire is het IBAN nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
+>In Dynamics Empire is het IBAN-nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
 >
 > 1. Selecteer de regel waarvan u het IBAN-nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opent. 
 > 2. Klik op **Bankrekening klant aanmaken** in het IBAN-nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
@@ -101,9 +101,9 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3Mj
-MzNTgxOCwtMTgwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQw
-OSwxMTU5Njg2NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLD
-U0NTk5NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIx
-ODE0NTI1LC05OTIxNjEzMzldfQ==
+eyJoaXN0b3J5IjpbMTQ1Mjc1MDI5NywtMTUzODk2MTg4Miw0OD
+kwOTQ0NTYsOTcyMzM1ODE4LC0xODA4NDk3MDYyLDEyNDE3MjA2
+MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3NDMsLT
+E0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC0xODA1
+NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
 -->
