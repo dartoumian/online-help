@@ -27,7 +27,7 @@ In deze stap wordt het rapport met daarop de bedragen die op BTW-aangifte overge
 	-	**Btw-posten opnemen**: 'Tijdens periode'
 	-	**Aangiftesjabloon**: Selecteer het aangiftesjabloon.
 3. Klik op **Verzenden naar** om de aangifte te openen in PDF.
->**LET OP!** Posten die nog niet aangegeven zijn en een documentdatum hebben in het voorgaande jaar worden niet meegenomen. U kunt de processtap  **[Genereren BTW voorstel](#genereren-btw-voorstel)** uitvoeren met ander datumfilter om te zien of er nog aan te geven posten in voorgaande jaren aanwezig zijn. 
+>**LET OP!** Posten die nog niet aangegeven zijn en een documentdatum hebben in het voorgaande jaar worden niet meegenomen. U kunt de processtap  **[Genereren BTW voorstel](#genereren-btw-voorstel)** uitvoeren met een ander datumfilter om te zien of er nog aan te geven posten in voorgaande jaren aanwezig zijn. 
 
 ## Boeken BTW-aangifte
 
@@ -44,6 +44,6 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Kies voor **Ja** als u direct wilt boeken. Kies voor **Nee** als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMjUyMDQ2LC00NTA4OTI5MzQsMTA3Nz
-Y1Mzg0Ml19
+eyJoaXN0b3J5IjpbLTQ3MTY3NzIxNiwtNDUwODkyOTM0LDEwNz
+c2NTM4NDJdfQ==
 -->
