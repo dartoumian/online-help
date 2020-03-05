@@ -35,8 +35,9 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
 14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toot het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup pagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
 15. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd. 
-16. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording als zijnde definitief markeren in veld **Verantwoording definitief**. 
+16. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**. 
  
+Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. 
  
 
 ## Monitoren wettelijke normen 
@@ -59,7 +60,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTY2MDkxOSwtMjg0MTQ4NTI1LC02MT
+eyJoaXN0b3J5IjpbMjAwMjQ1NjAwOCwtMjg0MTQ4NTI1LC02MT
 MwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgy
 OSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ
 ==
