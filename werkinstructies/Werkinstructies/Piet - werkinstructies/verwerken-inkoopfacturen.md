@@ -92,12 +92,12 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
 1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd is. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
-2. Controleer of het totaal bedrag van de factuurregels (**Bbedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeen komen:
+2. Controleer of het totaal bedrag van de factuurregels (**Bbedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
 	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen?. Ga dan verder naar stap 3 en volg daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
-		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, b. Bijvoorbeeld omdat er een meer- of minder werk order aangemaakt moet worden?. Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerk order aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
+		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minder werk order aangemaakt moet worden?. Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerk order aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Dit betreft hHet grootboekrekening nummer of de kostencode.
 	- **Omschrijving**
@@ -173,7 +173,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDMzNDI1NywxOTkwNDE1MTE2LDE5NT
+eyJoaXN0b3J5IjpbMTgzNjkyMTgxNSwxOTkwNDE1MTE2LDE5NT
 U4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAy
 MCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMD
 kwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4
