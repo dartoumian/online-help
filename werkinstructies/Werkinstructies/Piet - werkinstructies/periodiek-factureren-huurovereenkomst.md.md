@@ -55,7 +55,7 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 
 1. Klik op de pagina **Prol.-run kaart** op **Uitvoeren/boeken**. De facturen worden gegenereerd maar nog niet geboekt. 
 2. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
-	* Wanneer de status op de prolongatiekaart gelijk is aan **Prol gereed** zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**. de status op de prolongatiekaart gelijk is aan **Prol gereed**, dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)**.
+	* Wanneer de status op de prolongatiekaart gelijk is aan **Prol gereed** zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**. Als de status op de prolongatiekaart gelijk is aan **Prol gereed**, dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)**.
 
 ## Controleren en oplossen fouten bij facturatie
 
@@ -117,9 +117,9 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NzMxNTksMTQ1Mzg4MzI1OCwxODYyMT
-UwOTEwLC0yMTA2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIx
-Mjc5LC0xNDA5NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsND
-UzOTE3MDA4LDE0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2
-MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3XX0=
+eyJoaXN0b3J5IjpbMjQ5OTY5ODg3LDc2NDczMTU5LDE0NTM4OD
+MyNTgsMTg2MjE1MDkxMCwtMjEwNjg5OTk1OSwtMTM4MjEzNTI1
+MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMTAzMDEyMzQ0NSwxOD
+YwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcyNjg3LDE3NzY2MDM4
+ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1MzQxN119
 -->
