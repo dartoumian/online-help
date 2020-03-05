@@ -50,7 +50,8 @@ In deze stap monitort u of het percentage passende toewijzingen die gedurende he
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passendheidstoets verhuring**. 
 2. Vul de optie **Ingangsdatum huurcontract** in met een specificatie van de periode waarin de ingangsdatum van de nieuwe verhuurcontracten moeten liggen, willen de bijbehorende passendheidstoetsen worden meegenomen in de rapportage. Bijvoorbeeld: **>31-12-2019** 
-3. Geef aan met optie **Incompleet dossiers weergeven** of u de verantwoordingen verhuringen waarvan de laatste versie de indicatie **Incompleet dossier** 
+3. Geef aan met optie **Incompleet dossiers weergeven** of u de verantwoordingen verhuringen waarbij de indicatie **Incompleet dossier** van toepassing is voor de laatste versie van de verantwoording verhuring, al dan niet wil meenemen in de rapportage. 
+4. Klik op **Voorbeeld** of **Afdrukken**. Het rapport wordt gegenereerd.  
 
 
 ## Controle door accountant 
@@ -66,8 +67,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTM2MTcwOSwtMTczMzgyNjMxMywtMj
-g0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4
-NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Mi
-w1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbNjgxMjc2NTYxLC0xNzMzODI2MzEzLC0yOD
+QxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIzODQ1MDg3
+MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2MDgzMjcyLD
+U5NzgxOTA0OF19
 -->
