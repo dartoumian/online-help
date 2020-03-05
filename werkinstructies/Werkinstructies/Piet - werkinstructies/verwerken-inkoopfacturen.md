@@ -120,7 +120,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 
 ## Toewijzen factuur
 
-Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot.b.t. (de status van) de order die ten grondslag ligt aan de factuur, of iemand dient een actie uit te voeren, dan kan er op de factuur een notitie toegevoegd worden mbet de vraag of verzoek tot actie. Vervolgens kan de factuur toegewezen worden aan de gebruiker die de vraag dient te beantwoorden of de actie dient uit te voeren. 
+Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (de status van) de order die ten grondslag ligt aan de factuur, of iemand dient een actie uit te voeren, dan kan er op de factuur een notitie toegevoegd worden met de vraag of verzoek tot actie. Vervolgens kan de factuur toegewezen worden aan de gebruiker die de vraag dient te beantwoorden of de actie dient uit te voeren. 
 
 1. Klik op de pagina **Inkoopfactuur** aan de rechter kant van het scherm op **Bijlagen**. 
 2. Om een vraag of verzoek toe te voegen, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
@@ -171,11 +171,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDk2NTM2MSw2MTcyNzg2ODAsMTk5MD
-QxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0
-OSw5OTk4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MT
-gzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5Nzgz
-LDEyMDQyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01Mj
-UzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDky
-OTkxXX0=
+eyJoaXN0b3J5IjpbLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwND
+E1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5
+LDk5OTgzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxOD
+M0OTcsMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMs
+MTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNT
+MwOTg4OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5
+OTFdfQ==
 -->
