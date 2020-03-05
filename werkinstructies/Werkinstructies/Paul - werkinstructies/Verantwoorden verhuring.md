@@ -11,7 +11,7 @@ Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gec
 
 ## Registeren huishoudgegevens  
 
-In deze stap .
+In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid e
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden ingevuld in de verantwoording verhuring.
@@ -38,5 +38,6 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY1MTIyMTFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDA0MTkxOTcsLTIwMzY1MTIyMTFdfQ
+==
 -->
