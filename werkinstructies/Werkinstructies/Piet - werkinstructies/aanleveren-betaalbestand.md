@@ -74,8 +74,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **etaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klidruk op **Bbewerken**. 
- 2. Klik op **Status wijzigen**et scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+ 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
 	* **Runnummer:** (laat ongewijzigd)
@@ -85,7 +85,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
- 1. Selecteer in de lijst **Bbetaalrunlijst** de betaalrun die u wilt exporteren. 
+ 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand wordt opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
@@ -93,10 +93,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjUyNTE1NSwtMjYyNDA1NDQ3LC0xOT
-QyMjU0MzYzLC0xMjYxNzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIw
-MzU4LC01MzE1MTMyNTgsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLT
-I2NzgwODc5NSwxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4
-NjE3OSwxMjM3ODA4OTAwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NC
-wxMTU0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbLTE0NjQ2OTE2MTYsLTI2MjQwNTQ0NywtMT
+k0MjI1NDM2MywtMTI2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIy
+MDM1OCwtNTMxNTEzMjU4LC0yMzU4Nzc4OSwtMzEzNjEwMDI5LC
+0yNjc4MDg3OTUsMTE1NjA5NjA5MSw2ODY0OTI0MzgsLTE4NDQw
+ODYxNzksMTIzNzgwODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5OT
+QsMTE1NDQ4NTQ0MF19
 -->
