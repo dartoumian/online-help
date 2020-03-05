@@ -52,8 +52,8 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstregels opgehaald te worden in de factuur. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vind deze knop onder de FastTab **Regels**. De pagina **Ontvangstregels ophalen** opent. 
-2. Zoek het ordernummer wat op de factuur vermeld staat op. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is betekend dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder bij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
-3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
+2. Zoek het ordernummer dat op de factuur vermeld staat op. Wanneer het ordernummer op de factuur niet op te halen is betekent dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder met **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ### Ophalen overige orderregels
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjk2OTAyLDE5OTkzMTMzNDYsLTg0OT
-EyNjQxNiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYs
-MTk1NTg4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5OD
-MxMDIwLDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5Nywx
-NzAwOTA1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0Mj
-Y1NjgxLC0yNDc3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4
-XX0=
+eyJoaXN0b3J5IjpbMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04ND
+kxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2
+LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OT
+gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcs
+MTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwND
+I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
+OF19
 -->
