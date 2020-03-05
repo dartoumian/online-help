@@ -37,7 +37,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 15. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd. 
 16. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**. 
  
-Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Indien het toch noodzakelijk is deze gegevens aan te passen of aan te vullen, dan moet u een *nieuwe versie* van de verantwoording verhuring aanmaken. Dit doet u als volgt: 
+Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Indien het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een *nieuwe versie* van de verantwoording verhuring aanmaken. Dit doet u als volgt: 
 1. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd). 
 2. 
  
@@ -62,8 +62,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNj
-EzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4
-MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX
-0=
+eyJoaXN0b3J5IjpbLTExMjE1NjQ0NTgsLTE3MzM4MjYzMTMsLT
+I4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUw
+ODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNz
+IsNTk3ODE5MDQ4XX0=
 -->
