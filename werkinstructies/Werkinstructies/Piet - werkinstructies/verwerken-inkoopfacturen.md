@@ -73,7 +73,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 > 3. Selecteer de regels in het Excel-bestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur, kopieer en plak de regels en plak ze terug in de factuur.
 
 1. Wanneer alle benodigde informatie beschikbaar is kan de factuurregel gevuld worden. Vul de volgende velden:
-	- **Soort**: Kies iIn geval van S&V-facturen voor 'ervice en Verbruik facturen selecteer **Kostencode'**. In geval van reguliere kosten kiest u ' **Grootboekrekening'.**
+	- **Soort**: Kies iIn geval van S&V-facturen voor Service en Verbruik facturen selecteer **Kostencode'**. In geval van reguliere kosten kiest u ' **Grootboekrekening'.**
 	- **Nr.**: Selecteer het grootboekrekening nummer of de kostencode (in geval van S&V-service en verbruik facturen). 
 	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep** 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOT
-k5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4
-MCwxOTkwNDE1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMj
-g2MDgxMDQ5LDk5OTgzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYy
-LDExNDkxODM0OTcsMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4OD
-UwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYw
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDcwNDU5NTEsLTIwNDQyNzk0NDMsMT
+Q4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUy
+MDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2LDE5NTU4ODQ5OTIsLT
+Y4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAyMCw0MjA0MDA4
+ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMDkwNTE1MiwtNz
+g1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1
+ODkwXX0=
 -->
