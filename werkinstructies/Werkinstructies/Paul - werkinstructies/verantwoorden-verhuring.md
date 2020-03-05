@@ -17,19 +17,21 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschin. 
-4. Klik op **Navigeren** en kies voor **Verantwoording verhuring**.  Een pagina met de details van de verantwoording verhuring verschijnt. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
-5. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas  vul deze da aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
-6. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring maar die u niet als contact binnen het huishouden wil registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het **Getoetst huishoudinkomen** en/of als de persoon de oudste persoon binnen het huishouden is.  
+4. Klik op **Navigeren** en kies voor **Verantwoording verhuring**.  Een pagina met de details van de verantwoording verhuring verschijnt. 
+5. In tabblad **OGE-gegevens** 
+6. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
+7. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas  vul deze da aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
+8. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring maar die u niet als contact binnen het huishouden wil registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het **Getoetst huishoudinkomen** en/of als de persoon de oudste persoon binnen het huishouden is.  
  - Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wil registreren. Een extra contact die wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken persoon binnen de verantwoording verhuring toegevoegd (mits de persoon binnen het huishouden is toegevoegd met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring). 
-7. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
-8. In tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van het **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
-9. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden: 
+9. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
+10. In tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van het **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
+11. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden: 
    - **Aantal contractpartners** =  
    - **Huishoudengrootte** =  
    - **Geboortedatum oudste bewoner** = 
    - **AOW-gerechtigd** =  
    - **Getoetst huishoudinkomen** =  
-10. Op basis van de in voorgaande 
+12. Op basis van de in voorgaande genoemde velden enerzijds en 
  
  
 
@@ -53,7 +55,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzQ0ODY1NCwtNjEzMDY0NzcsLTM3ND
+eyJoaXN0b3J5IjpbLTI1MTUyNDIzOSwtNjEzMDY0NzcsLTM3ND
 AyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2
 MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
 -->
