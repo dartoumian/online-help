@@ -34,9 +34,7 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
 
  1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent. 
 
-## Zie ook
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE4NzY3NTEsMzU1OTAzMDExLDEwOT
-A5ODU1OSwxMDY0NjEzNjg5XX0=
+eyJoaXN0b3J5IjpbLTE1MDc2ODI3MzAsLTE5NDE4NzY3NTEsMz
+U1OTAzMDExLDEwOTA5ODU1OSwxMDY0NjEzNjg5XX0=
 -->
