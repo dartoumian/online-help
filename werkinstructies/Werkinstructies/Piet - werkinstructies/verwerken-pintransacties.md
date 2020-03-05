@@ -44,11 +44,10 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
  3. De pagina **Verzamelkwitantie** opent. Klik op **Afdrukken**. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt afdrukken. 
  4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.
 
-## Zie ook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDA2NTczOCwxNjIxNzg1MDEyLDEzMj
-E3ODU3MzQsNzcwNjQyMjEwLDIwNDI0Njk1MTcsMTcxNzY3MTYw
-MiwtMTc1NjgwNDEyNSwzODEzNjg2NSwtNTEyMTExNTY2LC0xNj
-MwNjMxNTg0LDQ3OTEyNzg0NiwyNTkwOTcyMDMsLTc1NjQyMjM1
-MiwtMTUyNTcwMDYwMyw2MjUwMTQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTExOTc2MTMxNzUsMTYyMTc4NTAxMiwxMz
+IxNzg1NzM0LDc3MDY0MjIxMCwyMDQyNDY5NTE3LDE3MTc2NzE2
+MDIsLTE3NTY4MDQxMjUsMzgxMzY4NjUsLTUxMjExMTU2NiwtMT
+YzMDYzMTU4NCw0NzkxMjc4NDYsMjU5MDk3MjAzLC03NTY0MjIz
+NTIsLTE1MjU3MDA2MDMsNjI1MDE0MTI1XX0=
 -->
