@@ -16,7 +16,8 @@ In deze stap registreert u de huishoudgegevens van een individuele toewijzing va
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
-4. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt.
+4. Klik op **Navigeren** en kies voor **Verantwoording verhuuring**.  Een pagina met de details van de verantwoording verhuring verschijnt.
+5. 
  
 
 ## Monitoren wettelijke normen 
@@ -39,5 +40,5 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MTQ0Mzc4LDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbNjg4MzM1MjMwLDU5NzgxOTA0OF19
 -->
