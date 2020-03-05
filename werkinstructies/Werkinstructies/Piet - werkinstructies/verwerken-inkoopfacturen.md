@@ -28,7 +28,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
  -**.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	-  AlsIndien er al **factuurregels aanwezig** zijn, ga dan verder metbij processstap **[Controleren factuurregels](#controleren-factuurregels)**.
-	- AlsIndien er een **ordernummer** vermeld** staat op de factuur, ga dan verder metbij **[Regels ophalen](#regels-ophalen)**.
+	- Als er een **ordernummer** vermeld** staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
 	- AlIs er **geen ordernummer** vermeld staat** op de factuur:?
 		- Had er wel een ordernummer op de factuur moeten staan, ga dan verder metbij processtap **[Toewijzen factuur](#toewijzen-factuur)**.
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder metverder bij processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
@@ -173,11 +173,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MjU1NTIwLDE5NTU4ODQ5OTIsLTY4Mz
-Y3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAyMCw0MjA0MDA4ODYs
-NDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMDkwNTE1MiwtNzg1OT
-YyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1ODkw
-LDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1MywtNz
-MzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQw
-NDk2XX0=
+eyJoaXN0b3J5IjpbMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02OD
+M2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2
+LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NT
+k2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5
+MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3NTMsLT
+czMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0NTQsMTU2Mjk0
+MDQ5Nl19
 -->
