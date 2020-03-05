@@ -116,7 +116,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 	- **Btw-productboekingsgroep**
 	- **Directe kostprijs Excl. btw**
 	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
-2. Zijn andere waardes niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/ / een nieuwe order aan dient te maken. **[Toewijzen factuur](#toewijzen-factuur)**.
+2. Zijn andere waardes niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken. **[Toewijzen factuur](#toewijzen-factuur)**.
 
 ## Toewijzen factuur
 
@@ -171,11 +171,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUwMTcxMTUsNjE3Mjc4NjgwLDE5OT
-A0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEw
-NDksOTk5ODMxMDIwLDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OT
-E4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4
-MywxMjA0MjY1NjgxLC0yNDc3OTU4OTAsMTA2MDUyNjA5MCwtNT
-I1MzA5ODg4LC0xMTQ1MjkxNzUzLC03MzMxOTM4NDIsLTU4OTQ5
-Mjk5MV19
+eyJoaXN0b3J5IjpbMTE5ODg2Njk4Niw2MTcyNzg2ODAsMTk5MD
+QxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0
+OSw5OTk4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MT
+gzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5Nzgz
+LDEyMDQyNjU2ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01Mj
+UzMDk4ODgsLTExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDky
+OTkxXX0=
 -->
