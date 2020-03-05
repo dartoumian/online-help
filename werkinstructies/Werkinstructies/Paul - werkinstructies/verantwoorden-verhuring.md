@@ -63,8 +63,6 @@ Herhaal dit voor het rapport **Toets staatssteunregeling verhuringen**. Onderaan
 
 In deze stap controleert de account de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
 
-1. Bla bla . 
-
 
 ## Opschonen privacy gevoelige gegevens 
 
@@ -75,9 +73,10 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum voor het selecteren van de verantwoordingen die moeten worden opgeschoond. Alle verantwoordingen worden opgeschoond waarvan de laatste versie als zijnde definitief is gemarkeerd en waarvan de huurcontractingangsdatum <= de ingevulde opschoningspeildatum. 
 4. Geef aan of u de verantwoordingen verhuringen waarvan de laatste versie is aangemerkt als zijnde incompleet dossier, ook moeten worden opgeschoond. 
 5. Klik op **OK**. 
-6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de laatste versie voldoet aan de selectiecriteria, dan schoont het systeem alle versies van 
+6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY1MzM2NDksMzEzODQ0ODY4LC0xNz
+eyJoaXN0b3J5IjpbLTE2NTAxMzA4MzQsMzEzODQ0ODY4LC0xNz
 MzODI2MzEzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjky
 OTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC
 0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
