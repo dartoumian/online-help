@@ -1,7 +1,10 @@
 # Verantwoorden verhuring
 
 Elke toewijzing van een verhuurbare eenheid aan een nieuwe huurder moet worden verantwoord. Hiermee wordt bedoeld dat van elke toewijzing moet worden bepaald of de toewijzing voldoet aan de wettelijke eisen die zijn gesteld in de passendheidstoets en staatssteunregeling. 
-Gedurende het kalenderjaar moet worden gemonitord of de toewijzingen 
+
+Gedurende het kalenderjaar moet worden gemonitord of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen. 
+
+Na afloop van het  
 
 
 ## Processchema
@@ -32,10 +35,8 @@ In deze stap ...
 
 In deze stap  . 
 
-1. . Selecteer het aanbiedingscontract en klik op **Huurprijsmutatie** (voorheen genoemd **Verhuurmutatie**). Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
-2. Selecteer een reden in veld **Reden wijziging**. 
-3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** en klik op **Sluiten**. 
+1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTc0Mzg2NF19
+eyJoaXN0b3J5IjpbMTMxNDMxNzExM119
 -->
