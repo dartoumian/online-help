@@ -21,7 +21,7 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de posten wilt vereffenen.
-3. Selecteer de klant en kilik op **Posten**. De pagina **Klantposten** opent.
+3. Selecteer de klant en klik op **Posten**. De pagina **Klantposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen. 
 >Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen.
 5. Kies de actie **Posten vereffenen**. De pagina **Klantposten vereffenen** opent.
@@ -59,8 +59,8 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MT
-UyNTQ2LDE5MTg3NjM4OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2
-MSwtOTU3MTE2MjgzLC0xNjM2MzM2NTEwLDE0MzEzODE1NTksMT
-I2NDkwNjQ1MiwxODE3OTk5MDIwXX0=
+eyJoaXN0b3J5IjpbOTQ5OTU2OTY0LDE4MjYzMjU1OSwxMjc3NT
+gyNjA4LDE1NzE1MjU0NiwxOTE4NzYzODkyLC0xMjQ4NTM3MjY3
+LDEzMjcwODkxNjEsLTk1NzExNjI4MywtMTYzNjMzNjUxMCwxND
+MxMzgxNTU5LDEyNjQ5MDY0NTIsMTgxNzk5OTAyMF19
 -->
