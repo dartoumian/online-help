@@ -2,7 +2,7 @@
 
 In dit werkproces wordt de aanvraag van een betalingsregeling beëindigd. Dit kan voor individuele regelingen, maar ook voor meerdere regelingen tegelijk.
 
-## Processtappen
+## Processchema
 
 ## Beëindigen betalingsregeling
 In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe u de klant hierover informeert. 
@@ -92,6 +92,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODY4MzU3LC0xODE1NTQ5NzI0LC0xOD
+eyJoaXN0b3J5IjpbNjQ2NDg3ODg3LC0xODE1NTQ5NzI0LC0xOD
 MwMjUxMDY1LDUxNjg0MTMzNF19
 -->
