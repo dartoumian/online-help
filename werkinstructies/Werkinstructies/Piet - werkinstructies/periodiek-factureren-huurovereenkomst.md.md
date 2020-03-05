@@ -20,12 +20,12 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 3. Klik op **Voorbeeld** om een voorbeeld van het rapport te openen of klik op **Verzenden** en selecteer vervolgens **Excel** om het rapport in Excel te openen.
 4. In het rapport dat opent vindt u de volgende zaken:
 	* de datum van de wijziging;
-	* e gewijzigde huurelementen;
-	* e oude en nieuwe bedragen per huurelement;
+	* de gewijzigde huurelementen;
+	* de oude en nieuwe bedragen per huurelement;
 	* de datum waarop de wijziging opgevoerd is;
-	* at de reden voor wijziging is;
-	* door ie en wanneer de wijziging geaccordeerd is ;
-	* f er afwijkende verhuurmutatieredenen zijn en wie deze heeft ingevoerd.
+	* wat de reden voor wijziging is;
+	* door wie en wanneer de wijziging geaccordeerd is;
+	* of er afwijkende verhuurmutatieredenen zijn en wie deze heeft ingevoerd.
 5. Zijn er naar aanleiding van de controle zaken die aangepast dienen te worden, ga dan verder naar de processtap **[Uitvoeren huurprijsaanpassingen](#uitvoeren-huurprijsaanpassingen)**.
 6. Blijkt naar aanleiding van de controle dat alle huurprijsmutaties akkoord zijn, ga dan verder naar de processtap **[Instellen te factureren contracten voorgaande periode](#instellen-te-factureren-contracten-voorgaande-periode)**.
 
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTU3ODE2MSwxODYyMTUwOTEwLC0yMT
+eyJoaXN0b3J5IjpbMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMT
 A2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5
 NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LD
 E0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYy
