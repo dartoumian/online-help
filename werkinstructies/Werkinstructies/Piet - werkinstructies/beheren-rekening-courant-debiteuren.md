@@ -26,7 +26,7 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 >Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen.
 5. Kies de actie **Posten vereffenen**. De pagina **Klantposten vereffenen** opent.
 6. Selecteer de post(en) waarmee u de in stap 4 geselecteerde post wilt vereffenen.
-7. i Klik op actie **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
+7. Klik op actie **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
 9. Kies de actie **Vereffening boeken**. De pagina **Vereffening boeken** opent. 
 10. Vul in het veld **Boekingsdatum** de datum van vandaag in (sneltoets: H) en klik op **OK**. De vereffening wordt geboekt en u keert terug naar de pagina **Klantposten**.
@@ -38,7 +38,7 @@ Wanneer u de vereffening van klantposten ongedaan wilt maken kunt u dit doen van
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de vereffening ongedaan wilt maken.
 3. Selecteer de klant en kies voor functie **Posten**. De pagina **Klantposten** opent.
-4. Selecteer één van de posten waarvoor u de vereffening ongedaan wilt maken en ki lik op **Vereffening posten ongedaan maken**. De pagina **Vereffening klantposten ongedaan maken** opent.
+4. Selecteer één van de posten waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening posten ongedaan maken**. De pagina **Vereffening klantposten ongedaan maken** opent.
 6. Selecteer de regel(s) waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening ongedaan maken**. Er verschijnt een pop-up met de vraag of u door wilt gaan. Klik op **Ja** ; de vereffening wordt nogmaals bevestigd. U keert terug naar de pagina **Klantposten**.
 
 ## Instellen individuele afwachtcode
@@ -59,8 +59,8 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5OTU2OTY0LDE4MjYzMjU1OSwxMjc3NT
-gyNjA4LDE1NzE1MjU0NiwxOTE4NzYzODkyLC0xMjQ4NTM3MjY3
-LDEzMjcwODkxNjEsLTk1NzExNjI4MywtMTYzNjMzNjUxMCwxND
-MxMzgxNTU5LDEyNjQ5MDY0NTIsMTgxNzk5OTAyMF19
+eyJoaXN0b3J5IjpbMTk5ODg5NDE0OCwxODI2MzI1NTksMTI3Nz
+U4MjYwOCwxNTcxNTI1NDYsMTkxODc2Mzg5MiwtMTI0ODUzNzI2
+NywxMzI3MDg5MTYxLC05NTcxMTYyODMsLTE2MzYzMzY1MTAsMT
+QzMTM4MTU1OSwxMjY0OTA2NDUyLDE4MTc5OTkwMjBdfQ==
 -->
