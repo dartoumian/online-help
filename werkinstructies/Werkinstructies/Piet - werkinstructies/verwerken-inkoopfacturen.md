@@ -101,10 +101,10 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Dit betreft het grootboekrekeningnummer of de kostencode.
 	- **Omschrijving**
-	- **Btw-productboekingsgroep**: Dit is de omschrijving de meegegeven wordt aan de grootboekposten. 
-	- **Btw-productboekingsgroep**: De BTW-productboekingsgroep die van toepassing is. 
-	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
-	- **Dimensie waarden velden**: Velden die eindigen met de het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Btw-productboekingsgroep** 
+	- **Btw-productboekingsgroep** 
+	- **Directe kostprijs Excl. btw**
+	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig, ga dan verder metbij de processtap **[Match en boek factuur](#match-en-boek-factuur)**.
 5. Zijn er wel aanpassingen nodig, ga dan verder metbij de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
 
@@ -173,7 +173,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3OTU1NDQzLDE5OTA0MTUxMTYsMTk1NT
+eyJoaXN0b3J5IjpbODEyNTgxMzcxLDE5OTA0MTUxMTYsMTk1NT
 g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
 LDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOT
 A1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1Njgx
