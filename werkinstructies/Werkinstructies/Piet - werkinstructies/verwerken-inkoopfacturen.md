@@ -99,7 +99,7 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen?. Ga dan verder naar stap 3 en volg daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
 		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
-	- **Nr.**: Dit betreft hHet grootboekrekening nummer of de kostencode.
+	- **Nr.**: Dit betreft het grootboekrekeningnummer of de kostencode.
 	- **Omschrijving**
 	- **Btw-productboekingsgroep**: Dit is de omschrijving de meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep**: De BTW-productboekingsgroep die van toepassing is. 
@@ -173,11 +173,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2MzkwNTMsMTk5MDQxNTExNiwxOT
-U1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEw
-MjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MD
-A5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2
-ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLT
-ExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2
-MTE0NTRdfQ==
+eyJoaXN0b3J5IjpbNzU3OTU1NDQzLDE5OTA0MTUxMTYsMTk1NT
+g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
+LDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOT
+A1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1Njgx
+LC0yNDc3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMT
+Q1MjkxNzUzLC03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjEx
+NDU0XX0=
 -->
