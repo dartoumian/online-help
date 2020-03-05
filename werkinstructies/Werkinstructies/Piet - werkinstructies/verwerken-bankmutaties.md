@@ -13,7 +13,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
  4.  Klik op **OK**, waarna het bank-/giroboek opent.
  5. Vul de volgende velden:
 	* **Datum:** Datum van het bankafschrift.
-	* **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Bijvoorbeeld: *BM0012_20* voor bhuuropzegging   ## Omschrijving (Geef hier de omschrijving het detailproces)   ## Processchema (Hier komt link naar Mavim of plaatje van proces.)   ## Processtappen   ### Vastleggen huuropzegging In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres van de vertrekkende huurder en een leegstandscontract voor de OG Eenheid.   1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**. 2. Selecteer de OG Eenheid waarvoor de huuropzegging moet worden vastgelegd. 3. Klik op de link achter **Klantnr** in het feitenblok **Klantinformatie**. De **Klantkafschrift 12 van 2020.
+	* **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Bijvoorbeeld: *BM0012_20* voor bankafschrift 12 van 2020   ## Omschrijving (Geef hier de omschrijving het detailproces)   ## Processchema (Hier komt link naar Mavim of plaatje van proces.)   ## Processtappen   ### Vastleggen huuropzegging In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres van de vertrekkende huurder en een leegstandscontract voor de OG Eenheid.   1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**. 2. Selecteer de OG Eenheid waarvoor de huuropzegging moet worden vastgelegd. 3. Klik op de link achter **Klantnr** in het feitenblok **Klantinformatie**. De **Klantkafschrift 12 van 2020.
 		* Heeft u in een eerdere stap een incassorun geïmporteerd (zie **Importeren betaalrun incasso**), voeg dan een A toe aan het nummer. Bijvoorbeeld: *BM0012_20A*.
 	* **Beginsaldo:** Controleer het beginsaldo en pas dit waar nodig aan.
 		* Heeft u in een eerdere stap een incassorun geïmporteerd (zie **Importart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft. 4. Controleer of degene van wie de huuropzegging afkomstig is, overeen betaalrun incasso**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incassobetaalrun verwerkt heeft.
@@ -101,9 +101,10 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mjc1MDI5NywtMTUzODk2MTg4Miw0OD
-kwOTQ0NTYsOTcyMzM1ODE4LC0xODA4NDk3MDYyLDEyNDE3MjA2
-MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3NDMsLT
-E0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC0xODA1
-NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
+eyJoaXN0b3J5IjpbLTE3MzI3MjQ5NjksMTQ1Mjc1MDI5NywtMT
+UzODk2MTg4Miw0ODkwOTQ0NTYsOTcyMzM1ODE4LC0xODA4NDk3
+MDYyLDEyNDE3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLT
+IwMzM2Mzk3NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2
+MTk1MjAyLC0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5MjE2MT
+MzOV19
 -->
