@@ -59,7 +59,7 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 
 ## Controleren en oplossen fouten bij facturatie
 
-Wanneer er tijdens het gener van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
+Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
 1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongation** opent. 
 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. 
@@ -117,9 +117,10 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5OTY5ODg3LDc2NDczMTU5LDE0NTM4OD
-MyNTgsMTg2MjE1MDkxMCwtMjEwNjg5OTk1OSwtMTM4MjEzNTI1
-MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMTAzMDEyMzQ0NSwxOD
-YwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcyNjg3LDE3NzY2MDM4
-ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1MzQxN119
+eyJoaXN0b3J5IjpbMTAxNzA0MDUwMSw3NjQ3MzE1OSwxNDUzOD
+gzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5NTksLTEzODIxMzUy
+NTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAxMjM0NDUsMT
+g2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4NywxNzc2NjAz
+ODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTddfQ
+==
 -->
