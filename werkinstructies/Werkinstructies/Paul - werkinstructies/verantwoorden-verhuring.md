@@ -53,7 +53,8 @@ In deze stap monitort u of het percentage passende toewijzingen die gedurende he
 3. Geef aan met optie **Incompleet dossiers weergeven** of u de verantwoordingen verhuringen waarbij de indicatie **Incompleet dossier** van toepassing is voor de laatste versie van de verantwoording verhuring, al dan niet wil meenemen in de rapportage. 
 4. Klik op **Voorbeeld** of **Afdrukken**. Het rapport wordt gegenereerd.  
 5. Het rapport toont alle *definitieve* verantwoordingen verhuringen die behoren bij een *geaccepteerde* verantwoording verhuring waarvan de ingangsdatum voldoet aan het ingegeven criterium. Let op: dit betekent dat zolang de verhuuraanbieding niet is geaccepteerd, de bijbehorende verantwoording verhuring niet wordt meegenomen in de rapportage. Let op: per verantwoording verhuring wordt alleen de laatste versie die is gemarkeerd als zijnde definitief meegenomen in de rapportage. 
-6. Elke verantwoording verhuring wordt getoond in één van de categorieën, waarbij er drie soorten categorieën zijn: niet-getoets, passend en niet-passend. 
+6. Elke verantwoording verhuring wordt getoond in één van de categorieën, waarbij er drie soorten categorieën zijn: niet-getoetst, passend en niet-passend. Op het rapport wordt het totaal aantal niet-getoetste verhuringen, het totaal aantal passende verhuringen en het totaal aantal niet-passende verhuringen getoond. 
+7. Onderaan het rapport 
 
 
 ## Controle door accountant 
@@ -69,8 +70,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzA5OTEwOCwtMTczMzgyNjMxMywtMj
-g0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4
-NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Mi
-w1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbMjM5MDk4NDg3LC0xNzMzODI2MzEzLC0yOD
+QxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIzODQ1MDg3
+MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2MDgzMjcyLD
+U5NzgxOTA0OF19
 -->
