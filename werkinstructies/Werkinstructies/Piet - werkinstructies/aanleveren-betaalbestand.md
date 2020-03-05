@@ -61,7 +61,7 @@ Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (de betaalrun waaruit u regels wilt annuleren en k op Bbewerken**. 
+ 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers.
  3. Klik op **Status wijzigen**, waarna h. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
@@ -93,10 +93,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjQwNTQ0NywtMTk0MjI1NDM2MywtMT
-I2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIyMDM1OCwtNTMxNTEz
-MjU4LC0yMzU4Nzc4OSwtMzEzNjEwMDI5LC0yNjc4MDg3OTUsMT
-E1NjA5NjA5MSw2ODY0OTI0MzgsLTE4NDQwODYxNzksMTIzNzgw
-ODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5OTQsMTE1NDQ4NTQ0MF
-19
+eyJoaXN0b3J5IjpbLTc5NTQ1NTI1MywtMjYyNDA1NDQ3LC0xOT
+QyMjU0MzYzLC0xMjYxNzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIw
+MzU4LC01MzE1MTMyNTgsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLT
+I2NzgwODc5NSwxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4
+NjE3OSwxMjM3ODA4OTAwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NC
+wxMTU0NDg1NDQwXX0=
 -->
