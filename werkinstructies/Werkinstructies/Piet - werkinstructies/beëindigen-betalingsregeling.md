@@ -1,33 +1,28 @@
 # Beëindigen betalingsregeling
 
-In dit werkproces wordt de aanvraag van een betalingsregeling beëindigd. Dit kan voor individuele regelingen, maar ook voor meerdere regelingen tegelijk.
-
-## Processtappen
-
-## Beëindigen betalingsregeling
-In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe u de klant hierover informeert. 
-
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Betalingsregelinglijst** beoordeeld en indien mogelijk een betalingsregeling aangemaakt.
+In dit werkproces worden betalingsregeling(en) beëindigd. In dit proces wordt uitgelegd hou u individuele regelingen beëindigd en hoe u regelingen in bulk beëindigd.
 
 ## Processchema
 
-## Aanmaken betalingsregeling via sjabloon
-U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**. 
+## Beëindigen betalingsregeling
+In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe u de klant hierover informeert.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Klanten**. 
-2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizzard** opent. Vul de volgende velden: 
-	-	**Sjablooncode**: Selecteer het sjabloon wat u wilt gebruiken
-	-	**Mandaatcode**: Selecteer de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
-	-	**Totaalbedrag Regeling**:
-		-	Kik op de drie puntjes. Het scherm **Betalingsregelingwizzard** opent. 
-		-	Selecteer de posten die u op wilt nemen in de betalingsregeling
-		-	Klik op **OK**
-	-	**Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend
-	**OF**
-	-	**Termijnbedrag**: Geef het bedrag per termijn op (het aantal termijnen wordt automatisch berekend
-2. Klik op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**) worden. U keer terug naar de pagina **Klanten.**
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregelinglijst**.
+2. 
+1.  Selecteer de betalingsregeling die u wilt beëindigen en open deze. Klik op  **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op  **Ja**.
+2.  De pagina  **beëindigingscodes betalingsregeling**  opent. Selecteer de beëindigingsrede die van toepassing is en klik op  **OK**. De betalingsregeling is beëindigd.
+3.  Wanneer u de klant wilt informeren over het voortijdig beëindigen van een betalingsregelingen klik u op Worddocument. Het scherm  **Word-sjablonen**  opent. Selecteer het sjabloon voor het vroegtijdig beëindigen van een betalingsregeling en vul de benodigde informatie is.
+4.  De betalingsregeling is nu beëindigd.
 
+## [](#beëindigen-betalingsregeling-in-bulk)Beëindigen betalingsregeling in Bulk
+
+In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaan zijn in bulk beëindigt.
+
+1.  Navigeer via het zoekveld  ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  Naar  **Betalingsregeling beëindigen**. Het scherm  **Betalingsregeling beëindigen**  opent.
+2.  Selecteer in het filerveld  **Toon**  de waarde  **Volledig betaald**. In het scherm worden u alle volledig betaalde betalingsregelingen getoond die nog niet beëindigd zijn.
+3.  Selecteer alle regels en klik op  **Markering aan**.
+4.  Klik op  **Betalingsregeling(en) beëindigen**. Het scherm  **Beëindigingscode betalingsregeling ** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindig.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgxMTgwMjgsLTE4MTU1NDk3MjQsLT
-E4MzAyNTEwNjUsNTE2ODQxMzM0XX0=
+eyJoaXN0b3J5IjpbLTU1NDg1MjQ5LC0xODE1NTQ5NzI0LC0xOD
+MwMjUxMDY1LDUxNjg0MTMzNF19
 -->
