@@ -36,7 +36,7 @@ Wanneer u een deel van de vordering afgeboekt heeft kunt u het restant ook afboe
 3. Zet het veld **Te betalen bedrag afboeken** op 'Ja'. 
 4. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 5. Selecteer onder het kopje **Invoergegevens betr. betaling** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
-6. 7. Klik op **OK** om het restant van de vordering af te boeken. 
+6. Klik op **OK** om het restant van de vordering af te boeken. 
 
 ## Afboeken vordering
 
@@ -68,7 +68,7 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgzMjg4MjQsOTg3MzY4MjI5LC0xMj
-U4OTk5NDM4LC01NTQ2NjA3NTgsLTE0MTAyMTI3NzgsMTgxODg2
-NzYyMCw2MjQ5OTg1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE3NzEyMDQxMjksLTExOTgzMjg4MjQsOT
+g3MzY4MjI5LC0xMjU4OTk5NDM4LC01NTQ2NjA3NTgsLTE0MTAy
+MTI3NzgsMTgxODg2NzYyMCw2MjQ5OTg1NDBdfQ==
 -->
