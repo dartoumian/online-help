@@ -32,7 +32,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **AOW-gerechtigd** =  
    - **Getoetst huishoudinkomen** =  
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
-13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het sys   
+13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. Let op 
  
  
 
@@ -56,7 +56,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0ODY3Mjg3LC02MTMwNjQ3NywtMzc0MD
-I5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYz
-NSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbLTExOTI5MDcwNCwtNjEzMDY0NzcsLTM3ND
+AyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2
+MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
 -->
