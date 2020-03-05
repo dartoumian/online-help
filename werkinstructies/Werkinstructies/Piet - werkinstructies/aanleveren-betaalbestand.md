@@ -8,13 +8,15 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht** ana een pan waarna de gelijknamige pagina opent. Vul hier de volgende velden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
+2. Klik op **Voorstelposten ophalen**.
+3.  De pagina **Voorstelposten ophalen** opent. Vul hier de volgende velden::
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
 	* **Rekeningsoort:** 'Leverancier'.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
-5. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
+4. Klik op **OK**. Het betaalvoorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
 ## Ophalen voorstel klantposten
 
@@ -91,9 +93,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIyNTQzNjMsLTEyNjE3NzE3MywtMj
-kzNDE0NjA2LC0xNzYyMjAzNTgsLTUzMTUxMzI1OCwtMjM1ODc3
-ODksLTMxMzYxMDAyOSwtMjY3ODA4Nzk1LDExNTYwOTYwOTEsNj
-g2NDkyNDM4LC0xODQ0MDg2MTc5LDEyMzc4MDg5MDAsOTQ2MjY1
-MzQyLC0xMTQzMDUzOTk0LDExNTQ0ODU0NDBdfQ==
+eyJoaXN0b3J5IjpbLTI2MjQwNTQ0NywtMTk0MjI1NDM2MywtMT
+I2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIyMDM1OCwtNTMxNTEz
+MjU4LC0yMzU4Nzc4OSwtMzEzNjEwMDI5LC0yNjc4MDg3OTUsMT
+E1NjA5NjA5MSw2ODY0OTI0MzgsLTE4NDQwODYxNzksMTIzNzgw
+ODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5OTQsMTE1NDQ4NTQ0MF
+19
 -->
