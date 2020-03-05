@@ -113,13 +113,14 @@ Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolong
 Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van toepassing de facturen en digitale betaalverzoeken versturen. 
 
 1. Klik op de pagina **Prol.-run kaart** op **Postex**. De pagina **Prolongatiefactuur PROL+** opent. 
-2. Klink op **OK**. Voor de klanten waarvoor u heeft ingesteld dat zij een factuur of betaalverzoek moeten krijgen, wordt via Postex het betaalverzoek of de factuur verstuurd. 
+2. Klik op **OK**. Voor de klanten waarvoor u heeft ingesteld dat zij een factuur of betaalverzoek moeten krijgen, wordt via Postex het betaalverzoek of de factuur verstuurd. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjA4Mjk3LDc2NDczMTU5LDE0NTM4OD
-MyNTgsMTg2MjE1MDkxMCwtMjEwNjg5OTk1OSwtMTM4MjEzNTI1
-MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMTAzMDEyMzQ0NSwxOD
-YwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcyNjg3LDE3NzY2MDM4
-ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1MzQxN119
+eyJoaXN0b3J5IjpbLTE2Mjg5MTE1MTMsNzY0NzMxNTksMTQ1Mz
+g4MzI1OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC0xMzgyMTM1
+MjUyLC0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMwMTIzNDQ1LD
+E4NjA2NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2ODcsMTc3NjYw
+Mzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3XX
+0=
 -->
