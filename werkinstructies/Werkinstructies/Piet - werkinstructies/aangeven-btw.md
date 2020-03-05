@@ -36,7 +36,7 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften**. De gelijknamige pagina opent. 
 2. Klik op **Btw-vereffening berekenen en boeken.** De gelijknamige pagina opent. 
 3. Vul de volgende velden: 
- 	- **Begindatum**: 1 januari van het huidige jaar
+ 	- **Begindatum**: 1 januari van het huidige jaar.
 	- **Einddatum**: Dit is de einddatum van de periode waarover u de BTW aan wilt geven. 
 	- **Boekingsdatum**: Dit is de datum waarop u de BTW-aangifte wilt boeken. 
 	-  **Documentnr.** : Hier vermeldt u het documentnummer dat u mee wilt geven bij de boeking. 
@@ -44,6 +44,6 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Kies voor **Ja** als u direct wilt boeken. Kies voor **Nee** als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTY3NzIxNiwtNDUwODkyOTM0LDEwNz
-c2NTM4NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk5MTEyNDQsLTQ3MTY3NzIxNiwtND
+UwODkyOTM0LDEwNzc2NTM4NDJdfQ==
 -->
