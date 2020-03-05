@@ -75,14 +75,14 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 1. Wanneer alle benodigde informatie beschikbaar is kan de factuurregel gevuld worden. Vul de volgende velden:
 	- **Soort**: Kies in geval van S&V-facturen voor 'Kostencode'. In geval van reguliere kosten kiest u 'Grootboekrekening'.
 	- **Nr.**: Selecteer het grootboekrekening nummer of de kostencode (in geval van S&V-facturen). 
-	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
+	- **Omschrijving**
 	- **Btw-productboekingsgroep** 
 	- **Clusternummer**: Vullen wanneer van toepassing. Als 'Kostencode' geselecteerd is in het veld **Soort** is dit veld verplicht. 
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
 	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruikskosten op van toepassing zijn (alleen invullen bij S&V-facturen).
-	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
-	- **Dimensie waarden velden**: Velden die eindigen met de het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
-2. Wanneer de gegevens ins de factuurregel gevuld zijn kan de factuur gematcht en geboekt worden via **[Match en boek factuur](#match-en-boek-factuur)**.
+	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW.
+	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
+2. Wanneer de gegevens in de factuurregel gevuld zijn kan de factuur gematcht en geboekt worden via **[Match en boek factuur](#match-en-boek-factuur)**.
 
 ## Controleren factuurregels
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNjk5NDUzLC0yMDQ0Mjc5NDQzLDE0OD
-c2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAx
-OSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02OD
-M2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2
-LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NT
-k2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5
-MF19
+eyJoaXN0b3J5IjpbMTU1MTg0NzE2MiwtMjA0NDI3OTQ0MywxND
+g3NjI4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQxNiwtNjQ1NTIw
+MTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNj
+gzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4
+Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03OD
+U5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yNDc3OTU4
+OTBdfQ==
 -->
