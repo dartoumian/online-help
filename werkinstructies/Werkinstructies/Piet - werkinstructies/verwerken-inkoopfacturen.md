@@ -31,10 +31,10 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder met **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
 ## Regels ophalen
- -
-1. Heeft de order betrekking op reparatie- of mutatieonderhoud, ga dan verder metbij processtap **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
- -2. Dienen er voor de order ontvangstregels opgehaald te worden, ga dan verder metbij de processtap **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
- - 3.Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate), g. Ga dan verder metbij processtap  **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
+ 
+1. Heeft de order betrekking op reparatie- of mutatieonderhoud, ga dan verder met **[Ophalen orderregels reparatie- en mutatieonderhoud](#ophalen-orderregels-reparatie--en-mutatieonderhoud)**.
+ 2. Dienen er voor de order ontvangstregels opgehaald te worden, ga dan verder met **[Ophalen ontvangstregels](#ophalen-ontvangstregels)**.
+ 3. Betreft het een order die geen betrekking heeft op reparatie- of mutatieonderhoud en hoeven er ook geen orderregels opgehaald te worden voor de order (bijvoorbeeld voor orders uit de projecten- en planmatigonderhoud administrate), g. Ga dan verder met **[Ophalen overige orderregels](#ophalen-overige-orderregels)**.
 
 ### Ophalen orderregels reparatie- en mutatieonderhoud
 
@@ -168,7 +168,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODc3OTQ3OCwtODQ5MTI2NDE2LC02ND
+eyJoaXN0b3J5IjpbLTQ3NTYxMjI2OSwtODQ5MTI2NDE2LC02ND
 U1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTky
 LC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwND
 AwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIs
