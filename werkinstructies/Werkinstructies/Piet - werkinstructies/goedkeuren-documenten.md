@@ -38,7 +38,7 @@ Wanneer  u het document door iemand wil laten goedkeuren namens u, dan kunt u de
 
 U kunt een goedkeuringsaanvraag weigeren. 
 
-> Wanneer u een creditfactuur voor een debetfactuur verwacht weigert u de goedkeuringsaanvraag niet. U laat de factuur op uw naam staan totdat de credit factuur bij u ter goedkeuring aangeboden wordt. Wanneer zowel de debitfactuur als de credit factuur op uw naam staat keurt u beide facturen goed. 
+> Wanneer u een creditfactuur voor een debetfactuur verwacht weigert u de goedkeuringsaanvraag niet. U laat de factuur op uw naam staan totdat de creditfactuur bij u ter goedkeuring aangeboden wordt. Wanneer zowel de debetfactuur als de creditfactuur op uw naam staat keurt u beide facturen goed. 
 
 1. U weigert de goedkeuringspost door de regel te selecteren en op **Weigeren** te klikken. 
 2. Het scherm **Opmerkingen bij goedkeuring** opent. Geef in het veld **Opmerking** de reden van weigering op en sluit de pagina. De goedkeuringsaanvraag is geweigerd.
@@ -49,6 +49,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren en op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQxNzg1MTQsMjEwMDM3OTI2MiwxNz
-kwODkwMDUyLDgyODg1MTk3MCwtMjcwODY5NDQyXX0=
+eyJoaXN0b3J5IjpbLTY1MzYzODA3NiwyMTAwMzc5MjYyLDE3OT
+A4OTAwNTIsODI4ODUxOTcwLC0yNzA4Njk0NDJdfQ==
 -->
