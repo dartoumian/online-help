@@ -41,8 +41,8 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA- koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
 1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
-2. Zoek het ordernummer dwat op de factuur vermeld staat. Wanneer dit nummehet ordernummer wat vermeld staat op de factuur niet op te halen is, betekentd dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder metbij de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
-3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen (BTW- type, bedragen en/of aantallen) aanvullen. 
+2. Zoek het ordernummer dat op de factuur vermeld staat. Wanneer dit nummer niet op te halen is, betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen (BTW- type, bedragen en/of aantallen). 
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
 5. U keer terug naar de pagina inkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02ND
-U1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTky
-LC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwND
-AwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIs
-LTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nz
-c5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExNDUyOTE3
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTgzNjk2OTAyLDE5OTkzMTMzNDYsLTg0OT
+EyNjQxNiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYs
+MTk1NTg4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5OD
+MxMDIwLDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5Nywx
+NzAwOTA1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0Mj
+Y1NjgxLC0yNDc3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4
+XX0=
 -->
