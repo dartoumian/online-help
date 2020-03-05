@@ -14,7 +14,7 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
 3. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
 4. De verhuuraanbieding wordt aangemaakt met één of meer aanbiedingscontracten: één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur*Er verschijnt een popup met de vraag op basis van welke bestaande contractregel u die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel die u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
 5. Bepaal op basis van welk aanbiedingscontract u de OG Eenheid wilt publiceren en opnieuw verhuren. Verwijder eventueel de overige aanbiedingnieuwe verhuuraanbieding wil baseren. Selecteer het getoonde leegstandscontracten. 
-64. 
+
 
 ## Aanpassen aanbiedhuur
 
@@ -43,5 +43,5 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjM5MDI4Nl19
+eyJoaXN0b3J5IjpbLTEwNjkwMjQwMzAsLTc1MjM5MDI4Nl19
 -->
