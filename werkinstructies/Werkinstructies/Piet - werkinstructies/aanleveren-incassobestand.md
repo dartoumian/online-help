@@ -14,11 +14,11 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 	* **Transactiedatum:** Datum waarop de incasso moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum op of voor deze datum worden meegenomen in het betaalvoorstel. Bij een incasso op de eerste van de maand vult u hier bijvoorbeeld 01-03-2020 in. 
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
-	* **Rekeningsoort:** 'Klant'.
+	* **Rekeningsoort:** 'Klant'
 	* **Code:** Selecteer de transactiewijze voor automatische incasso voor klantposten.
 	* **Onder het kopje Klantposten**:
 		* **Broncode:** Vul de broncode in. Voor prolongatie posten is dit 'PROLON', v. Voor service- en verbruiks posten is dit 'e SENV'.
-		* **Documenttype:** 'Factuur'.
+		* **Documenttype:** 'Factuur'
 		* 	**Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in. 
 4. Klik op **OK**. Het voorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
@@ -74,8 +74,8 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OT
-UwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0
-NDk1MDAyLDkxMzA2MDgwMCwxMDY2Nzg3MDk5LDEzNzU0NDczMT
-MsNjUzMTU2NTQ0LC03NjU0MDcwMzVdfQ==
+eyJoaXN0b3J5IjpbMTM0NzE1MjAzNiw5MDQ0OTUwMDIsOTEzMD
+YwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAyLDkx
+MzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDEwNjY3ODcwOT
+ksMTM3NTQ0NzMxMyw2NTMxNTY1NDQsLTc2NTQwNzAzNV19
 -->
