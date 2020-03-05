@@ -60,7 +60,7 @@ Herhaal dit voor het rapport **Toets staatssteunregeling verhuringen**. Onderaan
 
 
 ## Controle door accountant 
-In deze stap ... 
+In deze stap controleert de account 
 
 1. Bla bla . 
 
@@ -72,8 +72,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjU1MTU3MiwzMTM4NDQ4NjgsLTE3Mz
-M4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5
-NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLT
-IwODYwODMyNzIsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbLTE3NTU2NDQ3ODksMzEzODQ0ODY4LC0xNz
+MzODI2MzEzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjky
+OTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC
+0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
 -->
