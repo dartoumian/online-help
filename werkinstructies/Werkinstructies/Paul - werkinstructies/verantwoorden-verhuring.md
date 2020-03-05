@@ -49,7 +49,8 @@ Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de defini
 In deze stap monitort u of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen (95-5 norm voor de passendheidstoets en 80-10-10 voor de staatssteunregeling). 
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passendheidstoets verhuring**. 
-2. Vul de optie **Ingangsdatum huurcontract** in met een specificatie van de periode waarin de ingangsdatum van 
+2. Vul de optie **Ingangsdatum huurcontract** in met een specificatie van de periode waarin de ingangsdatum van de nieuwe verhuurcontracten moeten liggen, willen de bijbehorende passendheidstoetsen worden meegenomen in de rapportage. Bijvoorbeeld: **>31-12-2019** 
+3. 
 
 
 ## Controle door accountant 
@@ -65,8 +66,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NzczNTc1LC0xNzMzODI2MzEzLC0yOD
-QxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIzODQ1MDg3
-MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2MDgzMjcyLD
-U5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbMTQ3OTA0NjE2MiwtMTczMzgyNjMxMywtMj
+g0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4
+NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Mi
+w1OTc4MTkwNDhdfQ==
 -->
