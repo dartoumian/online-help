@@ -24,9 +24,9 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Bedrag naar G-rekening**
  4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door op **Boeken verplichting** te klikken. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'**.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
-	-  Als er al **factuurregels aanwezig** zijn, ga dan verder metbij processstap **[Controleren factuurregels](#controleren-factuurregels)**.
-	- Als er een **ordernummer** vermeld** staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
-	- AlIs er **geen ordernummer** vermeld staat** op de factuur:?
+	-  Als er al **factuurregels aanwezig** zijn, ga dan verder met **[Controleren factuurregels](#controleren-factuurregels)**.
+	- Als er een **ordernummer vermeld** staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
+	- AIs er **geen ordernummer vermeld** staat op de factuur:
 		- Had er wel een ordernummer op de factuur moeten staan, ga dan verder metbij processtap **[Toewijzen factuur](#toewijzen-factuur)**.
 		- Wanneer er geen order als basis voor de factuur nodig is dient u de factuur handmatig te coderen. Ga in dat geval verder metverder bij processtap **[Coderen factuurregel(s)](#coderen-factuurregel(s))**.
 		
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjA5MjM3LC04NDkxMjY0MTYsLTY0NT
-UyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2LDE5NTU4ODQ5OTIs
-LTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAyMCw0MjA0MD
-A4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMDkwNTE1Miwt
-Nzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nz
-k1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1
-M119
+eyJoaXN0b3J5IjpbLTE0MzE1OTkxMDYsLTg0OTEyNjQxNiwtNj
+Q1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5
+MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIwLDQyMD
+QwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOTA1MTUy
+LC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yND
+c3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1Mjkx
+NzUzXX0=
 -->
