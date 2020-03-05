@@ -18,8 +18,8 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschin. 
 4. Klik op **Navigeren** en kies voor **Verantwoording verhurhuuraanbieding**.  Een pagina met de details van de verantwoording verhuring verschijnt. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingehuurbbieding schijnt.steld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
-5. Controleer de gegevens van de getoonde betrokken personen en pas of vul deze daar waar nodig aan. 
-6. Voeg eventue
+5. Controleer de gegevens van de getoonde betrokken personen en pas of vul deze daar waar nodig aan. Let op: de gegevens die u hier aanpast of aanvult worden *niet* 
+6. Voeg een extra betrokken persoon toe, 
  
 
 ## Monitoren wettelijke normen 
@@ -42,6 +42,6 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg3MTc2MzUsLTg3MDE4NjQwNiwtMj
+eyJoaXN0b3J5IjpbLTc4OTk5Mzg1MywtMTQ2ODcxNzYzNSwtMj
 A4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
 -->
