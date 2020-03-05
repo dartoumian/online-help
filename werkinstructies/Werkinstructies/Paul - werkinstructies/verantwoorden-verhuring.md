@@ -12,6 +12,7 @@ Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gec
 ## Registeren huishoudgegevens  
 
 In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling. 
+Hierbij wordt ervan uitgegaan dat in de Empire-instellingen is ingesteld dat de huishouddetails 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
@@ -40,5 +41,5 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MzM1MjMwLDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbMTA4MjU5ODU4Niw1OTc4MTkwNDhdfQ==
 -->
