@@ -1,6 +1,6 @@
 # Beëindigen betalingsregeling
 
-In dit werkproces wordt de aanvraag van een betalingsregeling(en) beëindigd. In dit proces wordt uitgelegd hou u individuele regelingen beëindigd en hoe u regelingen in bulk beëindigd.
+In dit werkproces wordt de aanvraag van een betalingsregeling beëindigd. In dit proces wordt uitgelegd hou u individuele regelingen beëindigd en hoe u regelingen in bulk beëindigd.
 
 ## Processtappen
 
@@ -92,6 +92,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU1NDk3MjQsLTE4MzAyNTEwNjUsNT
-E2ODQxMzM0XX0=
+eyJoaXN0b3J5IjpbLTMyMzA4MTUwOCwtMTgxNTU0OTcyNCwtMT
+gzMDI1MTA2NSw1MTY4NDEzMzRdfQ==
 -->
