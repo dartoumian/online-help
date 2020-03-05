@@ -32,7 +32,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **AOW-gerechtigd** =  
    - **Getoetst huishoudinkomen** =  
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
-13. 
+13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toetof 
  
  
 
@@ -56,7 +56,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MTkwNzQsLTYxMzA2NDc3LC0zNzQwMj
-kyOTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1
-LC0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbLTE3NzcxMDA2NTEsLTYxMzA2NDc3LC0zNz
+QwMjkyOTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3
+NjM1LC0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
 -->
