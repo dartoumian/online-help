@@ -6,16 +6,14 @@ Gedurende het kalenderjaar moet worden gemonitord of de toewijzingen
 
 ## Processchema
 
-## Berekenen nieuwe nettohuur conform huurbeleid 
+## Registeren huishoudgegevens  
 
-In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekend op basis van het bij die eenheid ingestelde huurbeleid.
+In deze stap .
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-2. Zoek de OG Eenheid op waarvoor de aanbiedhuur moet worden bepaald.
-3. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
-4. De verhuuraanbieding wordt aangemaakt met één of meer aanbiedingscontracten: één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur*Er verschijnt een popup met de vraag op basis van welke bestaande contractregel u die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel die u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
-5. Bepaal op basis van welk aanbiedingscontract u de OG Eenheid wilt publiceren en opnieuw verhuren. Verwijder eventueel de overige aanbiedingnieuwe verhuuraanbieding wil baseren. Selecteer het getoonde leegstandscontracten. 
-64. 
+2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden ingevuld in de verantwoording verhuring.
+3.  
+ 
 
 ## Aanpassen aanbiedhuur
 
@@ -44,5 +42,5 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA1NDgwNTBdfQ==
+eyJoaXN0b3J5IjpbLTEyMjUzMjk4ODZdfQ==
 -->
