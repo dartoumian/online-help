@@ -71,7 +71,7 @@ Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'regul
 Als er geen order beschikbaar is voor de factuur en er had ook geen order aangemaakt hoeven te worden, kan de factuurregel handmatig aangemaakt en ingevuld worden. Wanneer er vragen zijn over de te selecteren waarden, bijvoorbeeld op welke grootboekrekening de factuur geboekt dient te worden of welke afdelingsdimensie geselecteerd dient te worden, verzamel dan eerst deze informatie door de factuur toe te wijzen aan de persoon die de informatie kan verschaffen, via **[Toewijzen factuur](#toewijzen-factuur)**. 
 
 > Wanneer u meerdere factuurregels aan wilt maken kunt u de factuurregels ook bewerken in Excel. 
-> 1. Selecteer één1 of meer factuurregels. Kopieer de regels (met Ctrl+C)c en plak deze (Ctrl+V) regels in een Excel bestand.
+> 1. Selecteer één of meer factuurregels. Kopieer de regels (met Ctrl+C)c en plak deze (Ctrl+V) regels in een Excel bestand.
 > 2. Voer onderstaande stappen uit voor alle regels.
 > 3. Selecteer de regels in het Excel bestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur, kopieer en plak de regels en plak zemet Ctrl+v terug in de factuur. =
 
@@ -173,11 +173,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzMzMxNDcsMTk5MDQxNTExNiwxOT
-U1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEw
-MjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MD
-A5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2
-ODEsLTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLT
-ExNDUyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2
-MTE0NTRdfQ==
+eyJoaXN0b3J5IjpbMTg0NjAwMzE5NCwxOTkwNDE1MTE2LDE5NT
+U4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAy
+MCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMD
+kwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4
+MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMT
+E0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYx
+MTQ1NF19
 -->
