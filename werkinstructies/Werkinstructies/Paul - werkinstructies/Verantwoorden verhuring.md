@@ -4,7 +4,7 @@ Elke toewijzing van een verhuurbare eenheid aan een nieuwe huurder moet worden v
 
 Gedurende het kalenderjaar moet worden gemonitord of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen. 
 
-Na afloop van het  
+Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gecontroleerd door de accountant. Nadat deze controle is afgerond, moeten de privacy gevoelige gegevens worden opgeschoond uit de verantwoording verhuringen van het voorgaande kalenderjaar.   
 
 
 ## Processchema
@@ -38,5 +38,5 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDMxNzExM119
+eyJoaXN0b3J5IjpbLTIwMzY1MTIyMTFdfQ==
 -->
