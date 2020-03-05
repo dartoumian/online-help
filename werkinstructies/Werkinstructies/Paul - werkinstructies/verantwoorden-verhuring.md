@@ -25,7 +25,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
  - In tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van het **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
  - Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden: 
    - Aantal contractpartners 
-   - Huis
+   - Huishoudengrootte 
    - Geboortedatum oudste bewoner 
    - AOW-gerechtigd 
    - Getoetst huishoudinkomen 
@@ -53,7 +53,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjMzOTg2MSwtNjEzMDY0NzcsLTM3ND
-AyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2
-MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbLTExMDQxMTc4MDgsLTYxMzA2NDc3LC0zNz
+QwMjkyOTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3
+NjM1LC0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
 -->
