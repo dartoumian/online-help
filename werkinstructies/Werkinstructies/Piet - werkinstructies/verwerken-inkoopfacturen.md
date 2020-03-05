@@ -59,8 +59,8 @@ Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstre
 
 Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'reguliere' orderregels opgehaald te worden. 
 
-1. Klik op de pagina **Inkoopfactuur** op **Orderregels ophalen**. De gelijknamige paginapagina **Orderregels ophalen** opent. 
-2. Zoek het ordernummer op dwat op de factuur vermeld staat. Als dit niet lukt op. Wanneer het ordernummer wat vermeld staat op de factuur niet op te halen is kan dit betekenen dat het werk nog niet gereedgemeld is. Ga verder met de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
+1. Klik op de pagina **Inkoopfactuur** op **Orderregels ophalen**. De gelijknamige pagina opent. 
+2. Zoek het ordernummer op dat op de factuur vermeld staat. Als dit niet lukt kan dit betekenen dat het werk nog niet gereed gemeld is. Ga verder met de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de orderregel(s) met de juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de orderregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 ## Coderen factuurregel(s)
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04ND
-kxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2
-LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OT
-gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcs
-MTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwND
-I2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNTMwOTg4
-OF19
+eyJoaXN0b3J5IjpbLTIwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOT
+k5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4
+MCwxOTkwNDE1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMj
+g2MDgxMDQ5LDk5OTgzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYy
+LDExNDkxODM0OTcsMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4OD
+UwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYw
+OTBdfQ==
 -->
