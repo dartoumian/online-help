@@ -80,7 +80,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 	- **Nr.**: Selecteer het grootboekrekening nummer of de kostencode (in geval van S&V-service en verbruik facturen). 
 	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep** 
-	- **Clusternummer**: Vullen wanneer van toepassing, Als 'Wanneer **Kostencode'** geselecteerd is in het veld **Soort ** is dit veld verplicht. 
+	- **Clusternummer**: Vullen wanneer van toepassing. Als 'Kostencode' geselecteerd is in het veld **Soort** is dit veld verplicht. 
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
 	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruik kosten op van toepassing zijn. (alleen invullen bij S&V-service en verbruik facturen).
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW
@@ -173,11 +173,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNTE5OTAsMTk5MDQxNTExNiwxOTU1OD
-g0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAs
-NDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MD
-UxNTIsLTc4NTk2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEs
-LTI0Nzc5NTg5MCwxMDYwNTI2MDkwLC01MjUzMDk4ODgsLTExND
-UyOTE3NTMsLTczMzE5Mzg0MiwtNTg5NDkyOTkxLC04NjY2MTE0
-NTRdfQ==
+eyJoaXN0b3J5IjpbOTk3MTU4NTgwLDE5OTA0MTUxMTYsMTk1NT
+g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
+LDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOT
+A1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1Njgx
+LC0yNDc3OTU4OTAsMTA2MDUyNjA5MCwtNTI1MzA5ODg4LC0xMT
+Q1MjkxNzUzLC03MzMxOTM4NDIsLTU4OTQ5Mjk5MSwtODY2NjEx
+NDU0XX0=
 -->
