@@ -7,9 +7,7 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beëindigd. Dit ka
 ## Beëindigen betalingsregeling
 In deze processtap wordt uitgelegd hoe u een betalingsregeling beëindigd en hoe u de klant hierover informeert. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Betalingsregelinglijst** beoordeeld en indien mogelijk een betalingsregeling aangemaakt.
-
-## Processchema
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregelinglijst** beoordeeld en indien mogelijk een betalingsregeling aangemaakt.
 
 ## Aanmaken betalingsregeling via sjabloon
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**. 
@@ -92,6 +90,6 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u de betalingsregeling a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NDg3ODg3LC0xODE1NTQ5NzI0LC0xOD
-MwMjUxMDY1LDUxNjg0MTMzNF19
+eyJoaXN0b3J5IjpbLTU2NjI5ODU5MCwtMTgxNTU0OTcyNCwtMT
+gzMDI1MTA2NSw1MTY4NDEzMzRdfQ==
 -->
