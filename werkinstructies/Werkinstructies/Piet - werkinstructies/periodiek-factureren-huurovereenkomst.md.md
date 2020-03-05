@@ -67,11 +67,11 @@ Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u de
 4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
 5. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan **Prol gereed** zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
-	* Als de status op de prolongatie kaart *niet** gelijk is aan **Prol gereed** zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)** uit. 
+	* Als de status op de prolongatiekaart *niet** gelijk is aan **Prol gereed** zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)** uit. 
 
 ## Boeken facturen
 
-Wanneer er tijdens het gener van de facturen geen fouten zijn ontstaan kunt u de gegenereerde facturen boeken.  
+Wanneer er tijdens het genereren van de facturen geen fouten zijn ontstaan kunt u de gegenereerde facturen boeken.  
 
 1. Klik op de pagina **Prol.-run kaart** op **Uitvoeren/boeken**. De facturen worden geboekt. 
 2. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzA0MDUwMSw3NjQ3MzE1OSwxNDUzOD
+eyJoaXN0b3J5IjpbLTU1NDk4NjU3Nyw3NjQ3MzE1OSwxNDUzOD
 gzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5NTksLTEzODIxMzUy
 NTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAxMjM0NDUsMT
 g2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4NywxNzc2NjAz
