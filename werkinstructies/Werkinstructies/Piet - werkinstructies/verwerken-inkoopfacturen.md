@@ -6,12 +6,11 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 
 ## Processchema
 
-## Processtappen
 
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- -1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") nNaar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") nNaar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
  - 
 2. Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS.
  - De factuur wordt geopend in DMS. 
@@ -22,7 +21,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Factuurnr. leverancier**
 	- **Omschrijving**: **LET OP!**. Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
 	- **Factuurbedrag**
-	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW- bedrag dwat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  Indien zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegen geboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
+	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW- bedrag dwat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  Indien zowel hoog als laag tarief BTW van toepassing is op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
  -4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door op **Boeken verplichting** te klikken. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'.
@@ -174,11 +173,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTg4NDk5MiwtNjgzNjcyNDcwLC0yOD
-YwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4Niw0ODk5ODE2NjIs
-MTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2NzksMTg4NT
-A5OTc4MywxMjA0MjY1NjgxLC0yNDc3OTU4OTAsMTA2MDUyNjA5
-MCwtNTI1MzA5ODg4LC0xMTQ1MjkxNzUzLC03MzMxOTM4NDIsLT
-U4OTQ5Mjk5MSwtODY2NjExNDU0LDE1NjI5NDA0OTYsMTcxNDIz
-MDEzOV19
+eyJoaXN0b3J5IjpbNzc2MjU1NTIwLDE5NTU4ODQ5OTIsLTY4Mz
+Y3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAyMCw0MjA0MDA4ODYs
+NDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMDkwNTE1MiwtNzg1OT
+YyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4MSwtMjQ3Nzk1ODkw
+LDEwNjA1MjYwOTAsLTUyNTMwOTg4OCwtMTE0NTI5MTc1MywtNz
+MzMTkzODQyLC01ODk0OTI5OTEsLTg2NjYxMTQ1NCwxNTYyOTQw
+NDk2XX0=
 -->
