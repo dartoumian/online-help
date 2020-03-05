@@ -56,7 +56,7 @@ In deze stap monitort u of het percentage passende toewijzingen die gedurende he
 6. Elke verantwoording verhuring wordt getoond in één van de categorieën, waarbij er drie soorten categorieën zijn: niet-getoetst, passend en niet-passend. Op het rapport wordt het totaal aantal niet-getoetste verhuringen, het totaal aantal passende verhuringen en het totaal aantal niet-passende verhuringen getoond. 
 7. Onderaan het rapport wordt het percentage passende verhuringen en het percentage niet-passende verhuringen getoond. 
 
-Herhaal dit voor het rapport **
+Herhaal dit voor het rapport **Toets staatssteunregeling verhuringen**. 
 
 
 ## Controle door accountant 
@@ -72,8 +72,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI2ODAxMzIsLTE3MzM4MjYzMTMsLT
-I4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUw
-ODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNz
-IsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbMzEzODQ0ODY4LC0xNzMzODI2MzEzLC0yOD
+QxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIzODQ1MDg3
+MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2MDgzMjcyLD
+U5NzgxOTA0OF19
 -->
