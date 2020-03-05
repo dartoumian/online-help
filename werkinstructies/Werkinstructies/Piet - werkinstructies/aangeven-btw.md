@@ -8,7 +8,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften**. De gelijknamige pagina opent. 
 2. Klik op **Voorbeeld**. De pagina **Btw-aangiftevoorbeeld** opent. 
-3. Vul de volgende velden:
+3. Vul de volgende velden met de aangegeven waarden:
 	-	**Selectie posten o.b.v.**: 'Documentdatum'
 	-	**Btw-posten opnemen**: 'Open'
 	-	**Btw-posten opnemen**: 'Tijdens periode'
@@ -44,5 +44,5 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Kies voor **Ja** als u direct wilt boeken. Kies voor **Nee** als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjYwNDI4NCwxMDc3NjUzODQyXX0=
+eyJoaXN0b3J5IjpbLTQ1MDg5MjkzNCwxMDc3NjUzODQyXX0=
 -->
