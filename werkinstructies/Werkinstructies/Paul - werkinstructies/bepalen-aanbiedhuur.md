@@ -7,7 +7,7 @@ De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald 
 
 ## Berekenen nieuwe nettohuur conform huurbeleid 
 
-In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekend op basis van het bij die eenheid ingestelde huurbeleid.
+In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekent op basis van het bij die eenheid ingestelde huurbeleid.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de aanbiedhuur moet worden bepaald.
@@ -43,5 +43,5 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgzNzY0NzhdfQ==
+eyJoaXN0b3J5IjpbLTc1MjM5MDI4Nl19
 -->
