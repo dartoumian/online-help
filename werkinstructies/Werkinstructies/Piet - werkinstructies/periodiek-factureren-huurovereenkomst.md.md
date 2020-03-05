@@ -31,7 +31,7 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 
 ## Uitvoeren huurprijsaanpassingen
 
-Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden, dan vindt u in het onderstaande detailproces hoe u deze aanpassingen doorvoert.
+Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden, dan vindt u in het onderstaand vermelde detailproces hoe u deze aanpassingen doorvoert.
 
 (LINK NAAR DETAILPROCES UITVOEREN HUURMUTATIES)
 
@@ -117,9 +117,9 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMT
-A2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5
-NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LD
-E0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYy
-NTE5LC0xODY5MzUzNDE3XX0=
+eyJoaXN0b3J5IjpbNzY0NzMxNTksMTQ1Mzg4MzI1OCwxODYyMT
+UwOTEwLC0yMTA2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIx
+Mjc5LC0xNDA5NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsND
+UzOTE3MDA4LDE0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2
+MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3XX0=
 -->
