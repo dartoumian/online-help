@@ -46,9 +46,10 @@ Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de defini
 
 ## Monitoren wettelijke normen 
 
-In deze stap monitort u of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen (95-5 norm voor de . 
+In deze stap monitort u of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen (95-5 norm voor de passendheidstoets en 80-10-10 voor de staatssteunregeling). 
 
-1. Bla bla 
+1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passendheidstoets verhuring**. 
+2. 
 
 
 ## Controle door accountant 
@@ -64,7 +65,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDM3NTM0NiwtMTczMzgyNjMxMywtMj
+eyJoaXN0b3J5IjpbLTE2NDQ1NTkwNCwtMTczMzgyNjMxMywtMj
 g0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4
 NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Mi
 w1OTc4MTkwNDhdfQ==
