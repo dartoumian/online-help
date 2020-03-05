@@ -75,7 +75,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 ## Genereren overige communicatie
 
-Naast dat u de aanmaningen kunt versturen kunt het overzicht van aanmaningen ook filteren en openen in Excel om vervolg acties buiten Dynamics Empire uit te voeren, zoals het opstellen van bellijsten of het aanleveren van bestanden voor SMS acties. 
+Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen ook filteren en openen in Excel om vervolgacties buiten Dynamics Empire uit te voeren, zoals het opstellen van bellijsten of het aanleveren van bestanden voor sms-acties. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verzonden aanmaningen**. 
 2. Stel een filter in voor de aanmaningen die u wilt exporteren:
@@ -84,5 +84,6 @@ Naast dat u de aanmaningen kunt versturen kunt het overzicht van aanmaningen ook
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
+eyJoaXN0b3J5IjpbLTM0OTc1ODI2LDE3NDgwNjgyMTYsMjEyNT
+c5NTkxOF19
 -->
