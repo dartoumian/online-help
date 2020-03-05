@@ -1,6 +1,7 @@
 # Verantwoorden verhuring
 
-De toepassing van een verhuurbare eenheid aan een nieuwe huurder . 
+Elke toewijzing van een verhuurbare eenheid aan een nieuwe huurder moet worden verantwoord. Hiermee wordt bedoeld dat van elke toewijzing moet worden bepaald of de toewijzing voldoet aan de wettelijke normen van de passendheidstoets en staatssteunregeling. 
+Gedurende het kalenderjaar moet worden gemonitord 
 
 
 ## Processchema
@@ -43,5 +44,5 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2NTQ5MTddfQ==
+eyJoaXN0b3J5IjpbNzc0NjA5MDMxXX0=
 -->
