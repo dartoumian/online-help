@@ -17,9 +17,9 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
-4. Klik op **Navigeren** en kies voor **Verantwoording verhurhuuraanbieding**.  Een pagina met de details van de verantwoording verhuring verschijnt. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is inge
-huuraanbieding verschijnt.steld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, geboortedatum en inkomen overgenomen vanuit het huishouden. 
-5. Controleer de gegevens van de getoonde betrokken 
+4. Klik op **Navigeren** en kies voor **Verantwoording verhurhuuraanbieding**.  Een pagina met de details van de verantwoording verhuring verschijnt. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
+5. Controleer de gegevens van de getoonde betrokken personen en pas of vul deze daar waar nodig aan. 
+6. Voeg eventue
  
 
 ## Monitoren wettelijke normen 
@@ -42,6 +42,6 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTY0OTY1MSwtMjA4NjA4MzI3Miw1OT
+eyJoaXN0b3J5IjpbLTg3MDE4NjQwNiwtMjA4NjA4MzI3Miw1OT
 c4MTkwNDhdfQ==
 -->
