@@ -72,9 +72,9 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
 2. Vul in veld **Accountantscontroledatum** de datum in waarop de accountantscontrole heeft plaatsgevonden. 
-3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum vor nhet s
+3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum voor het selecteren van de verantwoordingen die moeten worden geschoond. Alle verantwoordingen worden geschoond waarvan de huurcontractingangsdatum <= de ingevulde opschoningspeildatum 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzYwNjg1MCwzMTM4NDQ4NjgsLTE3Mz
+eyJoaXN0b3J5IjpbLTU0NzUwNTM1MCwzMTM4NDQ4NjgsLTE3Mz
 M4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5
 NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLT
 IwODYwODMyNzIsNTk3ODE5MDQ4XX0=
