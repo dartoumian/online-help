@@ -122,7 +122,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 
 Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (de status van) de order die ten grondslag ligt aan de factuur, of iemand dient een actie uit te voeren, dan kan er op de factuur een notitie toegevoegd worden met de vraag of verzoek tot actie. Vervolgens kan de factuur toegewezen worden aan de gebruiker die de vraag dient te beantwoorden of de actie dient uit te voeren. 
 
-1. Klik op de pagina **Inkoopfactuur** aan de rechter kant van het scherm op **Bijlagen**. 
+1. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**. 
 2. Om een vraag of verzoek toe te voegen, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
 3. Vul op de pagina **Inkoopfactuur** in het veld **Toegewezen gebruikers-ID** de gebruiker in aan wie u de factuur toe wilt wijzen. De factuur wordt nu toegevoegd aan het bakje 'toegewezen facturen' van de desbetreffende gebruiker. 
 
@@ -131,11 +131,11 @@ Wanneer er vragen zijn over een factuur, of er zijn vragen met betrekking tot (d
 Wanneer een factuur aan u toegewezen is betekend dit dat er een vraag of verzoek tot actie is die betrekking heeft op deze factuur. 
 
 1. Navigeer naar uw Rolcenterum (startpagina van Dynamics Empire). Klik op de tegel **Toegewezen facturen**.  De pagina toont de facturen die aan u toegewezen zijn en waarop u actie dient te ondernemen. 
-2. U opent den factuur door op het factuurnummer te klikken. De pagina **Inkoopfactuur** opent. 
-3. Klik op de pagina **Inkoopfactuur** aan de rechter kant van het scherm op **Bijlagen**.  De notitie(s) worden getoond. Hier vindt u de vraag of het verzoek. 
+2. U opent de factuur door op het factuurnummer te klikken. De pagina **Inkoopfactuur** opent. 
+3. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**.  De notitie(s) wordt (worden) getoond. Hier vindt u de vraag of het verzoek. 
 4. Wanneer u wordt gevraagd iets te doen, bijvoorbeeld het gereed melden van een order of het boeken van ontvangsten, voer dan eerst deze acties uit. 
 5. Heeft u de actie uitgevoerd of wilt u een vraag beantwoorden, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
-6. Maak op de pagina **Inkoopfactuur** het veld **Toegewezen gebruikers-ID** leeg. Hiermee wordt de factuur weer toegewezen aan de afdeling die de inkoopfacturen verwerkt. Heeft u een vervolg vraag aan een specifiek iemand of dient iemand anders een actie uit te voeren, vul dan in het veld **Toegewezen gebruikers-ID** de desbetreffende gebruiker. De factuur wordt nu toegevoegd aan het bakje 'toegewezen facturen' van de desbetreffende gebruiker. 
+6. Maak op de pagina **Inkoopfactuur** het veld **Toegewezen gebruikers-ID** leeg. Hiermee wordt de factuur weer toegewezen aan de afdeling die de inkoopfacturen verwerkt. Heeft u een vervolgvraag aan een specifiek iemand of dient iemand anders een actie uit te voeren, vul dan in het veld **Toegewezen gebruikers-ID** de desbetreffende gebruiker. De factuur wordt nu toegevoegd aan het bakje 'toegewezen facturen' van de desbetreffende gebruiker. 
 
 ## Match en boek factuur
 
@@ -153,8 +153,8 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
 1. Vanaf de pagina **Inkoopfacturen** klikt u op **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen. 
 2. Klik op **Opmerkingen**. De pagina **Opmerkingen bij goedkeuring** opent. U ziet hier de reden van weigeren en wie de aanvraag geweigerd heeft.
-3. Dient een andere order gekoppeld te worden, ga dan verder metbij stap **[Regels ophalen](#regels-ophalen)**.
-4. Dient de codering van de factuurregels aangepast te worden, ga dan verder metbij stap **[Controleren factuurregels](#controleren-factuurregels)**.
+3. Dient een andere order gekoppeld te worden, ga dan verder met stap **[Regels ophalen](#regels-ophalen)**.
+4. Dient de codering van de factuurregels aangepast te worden, ga dan verder met stap **[Controleren factuurregels](#controleren-factuurregels)**.
 
 
 ## Boeken factuur
@@ -171,11 +171,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwND
-E1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5
-LDk5OTgzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxOD
-M0OTcsMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMs
-MTIwNDI2NTY4MSwtMjQ3Nzk1ODkwLDEwNjA1MjYwOTAsLTUyNT
-MwOTg4OCwtMTE0NTI5MTc1MywtNzMzMTkzODQyLC01ODk0OTI5
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTM0NDQ3ODQwMiwtNjQ1NTIwMTksNjE3Mj
+c4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNjcyNDcw
+LC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4Niw0ODk5OD
+E2NjIsMTE0OTE4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2Nzks
+MTg4NTA5OTc4MywxMjA0MjY1NjgxLC0yNDc3OTU4OTAsMTA2MD
+UyNjA5MCwtNTI1MzA5ODg4LC0xMTQ1MjkxNzUzLC03MzMxOTM4
+NDJdfQ==
 -->
