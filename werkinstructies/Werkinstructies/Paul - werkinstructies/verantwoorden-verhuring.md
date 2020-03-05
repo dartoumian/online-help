@@ -20,7 +20,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 4. Klik op **Navigeren** en kies voor **Verantwoording verhurhuuraanbieding**.  Een pagina met de details van de verantwoording verhuring verschijnt. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingehuurbbieding schijnt.steld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
 5. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas  vul deze da aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
 6. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring maar die u niet als contact binnen het huishouden wil registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het huishoudinkomen en/of als de persoon de oudste persoon binnen het huishouden is.  
-7. Voeg eventueel één of meer extra contacten toe bi
+7. Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wil registreren. Een extra contact die wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken 
  
 
 ## Monitoren wettelijke normen 
@@ -43,7 +43,7 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDc3MjA5LC0zNzQwMjkyOTcsMTIzOD
-Q1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2MDgz
-MjcyLDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbLTEyMzUyNzA1NjAsLTM3NDAyOTI5NywxMj
+M4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYw
+ODMyNzIsNTk3ODE5MDQ4XX0=
 -->
