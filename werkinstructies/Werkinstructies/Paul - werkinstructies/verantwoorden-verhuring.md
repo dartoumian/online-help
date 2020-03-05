@@ -40,7 +40,8 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Indien het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een *nieuwe versie* van de verantwoording verhuring aanmaken. Dit doet u als volgt: 
 1. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
 2. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
-3. 
+3. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
+4. Markeer de nieuwe versie 
  
 
 ## Monitoren wettelijke normen 
@@ -63,8 +64,8 @@ In deze stap  .
 1. . Bla bla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMTM5MTY0LC0xNzMzODI2MzEzLC0yOD
-QxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIzODQ1MDg3
-MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2MDgzMjcyLD
-U5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbLTE0OTYzNzY3MzAsLTE3MzM4MjYzMTMsLT
+I4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUw
+ODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNz
+IsNTk3ODE5MDQ4XX0=
 -->
