@@ -71,9 +71,10 @@ In deze stap controleert de account de verantwoordingen verhuringen van het voor
 In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
-2. 
+2. Vul in veld **Accountantscontroledatum** de datum in waarop de accountantscontrole heeft plaatsgevonden. 
+3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum vor nhet s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzQ0OTk3OCwzMTM4NDQ4NjgsLTE3Mz
+eyJoaXN0b3J5IjpbMTA5MzYwNjg1MCwzMTM4NDQ4NjgsLTE3Mz
 M4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5
 NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLT
 IwODYwODMyNzIsNTk3ODE5MDQ4XX0=
