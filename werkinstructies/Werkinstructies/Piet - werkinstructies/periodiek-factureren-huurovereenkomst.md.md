@@ -90,7 +90,7 @@ Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze 
 4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. Er wordt  geprobeerd om de facturen die fouten veroorzaakten te boeken.
 5. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan **Boeken gereed** zijn alle facturen zonder problemen geboekt. 
-	*  de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
+	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
 		*  Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
 	*  Als de status op de prolongatiekaart *niet* gelijk is aan **Boeken gereed** zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)** uit. 
 
@@ -117,10 +117,9 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDk4NjU3Nyw3NjQ3MzE1OSwxNDUzOD
-gzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5NTksLTEzODIxMzUy
-NTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAxMjM0NDUsMT
-g2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4NywxNzc2NjAz
-ODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0MTddfQ
-==
+eyJoaXN0b3J5IjpbLTIxNjA4Mjk3LDc2NDczMTU5LDE0NTM4OD
+MyNTgsMTg2MjE1MDkxMCwtMjEwNjg5OTk1OSwtMTM4MjEzNTI1
+MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMTAzMDEyMzQ0NSwxOD
+YwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcyNjg3LDE3NzY2MDM4
+ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMTg2OTM1MzQxN119
 -->
