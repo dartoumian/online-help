@@ -12,7 +12,7 @@ In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbe
 2. Zoek de verhuurmutatie op waarvan de publicatie moet worden voorbereid.
 3. Open de detailpagina van de verhuurmutatie. 
 4. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
-5. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alle gegevens worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. . 
+5. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alle detaiworden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. . 
  
 
 ## Publiceren eenheid 
@@ -36,10 +36,10 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4NDcwODk4LC05OTMzMzM2NDEsLTEyNz
-E2ODQwMSwxMzEyMTI2MzIsLTE2NDY3MzYzNTQsLTI5NjIyMjQ1
-Niw0MTU2NzY3MzIsMzc2NTc1NzIwLC0xNzE2MzA5MDA5LDExNz
-YwMTIwMzcsLTc5MzY3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0
-NTgsMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ
-==
+eyJoaXN0b3J5IjpbLTgyNTE3Nzk4Nyw4ODg0NzA4OTgsLTk5Mz
+MzMzY0MSwtMTI3MTY4NDAxLDEzMTIxMjYzMiwtMTY0NjczNjM1
+NCwtMjk2MjIyNDU2LDQxNTY3NjczMiwzNzY1NzU3MjAsLTE3MT
+YzMDkwMDksMTE3NjAxMjAzNywtNzkzNjc1ODIzLC01MjY5MTg1
+NzksMTczMDI1MjQ1OCwxNzg2ODkwODYsLTIwMDA5Mjc0MTEsLT
+UwMzMzMDAwNl19
 -->
