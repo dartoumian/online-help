@@ -37,7 +37,7 @@ Wanneer u de vereffening van klantposten ongedaan wilt maken kunt u dit doen van
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de vereffening ongedaan wilt maken.
-3. Selecteer de klant en kies voor functie **Posten**. De pagina **Klantposten** opent.
+3. Open de klantkaart door op het nummer te klikken en kies voor **Posten** (*Klant*). De pagina **Klantposten** opent.
 4. Selecteer één van de posten waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening posten ongedaan maken**. De pagina **Vereffening klantposten ongedaan maken** opent.
 6. Selecteer de regel(s) waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening ongedaan maken**. Er verschijnt een pop-up met de vraag of u door wilt gaan. Klik op **Ja** ; de vereffening wordt nogmaals bevestigd. U keert terug naar de pagina **Klantposten**.
 
@@ -59,9 +59,9 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI5OTQ0MjksLTE2OTk2NzU5MTQsMT
-gyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MTUyNTQ2LDE5MTg3NjM4
-OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOTU3MTE2MjgzLC
-0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3
-OTk5MDIwXX0=
+eyJoaXN0b3J5IjpbLTI0NjMxNzAzLC0xMDYyOTk0NDI5LC0xNj
+k5Njc1OTE0LDE4MjYzMjU1OSwxMjc3NTgyNjA4LDE1NzE1MjU0
+NiwxOTE4NzYzODkyLC0xMjQ4NTM3MjY3LDEzMjcwODkxNjEsLT
+k1NzExNjI4MywtMTYzNjMzNjUxMCwxNDMxMzgxNTU5LDEyNjQ5
+MDY0NTIsMTgxNzk5OTAyMF19
 -->
