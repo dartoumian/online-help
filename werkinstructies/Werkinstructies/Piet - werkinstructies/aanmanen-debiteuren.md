@@ -51,7 +51,7 @@ Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanm
 
 1.	Vanaf de pagina **Aanmaningen** kunt u een individuele aanmaning openen door op het nummer van de aanmaning te klikken. De pagina **Aanmaning** opent.
 2.	Wilt u de tekst van een individuele aanmaning aanpassen, dan kan dit door in de **Aanmaningsregels** de tekst aan te passen. 
-3.	Wilt u dat de klant niet aangemaand wordt in deze ronde, dan kunt u een individuele aanmaning verwijderen door op **Verwijderen** te klikken (prullenbak. U wordt gevraagd de verwijdering te bevestigen. U keert terug naar de pagina **Aanmaningen.**
+3.	Wilt u dat de klant niet aangemaand wordt in deze ronde, dan kunt u een individuele aanmaning verwijderen door op **Verwijderen** te klikken (prullenbak-icoontje bovenop de pagina). U wordt gevraagd de verwijdering te bevestigen. U keert terug naar de pagina **Aanmaningen.**
 
 ## Definitief maken aanmaningen
 
@@ -84,7 +84,7 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMTkwNTA2LC0xNTc4MDg2MzcyLC0xMz
-c4Mjk4NTI3LC03NTE2NzA1OSwtNzczMzY5OTQ2LC0zNDk3NTgy
-NiwxNzQ4MDY4MjE2LDIxMjU3OTU5MThdfQ==
+eyJoaXN0b3J5IjpbMTIxMjA1NTc2MywtMTU3ODA4NjM3MiwtMT
+M3ODI5ODUyNywtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4
+MjYsMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
