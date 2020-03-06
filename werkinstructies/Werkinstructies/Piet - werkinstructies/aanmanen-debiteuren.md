@@ -38,7 +38,7 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 5. U keert terug naar de pagina **Beëindigingscodes betalingsregeling**. Klik op **Sluiten**. U keert terug naar de pagina **Aanmaning**.
 6. Herhaal stap 2 tot en met 5 voor alle aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
 7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
-8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar pagina **Aanmaningen**.
+8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar pagina**Aanmaningen**.
 9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken** (*Meer opties - Acties - Functies*). Vul op de nu geopende pagina de volgende velden met de aangegeven waarden:
 	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
 	* **Aanvullende kosten aanpassen:** 'Aan'.
@@ -84,7 +84,7 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDgxOTIzNCwtMTM3ODI5ODUyNywtNz
-UxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4MjYsMTc0ODA2ODIx
-NiwyMTI1Nzk1OTE4XX0=
+eyJoaXN0b3J5IjpbLTE1NzgwODYzNzIsLTkxMDgxOTIzNCwtMT
+M3ODI5ODUyNywtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4
+MjYsMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
