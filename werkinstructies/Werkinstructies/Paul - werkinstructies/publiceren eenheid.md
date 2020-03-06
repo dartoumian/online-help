@@ -1,6 +1,7 @@
 # Publiceren eenheid
 
-De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.  
+De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid via de standaard VERA-WRV-koppeling wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. 
+Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.  
 
 
 ## Voorbereiden publicatie   
@@ -34,9 +35,9 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE2ODQwMSwxMzEyMTI2MzIsLTE2ND
-Y3MzYzNTQsLTI5NjIyMjQ1Niw0MTU2NzY3MzIsMzc2NTc1NzIw
-LC0xNzE2MzA5MDA5LDExNzYwMTIwMzcsLTc5MzY3NTgyMywtNT
-I2OTE4NTc5LDE3MzAyNTI0NTgsMTc4Njg5MDg2LC0yMDAwOTI3
-NDExLC01MDMzMzAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTY1Njg1NjE2NCwtMTI3MTY4NDAxLDEzMT
+IxMjYzMiwtMTY0NjczNjM1NCwtMjk2MjIyNDU2LDQxNTY3Njcz
+MiwzNzY1NzU3MjAsLTE3MTYzMDkwMDksMTE3NjAxMjAzNywtNz
+kzNjc1ODIzLC01MjY5MTg1NzksMTczMDI1MjQ1OCwxNzg2ODkw
+ODYsLTIwMDA5Mjc0MTEsLTUwMzMzMDAwNl19
 -->
