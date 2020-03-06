@@ -18,22 +18,16 @@ Xxxxx.
 
 ## Publiceren eenheid 
 
-I). 
+Xxxxx. 
 
-1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passendheidstoets verhuring**. 
-2. Vul de optie **Ingangsdatum huurcontract** in met de criteria waaraan de ingangsdatum van de nieuwe verhuurcontracten moet voldoen, willen de bijbehorende passendheidstoetsen worden meegenomen in de rapportage. Bijvoorbeeld: **>31-12-2019** 
-3. Geef aan met optie **Incompleet dossiers weergeven** of u de verantwoordingen verhuringen waarbij de indicatie **Incompleet dossier** van toepassing is voor de laatste versie van de verantwoording verhuring, al dan niet wil meenemen in de rapportage. 
-4. Klik op **Voorbeeld** of **Afdrukken**. Het rapport wordt gegenereerd.  
-5. Het rapport toont alle *definitieve* verantwoordingen verhuringen die behoren bij een *geaccepteerde* verantwoording verhuring waarvan de ingangsdatum voldoet aan het ingegeven criterium. Let op: dit betekent dat zolang de verhuuraanbieding niet is geaccepteerd, de bijbehorende verantwoording verhuring niet wordt meegenomen in de rapportage. Let op: per verantwoording verhuring wordt alleen de laatste versie die is gemarkeerd als zijnde definitief meegenomen in de rapportage. 
-6. Elke verantwoording verhuring wordt getoond in één van de categorieën, waarbij er drie soorten categorieën zijn: niet-getoetst, passend en niet-passend. Op het rapport wordt het totaal aantal niet-getoetste verhuringen, het totaal aantal passende verhuringen en het totaal aantal niet-passende verhuringen getoond. 
-7. Onderaan het rapport wordt het percentage passende verhuringen en het percentage niet-passende verhuringen getoond. 
-
-Herhaal dit voor het rapport **Toets staatssteunregeling verhuringen**. Onderaan het rapport wordt het percentage verhuringen binnen de toewijzingsruimte (met onderscheid tussen toewijzing aan huishoudens met lage inkomens (80% groep) en toewijzingen aan huishoudens met midden inkomens (10% groep) en het percentage verhuringen buiten de toewijzingsruimte getoond.
+1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+2. Zoek de OG Eenheid op die moet worden gepubliceerd. 
+3. Xxxxxx 
 
 
-## Controle door accountant 
+## Verwerken reacties  
 
-In deze stap controleert de account de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
+In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenhei. de account de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
 
 
 ## Opschonen privacy gevoelige gegevens 
@@ -48,5 +42,5 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzc2NzgzXX0=
+eyJoaXN0b3J5IjpbMTU2NDk3OTA3XX0=
 -->
