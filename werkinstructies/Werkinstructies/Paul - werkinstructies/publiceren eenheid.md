@@ -50,7 +50,7 @@ In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die heb
 2. Zoek de voorbereigegevens en verstuur deze opnieuw vanuit Dynamics Empire naar het externe woonruimteverdeelsysteem. 
 6. Vul daar waar nodig de gegevens van de publicatie avan, bijvoorbeeld met foto's. 
 6.troleer of alle gegevens die vanuit Dynamics Empire i nr. odnhedezitaa ne en uisoin n ernewooriese.
-2. Zoek de eeid uli ved ontrolee a n die t n pir7.  
+2. Zoek de eeid uli ved ontrolee a n die t n pirs Empire ligt, 7.  
 
 
 ## Verwerken reacties  
@@ -77,7 +77,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Njk4NzAsLTUyNjkxODU3OSwxNzMwMj
-UyNDU4LDE3ODY4OTA4NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2
-XX0=
+eyJoaXN0b3J5IjpbLTc5MzY3NTgyMywtNTI2OTE4NTc5LDE3Mz
+AyNTI0NTgsMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAw
+MDZdfQ==
 -->
