@@ -16,7 +16,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
-3. Klik op **Navigeren** en kies voor **Verantwoording verhuring**.  Een pagina met de details van de verantwoording verhuring verschijnt. 
+3. Klik op **Navigeren** en kies voor **Verhuringsverantwoording**.  Een pagina met de details van de verantwoording verhuring verschijnt. 
 4. In tabblad **OGE-gegevens** worden gegevens over de OG Eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn, en zo ja, van invloed zijn op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat in dit tabblad weergegeven. 
 5. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
 6. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze da aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
@@ -29,7 +29,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
    - **Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
    - **AOW-gerechtigd** =  indicatie of de oudste bewoner op de ingangsdatum van het contract de AOW-gerechtigde leeftijd heeft bereikt. 
-   - **Getoetst huishoudinkomen** =  totaal van de getoetste inkomens van alle betrokken personen. 
+   - **Getoetst huishoudinkomen** =  som van het **Getoetste inkomen** van alle betrokken personen. 
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
 13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
 14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toot het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup pagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
@@ -75,9 +75,9 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk4Mzg4NDEsLTEwMTE1MDEyMTEsNz
-UxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgy
-NjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LD
-EyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4
-NjA4MzI3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbLTg4OTM2ODUwOSwtMTAxMTUwMTIxMSw3NT
+ExOTMwMzEsLTE2NTAxMzA4MzQsMzEzODQ0ODY4LC0xNzMzODI2
+MzEzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMT
+IzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2
+MDgzMjcyLDU5NzgxOTA0OF19
 -->
