@@ -12,7 +12,7 @@ Wanneer u de rekening-courant van een klant af wilt drukken kan dit vanaf pagina
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de rekening-courant wilt afdrukken.
 3. Open de klantkaart door op het nummer te klikken en kies voor **Posten** (*Klant*). De pagina **Klantenposten** opent. 
-4. Kies voor **Afdrukken** (. De pagina **Rekening-courant cumulatief** opent. Klik op **Verzenden naar** en kies voor 'PDF' om de rekening-courant van de klant af te drukken. 
+4. Kies voor **Afdrukken** (*Meer opties - Acties*). De pagina **Rekening-courant cumulatief** opent. Klik op **Verzenden naar** en kies voor 'PDF' om de rekening-courant van de klant af te drukken. 
 5. Het rekening-courantoverzicht wordt geopend als PDF.
 
 ## Vereffenen debiteurenposten 
@@ -21,10 +21,10 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de posten wilt vereffenen.
-3. Selecteer de klant en klik op **Posten**. De pagina **Klantposten** opent.
+3. Open de klantkaart door op het nummer te klikken en kies voor **Posten** (*Klant*). De pagina **Klantposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen. 
 >Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen.
-5. Kies de actie **Posten vereffenen**. De pagina **Klantposten vereffenen** opent.
+5. Kies de actie **Posten vereffenen** (*Acties - Functies*). De pagina **Klantenposten vereffenen** opent.
 6. Selecteer de post(en) waarmee u de in stap 4 geselecteerde post wilt vereffenen.
 7. Klik op actie **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
@@ -59,9 +59,9 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTA4Mzk0MCwtMTY5OTY3NTkxNCwxOD
-I2MzI1NTksMTI3NzU4MjYwOCwxNTcxNTI1NDYsMTkxODc2Mzg5
-MiwtMTI0ODUzNzI2NywxMzI3MDg5MTYxLC05NTcxMTYyODMsLT
-E2MzYzMzY1MTAsMTQzMTM4MTU1OSwxMjY0OTA2NDUyLDE4MTc5
-OTkwMjBdfQ==
+eyJoaXN0b3J5IjpbLTExMDkwOTU2NzMsLTE2OTk2NzU5MTQsMT
+gyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MTUyNTQ2LDE5MTg3NjM4
+OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOTU3MTE2MjgzLC
+0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3
+OTk5MDIwXX0=
 -->
