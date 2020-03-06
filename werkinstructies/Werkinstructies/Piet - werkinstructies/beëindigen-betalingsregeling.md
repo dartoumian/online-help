@@ -1,6 +1,6 @@
 # Beëindigen betalingsregeling
 
-In dit werkproces worden betalingsregeling(en) beëindigd. In dit proces wordt uitgelegd hou u individuele regelingen beëindigd en hoe u regelingen in bulk beëindigd.
+In dit werkproces wordt een betalingsregeling(en) beëindigd. In dit proces wordt uitgelegd hou u individuele regelingen beëindigd en hoe u regelingen in bulk beëindigd.
 
 ## Processchema
 
@@ -22,6 +22,6 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 3.  Selecteer alle regels en klik op  **Markering aan**.
 4.  Klik op  **Betalingsregeling(en) beëindigen**. Het scherm  **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI4ODYwNDksLTE4MTU1NDk3MjQsLT
-E4MzAyNTEwNjUsNTE2ODQxMzM0XX0=
+eyJoaXN0b3J5IjpbNTg0OTU1MTUyLC0xOTIyODg2MDQ5LC0xOD
+E1NTQ5NzI0LC0xODMwMjUxMDY1LDUxNjg0MTMzNF19
 -->
