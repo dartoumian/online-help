@@ -55,8 +55,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
- 2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 2. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*). Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (Laat ongewijzigd.)
 	* **Runnummer:** (Laat ongewijzigd.)
@@ -66,7 +66,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** de betaalrun die u wilt exporteren. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand word opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
@@ -74,10 +74,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDk5NzM4MSwtMTgwMTM4MjgyNiwyMT
-EzODg2NTg5LC0xNzE0MjA1NzcwLC0xNjc5NjI3NjcyLDE2MjMy
-ODI2MzMsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIsOT
-EzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAy
-LDkxMzA2MDgwMCwxMDY2Nzg3MDk5LDEzNzU0NDczMTMsNjUzMT
-U2NTQ0LC03NjU0MDcwMzVdfQ==
+eyJoaXN0b3J5IjpbNDk0NzEyOTQyLC0xODAxMzgyODI2LDIxMT
+M4ODY1ODksLTE3MTQyMDU3NzAsLTE2Nzk2Mjc2NzIsMTYyMzI4
+MjYzMyw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5MT
+MwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIs
+OTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NTQ0NzMxMyw2NTMxNT
+Y1NDQsLTc2NTQwNzAzNV19
 -->
