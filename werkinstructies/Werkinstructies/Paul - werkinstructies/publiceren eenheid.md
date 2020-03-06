@@ -1,13 +1,9 @@
 # Publiceren eenheid
 
-De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.Nadat    
+De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsystere de atie   
+eche oorbereiden plicatie  esteeacties de publicatie 
 
-
-## Processchema
-
-## Voorbereiden publicatie  
-
-In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbereidende stap vindt plaats in Dynamics Empire. Daarbij verzamelt u alle gegevens over de eenheid, de publicatie en de huurprijs waarvoor de eenheid wordt gepubliceerd. 
+In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbereidende stappat vindt plaats in Dynamics Empire. Daarbij verzamelt u alle gegevens over de eenheid, de publicatie en de huurprijs waarvoor de eenheid wordt gepubliceerd. e
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvan de publicatie moet worden voorbereid.
@@ -37,8 +33,8 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjIyMjQ1Niw0MTU2NzY3MzIsMzc2NT
-c1NzIwLC0xNzE2MzA5MDA5LDExNzYwMTIwMzcsLTc5MzY3NTgy
-MywtNTI2OTE4NTc5LDE3MzAyNTI0NTgsMTc4Njg5MDg2LC0yMD
-AwOTI3NDExLC01MDMzMzAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDY3MzYzNTQsLTI5NjIyMjQ1Niw0MT
+U2NzY3MzIsMzc2NTc1NzIwLC0xNzE2MzA5MDA5LDExNzYwMTIw
+MzcsLTc5MzY3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0NTgsMT
+c4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ==
 -->
