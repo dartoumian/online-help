@@ -9,8 +9,8 @@ Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd
 Wanneer de leverancier de prestatie voor de inkooporder geleverd heeft, dient dit geaccordeerd te worden. Dit doet u door middel van het boeken van ontvangsten. 
 
 1. Navigeer via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Inkooporders**. Selecteer de order waarvoor u de geleverde prestatie wilt accorderen. 
-2. Klik op **Boeken** (*Boeken*) en daarna op het vervolgschermpje op **OK**. De ontvangsten worden geboekt en u keert terug naar de order.
+2. Klik op **Boeken** (*Boeken*) en daarna op het vervolgschermpje op **Ok**. De ontvangsten worden geboekt en u keert terug naar de order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjYzODA5LDQ3Mjk4MDUwMCwtNzIwMz
-E5NDQ5LC03MDM1OTM0NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjIyMTE1MSw1OTgyNjM4MDksNDcyOT
+gwNTAwLC03MjAzMTk0NDksLTcwMzU5MzQ0M119
 -->
