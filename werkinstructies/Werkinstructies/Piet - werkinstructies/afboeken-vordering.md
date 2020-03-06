@@ -13,11 +13,11 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 3. Druk op **Enter** om een nieuw dossiernummer aan te maken.
 4. Vul het veld **Soort** met het soort dossier dat van toepassing is.
 5. Vul het veld **Klant** met het klantnummer waarvoor u de vordering af wilt boeken. 
-6. Klik op **Posten selecteren** (*Meer opties - Navigeren - Post*). De pagina **Klantposten** opent. Selecteer de klantpost(en) die u af wilt boeken en klik op **OK**.
+6. Klik op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantpost(en) die u af wilt boeken en klik op **OK**.
 
 ## Afboeken vordering
 
-1. Klik op de betreffende dossierkaart op  (*Meer opties - Acties - Functies*)**Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
+1. Klik op de betreffende dossierkaart op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 2. Vul de boekingsdatum van de afboeking in. 
 3. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
 4. Klik op **OK** om de vordering af te boeken.
@@ -30,6 +30,6 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMDM4MDM0LDc0NDU4MzgyNiwtMTc4Nj
-UwMjc1NiwtMTczNzgxMjk2MV19
+eyJoaXN0b3J5IjpbLTEwNTg0MzAzMTUsNjAwMDM4MDM0LDc0ND
+U4MzgyNiwtMTc4NjUwMjc1NiwtMTczNzgxMjk2MV19
 -->
