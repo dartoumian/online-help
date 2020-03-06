@@ -10,9 +10,10 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
-3. Druk op Enter om een Vul het veld **Soort** met het soort dossier dat van toepassing is.
-4. Vul het veld **Klant** met het klantnummer waarvoor u de vordering af wilt boeken. 
-5. Klik op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantpost(en) die u af wilt boeken en klik op **OK**.
+3. Druk op **Enter** om een nieuw dossiernummer aan te maken.
+4. Vul het veld **Soort** met het soort dossier dat van toepassing is.
+5. Vul het veld **Klant** met het klantnummer waarvoor u de vordering af wilt boeken. 
+6. Klik op **Posten selecteren** (*Meer opties - Navigeren - Post*). De pagina **Klantposten** opent. Selecteer de klantpost(en) die u af wilt boeken en klik op **OK**.
 
 ## Afboeken vordering
 
@@ -29,6 +30,6 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODYwMzgyLC0xNzg2NTAyNzU2LC0xNz
-M3ODEyOTYxXX0=
+eyJoaXN0b3J5IjpbMTgzNzg1NDY1OSwtMTc4NjUwMjc1NiwtMT
+czNzgxMjk2MV19
 -->
