@@ -58,7 +58,7 @@ Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanm
 Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aanmaningsvoorstellen definitief maken. 
 
 1. Selecteer op de pagina **Aanmaningen** alle aanmaningsvoorstellen. (Klik daartoe eerst op de drie verticaal geplaatste puntjes achter een willekeurig aanmaningsnummer (*Meer opties weergeven*), kies voor *Meer selecteren* en selecteer alle regels.)
-2. Klik op **Verzenden** (*Meer opties - Acties - Verzending*). De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
+2. Klik op **Verzenden** (*Meer opties - Acties - Verzending*)*. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
 3. Moeten de aanmaningen die u definitief gemaakt heeft verzonden worden, ga dan verder met processtap **[Versturen aanmaning](#versturen-aanmaning)**.
 4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder, ga dan verder met het werkproces UITHANDEN GEVEN VORDERING.
 
@@ -71,7 +71,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
-2. Selecteer alle aanmaningen in de gefilterde lijst en klik op **Postex** (*Meer opties - Rapport - Postex*). De pagina **Aanmaningen** opent. Selecteer **Afdrukken**. De aanmaningen worden via Postex verstuurd. 
+2. Selecteer alle aanmaningen in de gefilterde lijst en klik op **Postex** (*Meer opties - Rapport - Postex*). De pagina **Aanmaningen** opent. Selecteer **Afdrukken*. De aanmaningen worden via Postex verstuurd. 
 
 ## Genereren overige communicatie
 
@@ -84,8 +84,8 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTkzNDA5MiwtNjE0NTU0NzIzLC0xNT
-c4MDg2MzcyLC0xMzc4Mjk4NTI3LC03NTE2NzA1OSwtNzczMzY5
-OTQ2LC0zNDk3NTgyNiwxNzQ4MDY4MjE2LDIxMjU3OTU5MThdfQ
-==
+eyJoaXN0b3J5IjpbLTMxNTQxNjQ0MCwxNTAxOTM0MDkyLC02MT
+Q1NTQ3MjMsLTE1NzgwODYzNzIsLTEzNzgyOTg1MjcsLTc1MTY3
+MDU5LC03NzMzNjk5NDYsLTM0OTc1ODI2LDE3NDgwNjgyMTYsMj
+EyNTc5NTkxOF19
 -->
