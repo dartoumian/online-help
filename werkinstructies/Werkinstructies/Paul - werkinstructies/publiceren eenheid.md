@@ -44,7 +44,8 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 
 1.  Login in het externe woonruimteverdeelsysteem.
 2. Zoek de voorbereide publicatie van de eenheid. 
-3. Controleer of alle gegevens die vanuit Dynamics Empire l 
+3. Controleer of alle gegevens die vanuit Dynamics Empire i nr. odnhedezitaa ne en uisoin n ernewooriese.
+2. Zoek de eeid uli ved ontrolee a n die t n pir  
 
 
 ## Verwerken reacties  
@@ -71,5 +72,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA5Mjc0MTEsLTUwMzMzMDAwNl19
+eyJoaXN0b3J5IjpbMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MD
+MzMzAwMDZdfQ==
 -->
