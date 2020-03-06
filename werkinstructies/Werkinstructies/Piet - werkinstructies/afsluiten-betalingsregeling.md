@@ -48,7 +48,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 2. Druk op **Enter**. Er wordt een nummer gevuld in het veld **Code**.
 3. Vul de volgende velden:
 	- **Reden incasso**
-	- **Doorlopend**: 'Ja'
+	- **Doorlopend**: 'Aan'
 	- **Datum tekening**: Wordt automatisch gevuld met de datum van vandaag.
 	- **Onze bankrekening**: Vul de bankrekening in vanaf waar geïncasseerd wordt. 
 3. Klik op **OK**. Het mandaat wordt aangepast en wordt gevuld in het veld vanaf waar het nieuwe mandaat is aangemaakt. 
@@ -57,7 +57,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 
 Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klantportaal, o.b.v. een betalingsregelingssjabloon of handmatig. Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
 2. Stel een filter in op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
@@ -77,8 +77,8 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzEyMzAyMCwxNDYxOTY2NzI2LDQ4OT
-EyOTgxMiw4MDY4ODkwMTksLTIwNTE0NTg2MTYsLTY5MjU0ODkz
-OCwxMDQ1MDg5MzUyLDE0MjY4ODk1MjEsLTE0MjA4NTA1NzEsLT
-UzODk2NjEwNyw1NTAyNjU3MzFdfQ==
+eyJoaXN0b3J5IjpbMzg0MDkwNDY2LDE0NjE5NjY3MjYsNDg5MT
+I5ODEyLDgwNjg4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4OTM4
+LDEwNDUwODkzNTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNT
+M4OTY2MTA3LDU1MDI2NTczMV19
 -->
