@@ -28,7 +28,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
    - **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
    - **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
    - **Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
-   - **AOW-gerechtigd** =  
+   - **AOW-gerechtigd** =  indicatie of de oudste bewoner op de ingangsdatum van het contract de AOW-gerechtigde leeftijd heeft bereikt. 
    - **Getoetst huishoudinkomen** =  
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
 13. Op basis van de gegevens die zijn geregistreerd of berekend in tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst, en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
@@ -75,9 +75,9 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUwMjE2NDUsLTEwMTE1MDEyMTEsNz
-UxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgy
-NjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LD
-EyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4
-NjA4MzI3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbNDY4NzM4NTU4LC0xMDExNTAxMjExLDc1MT
+E5MzAzMSwtMTY1MDEzMDgzNCwzMTM4NDQ4NjgsLTE3MzM4MjYz
+MTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMj
+M4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYw
+ODMyNzIsNTk3ODE5MDQ4XX0=
 -->
