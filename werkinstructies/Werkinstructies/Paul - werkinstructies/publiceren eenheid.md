@@ -8,8 +8,8 @@ In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbe
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvan de publicatie moet worden voorbereid.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
-4. Klik op . 
-5. . 
+4. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alle gegevens worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. 
+5. 
  
 
 ## Publiceren eenheid 
@@ -33,8 +33,9 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY3MzYzNTQsLTI5NjIyMjQ1Niw0MT
-U2NzY3MzIsMzc2NTc1NzIwLC0xNzE2MzA5MDA5LDExNzYwMTIw
-MzcsLTc5MzY3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0NTgsMT
-c4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ==
+eyJoaXN0b3J5IjpbMTA5MDg0NjU5MSwtMTY0NjczNjM1NCwtMj
+k2MjIyNDU2LDQxNTY3NjczMiwzNzY1NzU3MjAsLTE3MTYzMDkw
+MDksMTE3NjAxMjAzNywtNzkzNjc1ODIzLC01MjY5MTg1NzksMT
+czMDI1MjQ1OCwxNzg2ODkwODYsLTIwMDA5Mjc0MTEsLTUwMzMz
+MDAwNl19
 -->
