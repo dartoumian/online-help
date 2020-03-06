@@ -50,8 +50,8 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanmaningen voor beëindigde betalingsregelingen kunt u de aanmaningsvoorstellen controleren en desgewenst aanpassen. Deze stap is niet verplicht. U kunt ook direct doorgaan naar de volgende processtap **[Definitief maken aanmaningen](#definitief-maken-aanmaningen)**.
 
 1.	Vanaf de pagina **Aanmaningen** kunt u een individuele aanmaning openen door op het nummer van de aanmaning te klikken. De pagina **Aanmaning** opent.
-2.	Wilt u de tekst van een individuele aanmaning aanpassen dan kan dit door in de **Aanmaningsregels** de tekst aan te passen. 
-3.	Wilt u dat de klant niet aangemaand wordt in deze ronde, dan kunt u een individuele aanmaning verwijderen door op **Verwijderen** te klikken. U wordt gevraagd de verwijdering te bevestigen. U keert terug naar de pagina **Aanmaningen.**
+2.	Wilt u de tekst van een individuele aanmaning aanpassen, dan kan dit door in de **Aanmaningsregels** de tekst aan te passen. 
+3.	Wilt u dat de klant niet aangemaand wordt in deze ronde, dan kunt u een individuele aanmaning verwijderen door op **Verwijderen** te klikken (prullenbak. U wordt gevraagd de verwijdering te bevestigen. U keert terug naar de pagina **Aanmaningen.**
 
 ## Definitief maken aanmaningen
 
@@ -84,7 +84,7 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwODYzNzIsLTkxMDgxOTIzNCwtMT
-M3ODI5ODUyNywtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4
-MjYsMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
+eyJoaXN0b3J5IjpbNjYxMTkwNTA2LC0xNTc4MDg2MzcyLC0xMz
+c4Mjk4NTI3LC03NTE2NzA1OSwtNzczMzY5OTQ2LC0zNDk3NTgy
+NiwxNzQ4MDY4MjE2LDIxMjU3OTU5MThdfQ==
 -->
