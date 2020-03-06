@@ -58,7 +58,7 @@ Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanm
 Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aanmaningsvoorstellen definitief maken. 
 
 1. Selecteer op de pagina **Aanmaningen** alle aanmaningsvoorstellen. (Klik daartoe eerst op de drie verticaal geplaatste puntjes achter een willekeurig aanmaningsnummer (*Meer opties weergeven*), kies voor *Meer selecteren* en selecteer alle regels.)
-2. Klik op **Verzenden**. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
+2. Klik op **Verzenden** (*Meer opties - Acties - Verzending*). De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
 3. Moeten de aanmaningen die u definitief gemaakt heeft verzonden worden, ga dan verder met processtap **[Versturen aanmaning](#versturen-aanmaning)**.
 4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder, ga dan verder met het werkproces UITHANDEN GEVEN VORDERING.
 
@@ -84,7 +84,7 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM1MTgwMjQsLTE1NzgwODYzNzIsLT
-EzNzgyOTg1MjcsLTc1MTY3MDU5LC03NzMzNjk5NDYsLTM0OTc1
-ODI2LDE3NDgwNjgyMTYsMjEyNTc5NTkxOF19
+eyJoaXN0b3J5IjpbMTI2OTEyMDA3NywtMTU3ODA4NjM3MiwtMT
+M3ODI5ODUyNywtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4
+MjYsMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
