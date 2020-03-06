@@ -14,7 +14,7 @@ Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gec
 In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling. 
 Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoording verhuring) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschin. 
 4. Klik op **Navigeren** en kies voor **Verantwoording verhuring**.  Een pagina met de details van de verantwoording verhuring verschijnt. 
@@ -76,8 +76,8 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTAxMzA4MzQsMzEzODQ0ODY4LC0xNz
-MzODI2MzEzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjky
-OTcsMTIzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC
-0yMDg2MDgzMjcyLDU5NzgxOTA0OF19
+eyJoaXN0b3J5IjpbLTczMDQ2NjUzLC0xNjUwMTMwODM0LDMxMz
+g0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3
+NywtMzc0MDI5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMT
+Q2ODcxNzYzNSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
 -->
