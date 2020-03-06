@@ -8,8 +8,8 @@ Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire 
 
 In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbereidende stap vindt plaats in Dynamics Empire. Daarbij verzamelt u alle gegevens over de eenheid, de publicatie en de huurprijs waarvoor de eenheid wordt gepubliceerd. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-2. Zoek de OG Eenheid op waarvan de publicatie moet worden voorbereid.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
+2. Zoek de verhuurmutatie op waarvan de publicatie moet worden voorbereid.
 3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
 4. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alle gegevens worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. . 
  
@@ -35,7 +35,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Njg1NjE2NCwtMTI3MTY4NDAxLDEzMT
+eyJoaXN0b3J5IjpbLTk5MzMzMzY0MSwtMTI3MTY4NDAxLDEzMT
 IxMjYzMiwtMTY0NjczNjM1NCwtMjk2MjIyNDU2LDQxNTY3Njcz
 MiwzNzY1NzU3MjAsLTE3MTYzMDkwMDksMTE3NjAxMjAzNywtNz
 kzNjc1ODIzLC01MjY5MTg1NzksMTczMDI1MjQ1OCwxNzg2ODkw
