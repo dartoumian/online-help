@@ -58,7 +58,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klantportaal, o.b.v. een betalingsregelingssjabloon of handmatig. Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
-2. Stel een filter in op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
+2. Stel een filter in (via trechtericoon rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
 5. Wilt u de betalingsregeling aanpassen, kijk dan in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
@@ -68,7 +68,7 @@ Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klan
 ## Activeren betalingsregeling
 Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren. 
 
-1. Vanaf de pagina betalingsregeling klikt u op **Activeren**. U krijgt een bevestigingsvraag die u met **Ja** beantwoordt. U keert terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
+1. Vanaf de pagina **Betalingsregeling** klikt u op **Activeren**. U krijgt een bevestigingsvraag die u met **Ja** beantwoordt. U keert terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
 2. Klik op **Worddocument**, waarna het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor een nieuwe betalingsregeling en klik op **OK**. 
 3. U krijgt de vraag of u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent, waar u in de kolom **Antwoord** de vragen op de antwoorden invoert. Klik daarna op **Sluiten**. 
 4. Klik op **Word**. Het scherm voor aanmaken van een WordLinkbrief opent. Selecteer het sjabloon voor het bevestigen van een nieuwe betalingsregeling en vul de benodigde vragen in. 
@@ -77,8 +77,8 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MDkwNDY2LDE0NjE5NjY3MjYsNDg5MT
-I5ODEyLDgwNjg4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4OTM4
-LDEwNDUwODkzNTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNT
-M4OTY2MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTIxMDA4MzQwNTUsMTQ2MTk2NjcyNiw0OD
+kxMjk4MTIsODA2ODg5MDE5LC0yMDUxNDU4NjE2LC02OTI1NDg5
+MzgsMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC0xNDIwODUwNTcxLC
+01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
 -->
