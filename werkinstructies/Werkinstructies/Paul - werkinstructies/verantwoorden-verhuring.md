@@ -27,7 +27,7 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 11. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden: 
    - **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
    - **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
-   - **Geboortedatum oudste bewoner** = 
+   - **Geboortedatum oudste bewoner** = kleinste 
    - **AOW-gerechtigd** =  
    - **Getoetst huishoudinkomen** =  
 12. Als de OG Eenheid wordt toegewezen een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden in tabblad **Huurdergegevens**. 
@@ -75,9 +75,9 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE1MDEyMTEsNzUxMTkzMDMxLC0xNj
-UwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4
-NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4NzMsMj
-EyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Miw1OTc4
-MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbMjAzMjA0NTQ2OCwtMTAxMTUwMTIxMSw3NT
+ExOTMwMzEsLTE2NTAxMzA4MzQsMzEzODQ0ODY4LC0xNzMzODI2
+MzEzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMT
+IzODQ1MDg3MywyMTI0ODQ5ODI5LC0xNDY4NzE3NjM1LC0yMDg2
+MDgzMjcyLDU5NzgxOTA0OF19
 -->
