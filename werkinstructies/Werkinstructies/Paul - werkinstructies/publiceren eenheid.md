@@ -32,7 +32,7 @@ In deze stap ert de anwo
 
 ## Bepalen rangorde anwo 
 
-In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. verwerkt u de reacties vant woordingen verhuringen van het voorgaande kalenderjaarningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
+In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die hebben gereageerd op de gepbliceerde eenheid. verwerkt u de reacties vant woordingen verhuringen van het voorgaande kalenderjaarningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar d kunnen zien en kunnen reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
@@ -45,7 +45,7 @@ In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die heb
 ## Verwerken reacties  
 
 In deze stap verwerkt u de reacties van woningzaccountantscontrole heeft plaatsgevonden. 
-3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum voor het selecteren van de verantwoordingen die moekten worden op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
+ 
 
 
 ## Bepalen rangorde  
@@ -66,6 +66,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4OTE4MCwxNzMwMjUyNDU4LDE3OD
-Y4OTA4NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
+eyJoaXN0b3J5IjpbMjcyNDE4NDgzLDE3MzAyNTI0NTgsMTc4Nj
+g5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ==
 -->
