@@ -58,7 +58,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klantportaal, o.b.v. een betalingsregelingssjabloon of handmatig. Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
-2. Stel een filter in (via trechtericoon rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
+2. Stel een filter in (via ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
 5. Wilt u de betalingsregeling aanpassen, kijk dan in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
@@ -77,8 +77,8 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk4MTEyMDQsLTEzNDE5NTI0NTIsMT
-Q2MTk2NjcyNiw0ODkxMjk4MTIsODA2ODg5MDE5LC0yMDUxNDU4
-NjE2LC02OTI1NDg5MzgsMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC
-0xNDIwODUwNTcxLC01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
+eyJoaXN0b3J5IjpbNjIzMDA1NzM5LC0xMzQxOTUyNDUyLDE0Nj
+E5NjY3MjYsNDg5MTI5ODEyLDgwNjg4OTAxOSwtMjA1MTQ1ODYx
+NiwtNjkyNTQ4OTM4LDEwNDUwODkzNTIsMTQyNjg4OTUyMSwtMT
+QyMDg1MDU3MSwtNTM4OTY2MTA3LDU1MDI2NTczMV19
 -->
