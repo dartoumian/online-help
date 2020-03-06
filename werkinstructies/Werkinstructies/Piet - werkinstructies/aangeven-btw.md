@@ -19,8 +19,8 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-aangifte overgenomen kunnen worden.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften** (T. De gelijknamige pagina opent. 
-2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Vul de volgende velden met de aangegeven waarden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Klik op Meer tonen Vul de volgende velden met de aangegeven waarden:
 	- **Begindatum**: 1 januari van het huidige jaar.
 	- **Einddatum**: De einddatum van de periode waarover u de BTW aan wilt geven. 
 	-	**Btw-posten opnemen**: 'Open'
@@ -44,7 +44,7 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Kies voor **Ja** als u direct wilt boeken. Kies voor **Nee** als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzc0NzY3MCwxNzg4OTc2NDE2LC0xNj
+eyJoaXN0b3J5IjpbMTUxNTgyODYwMSwxNzg4OTc2NDE2LC0xNj
 U5OTExMjQ0LC00NzE2NzcyMTYsLTQ1MDg5MjkzNCwxMDc3NjUz
 ODQyXX0=
 -->
