@@ -19,9 +19,9 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 
 1.  Navigeer via het zoekveld  ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de taak  **Betalingsregeling beëindigen**. Het gelijknamige scherm  opent.
 2.  Selecteer in het filterveld  **Toon**  de waarde  **Volledig betaald**. In het scherm worden nu alle volledig betaalde betalingsregelingen getoond die nog niet beëindigd zijn.
-3.  Selecteer alle regels en klik op  **Markering aan**.
+3.  Selecteer alle regels en klik op **Markering aan** (*... (De rest weergeven)*).
 4.  Klik op  **Betalingsregeling(en) beëindigen**. Het scherm  **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDEwMDk4OCwtMTkyMjg4NjA0OSwtMT
+eyJoaXN0b3J5IjpbLTc4NDAyMDk2NSwtMTkyMjg4NjA0OSwtMT
 gxNTU0OTcyNCwtMTgzMDI1MTA2NSw1MTY4NDEzMzRdfQ==
 -->
