@@ -20,11 +20,11 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-aangifte overgenomen kunnen worden.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
-2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Klik op Meer tonen Vul de volgende velden met de aangegeven waarden:
+2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Klik op *Meer tonen* om alle velden zichtbaar te maken. Vul de volgende velden met de aangegeven waarden:
 	- **Begindatum**: 1 januari van het huidige jaar.
 	- **Einddatum**: De einddatum van de periode waarover u de BTW aan wilt geven. 
-	-	**Btw-posten opnemen**: 'Open'
-	-	**Btw-posten opnemen**: 'Tijdens periode'
+	-	**Btw-posten opnemen** (1): 'Open'
+	-	**Btw-posten opnemen** (2): 'Tijdens periode'
 	-	**Aangiftesjabloon**: Selecteer het aangiftesjabloon.
 3. Klik op **Verzenden naar** om de aangifte te openen in PDF.
 >**LET OP!** Posten die nog niet aangegeven zijn en een documentdatum hebben in het voorgaande jaar worden niet meegenomen. U kunt de processtap  **[Genereren BTW voorstel](#genereren-btw-voorstel)** uitvoeren met een ander datumfilter om te zien of er nog aan te geven posten in voorgaande jaren aanwezig zijn. 
@@ -44,7 +44,7 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Kies voor **Ja** als u direct wilt boeken. Kies voor **Nee** als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTgyODYwMSwxNzg4OTc2NDE2LC0xNj
-U5OTExMjQ0LC00NzE2NzcyMTYsLTQ1MDg5MjkzNCwxMDc3NjUz
-ODQyXX0=
+eyJoaXN0b3J5IjpbMTQxMDA5MDk5LDE3ODg5NzY0MTYsLTE2NT
+k5MTEyNDQsLTQ3MTY3NzIxNiwtNDUwODkyOTM0LDEwNzc2NTM4
+NDJdfQ==
 -->
