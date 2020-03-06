@@ -24,12 +24,12 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 ## Afsluiten afboekdossier
 
-1. Vul op de dossierkaart in het veld **Reden afsluiting** de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten. 
+1. Vul op de dossierkaart in het veld **Reden afsluiting** (tabblad **Algemeen**) de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten. 
 2. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzEzNjg5NjEsLTE3ODY1MDI3NTYsLT
-E3Mzc4MTI5NjFdfQ==
+eyJoaXN0b3J5IjpbNzQ0NTgzODI2LC0xNzg2NTAyNzU2LC0xNz
+M3ODEyOTYxXX0=
 -->
