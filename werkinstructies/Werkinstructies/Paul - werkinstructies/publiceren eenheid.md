@@ -20,26 +20,9 @@ Xxxxx.
 
 In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenheid kan vinden en kan reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
-1.  Login in het externe woonruimteverdeelsysteende de eenheid kan vinden en kan reagm. 
-2.  
-
-
-
-## Verwerken op de eenheningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem.ern 
-
-In deze stap ert de anwo 
-
-
-## Bepalen rangorde anwo 
-
-In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die hebben gereageerd op de gepbliceerde eenheid. verwerkt u de reacties vant woordingen verhuringen van het voorgaande kalenderjaarningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
-
-1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar d kunnen zien en kunnen reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
-
-1.  Login in het externe woonruimteverdeelsysteem.
-2. Zoek de voorbereide publicatie van de eenheid. 
-3. Controleer of alle gegevens die vanuit Dynamics Empire i nr. odnhedezitaa ne en uisoin n ernewooriese.
-2. Zoek de eeid uli ved ontrolee a n die t n pir  
+1. Login in het externe woonruimteverdeelsysteem 
+2. Zoek de voorbereide publicatie van de eenheid die u wilt publiceren 
+3. C 
 
 
 ## Verwerken reacties  
@@ -66,6 +49,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNDE4NDgzLDE3MzAyNTI0NTgsMTc4Nj
+eyJoaXN0b3J5IjpbMzQzNjg4MTk3LDE3MzAyNTI0NTgsMTc4Nj
 g5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ==
 -->
