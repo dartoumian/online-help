@@ -29,7 +29,7 @@ Wanneer u de vereffening van leveranciersposten ongedaan wilt maken kunt u dit d
 3. Open de kaart en ga naar **Posten** (*... (De rest weergeven) - Navigeren - Leverancier*). De pagina **Leveranciersposten** opent.
 4. Selecteer één van de posten waarvoor u de vereffening ongedaan wilt maken.
 5. Klik op **Vereffening posten ongedaan maken**. De pagina**Vereffening leveranciersposten ongedaan maken** opent.
-6. Selecteer de regel(s) waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening ongedaan maken**. Er verschijnt een pop-up met de vraag of u door wilt gaan. Klik op **Ja**; de vereffening wordt nogmaals bevestigd. U keert terug naar de pagina **Leveranciersposten**.
+6. Selecteer de regel(s) waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening ongedaan maken** (*Meer opties - Acties - Functies*). Er verschijnt een pop-up met de vraag of u door wilt gaan. Klik op **Ja**; de vereffening wordt nogmaals bevestigd. U keert terug naar de pagina **Leveranciersposten**.
 
 ## Instellen individuele afwachtcode
 
@@ -37,9 +37,9 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Leveranciers**.
 2. Zoek de leverancier op waarvoor u een individuele post uit wilt sluiten van automatische uitbetalingen.
-3. Selecteer de leverancier en klik op **Posten**. De pagina **Leveranciersposten** opent.
+3. Open de kaart en ga naar **Posten** (*... (De rest weergeven) - Navigeren - Leverancier*). De pagina **Leveranciersposten** opent.
 4. Vul bij de post die u wilt uitsluiten van automatische uitbetaling het veld **Afwachten** met de afwachtcode die van toepassing is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk2NDkzMDgsLTU5NTMxMjI0NywxNT
-U0NDgxNzE4LC03NzI1MDkwNjddfQ==
+eyJoaXN0b3J5IjpbMTA0MDU5NzkxNywtNTk1MzEyMjQ3LDE1NT
+Q0ODE3MTgsLTc3MjUwOTA2N119
 -->
