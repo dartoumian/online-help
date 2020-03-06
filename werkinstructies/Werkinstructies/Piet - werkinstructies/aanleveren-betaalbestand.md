@@ -55,7 +55,7 @@ Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het beta
 Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
  1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
- 2. Klik op de actie **Betaalrun afdrukken** ( *... - Rapport*) om de betaalrun af te drukken. 
+ 2. Klik op de actie **Betaalrun afdrukken** om de betaalrun af te drukken. 
 
 ## Annuleren betaalrunregels
 
@@ -63,7 +63,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
  1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers.
- 3. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*), waarna de pagina **Betaalrun - status wijzigen** opent. Vul hier de volgende velden met de aangegeven waarden:
+ 3. Klik op **Status wijzigen**, waarna de pagina **Betaalrun - status wijzigen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (laat ongewijzigd)
 	* **Runnummer:** (laat ongewijzigd)
@@ -75,7 +75,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
  1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
- 2. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*). Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+ 2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
 	* **Runnummer:** (laat ongewijzigd)
@@ -93,7 +93,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNTQ5NTAyLDY0ODYxNTA2MywtMTUzNj
+eyJoaXN0b3J5IjpbODA2OTQ1OTMyLDY0ODYxNTA2MywtMTUzNj
 U1MjY2MSwxNDc3ODMzNTI4LC0xNDY0NjkxNjE2LC0yNjI0MDU0
 NDcsLTE5NDIyNTQzNjMsLTEyNjE3NzE3MywtMjkzNDE0NjA2LC
 0xNzYyMjAzNTgsLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMzYx
