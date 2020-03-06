@@ -71,7 +71,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
-2. Selecteer alle aanmaningen in de gefilterde lijst en klik op **Postex**. De pagina **Aanmaningen** opent. Selecteer **Afdrukken*. De aanmaningen worden via Postex verstuurd. 
+2. Selecteer alle aanmaningen in de gefilterde lijst en klik op **Postex**. De pagina **Aanmaningen** opent. Selecteer **Afdrukken**. De aanmaningen worden via Postex verstuurd. 
 
 ## Genereren overige communicatie
 
@@ -84,8 +84,8 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU1NDI1MDIsLTExMTc5OTU0NzYsLT
-MxNTQxNjQ0MCwxNTAxOTM0MDkyLC02MTQ1NTQ3MjMsLTE1Nzgw
-ODYzNzIsLTEzNzgyOTg1MjcsLTc1MTY3MDU5LC03NzMzNjk5ND
-YsLTM0OTc1ODI2LDE3NDgwNjgyMTYsMjEyNTc5NTkxOF19
+eyJoaXN0b3J5IjpbNzMwMDg5OTAsLTExMTc5OTU0NzYsLTMxNT
+QxNjQ0MCwxNTAxOTM0MDkyLC02MTQ1NTQ3MjMsLTE1NzgwODYz
+NzIsLTEzNzgyOTg1MjcsLTc1MTY3MDU5LC03NzMzNjk5NDYsLT
+M0OTc1ODI2LDE3NDgwNjgyMTYsMjEyNTc5NTkxOF19
 -->
