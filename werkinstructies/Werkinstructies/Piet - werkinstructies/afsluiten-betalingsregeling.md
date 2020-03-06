@@ -25,10 +25,10 @@ U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalin
 Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wanneer u een betalingsregeling die niet binnen de sjabloonwaarde past aan wilt maken, kunt u dit zonder een sjabloon doen. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**. 
-2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling**. De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
+2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling** (*Meer opties - Acties - Nieuw document*). De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
 3. Selecteer in het veld **Code transactiewijze** de transactiewijze waarmee de betalingsregeling betaald moet worden. 
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
-5. Kies op pagina **Betalingsregeling** voor **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantposten die opgenomen moeten worden in de betalingsregeling en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantposten** worden de opgenomen posten getoond.
+5. Kies op pagina **Betalingsregeling** voor **Posten selecteren** (*Meer opties - Acties - Functies*). De pagina **Klantposten** opent. Selecteer de klantposten die opgenomen moeten worden in de betalingsregeling en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantposten** worden de opgenomen posten getoond.
 6. Klik op **Termijnen aanmaken**. De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
 	- **Datum eerste termijn**: De datum waarop de betalingsregeling ingaat. Dit is ook de datum waarop de eerste termijn betaald dient te worden. Gebruikelijk is om hier de eerste dag van de volgende maand in te vullen. 
 	- **Betalingsconditie**: Met '0D' geeft u aan dat de betalingsregeling op de eerste van de maand betaald dient te worden.
@@ -77,7 +77,8 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTI5ODEyLDgwNjg4OTAxOSwtMjA1MT
-Q1ODYxNiwtNjkyNTQ4OTM4LDEwNDUwODkzNTIsMTQyNjg4OTUy
-MSwtMTQyMDg1MDU3MSwtNTM4OTY2MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTc2OTgwOTM2MCw0ODkxMjk4MTIsODA2OD
+g5MDE5LC0yMDUxNDU4NjE2LC02OTI1NDg5MzgsMTA0NTA4OTM1
+MiwxNDI2ODg5NTIxLC0xNDIwODUwNTcxLC01Mzg5NjYxMDcsNT
+UwMjY1NzMxXX0=
 -->
