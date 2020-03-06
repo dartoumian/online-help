@@ -56,12 +56,12 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op die u uit wilt sluiten van aanmaningen. Open de klantenkaart. 
-3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
+3. Selecteer in het veld **Aanmaningsconditiecode** (tabblad **Betalingen**, kies voor *Meer tonen*) de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NjE1MjEsLTEwNjI5OTQ0MjksLTE2OT
-k2NzU5MTQsMTgyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MTUyNTQ2
-LDE5MTg3NjM4OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOT
-U3MTE2MjgzLC0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkw
-NjQ1MiwxODE3OTk5MDIwXX0=
+eyJoaXN0b3J5IjpbMTg2OTEyNjE2LC0xMDYyOTk0NDI5LC0xNj
+k5Njc1OTE0LDE4MjYzMjU1OSwxMjc3NTgyNjA4LDE1NzE1MjU0
+NiwxOTE4NzYzODkyLC0xMjQ4NTM3MjY3LDEzMjcwODkxNjEsLT
+k1NzExNjI4MywtMTYzNjMzNjUxMCwxNDMxMzgxNTU5LDEyNjQ5
+MDY0NTIsMTgxNzk5OTAyMF19
 -->
