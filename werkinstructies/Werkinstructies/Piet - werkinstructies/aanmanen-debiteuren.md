@@ -10,11 +10,11 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 2. Klik op de pagina **Aanmaningen** op de actie **Aanmaningen maken** (*Meer opties - Acties*). Vul op de zojuist geopende pagina de volgende velden met de aangegeven waarden:
 	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmangsvoorstel.
 	* **Documentdatum:** Dit is de datum die op het aanmaningsdocument voor de debiteur getoond wordt.
-	* **Alleen vervallen posten:** Zet op Aan.
-	* **Wachtende posten opnemen:** Nee.
-	* **Kopniveau gebruiken:** Nee.
+	* **Alleen vervallen posten:** 'Aan'.
+	* **Wachtende posten opnemen:** 'Uit'.
+	* **Kopniveau gebruiken:** 'Uit'.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
-	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditiecode** en selecteer de aanmaningsconditie die u aan wilt aanmanen. 
+	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditiecode** (klik hiertoe op **+ Filteren...**)en selecteer de aanmaningsconditie die u aan wilt aanmanen. 
 3. Klik op **OK**. De aanmaningsvoorstellen worden aangemaakt.  U keert terug naar de pagina **Aanmaningen**.
 
 ## Opschonen voorstel
@@ -84,6 +84,6 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDY3MjMzNCwtMzQ5NzU4MjYsMTc0OD
+eyJoaXN0b3J5IjpbMTcwMTkwNTgxOSwtMzQ5NzU4MjYsMTc0OD
 A2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
