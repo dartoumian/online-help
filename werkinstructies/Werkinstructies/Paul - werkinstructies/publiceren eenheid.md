@@ -27,17 +27,6 @@ In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenh
 5. Als alle gegevens juist en compleet zijn, publiceer dan de eenheid.  
 
 
-
- Verwerken reacties  
-
-In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
- 
-
-## Bepalen rangorde  
-
-In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
-
-
 ## Verwerken reacties  
 
 In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
@@ -48,7 +37,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5OTI4NDAxLC0xNzE2MzA5MDA5LDExNz
+eyJoaXN0b3J5IjpbMzc2NTc1NzIwLC0xNzE2MzA5MDA5LDExNz
 YwMTIwMzcsLTc5MzY3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0
 NTgsMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ
 ==
