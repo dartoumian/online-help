@@ -18,11 +18,11 @@ Xxxxx.
 
 ## Publiceren eenheid 
 
-In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende publicde eenheidretde eenheid kan vinden en kan reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
+In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenheid kan vinden en kan reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
 1. Login in het externe woonruimteverdeelsysteem 
-2. Zoek de voorbereide n en kan reagm. 
-2.  
+2. Zoek de voorbereide eenheid op waarvan u de gegevens vanuit Dynamics Empire naar het woonruimteverdeelsysteem hebt gestuurd. 
+3. Co 
 
 
 
@@ -76,7 +76,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjAxMjAzNywtNzkzNjc1ODIzLC01Mj
-Y5MTg1NzksMTczMDI1MjQ1OCwxNzg2ODkwODYsLTIwMDA5Mjc0
-MTEsLTUwMzMzMDAwNl19
+eyJoaXN0b3J5IjpbMTIzNjMyNTE3NywxMTc2MDEyMDM3LC03OT
+M2NzU4MjMsLTUyNjkxODU3OSwxNzMwMjUyNDU4LDE3ODY4OTA4
+NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
 -->
