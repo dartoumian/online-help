@@ -9,7 +9,7 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
-2. Kies voor **Voorstelposten ophalen** (*Meer opties - Navigeren - Telebankieren*).
+2. Kies voor **Voorstelposten ophalen**.
 3.  De pagina **Voorstelposten ophalen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.
@@ -23,7 +23,7 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
- 2. Klik op **Voorstelposten ophalen** (*Meer opties - Navigeren - Telebankieren*), waarna de gelijknamige pagina opent.
+ 2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
  3. Vul de onderstaande velden op het scherm (als bepaalde velden niet zichtbaar zijn kunt u die toevoegen via de optie **+ Filteren...**):
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.	
@@ -38,23 +38,23 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 
 Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
 
- 1. Kies voor **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
+ 1. Kies voor **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
  2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
  3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
- 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren** (*Meer opties - Navigeren - Voorstel*). Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
+ 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
 ## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
- 1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankierenvoorstel** opent.
+ 1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel**, waarna de pagina **Telebankierenvoorstel** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 ## Controleren betaalrun
  
 Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
- 1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun** (*Meer opties - Navigeren - Telebankieren*). De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
+ 1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
  2. Klik op de actie **Betaalrun afdrukken** ( *... - Rapport*) om de betaalrun af te drukken. 
 
 ## Annuleren betaalrunregels
@@ -93,11 +93,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4NjE1MDYzLC0xNTM2NTUyNjYxLDE0Nz
-c4MzM1MjgsLTE0NjQ2OTE2MTYsLTI2MjQwNTQ0NywtMTk0MjI1
-NDM2MywtMTI2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIyMDM1OC
-wtNTMxNTEzMjU4LC0yMzU4Nzc4OSwtMzEzNjEwMDI5LC0yNjc4
-MDg3OTUsMTE1NjA5NjA5MSw2ODY0OTI0MzgsLTE4NDQwODYxNz
-ksMTIzNzgwODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5OTQsMTE1
-NDQ4NTQ0MF19
+eyJoaXN0b3J5IjpbNTAxNTQ5NTAyLDY0ODYxNTA2MywtMTUzNj
+U1MjY2MSwxNDc3ODMzNTI4LC0xNDY0NjkxNjE2LC0yNjI0MDU0
+NDcsLTE5NDIyNTQzNjMsLTEyNjE3NzE3MywtMjkzNDE0NjA2LC
+0xNzYyMjAzNTgsLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMzYx
+MDAyOSwtMjY3ODA4Nzk1LDExNTYwOTYwOTEsNjg2NDkyNDM4LC
+0xODQ0MDg2MTc5LDEyMzc4MDg5MDAsOTQ2MjY1MzQyLC0xMTQz
+MDUzOTk0XX0=
 -->
