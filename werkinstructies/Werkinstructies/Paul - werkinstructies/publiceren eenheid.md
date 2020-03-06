@@ -1,6 +1,6 @@
 # Publiceren eenheid
 
-De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie en daadNadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald.   
+De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.   
 
 
 ## Processchema
@@ -37,8 +37,8 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODY1MTkyNCwzNzY1NzU3MjAsLTE3MT
-YzMDkwMDksMTE3NjAxMjAzNywtNzkzNjc1ODIzLC01MjY5MTg1
-NzksMTczMDI1MjQ1OCwxNzg2ODkwODYsLTIwMDA5Mjc0MTEsLT
-UwMzMzMDAwNl19
+eyJoaXN0b3J5IjpbLTE3MTUzOTQ2MTYsMzc2NTc1NzIwLC0xNz
+E2MzA5MDA5LDExNzYwMTIwMzcsLTc5MzY3NTgyMywtNTI2OTE4
+NTc5LDE3MzAyNTI0NTgsMTc4Njg5MDg2LC0yMDAwOTI3NDExLC
+01MDMzMzAwMDZdfQ==
 -->
