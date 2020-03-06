@@ -13,7 +13,7 @@ In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbe
 3. Open de detailpagina van de verhuurmutatie. 
 4. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
 5. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. 
-6. Controleer het adres van de beschikbare eenheid. Als het adres niet juist of volledig is, klik dan op **Navigeren** en **OG Eenheid*
+6. Controleer het adres van de beschikbare eenheid. Als het adres niet juist of volledig is, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u het adres kan aanpassen of aanvullen. Klik op **Sluiten**. U keert terug naar de pa 
  
 
 ## Publiceren eenheid 
@@ -37,7 +37,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDM0NTc0LDg4ODQ3MDg5OCwtOTkzMz
+eyJoaXN0b3J5IjpbNDQyNTMwMTI0LDg4ODQ3MDg5OCwtOTkzMz
 MzNjQxLC0xMjcxNjg0MDEsMTMxMjEyNjMyLC0xNjQ2NzM2MzU0
 LC0yOTYyMjI0NTYsNDE1Njc2NzMyLDM3NjU3NTcyMCwtMTcxNj
 MwOTAwOSwxMTc2MDEyMDM3LC03OTM2NzU4MjMsLTUyNjkxODU3
