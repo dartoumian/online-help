@@ -18,7 +18,7 @@ Xxxxx.
 
 ## Publiceren eenheid 
 
-In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoek)heide ij. 
+In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenheid kan vinden en kan reageren op de eenheid.  
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passenden de gepubliceerde eendheidstoets verhuring**. 
 2. Vul de optie **Ingangsdatum huurcontract** in met de criteria waaraan de ingangsdatum van de nieuwe verhuurcontracten moet voldoen, willen de bijbehorende passendheidstoetsen worden meegenomen in de rapportage. Bijvoorbeeld: **>31-12-2019** 
@@ -72,6 +72,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MD
-MzMzAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDc4MjQyMDgsMTc4Njg5MDg2LC0yMD
+AwOTI3NDExLC01MDMzMzAwMDZdfQ==
 -->
