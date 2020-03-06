@@ -8,7 +8,7 @@ In dit werkproces worden verzoeken ter goedkeuring beoordeeld en wordt de beslis
 Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door middel van een aan u toegewezen goedkeuringspost. 
 
 1. In uw Rolcenter (startpagina) klikt u op de tegel **Goedkeuringen**. De gelijknamige pagina opent. Hierop worden alle documenten getoond die u goed dient te keuren. 
-2. Klik op **Record openen**. Het document wordt geopend. Betreft het document een inkoopfactuur of inkoopcreditnota, dan kunt u via de knop **Toon factuur** de originele factuur tonen. 
+2. Klik op **Record openen**. Het document wordt geopend. Betreft het document een inkoopfactuur of inkoopcreditnota, dan kunt u via **Toon factuur** de originele factuur tonen. 
 3. Controleer het document. Daarna kunt u een aantal zaken doen. 
 	-  Wanneer u de factuur ook door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Toevoegen goedkeurder](#toevoegen-goedkeurder)**.
 	- Wanneer u de factuur namens u door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Delegeren goedkeuring](#delegeren-goedkeuring)**.
@@ -49,6 +49,7 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren en op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzYzODA3NiwyMTAwMzc5MjYyLDE3OT
-A4OTAwNTIsODI4ODUxOTcwLC0yNzA4Njk0NDJdfQ==
+eyJoaXN0b3J5IjpbMTU1NDU2MjU5MywtNjUzNjM4MDc2LDIxMD
+AzNzkyNjIsMTc5MDg5MDA1Miw4Mjg4NTE5NzAsLTI3MDg2OTQ0
+Ml19
 -->
