@@ -7,7 +7,7 @@ In dit werkproces worden betalingsachterstanden gesignaleerd en wordt de debiteu
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Aanmaningen**. 
-2. Klik op de pagina **Aanmaningen** op de actie **Aanmaningen maken** (*Meer opties - Acties*). Vul op de zojuist geopende pagina de volgende velden met de aangegeven waarden:
+2. Klik op de pagina **Aanmaningen** op de actie **Aanmaningen maken**. Vul op de zojuist geopende pagina de volgende velden met de aangegeven waarden:
 	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmangsvoorstel.
 	* **Documentdatum:** Dit is de datum die op het aanmaningsdocument voor de debiteur getoond wordt.
 	* **Alleen vervallen posten:** 'Aan'.
@@ -39,7 +39,7 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 6. Herhaal stap 2 tot en met 5 voor alle aanmaningsvoorstellen. U navigeert eenvoudig naar de volgende aanmaning door op de pagina **Aanmaning** op het pijltje naar rechts te klikken.
 7. Nadat u alle betalingsregelingen beëindigd hebt sluit u de pagina; u keert terug naar de pagina **Aanmaningen**. Selecteer alle aanmaningen in de lijst.
 8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar pagina**Aanmaningen**.
-9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken** (*Meer opties - Acties - Functies*). Vul op de nu geopende pagina de volgende velden met de aangegeven waarden:
+9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken**. Vul op de nu geopende pagina de volgende velden met de aangegeven waarden:
 	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
 	* **Aanvullende kosten aanpassen:** 'Aan'.
 	* **Aanmaningsniveau bijwerken:** 'Aan'.
@@ -58,7 +58,7 @@ Na het verwijderen van de overbodige voorstelregels of het bijwerken van de aanm
 Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aanmaningsvoorstellen definitief maken. 
 
 1. Selecteer op de pagina **Aanmaningen** alle aanmaningsvoorstellen. (Klik daartoe eerst op de drie verticaal geplaatste puntjes achter een willekeurig aanmaningsnummer (*Meer opties weergeven*), kies voor *Meer selecteren* en selecteer alle regels.)
-2. Klik op **Verzenden** (*Meer opties - Acties - Verzending*). De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
+2. Klik op **Verzenden**. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**. 
 3. Moeten de aanmaningen die u definitief gemaakt heeft verzonden worden, ga dan verder met processtap **[Versturen aanmaning](#versturen-aanmaning)**.
 4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder, ga dan verder met het werkproces UITHANDEN GEVEN VORDERING.
 
@@ -71,7 +71,7 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
-2. Selecteer alle aanmaningen in de gefilterde lijst en klik op **Postex** (*Meer opties - Rapport - Postex*). De pagina **Aanmaningen** opent. Selecteer **Afdrukken*. De aanmaningen worden via Postex verstuurd. 
+2. Selecteer alle aanmaningen in de gefilterde lijst en klik op **Postex**. De pagina **Aanmaningen** opent. Selecteer **Afdrukken*. De aanmaningen worden via Postex verstuurd. 
 
 ## Genereren overige communicatie
 
@@ -84,8 +84,8 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc5OTU0NzYsLTMxNTQxNjQ0MCwxNT
-AxOTM0MDkyLC02MTQ1NTQ3MjMsLTE1NzgwODYzNzIsLTEzNzgy
-OTg1MjcsLTc1MTY3MDU5LC03NzMzNjk5NDYsLTM0OTc1ODI2LD
-E3NDgwNjgyMTYsMjEyNTc5NTkxOF19
+eyJoaXN0b3J5IjpbLTEwMjU1NDI1MDIsLTExMTc5OTU0NzYsLT
+MxNTQxNjQ0MCwxNTAxOTM0MDkyLC02MTQ1NTQ3MjMsLTE1Nzgw
+ODYzNzIsLTEzNzgyOTg1MjcsLTc1MTY3MDU5LC03NzMzNjk5ND
+YsLTM0OTc1ODI2LDE3NDgwNjgyMTYsMjEyNTc5NTkxOF19
 -->
