@@ -27,6 +27,7 @@ In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenh
 5. Als alle gegevens juist en compleet zijn, publiceer dan de eenheid.  
 
 
+
 ## Verwerken op de eenheningzoekenden op de gepublicatie van eerde eenheid die u wilt publiceren 
 3. Controleer of alle gegevens die u vanuit Dynamics Empire hebt verstuurd, cor, Deze stap vindt plaats in het externe woonruimteverdeelsysteem.ern 
 
@@ -77,7 +78,8 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTQwMTg5LDExNzYwMTIwMzcsLTc5Mz
-Y3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0NTgsMTc4Njg5MDg2
-LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTYzMDkwMDksMTA2OTQwMTg5LDExNz
+YwMTIwMzcsLTc5MzY3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0
+NTgsMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ
+==
 -->
