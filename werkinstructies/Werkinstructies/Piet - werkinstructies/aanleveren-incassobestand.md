@@ -9,7 +9,7 @@ In dit detailproces wordt een incassobestand gegenereerd op basis van te incasse
 Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven welke posten daarin meegenomen moeten worden. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Telebankieren - bankoverzicht**.
-2. Klik op **Voorstelposten ophalen** (*Meer opties - Navigeren - Telebankieren*), waarna de gelijknamige pagina opent.
+2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
 3. Vul de volgende velden met de aangegeven waarden:
 	* **Transactiedatum:** Datum waarop de incasso moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum op of voor deze datum worden meegenomen in het betaalvoorstel. Bij een incasso op de eerste van de maand vult u hier bijvoorbeeld 01-03-2020 in. 
@@ -26,16 +26,16 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 
 Als bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen. 
 
-1. Klik op **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
+1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
 2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
 3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
-4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren** (*Meer opties - Navigeren - Voorstel*). Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
+4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
 ## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
-1. Klik op **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
+1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 ## Annuleren betaalrunregels
@@ -44,7 +44,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken.** 
 2. In het scherm **Betaalrunkaart** kunt u de regelnummers vinden van de regels die u wilt annuleren. Noteer hiervan de betreffende nummers. 
-3. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*), waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+3. Klik op **Status wijzigen**, waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (laat ongewijzigd)
 	* **Runnummer:** (laat ongewijzigd)
@@ -56,7 +56,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
  1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
- 2. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*). Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+ 2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (Laat ongewijzigd.)
 	* **Runnummer:** (Laat ongewijzigd.)
@@ -74,10 +74,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NzEyOTQyLC0xODAxMzgyODI2LDIxMT
-M4ODY1ODksLTE3MTQyMDU3NzAsLTE2Nzk2Mjc2NzIsMTYyMzI4
-MjYzMyw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5MT
-MwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIs
-OTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NTQ0NzMxMyw2NTMxNT
-Y1NDQsLTc2NTQwNzAzNV19
+eyJoaXN0b3J5IjpbMTIzNzczMDY3OSw0OTQ3MTI5NDIsLTE4MD
+EzODI4MjYsMjExMzg4NjU4OSwtMTcxNDIwNTc3MCwtMTY3OTYy
+NzY3MiwxNjIzMjgyNjMzLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOT
+A0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAw
+LDkwNDQ5NTAwMiw5MTMwNjA4MDAsMTA2Njc4NzA5OSwxMzc1ND
+Q3MzEzLDY1MzE1NjU0NCwtNzY1NDA3MDM1XX0=
 -->
