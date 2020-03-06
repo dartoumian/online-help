@@ -61,7 +61,7 @@ Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (zie voorgaande stap) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers.
  3. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*), waarna de pagina **Betaalrun - status wijzigen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Nieuwe status:** 'Geannuleerd'.
@@ -85,7 +85,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (zie voorgaande de betaalrun die u wilt exporteren. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand wordt opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
@@ -93,11 +93,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODM4MDQxNCwtMTUzNjU1MjY2MSwxND
-c3ODMzNTI4LC0xNDY0NjkxNjE2LC0yNjI0MDU0NDcsLTE5NDIy
-NTQzNjMsLTEyNjE3NzE3MywtMjkzNDE0NjA2LC0xNzYyMjAzNT
-gsLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMzYxMDAyOSwtMjY3
-ODA4Nzk1LDExNTYwOTYwOTEsNjg2NDkyNDM4LC0xODQ0MDg2MT
-c5LDEyMzc4MDg5MDAsOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDEx
-NTQ0ODU0NDBdfQ==
+eyJoaXN0b3J5IjpbNjQ4NjE1MDYzLC0xNTM2NTUyNjYxLDE0Nz
+c4MzM1MjgsLTE0NjQ2OTE2MTYsLTI2MjQwNTQ0NywtMTk0MjI1
+NDM2MywtMTI2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIyMDM1OC
+wtNTMxNTEzMjU4LC0yMzU4Nzc4OSwtMzEzNjEwMDI5LC0yNjc4
+MDg3OTUsMTE1NjA5NjA5MSw2ODY0OTI0MzgsLTE4NDQwODYxNz
+ksMTIzNzgwODkwMCw5NDYyNjUzNDIsLTExNDMwNTM5OTQsMTE1
+NDQ4NTQ0MF19
 -->
