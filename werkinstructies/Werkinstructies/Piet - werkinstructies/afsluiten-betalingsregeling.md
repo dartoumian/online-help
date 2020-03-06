@@ -8,7 +8,7 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indi
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden (zie **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**).
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me") naar de lijst **Klanten**.
- 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken** (*Meer opties - Acties - Nieuw document*). De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
+ 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden: 
 	-	**Sjablooncode**
 	-	**Mandaatcode**: Dit is de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit. 
 	-	**Totaalbedrag Regeling**:
@@ -25,11 +25,11 @@ U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalin
 Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wanneer u een betalingsregeling die niet binnen de sjabloonwaarde past aan wilt maken, kunt u dit zonder een sjabloon doen. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**. 
-2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling** (*Meer opties - Acties - Nieuw document*). De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
+2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling**. De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
 3. Selecteer in het veld **Code transactiewijze** op tabblad **Facturering** de transactiewijze waarmee de betalingsregeling betaald moet worden. 
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
-5. Kies op pagina **Betalingsregeling** voor **Posten selecteren** (*Meer opties - Acties - Functies*). De pagina **Klantenposten** opent. Selecteer de klantenposten die opgenomen moeten worden in de betalingsregeling (met behulp van de Ctrl-toets) en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantenposten** worden de opgenomen posten getoond.
-6. Klik op **Termijnen aanmaken** (*Meer opties - Acties - Functies*). De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
+5. Kies op pagina **Betalingsregeling** voor **Posten selecteren**. De pagina **Klantenposten** opent. Selecteer de klantenposten die opgenomen moeten worden in de betalingsregeling (met behulp van de Ctrl-toets) en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantenposten** worden de opgenomen posten getoond.
+6. Klik op **Termijnen aanmaken**. De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
 	- **Datum eerste termijn**: De datum waarop de betalingsregeling ingaat. Dit is ook de datum waarop de eerste termijn betaald dient te worden. Gebruikelijk is om hier de eerste dag van de volgende maand in te vullen. 
 	- **Betalingsconditie**: Met '0D' geeft u aan dat de betalingsregeling op de eerste van de maand betaald dient te worden.
 	- **Frequentie**: Met '1M' geeft u aan dat er elke maand een termijn betaald dient te worden.
@@ -68,8 +68,8 @@ Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klan
 ## Activeren betalingsregeling
 Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren. 
 
-1. Vanaf de kaartpagina **Betalingsregeling** klikt u op **Activeren** (*Meer opties - Acties - Functies*). U krijgt een bevestigingsvraag die u met **Ja** beantwoordt. U keert terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
-2. Klik op **Worddocument** (*Meer opties - Acties*), waarna het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor een nieuwe betalingsregeling en klik op **OK**. 
+1. Vanaf de kaartpagina **Betalingsregeling** klikt u op **Activeren**. U krijgt een bevestigingsvraag die u met **Ja** beantwoordt. U keert terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
+2. Klik op **Worddocument**, waarna het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor een nieuwe betalingsregeling en klik op **OK**. 
 3. U krijgt de vraag of u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent, waar u in de kolom **Antwoord** de vragen op de antwoorden invoert. Klik daarna op **Sluiten**. 
 4. Klik op **Word**. Het scherm voor aanmaken van een WordLinkbrief opent. Selecteer het sjabloon voor het bevestigen van een nieuwe betalingsregeling en vul de benodigde vragen in. 
 5. Verstuur het document naar de klant. De betalingsregeling is nu geactiveerd en de klant is geïnformeerd.
@@ -77,8 +77,8 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE5NTI0NTIsMTQ2MTk2NjcyNiw0OD
-kxMjk4MTIsODA2ODg5MDE5LC0yMDUxNDU4NjE2LC02OTI1NDg5
-MzgsMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC0xNDIwODUwNTcxLC
-01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
+eyJoaXN0b3J5IjpbLTE2ODk4MTEyMDQsLTEzNDE5NTI0NTIsMT
+Q2MTk2NjcyNiw0ODkxMjk4MTIsODA2ODg5MDE5LC0yMDUxNDU4
+NjE2LC02OTI1NDg5MzgsMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC
+0xNDIwODUwNTcxLC01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
 -->
