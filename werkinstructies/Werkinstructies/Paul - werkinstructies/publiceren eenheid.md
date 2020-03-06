@@ -13,7 +13,8 @@ In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbe
 3. Open de detailpagina van de verhuurmutatie. 
 4. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. 
 5. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. 
-6. Controleer het adres van de beschikbare eenheid. Als het adres niet juist of volledig is, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u het adres kan aanpassen of aanvullen. Klik op **Sluiten**. U keert terug naar de pa 
+6. Controleer de details in hhet adres van de beschikbare eenheid. Als het adres niet juist of volledig is, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u het adres kan aanpassen of aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
+7. Controleer de OG-Eenheid-eigenschappen.  
  
 
 ## Publiceren eenheid 
@@ -37,10 +38,10 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDY4MTcwMSw0NDI1MzAxMjQsODg4ND
-cwODk4LC05OTMzMzM2NDEsLTEyNzE2ODQwMSwxMzEyMTI2MzIs
-LTE2NDY3MzYzNTQsLTI5NjIyMjQ1Niw0MTU2NzY3MzIsMzc2NT
-c1NzIwLC0xNzE2MzA5MDA5LDExNzYwMTIwMzcsLTc5MzY3NTgy
-MywtNTI2OTE4NTc5LDE3MzAyNTI0NTgsMTc4Njg5MDg2LC0yMD
-AwOTI3NDExLC01MDMzMzAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTMxMzM2MTUyNiwxODI0NjgxNzAxLDg4OD
+Q3MDg5OCwtOTkzMzMzNjQxLC0xMjcxNjg0MDEsMTMxMjEyNjMy
+LC0xNjQ2NzM2MzU0LC0yOTYyMjI0NTYsNDE1Njc2NzMyLDM3Nj
+U3NTcyMCwtMTcxNjMwOTAwOSwxMTc2MDEyMDM3LC03OTM2NzU4
+MjMsLTUyNjkxODU3OSwxNzMwMjUyNDU4LDE3ODY4OTA4NiwtMj
+AwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
 -->
