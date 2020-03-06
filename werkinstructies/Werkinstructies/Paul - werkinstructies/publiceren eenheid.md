@@ -40,16 +40,17 @@ In deze stap verwerkt u de reacties van woningzaccountantscontrole heeft plaatsg
 
 ## Bepalen rangorde anwo 
 
-In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die hebben gereageerd op de gepbliceerde eenheid. verwerkt u de react zijn verwerkt in het externe woonruimteverdeelsysteem. 
-4. Indien er gegevens niet correct zijn verwerkt, controleer de 
-5. Vul daar waar nodig de gegevens van ies vant woordingen verhuringen van het voorgaande kalenderjaarningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
+In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die hebben gereageerd op de gepbliceerde eenheid. verwerkt u de rearect zijn verwerkt in het externe woonruimteverdeelsysteem. 
+4. Indien er gegevens niet corct zijn verwerkt, controleer raare e ies vant woordingen verhuringen van het vwat de oorgzaande kalenderjaarningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
-1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar d kunnen zien en kunnen reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
+1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vk daarvan is, 
+5. Als de oorzaak in DynamicGa terug naar Dynamics Empire en controleer en herstel mde wat u wilt doen") naar d kunnen zien en kunnen reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
 1.  Login in het externe woonruimteverdeelsysteem.
-2. Zoek de voorbereide publicatie avan, bijvoorbeeld met foto's. 
+2. Zoek de voorbereigegevens en verstuur deze opnieuw vanuit Dynamics Empire naar het externe woonruimteverdeelsysteem. 
+6. Vul daar waar nodig de gegevens van de publicatie avan, bijvoorbeeld met foto's. 
 6.troleer of alle gegevens die vanuit Dynamics Empire i nr. odnhedezitaa ne en uisoin n ernewooriese.
-2. Zoek de eeid uli ved ontrolee a n die t n pir  
+2. Zoek de eeid uli ved ontrolee a n die t n pir7.  
 
 
 ## Verwerken reacties  
@@ -76,7 +77,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjkxODU3OSwtMzc5Njc1OTU4LDE3Mz
-AyNTI0NTgsMTc4Njg5MDg2LC0yMDAwOTI3NDExLC01MDMzMzAw
-MDZdfQ==
+eyJoaXN0b3J5IjpbMTQ4Njk4NzAsLTUyNjkxODU3OSwxNzMwMj
+UyNDU4LDE3ODY4OTA4NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2
+XX0=
 -->
