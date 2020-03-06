@@ -29,7 +29,7 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 3. Selecteer in het veld **Code transactiewijze** de transactiewijze waarmee de betalingsregeling betaald moet worden. 
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
 5. Kies op pagina **Betalingsregeling** voor **Posten selecteren** (*Meer opties - Acties - Functies*). De pagina **Klantenposten** opent. Selecteer de klantenposten die opgenomen moeten worden in de betalingsregeling (met behulp van de Ctrl-toets) en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantposten** worden de opgenomen posten getoond.
-6. Klik op **Termijnen aanmaken**. De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
+6. Klik op **Termijnen aanmaken** (*Meer opties - Acties - Functies*). De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
 	- **Datum eerste termijn**: De datum waarop de betalingsregeling ingaat. Dit is ook de datum waarop de eerste termijn betaald dient te worden. Gebruikelijk is om hier de eerste dag van de volgende maand in te vullen. 
 	- **Betalingsconditie**: Met '0D' geeft u aan dat de betalingsregeling op de eerste van de maand betaald dient te worden.
 	- **Frequentie**: Met '1M' geeft u aan dat er elke maand een termijn betaald dient te worden.
@@ -77,8 +77,8 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5NDEyMTQsNDg5MTI5ODEyLDgwNj
-g4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4OTM4LDEwNDUwODkz
-NTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNTM4OTY2MTA3LD
-U1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTkxNzUxMTU1Miw0ODkxMjk4MTIsODA2OD
+g5MDE5LC0yMDUxNDU4NjE2LC02OTI1NDg5MzgsMTA0NTA4OTM1
+MiwxNDI2ODg5NTIxLC0xNDIwODUwNTcxLC01Mzg5NjYxMDcsNT
+UwMjY1NzMxXX0=
 -->
