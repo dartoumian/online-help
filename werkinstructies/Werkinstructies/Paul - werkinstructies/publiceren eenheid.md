@@ -20,17 +20,19 @@ Xxxxx.
 
 In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenheid kan vinden en kan reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
-1.  Login in het externe woonruimteverdeelsysteende de eenheid kan vinden en kan reageren op de eenheid. 
+1.  Login in het externe woonruimteverdeelsysteende de eenheid kan vinden en kan reagm. 
+2.  
 
 
-## Controle door accountant 
 
-In deze stap controleert de account de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
+## Verwerken op de eenheningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem.ern 
+
+In deze stap ert de anwo 
 
 
-## Opschonen privacy gevoelige gegevens 
+## Bepalen rangorde anwo 
 
-In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
+In deze stap t u de privac gegevens uit de verrangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. verwerkt u de reacties vant woordingen verhuringen van het voorgaande kalenderjaarningzoekenden op de gepubliceerde eenheid, Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar d kunnen zien en kunnen reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
@@ -64,6 +66,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDI1MjQ1OCwtNTk1NjU5NDIzLDE3OD
+eyJoaXN0b3J5IjpbLTEzNDg4OTE4MCwxNzMwMjUyNDU4LDE3OD
 Y4OTA4NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
 -->
