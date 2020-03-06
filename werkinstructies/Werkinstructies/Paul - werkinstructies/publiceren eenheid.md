@@ -18,9 +18,9 @@ Xxxxx.
 
 ## Publiceren eenheid 
 
-In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoek). 
+In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoek)heide ij. 
 
-1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passendheidstoets verhuring**. 
+1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Passenden de gepubliceerde eendheidstoets verhuring**. 
 2. Vul de optie **Ingangsdatum huurcontract** in met de criteria waaraan de ingangsdatum van de nieuwe verhuurcontracten moet voldoen, willen de bijbehorende passendheidstoetsen worden meegenomen in de rapportage. Bijvoorbeeld: **>31-12-2019** 
 3. Geef aan met optie **Incompleet dossiers weergeven** of u de verantwoordingen verhuringen waarbij de indicatie **Incompleet dossier** van toepassing is voor de laatste versie van de verantwoording verhuring, al dan niet wil meenemen in de rapportage. 
 4. Klik op **Voorbeeld** of **Afdrukken**. Het rapport wordt gegenereerd.  
@@ -40,7 +40,11 @@ In deze stap controleert de account de verantwoordingen verhuringen van het voor
 
 In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
 
-1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzichttaak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
+1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar d kunnen zien en kunnen reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
+
+1.  Login in het externe woonruimteverdeelsysteem.
+2. Zoek de voorbereide publicatie van de eenheid. 
+3. Controleer of alle gegevens die vanuit Dynamics Empire lzijst **Onr. Goed-Eenhedenoverzichttaak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
 2. Zoek de OG Eenheid Vul in veld **Accountantscontroledatum** de datum in waarop die moet worden gepubliceerd. 
 3. Xxxxxx 
 
@@ -56,8 +60,18 @@ In deze stap verwerkt u de reacties van woningzaccountantscontrole heeft plaatsg
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteemgeschoond. Alle verantwoordingen worden opgeschoond waarvan de laatste versie als zijnde definitief is gemarkeerd en waarvan de huurcontractingangsdatum <= de ingevulde opschoningspeildatum. 
 4. Geef aan of u de verantwoordingen verhuringen waarvan de laatste versie is aangemerkt als zijnde incompleet dossier, ook moeten worden opgeschoond. 
 5. Klik op **OK**. 
-6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
+6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording opn verstuurd, correct zijn Xxxxxx 
+
+
+## Verwerken reacties  
+
+In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
+
+
+## Bepalen rangorde  
+
+In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzMzMDAwNiwtMTE3NDU3MTI0Nl19
+eyJoaXN0b3J5IjpbLTIwODM3NDU2MzcsLTUwMzMzMDAwNl19
 -->
