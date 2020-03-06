@@ -41,13 +41,13 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
  1. Kies voor **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
  2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
  3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
- 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren** (*Meer opties - . Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
+ 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren** (*Meer opties - Navigeren - Voorstel*). Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
 ## Verwerken voorstel
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
- 1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
+ 1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 ## Controleren betaalrun
@@ -93,11 +93,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM0NDcyNTMsLTE1MzY1NTI2NjEsMT
-Q3NzgzMzUyOCwtMTQ2NDY5MTYxNiwtMjYyNDA1NDQ3LC0xOTQy
-MjU0MzYzLC0xMjYxNzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIwMz
-U4LC01MzE1MTMyNTgsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2
-NzgwODc5NSwxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4Nj
-E3OSwxMjM3ODA4OTAwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NCwx
-MTU0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbMTQ2Mjg1NTA5NiwtMTUzNjU1MjY2MSwxND
+c3ODMzNTI4LC0xNDY0NjkxNjE2LC0yNjI0MDU0NDcsLTE5NDIy
+NTQzNjMsLTEyNjE3NzE3MywtMjkzNDE0NjA2LC0xNzYyMjAzNT
+gsLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMzYxMDAyOSwtMjY3
+ODA4Nzk1LDExNTYwOTYwOTEsNjg2NDkyNDM4LC0xODQ0MDg2MT
+c5LDEyMzc4MDg5MDAsOTQ2MjY1MzQyLC0xMTQzMDUzOTk0LDEx
+NTQ0ODU0NDBdfQ==
 -->
