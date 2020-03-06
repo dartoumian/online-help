@@ -15,7 +15,7 @@ Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutati
 	* **BTW-productboekingsgroep**
 	* **BTW-correctie**: Wanneer u de betaalde BTW over de kosten wilt terugvorderen vinkt u deze kolom aan.
 	* **Omschrijving**: Pas eventueel de omschrijving aan. Dit is de omschrijving die op de factuur komt te staan.
- 5. Wilt u meer informatie over het onderhoudsverzoek, kopieer dan het nummer in de kolom **Onderhoudsverzoeknr.** Navigeer via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Onderhoudsverzoekoverzicht** en gebruik het nummer om het juiste onderhoudsverzoek op te zoeken. 
+ 5. Wilt u meer informatie over het onderhoudsverzoek, kopieer dan het nummer in de kolom **Onderhoudsverzoeknr.** Navigeer via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijstpagina **Onderhoudsverzoekoverzicht** en gebruik het nummer om het juiste onderhoudsverzoek op te zoeken. 
 
 ## Boeken en afdrukken factuur
 
@@ -35,5 +35,5 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
  1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk2NDc3OV19
+eyJoaXN0b3J5IjpbLTM3ODkyMjc1LC0xOTI5NjQ3NzldfQ==
 -->
