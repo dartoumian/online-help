@@ -44,9 +44,7 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 
 1.  Login in het externe woonruimteverdeelsysteem.
 2. Zoek de voorbereide publicatie van de eenheid. 
-3. Controleer of alle gegevens die vanuit Dynamics Empire lzijst **Onr. Goed-Eenhedenoverzichttaak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
-2. Zoek de OG Eenheid Vul in veld **Accountantscontroledatum** de datum in waarop die moet worden gepubliceerd. 
-3. Xxxxxx 
+3. Controleer of alle gegevens die vanuit Dynamics Empire l 
 
 
 ## Verwerken reacties  
@@ -73,5 +71,5 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM3NDU2MzcsLTUwMzMzMDAwNl19
+eyJoaXN0b3J5IjpbLTIwMDA5Mjc0MTEsLTUwMzMzMDAwNl19
 -->
