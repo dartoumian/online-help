@@ -41,7 +41,7 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
  1. Kies voor **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
  2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
  3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
- 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
+ 4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren** (*Meer opties - . Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
 
 ## Verwerken voorstel
 
@@ -93,11 +93,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY1NTI2NjEsMTQ3NzgzMzUyOCwtMT
-Q2NDY5MTYxNiwtMjYyNDA1NDQ3LC0xOTQyMjU0MzYzLC0xMjYx
-NzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIwMzU4LC01MzE1MTMyNT
-gsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2NzgwODc5NSwxMTU2
-MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4NjE3OSwxMjM3ODA4OT
-AwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
-
+eyJoaXN0b3J5IjpbLTE3NTM0NDcyNTMsLTE1MzY1NTI2NjEsMT
+Q3NzgzMzUyOCwtMTQ2NDY5MTYxNiwtMjYyNDA1NDQ3LC0xOTQy
+MjU0MzYzLC0xMjYxNzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIwMz
+U4LC01MzE1MTMyNTgsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2
+NzgwODc5NSwxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4Nj
+E3OSwxMjM3ODA4OTAwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NCwx
+MTU0NDg1NDQwXX0=
 -->
