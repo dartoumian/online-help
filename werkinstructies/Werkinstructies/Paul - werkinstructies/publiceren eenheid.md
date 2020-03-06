@@ -20,9 +20,7 @@ Xxxxx.
 
 In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenheid kan vinden en kan reageren op de eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.  
 
-1.  Login in het externe woonruimteverdeelsysteem. 
-2.  
-
+1.  Login in het externe woonruimteverdeelsysteende de eenheid kan vinden en kan reageren op de eenheid. 
 
 
 ## Controle door accountant 
@@ -66,6 +64,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTY1OTQyMywxNzg2ODkwODYsLTIwMD
-A5Mjc0MTEsLTUwMzMzMDAwNl19
+eyJoaXN0b3J5IjpbMTczMDI1MjQ1OCwtNTk1NjU5NDIzLDE3OD
+Y4OTA4NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
 -->
