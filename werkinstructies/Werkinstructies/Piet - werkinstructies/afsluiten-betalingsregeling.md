@@ -68,8 +68,8 @@ Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klan
 ## Activeren betalingsregeling
 Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren. 
 
-1. Vanaf de pagina **Betalingsregeling** klikt u op **Activeren**. U krijgt een bevestigingsvraag die u met **Ja** beantwoordt. U keert terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
-2. Klik op **Worddocument**, waarna het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor een nieuwe betalingsregeling en klik op **OK**. 
+1. Vanaf de kaartpagina **Betalingsregeling** klikt u op **Activeren** (*Meer opties - Acties - Functies*). U krijgt een bevestigingsvraag die u met **Ja** beantwoordt. U keert terug naar het scherm **Betalingsregeling**. De status van de betalingsregeling is aangepast naar **Geactiveerd**. 
+2. Klik op **Worddocument** (*Meer opties - Acties*), waarna het scherm **Word-sjablonen** opent. Selecteer het sjabloon voor een nieuwe betalingsregeling en klik op **OK**. 
 3. U krijgt de vraag of u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent, waar u in de kolom **Antwoord** de vragen op de antwoorden invoert. Klik daarna op **Sluiten**. 
 4. Klik op **Word**. Het scherm voor aanmaken van een WordLinkbrief opent. Selecteer het sjabloon voor het bevestigen van een nieuwe betalingsregeling en vul de benodigde vragen in. 
 5. Verstuur het document naar de klant. De betalingsregeling is nu geactiveerd en de klant is geïnformeerd.
@@ -77,7 +77,7 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA4MzQwNTUsMTQ2MTk2NjcyNiw0OD
+eyJoaXN0b3J5IjpbLTEzNDE5NTI0NTIsMTQ2MTk2NjcyNiw0OD
 kxMjk4MTIsODA2ODg5MDE5LC0yMDUxNDU4NjE2LC02OTI1NDg5
 MzgsMTA0NTA4OTM1MiwxNDI2ODg5NTIxLC0xNDIwODUwNTcxLC
 01Mzg5NjYxMDcsNTUwMjY1NzMxXX0=
