@@ -66,8 +66,8 @@ Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aa
 
 Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen versturen via Postex. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verzonden aanmaningen**. 
-2. Stel een filter in voor de aanmaningen die u wilt verzenden:
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verzonden aanmaningen**. 
+2. Stel een filter in voor de aanmaningen die u wilt verzenden (via trechtericoon rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**):
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
@@ -84,7 +84,7 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTEyMDA3NywtMTU3ODA4NjM3MiwtMT
+eyJoaXN0b3J5IjpbLTYxNDU1NDcyMywtMTU3ODA4NjM3MiwtMT
 M3ODI5ODUyNywtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4
 MjYsMTc0ODA2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
