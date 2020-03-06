@@ -47,7 +47,7 @@ Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u een individuele post uit wilt sluiten van aanmaningen.
-3. Selecteer de klant en klik op **Posten**. De pagina **Klantposten** opent.
+3. Open de klantkaart door op het nummer te klikken en kies voor **Posten** (*Klant*). De pagina **Klantposten** opent.
 4. Vul bij de post die u wilt uitsluiten van aanmaningen in het veld **Afwachten** de afwachtcode in die van toepassing is.
 
 ## Uitsluiten debiteur van aanmaningen
@@ -55,13 +55,13 @@ Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen 
 Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit doen door een aanmaningsconditie in te stellen op de klantkaart.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
-2. Zoek de klant op die u uit wilt sluiten van aanmaningen. Open de klantkaart. 
+2. Zoek de klant op die u uit wilt sluiten van aanmaningen. Open de klantenkaart. 
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgyNjgyODgsLTEwNjI5OTQ0MjksLT
-E2OTk2NzU5MTQsMTgyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MTUy
-NTQ2LDE5MTg3NjM4OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2MS
-wtOTU3MTE2MjgzLC0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2
-NDkwNjQ1MiwxODE3OTk5MDIwXX0=
+eyJoaXN0b3J5IjpbNTg2NjE1MjEsLTEwNjI5OTQ0MjksLTE2OT
+k2NzU5MTQsMTgyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MTUyNTQ2
+LDE5MTg3NjM4OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOT
+U3MTE2MjgzLC0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkw
+NjQ1MiwxODE3OTk5MDIwXX0=
 -->
