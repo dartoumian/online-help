@@ -35,16 +35,16 @@ Als bij de vorige stap bleek dat er foutmeldingen of waarschuwingen zijn ontstaa
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
-1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
+1. Klik op **Voorstel** (*Meer opties - Navigeren - Telebankieren*), waarna de pagina **Telebankiervoorstel** opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 ## Annuleren betaalrunregels
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
-1. Selecteer in de lijst **Betaalrunlijst** de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken.** 
+1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken.** 
 2. In het scherm **Betaalrunkaart** kunt u de regelnummers vinden van de regels die u wilt annuleren. Noteer hiervan de betreffende nummers. 
-3. Klik op **Status wijzigen**, waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
+3. Klik op **Status wijzigen** (*Meer opties - Navigeren - Betaalrun*), waarna het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'.
 	* **Onze bank:** (Laat ongewijzigd.)
 	* **Runnummer:** (Laat ongewijzigd.)
@@ -74,10 +74,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODEwMDc3NCwtMTgwMTM4MjgyNiwyMT
-EzODg2NTg5LC0xNzE0MjA1NzcwLC0xNjc5NjI3NjcyLDE2MjMy
-ODI2MzMsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIsOT
-EzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAy
-LDkxMzA2MDgwMCwxMDY2Nzg3MDk5LDEzNzU0NDczMTMsNjUzMT
-U2NTQ0LC03NjU0MDcwMzVdfQ==
+eyJoaXN0b3J5IjpbNjE3MDg2NjEsLTE4MDEzODI4MjYsMjExMz
+g4NjU4OSwtMTcxNDIwNTc3MCwtMTY3OTYyNzY3MiwxNjIzMjgy
+NjMzLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMz
+A2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5
+MTMwNjA4MDAsMTA2Njc4NzA5OSwxMzc1NDQ3MzEzLDY1MzE1Nj
+U0NCwtNzY1NDA3MDM1XX0=
 -->
