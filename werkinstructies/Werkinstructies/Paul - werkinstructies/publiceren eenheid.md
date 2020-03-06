@@ -1,13 +1,13 @@
 # Publiceren eenheid
 
-De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.Nadat de publicatie is gesloten, worden de reacties    
+De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG. Het publiceren gaat in twee stappen: voorbereiden publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.Nadat    
 
 
 ## Processchema
 
-## Voorbereiden publicatie  
+## Voorbereiden publicatie is gesloten, worden de reacties de publicatie 
 
-Xxxxx. 
+In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbereidende spat vindt plaats in Dynamics Empire. Daarbij verzamelt u alle gegevens over de eenheid, de huurprijs waarvoor de eene
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvan de publicatie moet worden voorbereid.
@@ -37,8 +37,8 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1Njc2NzMyLC0xNzE1Mzk0NjE2LDM3Nj
-U3NTcyMCwtMTcxNjMwOTAwOSwxMTc2MDEyMDM3LC03OTM2NzU4
-MjMsLTUyNjkxODU3OSwxNzMwMjUyNDU4LDE3ODY4OTA4NiwtMj
-AwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
+eyJoaXN0b3J5IjpbNjUwNDA3MDU0LDQxNTY3NjczMiwzNzY1Nz
+U3MjAsLTE3MTYzMDkwMDksMTE3NjAxMjAzNywtNzkzNjc1ODIz
+LC01MjY5MTg1NzksMTczMDI1MjQ1OCwxNzg2ODkwODYsLTIwMD
+A5Mjc0MTEsLTUwMzMzMDAwNl19
 -->
