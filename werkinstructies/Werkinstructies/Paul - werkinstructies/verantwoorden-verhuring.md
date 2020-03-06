@@ -15,9 +15,8 @@ In deze stap registreert u de huishoudgegevens van een individuele toewijzing va
 Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoording verhuring) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
-2. Zoek de OG Eenheid op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
-3. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschin. 
-4. Klik op **Navigeren** en kies voor **Verantwoording verhuring**.  Een pagina met de details van de verantwoording verhuring verschijnt. 
+2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
+3. Klik op **Navigeren** en kies voor **Verantwoording verhuring**.  Een pagina met de details van de verantwoording verhuring verschijnt. 
 5. In tabblad **OGE-gegevens** worden gegevens over de OG Eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn, en zo ja, van invloed zijn op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat in dit tabblad weergegeven. 
 6. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
 7. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze da aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
@@ -76,8 +75,8 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDQ2NjUzLC0xNjUwMTMwODM0LDMxMz
-g0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3
-NywtMzc0MDI5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMT
-Q2ODcxNzYzNSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbMTAwMTcyMDQzMCwtMTY1MDEzMDgzNCwzMT
+M4NDQ4NjgsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0
+NzcsLTM3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLT
+E0Njg3MTc2MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
 -->
