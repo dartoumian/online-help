@@ -21,7 +21,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 Nadat de voorstellen gegenereerd zijn kunt u deze opschonen en controleren. 
 
-1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter op de pagina **Aanmaningen** op het veld **Aanmaningsniveau** zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
+1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel een filter in (via filtericoon rechts op de pagina **Aanmaningen** op het veld **Aanmaningsniveau** zo in dat u alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
 2. Selecteer alle aanmaningsvoorstellen en klik op **Verwijderen**. Er wordt nu een lege lijst getoond.
 3. Verwijder het ingestelde filter, en de aanmaningen van het niveau dat u wilt versturen worden getoond.
 4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen, en het aanmaningsniveau betekent dat de betalingsregeling vervalt, ga dan verder naar de processtap **[Verwerken aanmaningen beëindigde betalingsregeling](#verwerken-aanmaningen-beëindigde-betalingsregeling)**. 
@@ -84,6 +84,6 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI1NzU2MTUsLTM0OTc1ODI2LDE3ND
-gwNjgyMTYsMjEyNTc5NTkxOF19
+eyJoaXN0b3J5IjpbLTM0ODAxNjY5NywtMzQ5NzU4MjYsMTc0OD
+A2ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
