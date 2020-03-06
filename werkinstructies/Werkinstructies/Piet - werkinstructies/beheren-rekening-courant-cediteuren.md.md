@@ -13,7 +13,7 @@ Wanneer u leveranciersposten met elkaar wilt vereffenen kunt u dit doen vanaf de
 3. Klik op **Posten** (*... (De rest weergeven) - Navigeren - Leverancier*). De pagina **Leveranciersposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen.
 >Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen. 
-5. Kies de actie **Posten vereffenen**. De pagina **Leveranciersposten vereffenen** opent.
+5. Kies de actie **Posten vereffenen** (*Meer opties - Acties - Functies*). De pagina **Leveranciersposten vereffenen** opent.
 6. Selecteer de post(en) waarmee u de in stap 4 geselecteerde post wilt vereffenen.
 7. Klik op **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
@@ -40,6 +40,6 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 3. Selecteer de leverancier en klik op **Posten**. De pagina **Leveranciersposten** opent.
 4. Vul bij de post die u wilt uitsluiten van automatische uitbetaling het veld **Afwachten** met de afwachtcode die van toepassing is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDA5NDA0MSwxNTU0NDgxNzE4LC03Nz
+eyJoaXN0b3J5IjpbLTU5NTMxMjI0NywxNTU0NDgxNzE4LC03Nz
 I1MDkwNjddfQ==
 -->
