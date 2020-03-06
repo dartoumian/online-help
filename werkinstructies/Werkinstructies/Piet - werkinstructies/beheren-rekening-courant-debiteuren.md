@@ -26,9 +26,9 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 >Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen.
 5. Kies de actie **Posten vereffenen** (*Acties - Functies*). De pagina **Klantenposten vereffenen** opent.
 6. Selecteer de post(en) waarmee u de in stap 4 geselecteerde post wilt vereffenen.
-7. Klik op actie **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
+7. Klik op actie **Vereffening-id instellen** (*Meer opties - Acties - Vereffening*). De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
-9. Kies de actie **Vereffening boeken**. De pagina **Vereffening boeken** opent. 
+9. Kies de actie **Vereffening boeken** (*Meer opties - Acties - Vereffening*). De pagina **Vereffening boeken** opent. 
 10. Vul in het veld **Boekingsdatum** de datum van vandaag in (sneltoets: H) en klik op **OK**. De vereffening wordt geboekt en u keert terug naar de pagina **Klantposten**.
  
 ## Ongedaan maken debiteurenpostenvereffening 
@@ -59,7 +59,7 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 3. Selecteer in het veld **Aanmaningsconditiecode** de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkwOTU2NzMsLTE2OTk2NzU5MTQsMT
+eyJoaXN0b3J5IjpbLTEwNjI5OTQ0MjksLTE2OTk2NzU5MTQsMT
 gyNjMyNTU5LDEyNzc1ODI2MDgsMTU3MTUyNTQ2LDE5MTg3NjM4
 OTIsLTEyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOTU3MTE2MjgzLC
 0xNjM2MzM2NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3
