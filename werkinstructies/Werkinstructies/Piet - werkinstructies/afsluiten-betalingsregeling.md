@@ -26,7 +26,7 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**. 
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling** (*Meer opties - Acties - Nieuw document*). De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer. 
-3. Selecteer in het veld **Code transactiewijze** de transactiewijze waarmee de betalingsregeling betaald moet worden. 
+3. Selecteer in het veld **Code transactiewijze** op tabblad Factureringde transactiewijze waarmee de betalingsregeling betaald moet worden. 
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
 5. Kies op pagina **Betalingsregeling** voor **Posten selecteren** (*Meer opties - Acties - Functies*). De pagina **Klantenposten** opent. Selecteer de klantenposten die opgenomen moeten worden in de betalingsregeling (met behulp van de Ctrl-toets) en klik op **OK**. U keert terug naar de pagina **Betalingsregeling**. Onder het kopje **Klantenposten** worden de opgenomen posten getoond.
 6. Klik op **Termijnen aanmaken** (*Meer opties - Acties - Functies*). De pagina **Betalingsregelingtermijnvoorstel** opent. Vul de volgende velden:
@@ -77,7 +77,7 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkzODE3NjksNDg5MTI5ODEyLDgwNj
+eyJoaXN0b3J5IjpbLTE0NjYyNDkxNzYsNDg5MTI5ODEyLDgwNj
 g4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4OTM4LDEwNDUwODkz
 NTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNTM4OTY2MTA3LD
 U1MDI2NTczMV19
