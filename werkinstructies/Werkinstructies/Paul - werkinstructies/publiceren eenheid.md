@@ -23,8 +23,8 @@ In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekende de eenh
 1. Login in het externe woonruimteverdeelsysteem 
 2. Zoek de voorbereide eenheid op waarvan u de gegevens vanuit Dynamics Empire naar het woonruimteverdeelsysteem hebt gestuurd. 
 3. Controleer de gegevens op juistheid en volledigheid. Als blijkt dat er nog gegevens uit Dynamics Empire ontbreken, ga dan terug naar de vorige stap **Vorbereiden publicatie**. 
-4. Vul daar waar nodig de publicatie van de eenheid aan met extra gegevens, z 
-
+4. Vul daar waar nodig de publicatie van de eenheid aan met extra gegevens, zoals foto's. 
+5. Als alle gegevens juist en compleet zijn, publiceer dan de eenheid.  
 
 
 ## Verwerken op de eenheningzoekenden op de gepublicatie van eerde eenheid die u wilt publiceren 
@@ -77,7 +77,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTg2ODk5MiwxMTc2MDEyMDM3LC03OT
-M2NzU4MjMsLTUyNjkxODU3OSwxNzMwMjUyNDU4LDE3ODY4OTA4
-NiwtMjAwMDkyNzQxMSwtNTAzMzMwMDA2XX0=
+eyJoaXN0b3J5IjpbMTA2OTQwMTg5LDExNzYwMTIwMzcsLTc5Mz
+Y3NTgyMywtNTI2OTE4NTc5LDE3MzAyNTI0NTgsMTc4Njg5MDg2
+LC0yMDAwOTI3NDExLC01MDMzMzAwMDZdfQ==
 -->
