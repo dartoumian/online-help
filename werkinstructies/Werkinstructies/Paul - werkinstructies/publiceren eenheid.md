@@ -27,20 +27,13 @@ Xxxxx.
 
 ## Verwerken reacties  
 
-In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenhei. de account de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
+In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 
-## Opschonen privacy gevoelige gegevens 
+## Bepalen rangorde  
 
-In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen verhuringen van het voorgaande kalenderjaar. 
-
-1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Personen en huishoudinkomen van verhuringsverantwoordingen opschonen**. 
-2. Vul in veld **Accountantscontroledatum** de datum in waarop de accountantscontrole heeft plaatsgevonden. 
-3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum voor het selecteren van de verantwoordingen die moeten worden opgeschoond. Alle verantwoordingen worden opgeschoond waarvan de laatste versie als zijnde definitief is gemarkeerd en waarvan de huurcontractingangsdatum <= de ingevulde opschoningspeildatum. 
-4. Geef aan of u de verantwoordingen verhuringen waarvan de laatste versie is aangemerkt als zijnde incompleet dossier, ook moeten worden opgeschoond. 
-5. Klik op **OK**. 
-6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
+In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDk3OTA3XX0=
+eyJoaXN0b3J5IjpbMTQyNjUzMTU2Nl19
 -->
