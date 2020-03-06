@@ -16,7 +16,7 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
 	* **Rekeningsoort:** 'Klant'
 	* **Code:** Selecteer de transactiewijze voor automatische incasso voor klantposten.
-	* **Onder het kopje Klantposten**:
+	* **Onder het kopje Klantenpost** (:
 		* **Broncode:** Vul de broncode in. Voor prolongatieposten is dit 'PROLON', voor service- en verbruiksposten is dit 'SENV'.
 		* **Documenttype:** 'Factuur'
 		* 	**Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in. 
@@ -74,10 +74,10 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEzODI4MjYsMjExMzg4NjU4OSwtMT
-cxNDIwNTc3MCwtMTY3OTYyNzY3MiwxNjIzMjgyNjMzLDkwNDQ5
-NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MD
-Q0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAs
-MTA2Njc4NzA5OSwxMzc1NDQ3MzEzLDY1MzE1NjU0NCwtNzY1ND
-A3MDM1XX0=
+eyJoaXN0b3J5IjpbLTEzMzI5NzA0MDIsLTE4MDEzODI4MjYsMj
+ExMzg4NjU4OSwtMTcxNDIwNTc3MCwtMTY3OTYyNzY3MiwxNjIz
+MjgyNjMzLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAyLD
+kxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAw
+Miw5MTMwNjA4MDAsMTA2Njc4NzA5OSwxMzc1NDQ3MzEzLDY1Mz
+E1NjU0NCwtNzY1NDA3MDM1XX0=
 -->
