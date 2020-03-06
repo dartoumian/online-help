@@ -23,7 +23,7 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Telebankieren - bankoverzicht**.
- 2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
+ 2. Klik op **Voorstelposten ophalen** (*Meer opties - Navigeren - Telebankieren*), waarna de gelijknamige pagina opent.
  3. Vul de volgende velden op het scherm:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum vóór deze datum worden meegenomen in het betaalvoorstel.	
@@ -93,10 +93,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzgzMzUyOCwtMTQ2NDY5MTYxNiwtMj
-YyNDA1NDQ3LC0xOTQyMjU0MzYzLC0xMjYxNzcxNzMsLTI5MzQx
-NDYwNiwtMTc2MjIwMzU4LC01MzE1MTMyNTgsLTIzNTg3Nzg5LC
-0zMTM2MTAwMjksLTI2NzgwODc5NSwxMTU2MDk2MDkxLDY4NjQ5
-MjQzOCwtMTg0NDA4NjE3OSwxMjM3ODA4OTAwLDk0NjI2NTM0Mi
-wtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
+eyJoaXN0b3J5IjpbLTEyMjkxODQ1MjYsMTQ3NzgzMzUyOCwtMT
+Q2NDY5MTYxNiwtMjYyNDA1NDQ3LC0xOTQyMjU0MzYzLC0xMjYx
+NzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIwMzU4LC01MzE1MTMyNT
+gsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2NzgwODc5NSwxMTU2
+MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4NjE3OSwxMjM3ODA4OT
+AwLDk0NjI2NTM0MiwtMTE0MzA1Mzk5NCwxMTU0NDg1NDQwXX0=
+
 -->
