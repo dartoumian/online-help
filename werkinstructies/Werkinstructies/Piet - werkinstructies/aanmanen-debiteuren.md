@@ -31,7 +31,7 @@ Nadat de voorstellen gegenereerd zijn kunt u deze opschonen en controleren.
 
 U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wanneer de debiteur zijn betalingsregeling niet voldoet vervalt de betalingsregeling en wordt de debiteur gemaand de gehele oorspronkelijke vordering te voldoen. Hiervoor dient de betalingsregeling beëindigd te worden en de aanmaning dient opnieuw gegenereerd te worden. 
 
-1. In de processtap **Opschonen voorstel** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst waarna de pagina **Aanmaning** opent.
+1. In de processtap **[Opschonen voorstel](#opschonen-voorstel)** heeft u een lijst gecreëerd met aanmaningen voor debiteuren waarvoor de betalingsregeling beëindigd dient te worden. Open de eerste aanmaning uit deze lijst waarna de pagina **Aanmaning** opent.
 2. Selecteer in het feitenblok **Klantinformatie**, rechts in het scherm, de waarde achter het veld **Betalingsregeling actief**. De pagina **Betalingsregelingenoverzicht** opent. Deze pagina toont de actieve betalingsregelingen voor de debiteur. 
 3. Klik op **Beëindigen**. U krijgt de vraag of u zeker weet of u de regeling wilt beëindigen. Klik op **Ja**. 
 4. De pagina **Beëindigingscodes betalingsregeling** opent. Selecteer de beëindigingsreden die van toepassing is en klik op **OK**. De betalingsregeling is nu beëindigd.
@@ -84,6 +84,7 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTY3MDU5LC03NzMzNjk5NDYsLTM0OT
-c1ODI2LDE3NDgwNjgyMTYsMjEyNTc5NTkxOF19
+eyJoaXN0b3J5IjpbLTEzNzgyOTg1MjcsLTc1MTY3MDU5LC03Nz
+MzNjk5NDYsLTM0OTc1ODI2LDE3NDgwNjgyMTYsMjEyNTc5NTkx
+OF19
 -->
