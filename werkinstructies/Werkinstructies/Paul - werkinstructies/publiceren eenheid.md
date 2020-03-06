@@ -18,7 +18,7 @@ Xxxxx.
 
 ## Publiceren eenheid 
 
-Xxxxx. 
+In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekenden de gepubliceerde eenheid kunnen zien en kunnen reageren op de eenheid.  
 
 1.  Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op die moet worden gepubliceerd. 
@@ -35,5 +35,5 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjUzMTU2Nl19
+eyJoaXN0b3J5IjpbLTExNzQ1NzEyNDZdfQ==
 -->
