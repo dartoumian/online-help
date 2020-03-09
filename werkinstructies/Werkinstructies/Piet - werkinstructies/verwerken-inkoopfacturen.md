@@ -160,7 +160,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter")op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
 2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
-3. Zet het veld **Boekstatus** op **Verplichting geboekt** e. En zet het veld **Status** op **Vrijgegeven**. 
+3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**. 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
 5. Facturen waarbij de boekingsdatum in een afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt. 
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2MzMxMDk2LDE4NTA0NDkzNDIsLTEwNT
-IwNTE3MjAsLTEzOTAzNTMxMDQsMTY5NjYzMzQwNCwyNzQwODQ2
-MjUsMTUyNTkzMTE1NCw3OTAxNjgzODcsLTEzOTkwNjA3OTIsNj
-U4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0
-LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0NiwtOD
-Q5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTEx
-Nl19
+eyJoaXN0b3J5IjpbMTAyMTAyMjY0MSwxODUwNDQ5MzQyLC0xMD
+UyMDUxNzIwLC0xMzkwMzUzMTA0LDE2OTY2MzM0MDQsMjc0MDg0
+NjI1LDE1MjU5MzExNTQsNzkwMTY4Mzg3LC0xMzk5MDYwNzkyLD
+Y1ODMxNzYyNiw5NzcwODI5ODYsLTY2NzE0ODg5LDkzODYyMjY2
+NCwtMjA0NDI3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMzNDYsLT
+g0OTEyNjQxNiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUx
+MTZdfQ==
 -->
