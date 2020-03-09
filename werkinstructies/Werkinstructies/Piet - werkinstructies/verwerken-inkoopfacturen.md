@@ -11,7 +11,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
-2. Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
+2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
 	- **Boekingsdatum**: **LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY1Nzc2MSw5Mzg2MjI2NjQsLTIwND
-QyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0
-MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2LDE5NT
-U4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAy
-MCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMD
-kwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4
-MV19
+eyJoaXN0b3J5IjpbLTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0ND
+I3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQx
+NiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NT
+g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
+LDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOT
+A1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1Njgx
+XX0=
 -->
