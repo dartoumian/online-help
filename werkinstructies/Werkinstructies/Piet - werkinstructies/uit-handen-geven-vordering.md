@@ -55,7 +55,7 @@ Wanneer ontruiming gepland is kunt u dit aangeven op het dossier.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier waarvoor u een geplande ontruiming op wilt voeren en open het dossier. 
 3. Klik op het veld **Ontruimingsdatum**. De pagina **Aanzegging(en) ontruiming** opent. 
-4. Vul de datum voor de geplande ontruiming in en geef een reden voor ontruiming op. Geef een datum voor het verzenden van de brief in wanneer van toepassing.
+4. Vul de datum voor de geplande ontruiming in en geef een reden voor ontruiming op. Geef een datum voor het verzenden van de brief in, wanneer van toepassing.
 5. Klik op **Sluiten** om terug te keren naar het dossier. 
 
 ## Opvoeren afgelasting ontruiming
@@ -63,7 +63,7 @@ Wanneer ontruiming gepland is kunt u dit aangeven op het dossier.
 Wanneer een geplande ontruiming afgelast is kunt u dit opvoeren op het deurwaarderdossier 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
-2. Selecteer het dossier waarvoor u de afgelasting  ontruiming op wilt voeren en open het dossier. 
+2. Selecteer het dossier waarvoor u de afgelasting  ontruiming op wilt voeren en open het dossier met behulp van **Bewerken**. 
 3. Klik op het veld **Ontruimingsdatum**. De pagina **Aanzeggingen ontruiming(en)** opent. 
 4. Vul de velden **Datum afgelasting** en **Reden afgelasting**. 
 5. Klik op **Sluiten** om terug te keren naar het dossier. 
@@ -78,10 +78,10 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NDk0MDkxLC00MjMzMzQzOTcsLTM5Mz
-UwNzY1NSw2MzA1NTUwNTgsMTYxOTkwNzI5LC0xMzA5MDEwMTYz
-LC0xOTU4NjYwMzM3LDk2MDcxMzkwMSwtMTE1NDYxNzU4MiwtNT
-EwNDg3NDI1LC02NzcxMzMyMjIsMTY1NDA3MDA1OCwyMjk1OTk1
-MzgsLTk4NTYyMDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMjUwMjA1MzMsLTQyMzMzNDM5NywtMz
+kzNTA3NjU1LDYzMDU1NTA1OCwxNjE5OTA3MjksLTEzMDkwMTAx
+NjMsLTE5NTg2NjAzMzcsOTYwNzEzOTAxLC0xMTU0NjE3NTgyLC
+01MTA0ODc0MjUsLTY3NzEzMzIyMiwxNjU0MDcwMDU4LDIyOTU5
+OTUzOCwtOTg1NjIwMjc4LDIwODkxMDIwNjAsLTE3NDEzNzEyNV
+19
 -->
