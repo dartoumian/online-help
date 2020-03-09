@@ -14,7 +14,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
-	- **Boekingsdatum**: **LET OP!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
+	- **Boekingsdatum**: **Let op!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
 	- **Documentdatum**
 	- **Factuurnr. leverancier**
 	- **Omschrijving**: **LET OP!**. Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0ND
-I3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQx
-NiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NT
-g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
-LDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OTE4MzQ5NywxNzAwOT
-A1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4MywxMjA0MjY1Njgx
-XX0=
+eyJoaXN0b3J5IjpbLTE4MjYzMjM3MjEsLTY2NzE0ODg5LDkzOD
+YyMjY2NCwtMjA0NDI3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMz
+NDYsLTg0OTEyNjQxNiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OT
+A0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEw
+NDksOTk5ODMxMDIwLDQyMDQwMDg4Niw0ODk5ODE2NjIsMTE0OT
+E4MzQ5NywxNzAwOTA1MTUyLC03ODU5NjI2NzksMTg4NTA5OTc4
+M119
 -->
