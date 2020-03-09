@@ -89,18 +89,18 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
 1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op het menu-item **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
-2. Controleer of het totaal bedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
+2. Controleer of het totaalbedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
 	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
-		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna naar de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
+		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
 		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Dit betreft het grootboekrekeningnummer of de kostencode.
 	- **Omschrijving**
 	- **Btw-productboekingsgroep** 
 	- **Directe kostprijs Excl. btw**
-	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig, ga dan verder metbij de processtap **[Match en boek factuur](#match-en-boek-factuur)**.
 5. Zijn er wel aanpassingen nodig, ga dan verder met de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MDg0NjI1LDE1MjU5MzExNTQsNzkwMT
-Y4Mzg3LC0xMzk5MDYwNzkyLDY1ODMxNzYyNiw5NzcwODI5ODYs
-LTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0NDI3OTQ0MywxNDg3Nj
-I4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQxNiwtNjQ1NTIwMTks
-NjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNj
-cyNDcwLC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4Nl19
-
+eyJoaXN0b3J5IjpbLTE3OTY2ODc4MDAsMjc0MDg0NjI1LDE1Mj
+U5MzExNTQsNzkwMTY4Mzg3LC0xMzk5MDYwNzkyLDY1ODMxNzYy
+Niw5NzcwODI5ODYsLTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0ND
+I3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQx
+NiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NT
+g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
+XX0=
 -->
