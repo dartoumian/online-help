@@ -10,8 +10,8 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 2. Klik op de pagina **Aanmaningen** op de actie **Aanmaningen maken**. Vul op de zojuist geopende pagina de volgende velden met de aangegeven waarden:
 	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmangsvoorstel.
 	* **Documentdatum:** Dit is de datum die op het aanmaningsdocument voor de debiteur getoond wordt.
-	* **Alleen vervallen posten:** Zet op Aan.
-	* **Wachtende posten opnemen:** Zet op Uit.
+	* **Alleen vervallen posten:** 'Aan'.
+	* **Wachtende posten opnemen:** 'Uit'.
 	* **Kopniveau gebruiken:** 'Uit'.
 	* **Code:** Selecteer de transactiewijze voor automatisch uitbetalen van leveranciersposten.
 	* Stel onder het **Klantfilter** een filter in op het veld **Aanmaningsconditiecode** (klik hiertoe op **+ Filteren...**) en selecteer de aanmaningsconditie die u aan wilt aanmanen. 
@@ -41,8 +41,8 @@ U heeft een separate aanmaningsconditie voor betalingsregelingen ingesteld. Wann
 8. Klik op **Aanmaningsregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Klik op **OK**. De oorspronkelijke vordering wordt nu opgenomen in de aanmaningsvoorstellen en u keert terug naar pagina**Aanmaningen**.
 9. Selecteer opnieuw alle aanmaningen en klik op **Aanmaningstekst bijwerken**. Vul op de nu geopende pagina de volgende velden met de aangegeven waarden:
 	* **Aanmaningsniveau:** Geef het aanmaningsniveau voor vervallen betalingsregelingen op. 
-	* **Aanvullende kosten aanpassen:** Zet op Aan.
-	* **Aanmaningsniveau bijwerken:** Zet op Aan.
+	* **Aanvullende kosten aanpassen:** 'Aan'.
+	* **Aanmaningsniveau bijwerken:** 'Aan'.
 10. Klik op **OK**. De test van de aanmaning wordt nu bijgewerkt o.b.v. de bedragen uit de oorspronkelijke vorderingen. U keert terug naar de pagina **Aanmaningen**. De aanmaningsvoorstellen voor betalingsregelingen zijn klaar om verstuurd te worden. U kunt voor de zekerheid de voorstellen nog een keer controleren. Ga verder naar de processtap **[Controleren voorstellen en aanpassen individuele aanmaning](#controleren-voorstellen-en-aanpassen-individuele-aanmaning)**.
 
 ## Controleren voorstellen en aanpassen individuele aanmaning
@@ -84,9 +84,9 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzExMDU5NzcsNzMwMDg5OTAsLTExMT
-c5OTU0NzYsLTMxNTQxNjQ0MCwxNTAxOTM0MDkyLC02MTQ1NTQ3
-MjMsLTE1NzgwODYzNzIsLTEzNzgyOTg1MjcsLTc1MTY3MDU5LC
-03NzMzNjk5NDYsLTM0OTc1ODI2LDE3NDgwNjgyMTYsMjEyNTc5
-NTkxOF19
+eyJoaXN0b3J5IjpbMTE1MTcyOTQ3OSw3MzAwODk5MCwtMTExNz
+k5NTQ3NiwtMzE1NDE2NDQwLDE1MDE5MzQwOTIsLTYxNDU1NDcy
+MywtMTU3ODA4NjM3MiwtMTM3ODI5ODUyNywtNzUxNjcwNTksLT
+c3MzM2OTk0NiwtMzQ5NzU4MjYsMTc0ODA2ODIxNiwyMTI1Nzk1
+OTE4XX0=
 -->
