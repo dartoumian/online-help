@@ -10,7 +10,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkoopfacturen**. Stel een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAxNzk2NjksLTEwNTIwNTE3MjAsLT
-EzOTAzNTMxMDQsMTY5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNTkz
-MTE1NCw3OTAxNjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LD
-k3NzA4Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5
-NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC
-02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0
-OTkyXX0=
+eyJoaXN0b3J5IjpbMTg1MDQ0OTM0MiwtMTA1MjA1MTcyMCwtMT
+M5MDM1MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMx
+MTU0LDc5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOT
+c3MDgyOTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0
+NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLT
+Y0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2LDE5NTU4ODQ5
+OTJdfQ==
 -->
