@@ -36,8 +36,9 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 ## Verwijderen order
 
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
-1. Open de order die u wilt verwijderen en klik op **Verwijderen** (het prullenbak-icoontje bovenin de pagina). De order is verwijderd.
+1. Open de order die u wilt verwijderen en klik op **Verwijderen** (het prullenbak-icoontje boven op de pagina). De order is verwijderd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY1NjYwMDIsMjI3MTYxNTUzLC0xMz
-EyNDQ2MTI4LC04Mzc4MDg4OTcsNzQxNDAxMjIyXX0=
+eyJoaXN0b3J5IjpbLTYzNjkxNjQwNiwtMjA2NjU2NjAwMiwyMj
+cxNjE1NTMsLTEzMTI0NDYxMjgsLTgzNzgwODg5Nyw3NDE0MDEy
+MjJdfQ==
 -->
