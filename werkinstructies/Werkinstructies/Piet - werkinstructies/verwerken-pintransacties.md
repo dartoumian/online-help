@@ -20,7 +20,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 
 Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties toewijzen aan een klant en afletteren met klantposten. 
 
- 1. Vul op de regel de volgende velden:
+ 1. Vul op de regel (onder kopje **Regels**) de volgende velden:
 	* **Rekeningsoort:** 'Klant'.
 	* **Rekeningnr.:** Het nummer van de klant: Klantnummer. 
 	* **Credit:** Het betaalde bedrag.
@@ -45,10 +45,10 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
  4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAxNDY3MzYsNzkyNTQwNTM4LC0xMT
-k3NjEzMTc1LDE2MjE3ODUwMTIsMTMyMTc4NTczNCw3NzA2NDIy
-MTAsMjA0MjQ2OTUxNywxNzE3NjcxNjAyLC0xNzU2ODA0MTI1LD
-M4MTM2ODY1LC01MTIxMTE1NjYsLTE2MzA2MzE1ODQsNDc5MTI3
-ODQ2LDI1OTA5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLD
-YyNTAxNDEyNV19
+eyJoaXN0b3J5IjpbMTYxOTg2NDEyNiw3OTI1NDA1MzgsLTExOT
+c2MTMxNzUsMTYyMTc4NTAxMiwxMzIxNzg1NzM0LDc3MDY0MjIx
+MCwyMDQyNDY5NTE3LDE3MTc2NzE2MDIsLTE3NTY4MDQxMjUsMz
+gxMzY4NjUsLTUxMjExMTU2NiwtMTYzMDYzMTU4NCw0NzkxMjc4
+NDYsMjU5MDk3MjAzLC03NTY0MjIzNTIsLTE1MjU3MDA2MDMsNj
+I1MDE0MTI1XX0=
 -->
