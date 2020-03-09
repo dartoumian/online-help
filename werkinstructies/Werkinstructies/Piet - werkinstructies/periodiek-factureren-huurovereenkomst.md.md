@@ -89,9 +89,9 @@ Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze 
  3. Wanneer dit is gebeurd kiest u op de pagina **Prol.-run kaart** opnieuw voor de actie **Uitvoeren/boeken**. Er wordt  geprobeerd om de facturen die fouten veroorzaakten te boeken.
  4. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan 'Boeken gereed' zijn alle facturen zonder problemen geboekt. 
-	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
-		*  Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
-	*  Als de status op de prolongatiekaart *niet* gelijk is aan **Boeken gereed** zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)** uit. 
+	*  Als de prolongatie die u geboekt heeft voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
+		*  Als de prolongatie die u geboekt heeft voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
+	*  Als de status op de prolongatiekaart *niet* gelijk is aan 'Boeken gereed' zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)** uit. 
 
 ## Instellen te factureren contracten komende periode
 
@@ -116,11 +116,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NDkxMTcsLTE3MDgxNDM2MDQsMjM2Nj
-c0NjEwLC0xMDc1NzY4MjgyLC0xMzA2MjEyNDAsNzY0NzMxNTks
-MTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC0xMz
-gyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMwMTIz
-NDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2ODcsMT
-c3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUz
-NDE3XX0=
+eyJoaXN0b3J5IjpbLTEzNDU1NTQyODksLTE3MDgxNDM2MDQsMj
+M2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMzA2MjEyNDAsNzY0NzMx
+NTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC
+0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMw
+MTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2OD
+csMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5
+MzUzNDE3XX0=
 -->
