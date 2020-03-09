@@ -33,7 +33,7 @@ Wanneer alle gegevens gevuld en gecontroleerd zijn, kunt u het dossier versturen
 
 1. Pas het veld **Status** aan. 
 2. Vul op het deurwaarderdossier het veld **Briefsjabloon**. 
-3. Navigeer via het feitenblok naar de interactielogposten. Zoek de interactielogpost voor de WIK-brief op en sla het PDF-document lokaal op. 
+3. Navigeer via het feitenblok naar de interactielogposten (link **Interactielogposten klant**). Zoek de interactielogpost voor de WIK-brief op en sla het PDF-document lokaal op. 
 4. Keer terug naar het deurwaarderdossier en klik op **E-mail**. De bevestiging van het uit handen geven opent in Outlook. U kunt de eerder opgeslagen WIK-brief toevoegen als bijlage.
 5. Nadat u de mail verstuurd heeft is het veld **Verstuurd** gevuld met de datum van vandaag. Dit betekent dat het dossier geactiveerd is.
 
@@ -78,9 +78,9 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzUwNzY1NSw2MzA1NTUwNTgsMTYxOT
-kwNzI5LC0xMzA5MDEwMTYzLC0xOTU4NjYwMzM3LDk2MDcxMzkw
-MSwtMTE1NDYxNzU4MiwtNTEwNDg3NDI1LC02NzcxMzMyMjIsMT
-Y1NDA3MDA1OCwyMjk1OTk1MzgsLTk4NTYyMDI3OCwyMDg5MTAy
-MDYwLC0xNzQxMzcxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTE4ODk4MjksLTM5MzUwNzY1NSw2Mz
+A1NTUwNTgsMTYxOTkwNzI5LC0xMzA5MDEwMTYzLC0xOTU4NjYw
+MzM3LDk2MDcxMzkwMSwtMTE1NDYxNzU4MiwtNTEwNDg3NDI1LC
+02NzcxMzMyMjIsMTY1NDA3MDA1OCwyMjk1OTk1MzgsLTk4NTYy
+MDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ==
 -->
