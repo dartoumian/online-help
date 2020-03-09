@@ -81,7 +81,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
 	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruikskosten op van toepassing zijn (alleen invullen bij S&V-facturen).
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW.
-	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
+	- **Dimensiewaarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
 2. Wanneer de gegevens in de factuurregel gevuld zijn kan de factuur gematcht en geboekt worden via **[Match en boek factuur](#match-en-boek-factuur)**.
 
 ## Controleren factuurregels
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTkzMTE1NCw3OTAxNjgzODcsLTEzOT
-kwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4ODks
-OTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMTk5OT
-MxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2ODAs
-MTk5MDQxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0NzAsLTI4Nj
-A4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2Ml19
+eyJoaXN0b3J5IjpbNzIxMDQ4MDI0LDE1MjU5MzExNTQsNzkwMT
+Y4Mzg3LC0xMzk5MDYwNzkyLDY1ODMxNzYyNiw5NzcwODI5ODYs
+LTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0NDI3OTQ0MywxNDg3Nj
+I4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQxNiwtNjQ1NTIwMTks
+NjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNj
+cyNDcwLC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4Nl19
 
 -->
