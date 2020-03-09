@@ -62,10 +62,11 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 
 Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
-1. Navigeer op de pagina **Prol.-run kaart** naar **Alle fouten**. De pagina **Fouten bij prolongatierun** opent. 
-2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. U dient deze fouten op te lossen. 
-4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
-5. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
+ 1. Navigeer op de pagina **Prol.-run kaart** naar **Alle fouten**. De pagina **Fouten bij prolongatierun** opent. 
+ 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. U dient deze fouten op te lossen. 
+ 3. List item
+ 4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
+ 5. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan 'Prol gereed' zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
 	* Als de status op de prolongatiekaart *niet** gelijk is aan 'Prol gereed' zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)** uit. 
 
@@ -84,11 +85,10 @@ Wanneer er tijdens het genereren van de facturen geen fouten zijn ontstaan kunt 
 
 Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
-1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongatie** opent.
-2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet.
-3. U dient deze fouten op te lossen.
-4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. Er wordt  geprobeerd om de facturen die fouten veroorzaakten te boeken.
-5. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
+ 1. Kies op de pagina **Prol.-run kaart** voor **Alle fouten**. De pagina **Fouten bij prolongatierun** opent.
+ 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. U dient deze fouten op te lossen.
+ 3. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. Er wordt  geprobeerd om de facturen die fouten veroorzaakten te boeken.
+ 4. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
 	* Als de status op de prolongatiekaart gelijk is aan **Boeken gereed** zijn alle facturen zonder problemen geboekt. 
 	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
 		*  Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
@@ -117,10 +117,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDgxNDM2MDQsMjM2Njc0NjEwLC0xMD
-c1NzY4MjgyLC0xMzA2MjEyNDAsNzY0NzMxNTksMTQ1Mzg4MzI1
-OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC0xMzgyMTM1MjUyLC
-0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMwMTIzNDQ1LDE4NjA2
-NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2ODcsMTc3NjYwMzg4OC
-wxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3XX0=
+eyJoaXN0b3J5IjpbLTE4MTExNTI1NzIsLTE3MDgxNDM2MDQsMj
+M2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMzA2MjEyNDAsNzY0NzMx
+NTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC
+0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMw
+MTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2OD
+csMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5
+MzUzNDE3XX0=
 -->
