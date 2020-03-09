@@ -41,12 +41,12 @@ Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eers
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Prolongatierunoverzicht**.
 2. De gelijknamige pagina **Prolongatierunoverzicht** opent; klik op **Nieuw**.
-3. De pagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
+3. De kaartpagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
 	* **Prol. periodenaam:** De laatst gefactureerde maand (de te factureren maand -1). De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
-	* **Alleen controleren:** Uit.
-	* **Erfpacht:** Uit.
-	* **Huur:** Aan.
-	* **Direct boeken:** 'Nee'.
+	* **Alleen controleren:** 'Uit'.
+	* **Erfpacht:** 'Uit'.
+	* **Huur:** 'Aan'.
+	* **Direct boeken:** 'Uit'.
 4. Ga verder naar de processtap **[Genereren facturen](#genereren-facturen)**.
 
 ## Genereren facturen
@@ -117,10 +117,10 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4MDUzMjAsLTEzMDYyMTI0MCw3Nj
-Q3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5
-NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLD
-EwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3
-MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLT
-E4NjkzNTM0MTddfQ==
+eyJoaXN0b3J5IjpbLTMwNTYyOTQ3NywtMTMwNjIxMjQwLDc2ND
+czMTU5LDE0NTM4ODMyNTgsMTg2MjE1MDkxMCwtMjEwNjg5OTk1
+OSwtMTM4MjEzNTI1MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMT
+AzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcy
+Njg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMT
+g2OTM1MzQxN119
 -->
