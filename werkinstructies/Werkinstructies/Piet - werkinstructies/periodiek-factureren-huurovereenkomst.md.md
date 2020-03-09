@@ -78,7 +78,7 @@ Wanneer er tijdens het genereren van de facturen geen fouten zijn ontstaan kunt 
 	* Als de status op de prolongatiekaart gelijk is aan 'Boeken gereed' zijn alle facturen zonder problemen geboekt. 
 	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
 	* Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
-	* Als de status op de prolongatie kaart *niet* gelijk is aan **Boeken gereed** zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)**.
+	* Als de status op de prolongatie kaart *niet* gelijk is aan 'Boeken gereed' zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)**.
 
 ## Controleren en oplossen fouten bij boeken
 
@@ -117,10 +117,10 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMz
-A2MjEyNDAsNzY0NzMxNTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEw
-LC0yMTA2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC
-0xNDA5NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3
-MDA4LDE0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNz
-g1NDYyNTE5LC0xODY5MzUzNDE3XX0=
+eyJoaXN0b3J5IjpbLTE3MDgxNDM2MDQsMjM2Njc0NjEwLC0xMD
+c1NzY4MjgyLC0xMzA2MjEyNDAsNzY0NzMxNTksMTQ1Mzg4MzI1
+OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC0xMzgyMTM1MjUyLC
+0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMwMTIzNDQ1LDE4NjA2
+NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2ODcsMTc3NjYwMzg4OC
+wxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5MzUzNDE3XX0=
 -->
