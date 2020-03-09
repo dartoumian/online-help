@@ -14,10 +14,10 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 4.  Klik op  **OK**. De pagina **Bank-/Giroboek** opent.
 5.  Vul de volgende velden:
     -   **Datum:**  Datum van het bankafschrift.
-    -   **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Voorbeeld BM0012_20 voor bankafschrift 12 van 2020.
-        -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), voeg dan een A toe aan het nummer. Voorbeeld: BM0012_20A
-    -   **Beginsaldo:**  Controleer het beginsaldo. Pas waar nodig aan
-        -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incasso betaalrun verwerkt heeft.
+    -   **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Voorbeeld: BM0012_20 voor bankafschrift 12 van 2020.
+        -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), voeg dan een A toe aan het nummer. Voorbeeld: BM0012_20A.
+    -   **Beginsaldo:**  Controleer het beginsaldo, pas dit waar nodig aan.
+        -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incassobetaalrun verwerkt heeft.
     -   **Eindsaldo:**  Vul het eindsaldo van het bankafschrift in.
 
 ## Controleren aanwezigheid betaalrun
@@ -102,10 +102,10 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDQ5OTMyMCwxNjY1MDI2Nzc1LDE2Mz
-IyNzI0NjMsMTQ1Mjc1MDI5NywtMTUzODk2MTg4Miw0ODkwOTQ0
-NTYsOTcyMzM1ODE4LC0xODA4NDk3MDYyLDEyNDE3MjA2MDIsOT
-YxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3NDMsLTE0NDM4
-MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC0xODA1NzYwMj
-Q3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
+eyJoaXN0b3J5IjpbLTIwMjcxODEyNjEsMTY2NTAyNjc3NSwxNj
+MyMjcyNDYzLDE0NTI3NTAyOTcsLTE1Mzg5NjE4ODIsNDg5MDk0
+NDU2LDk3MjMzNTgxOCwtMTgwODQ5NzA2MiwxMjQxNzIwNjAyLD
+k2MTI0MTQwOSwxMTU5Njg2NDU2LC0yMDMzNjM5NzQzLC0xNDQz
+ODMwMTAwLDU0NTk5NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MD
+I0NywyMDIxODE0NTI1LC05OTIxNjEzMzldfQ==
 -->
