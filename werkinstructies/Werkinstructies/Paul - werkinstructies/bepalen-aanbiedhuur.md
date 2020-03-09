@@ -30,7 +30,7 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 
 ## Invullen huurprijsmutatie
 
-1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**). Het kan ook via overzichtspagina **Huuropzeggingeln**, (selecteer een elementnummer en vul in een eenheidprijs. 
+1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**). Het kan ook via overzichtspagina **Huuropzeggingen**, (selecteer een elementnummer en vul in een eenheidprijs. 
 7. Herhaal dit voor alle extra elementen die u wilt toevoegen. 
 8. Klik op **Sluiten**. 
 
@@ -43,5 +43,5 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkwMjQwMzAsLTc1MjM5MDI4Nl19
+eyJoaXN0b3J5IjpbLTE3OTExNTk5NzIsLTc1MjM5MDI4Nl19
 -->
