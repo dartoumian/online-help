@@ -12,7 +12,7 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
 1. Navigeer via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkooporders**. 
 2. Klik op  **Nieuw | + Nieuw** om een nieuwe inkooporder aan te maken. 
 3. Selecteer in het veld **Leverancier** de leverancier waarvoor u een order aan wilt maken. 
-4. Vul in de orderregels de volgende velden:
+4. Vul in de orderregels (onder kopje **Regels**) de volgende velden:
 	- **Soort**: 'Grootboekrekening'
 	- **Nr.**: Dit is het nummer van de grootboekrekening waarop de kosten geboekt dienen te worden.
 	- **Btw-productboekingsgroep**
@@ -38,6 +38,6 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen**. De order is verwijderd.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzk4MTk5NCwtMTMxMjQ0NjEyOCwtOD
-M3ODA4ODk3LDc0MTQwMTIyMl19
+eyJoaXN0b3J5IjpbLTExODg1NTQ4MDYsLTEzMTI0NDYxMjgsLT
+gzNzgwODg5Nyw3NDE0MDEyMjJdfQ==
 -->
