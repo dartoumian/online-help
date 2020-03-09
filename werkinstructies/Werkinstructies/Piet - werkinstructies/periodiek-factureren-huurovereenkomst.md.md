@@ -17,7 +17,7 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 	* **Elementen:** 'Uit'.
 	* **Cluster - elementen:** 'Uit'.
 	* **Eenheid - elementen:** 'Aan'.
-3. Klik op de knop **Voorbeeld** om een voorbeeld van het rapport te openen of klik op **Verzenden** en selecteer vervolgens **Excel** om het rapport in Excel te openen.
+3. Klik op de knop **Voorbeeld** om een voorbeeld van het rapport te openen of klik op de knop **Verzenden** en selecteer vervolgens **Excel** om het rapport in Excel te openen.
 4. In het rapport dat opent vindt u de volgende zaken:
 	* de datum van de wijziging;
 	* de gewijzigde huurelementen;
@@ -37,7 +37,7 @@ Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worde
 
 ## Instellen te factureren contracten voorgaande periode
 
-Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eerst de huurprijsmutaties die betrekking hebben op de voorgaande periode maar die nog niet gefactureerd zijn, te factureren.  In deze zogenaamde 'veegprolongatie' kunnen nog niet gefactureerde TWK(terugwerkendekracht)- mutaties naar voren komen. U  factureert de mutaties die betrekking hebben op de voorgaande periode eerst om ervoor te zorgen dat voor de komende periode (maand) alleen de huur voor de komende periode (maand) in rekening wordt gebracht. 
+Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eerst de huurprijsmutaties die betrekking hebben op de voorgaande periode, maar die nog niet gefactureerd zijn, te factureren.  In deze zogenaamde 'veegprolongatie' kunnen nog niet gefactureerde TWK (terugwerkendekracht)- mutaties naar voren komen. U  factureert de mutaties die betrekking hebben op de voorgaande periode eerst om ervoor te zorgen dat voor de komende periode (maand) alleen de huur voor de komende periode (maand) in rekening wordt gebracht. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Prolongatierunoverzicht**.
 2. De gelijknamige pagina **Prolongatierunoverzicht** opent; klik op **Nieuw**.
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcyMDk5MTUsLTEzMDYyMTI0MCw3Nj
+eyJoaXN0b3J5IjpbLTE0MjM4MDUzMjAsLTEzMDYyMTI0MCw3Nj
 Q3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5
 NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLD
 EwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3
