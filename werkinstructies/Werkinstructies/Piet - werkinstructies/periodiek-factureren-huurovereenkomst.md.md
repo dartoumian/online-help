@@ -97,14 +97,14 @@ Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze 
 
 Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolongatierun voor de komende periode instellen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **prolongatierunoverzicht**.
-2. De pagina **Prolongatierunoverzicht** opent. Klik op **Nieuw**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Prolongatierunoverzicht**.
+2. De gelijknamige pagina opent. Klik op **Nieuw**.
 3. De pagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
-	* **Prol. periodenaam:** De te facture maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
-	* **Alleen controleren:** Uit.
-	* **Erfpacht:** Uit.
-	* **Huur:** Aan.
-	* **Direct boeken:** 'Nee'.
+	* **Prol. periodenaam:** De te factureren maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
+	* **Alleen controleren:** 'Uit'.
+	* **Erfpacht:** 'Uit'.
+	* **Huur:** 'Aan'.
+	* **Direct boeken:** 'Uit'.
 4. Ga verder naar de processtap **[Genereren facturen](#genereren-facturen)**.
 
 ## Verzenden facturen
@@ -116,11 +116,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU1NTQyODksLTE3MDgxNDM2MDQsMj
-M2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMzA2MjEyNDAsNzY0NzMx
-NTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMTA2ODk5OTU5LC
-0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5NTIyMiwxMDMw
-MTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LDE0NjIzNzI2OD
-csMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYyNTE5LC0xODY5
-MzUzNDE3XX0=
+eyJoaXN0b3J5IjpbMzA1Njg3NiwtMTcwODE0MzYwNCwyMzY2Nz
+Q2MTAsLTEwNzU3NjgyODIsLTEzMDYyMTI0MCw3NjQ3MzE1OSwx
+NDUzODgzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5NTksLTEzOD
+IxMzUyNTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAxMjM0
+NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4NywxNz
+c2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4NjkzNTM0
+MTddfQ==
 -->
