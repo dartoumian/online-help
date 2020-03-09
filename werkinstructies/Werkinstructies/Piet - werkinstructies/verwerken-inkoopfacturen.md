@@ -100,8 +100,8 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 	- **Omschrijving**
 	- **Btw-productboekingsgroep** 
 	- **Directe kostprijs Excl. btw**
-	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
-4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig, ga dan verder metbij de processtap **[Match en boek factuur](#match-en-boek-factuur)**.
+	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig, ga dan verder met **[Match en boek factuur](#match-en-boek-factuur)**.
 5. Zijn er wel aanpassingen nodig, ga dan verder met de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
 
 ## Aanpassen factuurregels
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY2ODc4MDAsMjc0MDg0NjI1LDE1Mj
-U5MzExNTQsNzkwMTY4Mzg3LC0xMzk5MDYwNzkyLDY1ODMxNzYy
-Niw5NzcwODI5ODYsLTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0ND
-I3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQx
-NiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NT
-g4NDk5MiwtNjgzNjcyNDcwLC0yODYwODEwNDksOTk5ODMxMDIw
-XX0=
+eyJoaXN0b3J5IjpbMTY5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNT
+kzMTE1NCw3OTAxNjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2
+LDk3NzA4Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mj
+c5NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2
+LC02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1OD
+g0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjBd
+fQ==
 -->
