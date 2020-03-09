@@ -22,7 +22,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW- bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  Als zowel hoog als laag tarief BTW van toepassing zijn op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
- 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door op **Boeken verplichting** te klikken. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'**.
+ 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door voor de actie **Boeken (verplichting)** te kiezen. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'**.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	-  Als er al **factuurregels aanwezig** zijn, ga dan verder met **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Als er een **ordernummer vermeld** staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc2MTQwNCwtNjY3MTQ4ODksOTM4Nj
-IyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0
-NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MD
-QxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0
-OSw5OTk4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MTY2MiwxMTQ5MT
-gzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3OSwxODg1MDk5Nzgz
-XX0=
+eyJoaXN0b3J5IjpbOTc3MDgyOTg2LC02NjcxNDg4OSw5Mzg2Mj
+I2NjQsLTIwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2
+LC04NDkxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwND
+E1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5
+LDk5OTgzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxOD
+M0OTcsMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODNd
+fQ==
 -->
