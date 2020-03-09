@@ -55,7 +55,7 @@ U kunt een (gedeeltelijk) afgeboekte vordering in een derdendossier terugboeken.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier waarvoor u (een deel van) de afgeboekte vordering terug wilt boeken en open het dossier. 
-3. Klik op **Terugboeken - gehele afboeking**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
+3. Kies voor **Terugboeken - Gehele afboeking**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 4. Geef de datum waarop de terugboeking geboekt moet worden op. De vordering wordt teruggeboekt.
 
 ## Afsluiten derdendossier
@@ -64,11 +64,11 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier dat u wilt afsluiten en open het dossier. 
-3. Vul in het veld **Reden afsluiting** de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten. 
+3. Vul in het veld **Reden afsluiting** (tabblad **Algemeen**) de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten. 
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTc5MDMzNCwtMTc3MTIwNDEyOSwtMT
+eyJoaXN0b3J5IjpbLTk1MjUwMTIwNywtMTc3MTIwNDEyOSwtMT
 E5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5OTk0MzgsLTU1NDY2
 MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF
 19
