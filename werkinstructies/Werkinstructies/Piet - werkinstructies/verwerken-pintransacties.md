@@ -8,7 +8,7 @@ In dit werkproces worden één of meerdere pintransacties verwerkt.
 
 Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboek aangemaakt worden. 
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taa**Kasboek**.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Kasboek**.
  2. Klik op **Nieuw**. 
  3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** het dagboeksjabloon voor de pinautomaat waarmee de betaling voldaan is.
  4.  Klik op **OK** waarna de pagina **Kasboek** opent.
@@ -45,10 +45,9 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
  4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDc5MTUyNSwtMTE5NzYxMzE3NSwxNj
-IxNzg1MDEyLDEzMjE3ODU3MzQsNzcwNjQyMjEwLDIwNDI0Njk1
-MTcsMTcxNzY3MTYwMiwtMTc1NjgwNDEyNSwzODEzNjg2NSwtNT
-EyMTExNTY2LC0xNjMwNjMxNTg0LDQ3OTEyNzg0NiwyNTkwOTcy
-MDMsLTc1NjQyMjM1MiwtMTUyNTcwMDYwMyw2MjUwMTQxMjVdfQ
-==
+eyJoaXN0b3J5IjpbNzkyNTQwNTM4LC0xMTk3NjEzMTc1LDE2Mj
+E3ODUwMTIsMTMyMTc4NTczNCw3NzA2NDIyMTAsMjA0MjQ2OTUx
+NywxNzE3NjcxNjAyLC0xNzU2ODA0MTI1LDM4MTM2ODY1LC01MT
+IxMTE1NjYsLTE2MzA2MzE1ODQsNDc5MTI3ODQ2LDI1OTA5NzIw
+MywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLDYyNTAxNDEyNV19
 -->
