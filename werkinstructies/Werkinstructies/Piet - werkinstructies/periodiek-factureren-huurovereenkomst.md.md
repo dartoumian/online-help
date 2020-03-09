@@ -61,7 +61,7 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 
 Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren. 
 
-1. Navigeer op de pagina **Prol.-run kaart** naar **Alle fouten**. De pagina **Fouten bij prolongation** opent. 
+1. Navigeer op de pagina **Prol.-run kaart** naar **Alle fouten**. De pagina **Fouten bij prolongatierun** opent. 
 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. 
 3. U dient deze fouten op te lossen. 
 4. Wanneer dit is gebeurd klikt u op de pagina **Prol.-run kaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
@@ -117,7 +117,7 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4NzMzMTEsLTEwNzU3NjgyODIsLT
+eyJoaXN0b3J5IjpbLTEwMjk1MTg1MDIsLTEwNzU3NjgyODIsLT
 EzMDYyMTI0MCw3NjQ3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5
 MTAsLTIxMDY4OTk5NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNz
 ksLTE0MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5
