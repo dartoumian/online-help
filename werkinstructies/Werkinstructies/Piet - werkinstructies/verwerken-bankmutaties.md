@@ -13,8 +13,8 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 3.  Selecteer op de pagina  **Fin.dagboeksjablonenoverzicht**  de bankrekening waarvoor u bankmutaties wilt verwerken.
 4.  Klik op  **OK**. De pagina **Bank-/Giroboek** opent.
 5.  Vul de volgende velden:
-    -   **Datum:**  Datum van het bankafschrift
-    -   **Documentnr.:**  nummer van bank afschrift + jaar indicatie. Bijvoorbeeld BM0012_20 voor bankafschrift 12 van 2020.
+    -   **Datum:**  Datum van het bankafschrift.
+    -   **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Voorbeeld BM0012_20 voor bankafschrift 12 van 2020.
         -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), voeg dan een A toe aan het nummer. Voorbeeld: BM0012_20A
     -   **Beginsaldo:**  Controleer het beginsaldo. Pas waar nodig aan
         -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incasso betaalrun verwerkt heeft.
@@ -102,10 +102,10 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTAyNjc3NSwxNjMyMjcyNDYzLDE0NT
-I3NTAyOTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3MjMzNTgx
-OCwtMTgwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMT
-U5Njg2NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5
-NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NT
-I1LC05OTIxNjEzMzldfQ==
+eyJoaXN0b3J5IjpbMTcyNDQ5OTMyMCwxNjY1MDI2Nzc1LDE2Mz
+IyNzI0NjMsMTQ1Mjc1MDI5NywtMTUzODk2MTg4Miw0ODkwOTQ0
+NTYsOTcyMzM1ODE4LC0xODA4NDk3MDYyLDEyNDE3MjA2MDIsOT
+YxMjQxNDA5LDExNTk2ODY0NTYsLTIwMzM2Mzk3NDMsLTE0NDM4
+MzAxMDAsNTQ1OTk0MTkzLC0xODg2MTk1MjAyLC0xODA1NzYwMj
+Q3LDIwMjE4MTQ1MjUsLTk5MjE2MTMzOV19
 -->
