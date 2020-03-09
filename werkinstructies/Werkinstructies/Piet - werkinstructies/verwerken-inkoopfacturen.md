@@ -88,7 +88,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 
 Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
-1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
+1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op het menu-item **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
 2. Controleer of het totaal bedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
 	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk3ODgwMzksMTUyNTkzMTE1NCw3OT
-AxNjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4
-NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0OD
-c2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAx
-OSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02OD
-M2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2
-XX0=
+eyJoaXN0b3J5IjpbMjc0MDg0NjI1LDE1MjU5MzExNTQsNzkwMT
+Y4Mzg3LC0xMzk5MDYwNzkyLDY1ODMxNzYyNiw5NzcwODI5ODYs
+LTY2NzE0ODg5LDkzODYyMjY2NCwtMjA0NDI3OTQ0MywxNDg3Nj
+I4NTE5LDE5OTkzMTMzNDYsLTg0OTEyNjQxNiwtNjQ1NTIwMTks
+NjE3Mjc4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNj
+cyNDcwLC0yODYwODEwNDksOTk5ODMxMDIwLDQyMDQwMDg4Nl19
+
 -->
