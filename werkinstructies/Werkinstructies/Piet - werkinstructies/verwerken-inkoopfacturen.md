@@ -40,7 +40,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 
 Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die niet verwerkt zijn via de KOVRA- koppeling of via het leveranciersportaal, dient de kostenspecificatie via de factuur gevuld te worden. Op basis van de kostenspecificatie worden de factuurregels aangemaakt. 
 
-1. Klik op de pagina **Inkoopfactuur** op **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
+1. Klik op de pagina **Inkoopfactuur** op de actie/functie **Onderhoudsorders zonder kostenspecificatie ophalen**. De pagina **Te factureren onderhoudsorders** opent. 
 2. Zoek het ordernummer dat op de factuur vermeld staat. Wanneer dit nummer niet op te halen is, betekent dit in veel gevallen dat de onderhoudsorder nog niet gereed gemeld is. Ga verder met **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen (BTW- type, bedragen en/of aantallen). 
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MDgyOTg2LC02NjcxNDg4OSw5Mzg2Mj
-I2NjQsLTIwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2
-LC04NDkxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwND
-E1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5
-LDk5OTgzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxOD
-M0OTcsMTcwMDkwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODNd
-fQ==
+eyJoaXN0b3J5IjpbNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MT
+Q4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTks
+MTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNz
+g2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0NzAs
+LTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2LDQ4OTk4MT
+Y2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NTk2MjY3OV19
+
 -->
