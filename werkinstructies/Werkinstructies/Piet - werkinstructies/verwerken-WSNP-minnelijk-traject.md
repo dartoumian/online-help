@@ -22,7 +22,7 @@ U kunt een deel van de vordering binnen een derdendossier afboeken.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier waarvoor u een deel van de vordering af wilt boeken en open het dossier met behulp van **Bewerken**. 
 3. Vul in het veld **Bedrag betaling** (tabblad **Vordering (Fin.)** het deel van de vordering in dat u niet af wilt boeken, of vul in het veld **% betaling** het percentage van de vordering in dat u niet af wilt boeken. In het veld **Af te boeken** wordt het af te boeken bedrag getoond. 
-4. Klik op de  **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
+4. Klik op de actie/functie **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 5. Vul de boekingsdatum van de afboeking in. 
 6. Selecteer onder het kopje **Invoergegevens betr. niet-inbaar** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
 7. Klik op **OK** om dit deel van de vordering af te boeken. 
@@ -33,7 +33,7 @@ Wanneer u een deel van de vordering afgeboekt heeft kunt u het restant ook afboe
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier waarvoor u het restant af wilt boeken en open het dossier. 
-3. Zet het veld **Te betalen bedrag afboeken** op 'Ja'. 
+3. Zet het veld **Te betalen bedrag afboeken** (op tabblad **Vordering (Fin.)**) op 'Ja'. 
 4. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 5. Selecteer onder het kopje **Invoergegevens betr. betaling** in het veld **Batchnaam** de batch die u wilt gebruiken voor het afboeken. Afhankelijk van of u een vordering voor een huurder of een overige debiteur wilt afboeken kies u een andere batch. 
 6. Klik op **OK** om het restant van de vordering af te boeken. 
@@ -68,8 +68,8 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNDk4MDkzLC0xNzcxMjA0MTI5LC0xMT
-k4MzI4ODI0LDk4NzM2ODIyOSwtMTI1ODk5OTQzOCwtNTU0NjYw
-NzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2MjAsNjI0OTk4NTQwXX
-0=
+eyJoaXN0b3J5IjpbMTQwOTc5MDMzNCwtMTc3MTIwNDEyOSwtMT
+E5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5OTk0MzgsLTU1NDY2
+MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF
+19
 -->
