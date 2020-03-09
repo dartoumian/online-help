@@ -11,7 +11,7 @@ Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
 3. Vul het veld **Soort** met het soort dossier dat van toepassing is.
-4. Vul het veld **Klant** met het klantnummer waarvoor u een dossier aan wilt maken. 
+4. Vul het veld **Klantnr.** (op tabblad **Klant**) met het klantnummer waarvoor u een dossier aan wilt maken. 
 5. Vul in het veld **Bewindvoerdernr.** - indien van toepassing - het contactnummer van de bewindvoerder in. 
 6. Wanneer u posten van de klant op wilt nemen in het dossier klikt u op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantpost(en) die u op wilt nemen in het dossier en klik op **OK**.
 
@@ -68,8 +68,8 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MjAxMjM0LC0xNzcxMjA0MTI5LC0xMT
-k4MzI4ODI0LDk4NzM2ODIyOSwtMTI1ODk5OTQzOCwtNTU0NjYw
-NzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2MjAsNjI0OTk4NTQwXX
-0=
+eyJoaXN0b3J5IjpbMTk0NDM4MTkyNCwtMTc3MTIwNDEyOSwtMT
+E5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5OTk0MzgsLTU1NDY2
+MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF
+19
 -->
