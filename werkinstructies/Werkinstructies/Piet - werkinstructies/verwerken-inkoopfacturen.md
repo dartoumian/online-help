@@ -112,8 +112,8 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 	- **Omschrijving**
 	- **Btw-productboekingsgroep**
 	- **Directe kostprijs Excl. btw**
-	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
-2. Zijn andere waardes niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken (**[Toewijzen factuur](#toewijzen-factuur)**).
+	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
+2. Zijn andere waarden niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken (**[Toewijzen factuur](#toewijzen-factuur)**).
 
 ## Toewijzen factuur
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDE4MjEzNSwxNjk2NjMzNDA0LDI3ND
-A4NDYyNSwxNTI1OTMxMTU0LDc5MDE2ODM4NywtMTM5OTA2MDc5
-Miw2NTgzMTc2MjYsOTc3MDgyOTg2LC02NjcxNDg4OSw5Mzg2Mj
-I2NjQsLTIwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2
-LC04NDkxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwND
-E1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5
-XX0=
+eyJoaXN0b3J5IjpbLTEzOTAzNTMxMDQsMTY5NjYzMzQwNCwyNz
+QwODQ2MjUsMTUyNTkzMTE1NCw3OTAxNjgzODcsLTEzOTkwNjA3
+OTIsNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4ODksOTM4Nj
+IyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0
+NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MD
+QxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0NzAsLTI4NjA4MTA0
+OV19
 -->
