@@ -72,7 +72,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 > 2. Voer onderstaande stappen uit voor alle regels.
 > 3. Selecteer de regels in het Excel-bestand (zonder de kopregel). Selecteer een lege factuurregel in de factuur, kopieer de regels en plak ze terug in de factuur.
 
-1. Wanneer alle benodigde informatie beschikbaar is kan de factuurregel gevuld worden. Vul de volgende velden:
+1. Wanneer alle benodigde informatie beschikbaar is kan de factuurregel (onder kopje **Regels**) gevuld worden. Vul de volgende velden:
 	- **Soort**: Kies in geval van S&V-facturen voor 'Kostencode'. In geval van reguliere kosten kiest u 'Grootboekrekening'.
 	- **Nr.**: Selecteer het grootboekrekening nummer of de kostencode (in geval van S&V-facturen). 
 	- **Omschrijving**
@@ -168,7 +168,7 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDMzMzk1Miw3OTAxNjgzODcsLTEzOT
+eyJoaXN0b3J5IjpbMTUyNTkzMTE1NCw3OTAxNjgzODcsLTEzOT
 kwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4ODks
 OTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMTk5OT
 MxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2ODAs
