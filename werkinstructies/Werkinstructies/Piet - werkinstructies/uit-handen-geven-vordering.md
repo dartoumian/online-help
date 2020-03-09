@@ -74,14 +74,14 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier dat u af wilt sluiten en open het via de optie **Bewerken**. 
-3. Vul in het veld **Reden afsluiting** de reden voor afsluiten. Het veld **Datum Afsluiting** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
+3. Vul in het veld **Reden afsluiting** de reden voor afsluiten. Het veld **Afgesloten** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjAxODMzMiwtNDIzMzM0Mzk3LC0zOT
-M1MDc2NTUsNjMwNTU1MDU4LDE2MTk5MDcyOSwtMTMwOTAxMDE2
-MywtMTk1ODY2MDMzNyw5NjA3MTM5MDEsLTExNTQ2MTc1ODIsLT
-UxMDQ4NzQyNSwtNjc3MTMzMjIyLDE2NTQwNzAwNTgsMjI5NTk5
-NTM4LC05ODU2MjAyNzgsMjA4OTEwMjA2MCwtMTc0MTM3MTI1XX
-0=
+eyJoaXN0b3J5IjpbMTY1MzEyNjYxLC00MjMzMzQzOTcsLTM5Mz
+UwNzY1NSw2MzA1NTUwNTgsMTYxOTkwNzI5LC0xMzA5MDEwMTYz
+LC0xOTU4NjYwMzM3LDk2MDcxMzkwMSwtMTE1NDYxNzU4MiwtNT
+EwNDg3NDI1LC02NzcxMzMyMjIsMTY1NDA3MDA1OCwyMjk1OTk1
+MzgsLTk4NTYyMDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ
+==
 -->
