@@ -67,12 +67,12 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
  ### Kolommen
 
  - **Rekeningsoort:** Wanneer er geen posten herkend zijn wordt deze kolom bij bijschrijvingen standaard gevuld met de waarde **Klant**. Heeft de mutatie betrekking op een leverancier of wilt u de post direct op een grootboekrekening boeken, pas dit veld dan aan naar de waarde **Leverancier** of **Grootboekrekening**.
- - **Rekeningnummer:** Vul hier, afhankelijk van het veld **Rekeningsoort** het **Klantnummer, leveranciersnummer** of **Grootboekrekeningnummer**.
+ - **Rekeningnummer:** Vul hier, afhankelijk van het veld **Rekeningsoort**, het **Klantnummer, Leveranciersnummer** of **Grootboekrekeningnummer** in.
 
 ### Vereffenen
 
  - **Vereffenen met één openstaande klant- of leverancierspost:** 
-	 - Wanneer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld veld **Vereffeningsnr.** de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent. 
+	 - Wanneer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld **Vereffeningsnr.** de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent. 
 	 - Selecteer de post waarmee u de transactie wilt vereffenen. 
 	 - Klik op **OK**. U keert terug naar de pagina **Bank-/Giroboek**.
  - **Vereffenen met meerder openstaande klant- of leverancierspost:** 
@@ -102,11 +102,11 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTg1MTcyMiwtNzM5MjU2NjI4LDE4Nz
-AyODIwMTcsMTY2NTAyNjc3NSwxNjMyMjcyNDYzLDE0NTI3NTAy
-OTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3MjMzNTgxOCwtMT
-gwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2
-NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5My
-wtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05
-OTIxNjEzMzldfQ==
+eyJoaXN0b3J5IjpbMTg4NDgxMjYwLC03MzkyNTY2MjgsMTg3MD
+I4MjAxNywxNjY1MDI2Nzc1LDE2MzIyNzI0NjMsMTQ1Mjc1MDI5
+NywtMTUzODk2MTg4Miw0ODkwOTQ0NTYsOTcyMzM1ODE4LC0xOD
+A4NDk3MDYyLDEyNDE3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0
+NTYsLTIwMzM2Mzk3NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC
+0xODg2MTk1MjAyLC0xODA1NzYwMjQ3LDIwMjE4MTQ1MjUsLTk5
+MjE2MTMzOV19
 -->
