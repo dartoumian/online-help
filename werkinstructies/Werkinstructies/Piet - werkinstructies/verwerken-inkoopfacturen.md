@@ -132,13 +132,13 @@ Wanneer een factuur aan u toegewezen is betekend dit dat er een vraag of verzoek
 3. Klik op de pagina **Inkoopfactuur** aan de rechterkant van het scherm op **Bijlagen**.  De notitie(s) wordt (worden) getoond. Hier vindt u de vraag of het verzoek. 
 4. Wanneer u wordt gevraagd iets te doen, bijvoorbeeld het gereed melden van een order of het boeken van ontvangsten, voer dan eerst deze acties uit. 
 5. Heeft u de actie uitgevoerd of wilt u een vraag beantwoorden, klik op het + -teken naast **Notities**. Het scherm **Een opmerking toevoegen** opent. Vul in dit scherm de notitie en klik op **OK** om de notitie toe te voegen. 
-6. Maak op de pagina **Inkoopfactuur** het veld **Toegewezen gebruikers-ID** op tabblad **Algemeen** leeg. (Klik indien nodig eerst op Meer tonen, rechts bovenin het tabblad.) Hiermee wordt de factuur weer toegewezen aan de afdeling die de inkoopfacturen verwerkt. Heeft u een vervolgvraag aan een specifiek iemand of dient iemand anders een actie uit te voeren, vul dan in het veld **Toegewezen gebruikers-ID** de desbetreffende gebruiker. De factuur wordt nu toegevoegd aan het bakje 'toegewezen facturen' van de desbetreffende gebruiker. 
+6. Maak op de pagina **Inkoopfactuur** het veld **Toegewezen gebruikers-ID** op tabblad **Algemeen** leeg. (Klik indien nodig eerst op *Meer tonen*, rechts bovenin het tabblad, om het veld zichtbaar te maken.) Hiermee wordt de factuur weer toegewezen aan de afdeling die de inkoopfacturen verwerkt. Heeft u een vervolgvraag aan een specifiek iemand of dient iemand anders een actie uit te voeren, vul dan in het veld **Toegewezen gebruikers-ID** de desbetreffende gebruiker. De factuur wordt nu toegevoegd aan het bakje 'toegewezen facturen' van de desbetreffende gebruiker. 
 
 ## Match en boek factuur
 
 Wanneer de factuurregels aangemaakt zijn kan het document gematcht en geboekt worden. 
 
-1. Klik op **Match en Boek**. Eventueel wordt er een goedkeuringspost toegewezen aan een gebruiker. Dit is niet alleen afhankelijk van het overeenkomen van de factuurregels met de order- of ontvangstregels, maar ook van de steekproefinstellingen.Blijkt op basis van de instellingen dat de factuur niet meer goedgekeurd hoeft te worden, dan wordt de factuur direct geboekt. 
+1. Klik op **Match en Boek**. Eventueel wordt er een goedkeuringspost toegewezen aan een gebruiker. Dit is niet alleen afhankelijk van het overeenkomen van de factuurregels met de order- of ontvangstregels, maar ook van de steekproefinstellingen. Blijkt op basis van de instellingen dat de factuur niet meer goedgekeurd hoeft te worden, dan wordt de factuur direct geboekt. 
 
 ## Goedkeuren document
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzA0NDMxLC0xMzkwMzUzMTA0LDE2OT
-Y2MzM0MDQsMjc0MDg0NjI1LDE1MjU5MzExNTQsNzkwMTY4Mzg3
-LC0xMzk5MDYwNzkyLDY1ODMxNzYyNiw5NzcwODI5ODYsLTY2Nz
-E0ODg5LDkzODYyMjY2NCwtMjA0NDI3OTQ0MywxNDg3NjI4NTE5
-LDE5OTkzMTMzNDYsLTg0OTEyNjQxNiwtNjQ1NTIwMTksNjE3Mj
-c4NjgwLDE5OTA0MTUxMTYsMTk1NTg4NDk5MiwtNjgzNjcyNDcw
-XX0=
+eyJoaXN0b3J5IjpbLTYxODIxNDIwOCwtMTM5MDM1MzEwNCwxNj
+k2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMxMTU0LDc5MDE2ODM4
+NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOTc3MDgyOTg2LC02Nj
+cxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0NDMsMTQ4NzYyODUx
+OSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUyMDE5LDYxNz
+I3ODY4MCwxOTkwNDE1MTE2LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3
+MF19
 -->
