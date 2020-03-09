@@ -59,7 +59,7 @@ Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstre
 
 Voor orders waarvoor geen ontvangstregels geboekt hoeven te worden dienen 'reguliere' orderregels opgehaald te worden. 
 
-1. Klik op de pagina **Inkoopfactuur** op **Orderregels ophalen**. De gelijknamige pagina opent. 
+1. Klik op de pagina **Inkoopfactuur** op na **Orderregels ophalen**. De gelijknamige pagina opent. 
 2. Zoek het ordernummer op dat op de factuur vermeld staat. Als dit niet lukt kan dit betekenen dat het werk nog niet gereed gemeld is. Ga verder met de stap **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de orderregel(s) met de juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de orderregels. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkwNjA3OTIsNjU4MzE3NjI2LDk3Nz
-A4Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQz
-LDE0ODc2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02ND
-U1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTky
-LC02ODM2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwND
-AwODg2LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTJd
+eyJoaXN0b3J5IjpbMTkwMDk2ODU3NywtMTM5OTA2MDc5Miw2NT
+gzMTc2MjYsOTc3MDgyOTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQs
+LTIwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04ND
+kxMjY0MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2
+LDE5NTU4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OT
+gzMTAyMCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTdd
 fQ==
 -->
