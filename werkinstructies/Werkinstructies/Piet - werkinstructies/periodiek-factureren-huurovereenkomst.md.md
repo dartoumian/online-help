@@ -53,8 +53,8 @@ Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eers
 
 Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient te worden, kunnen de facturen gegenereerd worden. 
 
-1. Klik op de pagina **Prol.-run kaart** op **Uitvoeren/boeken**. De facturen worden gegenereerd maar nog niet geboekt. 
-2. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
+1. Klik op de pagina **Prol.-run kaart** op actie/functie **Uitvoeren/boeken**. De facturen worden gegenereerd, maar nog niet geboekt.
+2. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond.
 	* Wanneer de status op de prolongatiekaart gelijk is aan **Prol gereed** zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**. Als de status op de prolongatiekaart gelijk is aan **Prol gereed**, dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)**.
 
 ## Controleren en oplossen fouten bij facturatie
@@ -117,10 +117,10 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTYyOTQ3NywtMTMwNjIxMjQwLDc2ND
-czMTU5LDE0NTM4ODMyNTgsMTg2MjE1MDkxMCwtMjEwNjg5OTk1
-OSwtMTM4MjEzNTI1MiwtMTgxMzMyMTI3OSwtMTQwOTUyMjIsMT
-AzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAwOCwxNDYyMzcy
-Njg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2MjUxOSwtMT
-g2OTM1MzQxN119
+eyJoaXN0b3J5IjpbLTEwNzU3NjgyODIsLTEzMDYyMTI0MCw3Nj
+Q3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5
+NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLD
+EwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3
+MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLT
+E4NjkzNTM0MTddfQ==
 -->
