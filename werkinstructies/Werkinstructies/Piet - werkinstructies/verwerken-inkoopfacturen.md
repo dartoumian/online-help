@@ -158,7 +158,7 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
 Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter")op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
 2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** e. En zet het veld **Status** op **Vrijgegeven**. 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIwNTE3MjAsLTEzOTAzNTMxMDQsMT
-Y5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNTkzMTE1NCw3OTAxNjgz
-ODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNj
-Y3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1
-MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MT
-cyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02ODM2NzI0
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTExNzAxNzk2NjksLTEwNTIwNTE3MjAsLT
+EzOTAzNTMxMDQsMTY5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNTkz
+MTE1NCw3OTAxNjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LD
+k3NzA4Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5
+NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC
+02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0
+OTkyXX0=
 -->
