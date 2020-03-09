@@ -10,7 +10,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkoopfacturen**. Stel een filter in op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0OD
-c2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAx
-OSw2MTcyNzg2ODAsMTk5MDQxNTExNiwxOTU1ODg0OTkyLC02OD
-M2NzI0NzAsLTI4NjA4MTA0OSw5OTk4MzEwMjAsNDIwNDAwODg2
-LDQ4OTk4MTY2MiwxMTQ5MTgzNDk3LDE3MDA5MDUxNTIsLTc4NT
-k2MjY3OSwxODg1MDk5NzgzLDEyMDQyNjU2ODEsLTI0Nzc5NTg5
-MF19
+eyJoaXN0b3J5IjpbLTE0ODY1Nzc2MSw5Mzg2MjI2NjQsLTIwND
+QyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0
+MTYsLTY0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2LDE5NT
+U4ODQ5OTIsLTY4MzY3MjQ3MCwtMjg2MDgxMDQ5LDk5OTgzMTAy
+MCw0MjA0MDA4ODYsNDg5OTgxNjYyLDExNDkxODM0OTcsMTcwMD
+kwNTE1MiwtNzg1OTYyNjc5LDE4ODUwOTk3ODMsMTIwNDI2NTY4
+MV19
 -->
