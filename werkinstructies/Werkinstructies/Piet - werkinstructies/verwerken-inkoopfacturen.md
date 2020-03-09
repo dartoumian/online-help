@@ -158,7 +158,7 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
 Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter")op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen wordnen. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter")op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
 2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** e. En zet het veld **Status** op **Vrijgegeven**. 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQ0OTM0MiwtMTA1MjA1MTcyMCwtMT
-M5MDM1MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMx
-MTU0LDc5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOT
-c3MDgyOTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0
-NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLT
-Y0NTUyMDE5LDYxNzI3ODY4MCwxOTkwNDE1MTE2LDE5NTU4ODQ5
-OTJdfQ==
+eyJoaXN0b3J5IjpbODc2MzMxMDk2LDE4NTA0NDkzNDIsLTEwNT
+IwNTE3MjAsLTEzOTAzNTMxMDQsMTY5NjYzMzQwNCwyNzQwODQ2
+MjUsMTUyNTkzMTE1NCw3OTAxNjgzODcsLTEzOTkwNjA3OTIsNj
+U4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0
+LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMTk5OTMxMzM0NiwtOD
+Q5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2ODAsMTk5MDQxNTEx
+Nl19
 -->
