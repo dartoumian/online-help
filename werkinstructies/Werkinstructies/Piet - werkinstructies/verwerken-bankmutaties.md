@@ -52,9 +52,9 @@ Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling  die
 
 Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload heeft via uw bankapplicatie importeren. 
 
- 1. Klik op het specifieke  bank-/giroboek op **Inlezen bankmutaties**. De gelijknamige pagina wordt geopend.
- 2. Klik op **Inlezen CAMPT0.53**.
- 3. Klik op **Kiezen** en selecteer het gedownloade bankafschrift. Het bankafschrift wordt geïmporteerd.
+ 1. Klik op het specifieke  bank-/giroboek op de actie **Inlezen bankmutaties**. De gelijknamige pagina wordt geopend.
+ 2. Kies voor **Inlezen CAMPT0.53**.
+ 3. Klik op de knop **Kiezen** en selecteer het gedownloade bankafschrift. Het bankafschrift wordt geïmporteerd.
  4. Klik op **Verwerken** waarna het geïmporteerde bankafschrift wordt verwerkt. De regels uit het bankafschrift zullen waar mogelijk herkend worden en er zal waar mogelijk een vereffening voorstellen.
  5. Klik op **Sluiten** om de pagina **Inlezen bankmutaties** te verlaten en terug te keren naar het **Bank-/giroboek**. U zult zien dat de regels uit het bankafschrift geïmporteerd zijn in het Bank-/Giroboek.
 
@@ -102,11 +102,11 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTI1NjYyOCwxODcwMjgyMDE3LDE2Nj
-UwMjY3NzUsMTYzMjI3MjQ2MywxNDUyNzUwMjk3LC0xNTM4OTYx
-ODgyLDQ4OTA5NDQ1Niw5NzIzMzU4MTgsLTE4MDg0OTcwNjIsMT
-I0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1NiwtMjAzMzYz
-OTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLTE4ODYxOTUyMD
-IsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwtOTkyMTYxMzM5XX0=
-
+eyJoaXN0b3J5IjpbLTY1NzQzNDIwMCwtNzM5MjU2NjI4LDE4Nz
+AyODIwMTcsMTY2NTAyNjc3NSwxNjMyMjcyNDYzLDE0NTI3NTAy
+OTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3MjMzNTgxOCwtMT
+gwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2
+NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5My
+wtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05
+OTIxNjEzMzldfQ==
 -->
