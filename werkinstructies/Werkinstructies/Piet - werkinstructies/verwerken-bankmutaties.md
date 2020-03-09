@@ -76,7 +76,7 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 	 - Selecteer de post waarmee u de transactie wilt vereffenen. 
 	 - Klik op **OK**. U keert terug naar de pagina **Bank-/Giroboek**.
  - **Vereffenen met meerder openstaande klant- of leverancierspost:** 
-	 - Selecteer de bankboekregel en klik op **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent. 
+	 - Selecteer de bankboekregel en kies boven in het regeldeel, naast kopje **Regels**, voor de menu-actie **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent. 
 	 - Selecteer de posten waarmee u de trancatie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten waarbij altijd geprobeerd word de oudste post geheel te vereffen. Is daarna nog een bedrag beschikbaar dan wordt de op één nou oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen dan kan dit in het veld **Te vereffenen bedrag**. 
 	 - 	  Klik op **OK** om de vereffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**.
 
@@ -102,11 +102,11 @@ Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankb
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDEzNDU3NDMsLTczOTI1NjYyOCwxOD
-cwMjgyMDE3LDE2NjUwMjY3NzUsMTYzMjI3MjQ2MywxNDUyNzUw
-Mjk3LC0xNTM4OTYxODgyLDQ4OTA5NDQ1Niw5NzIzMzU4MTgsLT
-E4MDg0OTcwNjIsMTI0MTcyMDYwMiw5NjEyNDE0MDksMTE1OTY4
-NjQ1NiwtMjAzMzYzOTc0MywtMTQ0MzgzMDEwMCw1NDU5OTQxOT
-MsLTE4ODYxOTUyMDIsLTE4MDU3NjAyNDcsMjAyMTgxNDUyNSwt
-OTkyMTYxMzM5XX0=
+eyJoaXN0b3J5IjpbMTE4OTEyMjc3NywtNzM5MjU2NjI4LDE4Nz
+AyODIwMTcsMTY2NTAyNjc3NSwxNjMyMjcyNDYzLDE0NTI3NTAy
+OTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3MjMzNTgxOCwtMT
+gwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2
+NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMTAwLDU0NTk5NDE5My
+wtMTg4NjE5NTIwMiwtMTgwNTc2MDI0NywyMDIxODE0NTI1LC05
+OTIxNjEzMzldfQ==
 -->
