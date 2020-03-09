@@ -85,23 +85,23 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 >In Dynamics Empire is het IBAN-nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
 >
 > 1. Selecteer de regel waarvan u het IBAN-nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opent. 
-> 2. Klik op **Bankrekening klant aanmaken** in het IBAN-nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
+> 2. Klik op **Bankrekening klant aanmaken** om het IBAN-nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
 
 ## Boeken bankboek
 
 
-Wanneer u alle alle bankboekregels toegekend of vereffend heeft kunt u het bankboek boeken. 
+Wanneer u alle bankboekregels toegekend of vereffend heeft kunt u het bankboek boeken. 
 
  1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen klikt u op **Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
- 2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** of er fouten zijn die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
- 3. Nadat u geen fouten meer heeft of wanneer u alvast de regels zonder fouten wilt boeken, klikt u op **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten, dan wordt het bankboek afgesloten. 
+ 2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** getoond of er fouten zijn die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
+ 3. Nadat u geen fouten meer heeft, of wanneer u alvast de regels zonder fouten wilt boeken, kiest u voor de actie **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten, dan wordt het bankboek afgesloten. 
 
 
 ## Zie ook
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0NzQyOCwtNzM5MjU2NjI4LDE4Nz
+eyJoaXN0b3J5IjpbMTcwNzAyMTAzNiwtNzM5MjU2NjI4LDE4Nz
 AyODIwMTcsMTY2NTAyNjc3NSwxNjMyMjcyNDYzLDE0NTI3NTAy
 OTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LDk3MjMzNTgxOCwtMT
 gwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0MTQwOSwxMTU5Njg2
