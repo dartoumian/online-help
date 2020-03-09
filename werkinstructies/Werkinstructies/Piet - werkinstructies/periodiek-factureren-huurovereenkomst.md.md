@@ -73,9 +73,9 @@ Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u de
 
 Wanneer er tijdens het genereren van de facturen geen fouten zijn ontstaan kunt u de gegenereerde facturen boeken.  
 
-1. Klik op de pagina **Prol.-run kaart** op **Uitvoeren/boeken**. De facturen worden geboekt. 
-2. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (Kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
-	* Als de status op de prolongatiekaart gelijk is aan **Boeken gereed** zijn alle facturen zonder problemen geboekt. 
+1. Kies op de pagina **Prol.-runkaart** voor de actie **Uitvoeren / Boeken**. De facturen worden geboekt.
+2. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond. 
+	* Als de status op de prolongatiekaart gelijk is aan 'Boeken gereed' zijn alle facturen zonder problemen geboekt. 
 	*  Als de prolongatie die u geboekt heeft de prolongatie voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. 
 	* Als de prolongatie die u geboekt heeft de prolongatie voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
 	* Als de status op de prolongatie kaart *niet* gelijk is aan **Boeken gereed** zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)**.
@@ -117,10 +117,10 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTg1NTYwOSwtMTA3NTc2ODI4MiwtMT
-MwNjIxMjQwLDc2NDczMTU5LDE0NTM4ODMyNTgsMTg2MjE1MDkx
-MCwtMjEwNjg5OTk1OSwtMTM4MjEzNTI1MiwtMTgxMzMyMTI3OS
-wtMTQwOTUyMjIsMTAzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1Mzkx
-NzAwOCwxNDYyMzcyNjg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LD
-c4NTQ2MjUxOSwtMTg2OTM1MzQxN119
+eyJoaXN0b3J5IjpbMjM2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMz
+A2MjEyNDAsNzY0NzMxNTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEw
+LC0yMTA2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC
+0xNDA5NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3
+MDA4LDE0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNz
+g1NDYyNTE5LC0xODY5MzUzNDE3XX0=
 -->
