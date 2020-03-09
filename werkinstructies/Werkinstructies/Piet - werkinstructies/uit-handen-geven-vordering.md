@@ -43,7 +43,7 @@ Wanneer alle gegevens gevuld en gecontroleerd zijn, kunt u het dossier versturen
 Wanneer u een betaalvonnis heeft kunt u dit aangeven op het dossier. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
-2. Selecteer het dossier waarvoor u een betaalvonnis op wilt voeren. 
+2. Selecteer met behulp van **Bewerken** het dossier waarvoor u een betaalvonnis op wilt voeren. 
 3. Zet het veld **Betaalvonnis** op **Ja**.
 4. Vul het veld **Betaalvonnis t/m** met de betaalvonnisdatum. 
 5. Het betaalvonnis is verwerkt. Nieuwe klantposten met een boekingsdatum na deze datum worden niet meer automatisch toegevoegd aan het dossier. 
@@ -78,9 +78,9 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE4ODk4MjksLTM5MzUwNzY1NSw2Mz
-A1NTUwNTgsMTYxOTkwNzI5LC0xMzA5MDEwMTYzLC0xOTU4NjYw
-MzM3LDk2MDcxMzkwMSwtMTE1NDYxNzU4MiwtNTEwNDg3NDI1LC
-02NzcxMzMyMjIsMTY1NDA3MDA1OCwyMjk1OTk1MzgsLTk4NTYy
-MDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ==
+eyJoaXN0b3J5IjpbLTQyMzMzNDM5NywtMzkzNTA3NjU1LDYzMD
+U1NTA1OCwxNjE5OTA3MjksLTEzMDkwMTAxNjMsLTE5NTg2NjAz
+MzcsOTYwNzEzOTAxLC0xMTU0NjE3NTgyLC01MTA0ODc0MjUsLT
+Y3NzEzMzIyMiwxNjU0MDcwMDU4LDIyOTU5OTUzOCwtOTg1NjIw
+Mjc4LDIwODkxMDIwNjAsLTE3NDEzNzEyNV19
 -->
