@@ -12,7 +12,7 @@ Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
 3. Vul het veld **Soort** met het soort dossier dat van toepassing is.
 4. Vul het veld **Klantnr.** (op tabblad **Klant**) met het klantnummer waarvoor u een dossier aan wilt maken. 
-5. Vul in het veld **Bewindvoerdernr.** - indien van toepassing - het contactnummer van de bewindvoerder in. 
+5. Vul in het veld **Bewindvoerdernr.** (op tabblad **Bewindvoerder**) - indien van toepassing - het contactnummer van de bewindvoerder in. 
 6. Wanneer u posten van de klant op wilt nemen in het dossier klikt u op **Posten selecteren**. De pagina **Klantposten** opent. Selecteer de klantpost(en) die u op wilt nemen in het dossier en klik op **OK**.
 
 ## Afboeken deel vordering
@@ -68,8 +68,8 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDM4MTkyNCwtMTc3MTIwNDEyOSwtMT
-E5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5OTk0MzgsLTU1NDY2
-MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF
-19
+eyJoaXN0b3J5IjpbLTEwNzM2OTQwNDYsLTE3NzEyMDQxMjksLT
+ExOTgzMjg4MjQsOTg3MzY4MjI5LC0xMjU4OTk5NDM4LC01NTQ2
+NjA3NTgsLTE0MTAyMTI3NzgsMTgxODg2NzYyMCw2MjQ5OTg1ND
+BdfQ==
 -->
