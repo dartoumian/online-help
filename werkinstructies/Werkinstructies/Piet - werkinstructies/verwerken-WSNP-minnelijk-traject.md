@@ -20,7 +20,7 @@ Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een
 U kunt een deel van de vordering binnen een derdendossier afboeken. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Derdendossieroverzicht**. 
-2. Selecteer met behulp van Bewerken het derdendossier waarvoor u een deel van de vordering af wilt boeken en open het dossier. 
+2. Selecteer het derdendossier waarvoor u een deel van de vordering af wilt boeken en open het dossier met behulp van **Bewerken**. 
 3. Vul in het veld **Bedrag betaling** het deel van de vordering in dat u niet af wilt boeken, of vul in het veld **% betaling** het percentage van de vordering in dat u niet af wilt boeken. In het veld **Af te boeken** wordt het af te boeken bedrag getoond. 
 4. Klik op **Dossier afboeken**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 5. Vul de boekingsdatum van de afboeking in. 
@@ -68,8 +68,8 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNjU4Mzg2LC0xNzcxMjA0MTI5LC0xMT
-k4MzI4ODI0LDk4NzM2ODIyOSwtMTI1ODk5OTQzOCwtNTU0NjYw
-NzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2MjAsNjI0OTk4NTQwXX
-0=
+eyJoaXN0b3J5IjpbLTExMDE5NjMzNCwtMTc3MTIwNDEyOSwtMT
+E5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5OTk0MzgsLTU1NDY2
+MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF
+19
 -->
