@@ -1,6 +1,6 @@
 # Aanbieden eenheid
 In dit werkproces bezichtigt de kandidaat of een groep kandidaten de beschikbare eenheid. Daarnaast controleert de corporatie de huishoudgegevens van de kandidaat en bepaalt op basis daarvan of de toewijzing van de eenheid aan die kandidaat al dan niet passend is. 
-Dit proces is beëindigd zodra beide partijen hebben geaccepteerd: een kandidaat heeft de eenheid en de aanbieding geaccepteerd en de corporatie heeft de kandidaat geaccepteerd. 
+Dit proces is beëindigd zodra beide partijen hebben geaccepteerd: een kandidaat heeft de eenheid en de aanbieding geaccepteerd, en de corporatie heeft de kandidaat geaccepteerd. 
 
 Welke stappen in welke volgorde en in welk systeem worden uitgevoerd, hangt af van de vraag of de corporatie kiest voor een individuele bezichtiging of groepsbezichtiging. 
   - In het geval van een individuele bezichtiging worden alle stappen uitgevoerd in het externe woonruimteverdeelsysteem. Pas nadat beide partijen hebben geaccepteerd, dan wordt alleen die ene kandidaat vanuit het woonruimteverdeelsysteem doorgezet naar en verwerkt in Dynamics Empire. 
@@ -59,5 +59,5 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTQ4OTE2OV19
+eyJoaXN0b3J5IjpbOTc4NTczMzQxLDIwNjk0ODkxNjldfQ==
 -->
