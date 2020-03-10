@@ -9,7 +9,7 @@ Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gec
 
 ## Processchema
 
-## Registeren huishoudgegevens  
+## Registreren huishoudgegevens  
 
 In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling. 
 Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoording verhuring) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon. 
@@ -75,9 +75,9 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM0OTMyMzIsLTEwMTE1MDEyMTEsNz
-UxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgy
-NjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LD
-EyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4
-NjA4MzI3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbNzk0OTYzMTYwLC0xNTQzNDkzMjMyLC0xMD
+ExNTAxMjExLDc1MTE5MzAzMSwtMTY1MDEzMDgzNCwzMTM4NDQ4
+NjgsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLT
+M3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3
+MTc2MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
 -->
