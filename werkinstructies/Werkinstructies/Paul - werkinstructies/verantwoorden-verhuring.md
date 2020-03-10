@@ -4,7 +4,7 @@ Elke toewijzing van een verhuurbare eenheid aan een nieuwe huurder moet worden v
 
 Gedurende het kalenderjaar moet worden gemonitord of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen. 
 
-Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gecontroleerd door de accountant. Nadat deze controle is afgerond, moeten de privacy gevoelige gegevens worden opgeschoond uit de verantwoording verhuringen van het voorgaande kalenderjaar.   
+Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gecontroleerd door de accountant. Nadat deze controle is afgerond, moeten de privacy-gevoelige gegevens worden opgeschoond uit de verantwoording verhuringen van het voorgaande kalenderjaar.   
 
 
 ## Processchema
@@ -75,7 +75,7 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0OTYzMTYwLC0xNTQzNDkzMjMyLC0xMD
+eyJoaXN0b3J5IjpbNDcxNDY3ODc3LC0xNTQzNDkzMjMyLC0xMD
 ExNTAxMjExLDc1MTE5MzAzMSwtMTY1MDEzMDgzNCwzMTM4NDQ4
 NjgsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLT
 M3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3
