@@ -20,13 +20,13 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
 
 In deze stap past u - indien nodig - handmatig de door het systeem berekende aanbiedhuur aan. Dit doet u door het bedrag van bestaande elementen aan te passen en/of door het toevoegen van extra elementen aan het aanbiedingscontract en/of verwijderen van bestaande elementen uit het aanbiedingscontract. 
 
-1. Selecteer op de aanbiedingskaart onder kopje **Aanbiedingscontracten** het aanbiedingscontract en kies voor **Aanbiedhuur** (u vindt deze actie in hetzelfde deel, waar de contracten vermeld staan) . Een nieuwe pagina wordt geopend waarop alle elementen van het aanbiedingscontract worden getoond. Elk element van het soort 'Element' heeft een bedrag dat gelijk is aan **Eenheidprijs** vermenigvuldigd met **Aantal**. Bedragen kunnen niet direct worden gewijzigd, wel indirect via het wijzigen van het aantal en/of de eenheidprijs. 
-2. Als u het bedrag van een bestaand element wilt aanpassen, selecteer dan dat element en pas de waarde in kolom **Eenheidprijs** aan. 
-3. Herhaal dit voor alle elementen waarvan u het bedrag wil aanpassen. 
-4. Als u een bestaand element wilt verwijderen uit het aanbiedingscontract, selecteer dan dat element en klik op **Regel verwijderen**. 
-5. Herhaal  dit voor alle elementen die u wilt verwijderen. 
-6. Als u een extra element wil toevoegen aan het aanbiedingscontract, klik dan  in kolom **Soort** op een lege regel onderaan het overzicht met elementen. Selecteer een element uit het elementoverzicht en klik op **OK**.  Vul een waarde in in kolom **Eenheidprijs**. 
-7. Herhaal dit voor alle elementen die u wilt toevoegen.
+ 1. Selecteer op de aanbiedingskaart onder kopje **Aanbiedingscontracten** het aanbiedingscontract en kies voor **Aanbiedhuur** (u vindt deze actie in hetzelfde deel, waar de contracten vermeld staan) . Een nieuwe pagina wordt geopend waarop alle elementen van het aanbiedingscontract worden getoond. Elk element van het soort 'Element' heeft een bedrag dat gelijk is aan **Eenheidprijs** vermenigvuldigd met **Aantal**. Bedragen kunnen niet direct worden gewijzigd, wel indirect via het wijzigen van het aantal en/of de eenheidprijs. 
+ 2. Als u het bedrag van een bestaand element wilt aanpassen, selecteer dan dat element en pas de waarde in kolom **Eenheidprijs** aan. Herhaal dit voor alle elementen waarvan u het bedrag wil aanpassen. 
+ 3. Als u een bestaand element wilt verwijderen uit het aanbiedingscontract, selecteer dan dat element, klik op de drie verticale puntjes in de regel en klik op **Regel verwijderen**. 
+ 4. Herhaal dit voor alle elementen die u wilt verwijderen. 
+ 5. Als u een extra element wil toevoegen aan het aanbiedingscontract, klik dan  in kolom **Soort** op een lege regel onderaan het overzicht met elementen. Selecteer een element uit het elementoverzicht en klik op **OK**.  Vul een waarde in in kolom **Eenheidprijs**. 
+ 6. List item
+ 7. Herhaal dit voor alle elementen die u wilt toevoegen.
 
 
 ## Invullen huurprijsmutatie
@@ -39,7 +39,7 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. Klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NDczMjEzLDE3MzcyNDA3OTcsMjAyOT
-k2MDgwMyw2Njk4MDQwNTQsLTE0NDc4MjMzNTEsMTM5MjcxMjE1
-MCwxNDExNzU2MzQ0LDk3MDMyNTAzNl19
+eyJoaXN0b3J5IjpbLTc0NDE3MjQwNiw2MjQ0NzMyMTMsMTczNz
+I0MDc5NywyMDI5OTYwODAzLDY2OTgwNDA1NCwtMTQ0NzgyMzM1
+MSwxMzkyNzEyMTUwLDE0MTE3NTYzNDQsOTcwMzI1MDM2XX0=
 -->
