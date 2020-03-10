@@ -15,7 +15,7 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
 	- **Boekingsdatum**: **Let op!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
-	- **Documentdatum**
+	- **Documentdatum** (klik indien nodig eerst op *Meer tonen*, rechts bovenin het tabblad)
 	- **Factuurnr. leverancier**
 	- **Omschrijving**: **Let op!** Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
 	- **Factuurbedrag**
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTAyMjY0MSwxODUwNDQ5MzQyLC0xMD
-UyMDUxNzIwLC0xMzkwMzUzMTA0LDE2OTY2MzM0MDQsMjc0MDg0
-NjI1LDE1MjU5MzExNTQsNzkwMTY4Mzg3LC0xMzk5MDYwNzkyLD
-Y1ODMxNzYyNiw5NzcwODI5ODYsLTY2NzE0ODg5LDkzODYyMjY2
-NCwtMjA0NDI3OTQ0MywxNDg3NjI4NTE5LDE5OTkzMTMzNDYsLT
-g0OTEyNjQxNiwtNjQ1NTIwMTksNjE3Mjc4NjgwLDE5OTA0MTUx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTcyMjkyODUxNSwxMDIxMDIyNjQxLDE4NT
+A0NDkzNDIsLTEwNTIwNTE3MjAsLTEzOTAzNTMxMDQsMTY5NjYz
+MzQwNCwyNzQwODQ2MjUsMTUyNTkzMTE1NCw3OTAxNjgzODcsLT
+EzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4
+ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMT
+k5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2
+ODBdfQ==
 -->
