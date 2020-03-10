@@ -37,19 +37,19 @@ De medewerker selecteert op de **VerhuurApp** de kandidaat met het hoogste rangn
 ## Beoordelen passendheid 
 De kandidaat die de eenheid en aanbieding heeft geaccepteerd, verstrekt alle benodigde huishoudgegevens aan de medewerker van de corporatie. De medewerker controleert aan de hand van deze huishoudgegevens of de toewijzing van de eenheid aan deze kandidaat passend is. Daarbij controleert hij of de toewijzing voldoet aan de wettelijke criteria die door de Rijksoverheid worden gesteld binnen de passendheidstoets en staatssteunregeling. De medewerker voert deze controle uit met behulp van een externe tool, bijvoorbeeld van Finance Ideas. 
 
-Als blijkt dat de toewijzing passend is of niet getoetst hoeft te worden, dan accepteert de corporatie de kandidaat. Als blijkt dat de toewijzing niet passend is, dan bepaalt de medewerker of de kandidaat desondanks toch wordt geaccepteerd. Het accepteren van niet-passende kandidaten is toegestaan, mits aan het eind van het kalenderjaar de wettelijke normen op dit gebied niet worden overschreden (zie proces **Verantwoorden verhuring**).  
+Als blijkt dat de toewijzing passend is of niet getoetst hoeft te worden, dan accepteert u als corporatie de kandidaat. Als blijkt dat de toewijzing niet passend is, dan bepaalt u of de kandidaat desondanks toch wordt geaccepteerd. Het accepteren van niet-passende kandidaten is toegestaan, mits aan het eind van het kalenderjaar de wettelijke normen op dit gebied niet worden overschreden (zie proces **Verantwoorden verhuring**).  
 
 ## Registreren en terugkoppelen weigering 
-De medewerker selecteert op de **VerhuurApp** de reden waarom de kandidaat de eenheid en aanbieding heeft geweigerd resp. de reden waarom de corporatie de kandidaat heeft geweigerd. 
+U selecteert op de **VerhuurApp** de reden waarom de kandidaat de eenheid en aanbieding heeft geweigerd resp. de reden waarom de corporatie de kandidaat heeft geweigerd. 
 
 ## Opvragen huishoudgegevens 
 In deze stap vraagt u de huishoudgegevens van de kandidaat op. Deze stap wordt uitgevoerd vanuit het woonruimteverdeelsysteem. 
 
 ## Verstrekken contactgegevens zittende huurder 
-Nadat de corporatie de huishoudgegevens van de kandidaat heeft gecontroleerd en op basis daarvan de kandidaat heeft geaccepteerd, verstrekt u de kandidaat de contactgegevens van de zittende huurder, zodat de kandidaat zelf een afspraak met de zittende huurder kan maken voor het bezichtigen van de eenheid. 
+Nadat u de huishoudgegevens van de kandidaat heeft gecontroleerd en op basis daarvan de kandidaat heeft geaccepteerd, verstrekt u de kandidaat de contactgegevens van de zittende huurder, zodat de kandidaat zelf een afspraak met de zittende huurder kan maken voor het bezichtigen van de eenheid. 
 
 ## Bezichtigen eenheid (individueel) 
-De kandidaat bezichtigt zelf de eenheid in bewoonde staat. Hierbij is doorgaans geen medewerker van de corporatie aanwezig. Op basis van deze bezichtiging za de kandidaat de eenheid en de aanbieding accepteren of weigeren. 
+De kandidaat bezichtigt zelf de eenheid in bewoonde staat. Hierbij is doorgaans geen medewerker van de corporatie aanwezig. Op basis van deze bezichtiging zal de kandidaat de eenheid en de aanbieding accepteren of weigeren. 
 
 ## Vastleggen acceptatie of weigering door kandidaat 
 In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woonruimteverdeelsysteem. 
@@ -58,8 +58,8 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzIxMDYzNiw2NTkzNjUxNzUsLTE5MD
-QzMjAxNDAsLTE3MjQyNTQzNywxMDYyNzQ1NTUsLTgzNDk2NDMw
-MywtNzMxMjQ5NjQsNzEwNTUwNzU0LC04OTU4MzI4MzEsMTg3ND
-c3NTAwMSwyMDY5NDg5MTY5XX0=
+eyJoaXN0b3J5IjpbOTA5ODUxOTk0LDY1OTM2NTE3NSwtMTkwND
+MyMDE0MCwtMTcyNDI1NDM3LDEwNjI3NDU1NSwtODM0OTY0MzAz
+LC03MzEyNDk2NCw3MTA1NTA3NTQsLTg5NTgzMjgzMSwxODc0Nz
+c1MDAxLDIwNjk0ODkxNjldfQ==
 -->
