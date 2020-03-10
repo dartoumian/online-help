@@ -17,10 +17,10 @@ In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoo
 4. Kies voor **Duplicaatcontrole** | **Alle regels**. Het systeem gaat voor elke aanvrager controleren of de uit het woonruimteverdeelsysteem afkomstige gegevens van de aanvrager corresponderen (op basis van de ingestelde duplicatencriteria) met de gegevens van een bestaand persoon in Dynamics Empire. Als het systeem voor een aanvrager een corresponderend persoon vindt, dan toont het  systeem het contactnummer van die persoon op de desbetreffende regel in kolom **Secundair Relatienr.**.  Als die persoon al tot een huishouden behoort, dan toont het systeem het contactnummer van dat huishouden op de desbetreffende regel in kolom **Primair Relatienr.**. 
 5. Controleer per aanvrager of deze inderdaad correspondeert met de gevonden persoon. Zo niet, wis dan het contactnummer in kolom **Secundair Relatienr.** als de aanvrager met geen enkele persoon in Dynamics Empire correspondeert. Of selecteer dan het juiste contactnummer in kolom **Secundair Relatienr.** als de aanvrager met een andere bestaande persoon in Dynamics Empire correspondeert.  
 6. Controleer per kandidaat of de kandidaat inderdaad correspondeert met het gevonden huishouden. Zo niet, wis dan het contactnummer in kolom **Primair Relatienr.** op de regel van de hoofdaanvrager en - indien aanwezig -  de regel van de mede-aanvrager, als de kandidaat met geen enkel huishouden in Dynamics Empire correspondeert. Of selecteer dan het juiste contactnummer in kolom **Primair Relatienr.** op de betreffende regel(s) als de kandidaat met een ander huishouden in Dynamics Empire correspondeert. 
-7. Klik op **Verwerken** en kies voor **Alle gegadigden**. Als de kolom **Primair Relatienr.** leeg is, dan maakt het systeem voor de betreffende kandidaat een nieuw huishouden aan in Dynamics Empire en koppelt dit nieuwe huishouden aan de kandidaat. Als de kolom **Primair Relatienr.** gevuld is, dan koppelt het systeem de betreffende kandidaat aan het bestaande huishouden. Als de kolom **Secondair Relatienr.** leeg is, dan maakt het systeem voor de betreffende aanvrager een nieuw persoon aan in Dynamics Empire en koppelt de nieuwe persoon aan de aanvrager. Als de kolom **Secondair Relatienr.** gevuld is, dan koppelt het systeem de betreffende aanvrager aan de bestaande persoon. 
+7. Klik op **Verwerken** | **Alle gegadigden**. Als de kolom **Primair Relatienr.** leeg is maakt het systeem voor de betreffende kandidaat een nieuw huishouden aan in Dynamics Empire en koppelt dit nieuwe huishouden aan de kandidaat. Als de kolom **Primair Relatienr.** gevuld is koppelt het systeem de betreffende kandidaat aan het bestaande huishouden. Als de kolom **Secundair Relatienr.** leeg is maakt het systeem voor de betreffende aanvrager een nieuw persoon aan in Dynamics Empire en koppelt de nieuwe persoon aan de aanvrager. Als de kolom **Secundair Relatienr.** gevuld is koppelt het systeem de betreffende aanvrager aan de bestaande persoon. 
 
 ## Uitnodigen voor bezichtiging
-In deze stap nodigt u meerdere kandidaten uit voor de de groepsbezichtiging. 
+In deze stap nodigt u meerdere kandidaten uit voor de groepsbezichtiging. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor kandidaten moeten worden uitgenodigd voor de groepsbezichtiging.
@@ -59,7 +59,7 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTcxMTQ0MCwtMTcyNDI1NDM3LDEwNj
-I3NDU1NSwtODM0OTY0MzAzLC03MzEyNDk2NCw3MTA1NTA3NTQs
-LTg5NTgzMjgzMSwxODc0Nzc1MDAxLDIwNjk0ODkxNjldfQ==
+eyJoaXN0b3J5IjpbLTE5MDQzMjAxNDAsLTE3MjQyNTQzNywxMD
+YyNzQ1NTUsLTgzNDk2NDMwMywtNzMxMjQ5NjQsNzEwNTUwNzU0
+LC04OTU4MzI4MzEsMTg3NDc3NTAwMSwyMDY5NDg5MTY5XX0=
 -->
