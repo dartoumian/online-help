@@ -29,14 +29,14 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 
 In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden is waarom de huurprijs van de verhuurbare eenheid wijzigt. Mocht de nieuwe nettohuur ongelijk zijn aan de streefhuur van de verhuurbare eenheid, specificeer dan ook wat de reden van die afwijking is. 
 
-1. . Selecteer op de aanbiedingskaart het aanbiedingscontract en klik op **Huurprijsmutatie** (voorheen genoemd **Verhuurmutatie**). Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
+1. . Selecteer op de aanbiedingskaart het aanbiedingscontract en klik op **Huurprijsmutatie**. Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
 2. Selecteer een reden in veld **Reden wijziging**. 
 3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** 
 4. Klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDMwNzc0LC0xMTc1MTk5MDE1LDYyND
-Q3MzIxMywxNzM3MjQwNzk3LDIwMjk5NjA4MDMsNjY5ODA0MDU0
-LC0xNDQ3ODIzMzUxLDEzOTI3MTIxNTAsMTQxMTc1NjM0NCw5Nz
-AzMjUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTM2MTczMTYwOCwtNzQ0MzA3NzQsLTExNz
+UxOTkwMTUsNjI0NDczMjEzLDE3MzcyNDA3OTcsMjAyOTk2MDgw
+Myw2Njk4MDQwNTQsLTE0NDc4MjMzNTEsMTM5MjcxMjE1MCwxND
+ExNzU2MzQ0LDk3MDMyNTAzNl19
 -->
