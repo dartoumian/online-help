@@ -18,7 +18,7 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
 
 ## Aanpassen aanbiedhuur
 
-In deze stap past u - indien nodig - handmatig de door het systeem berekende aanbiedhuur aan. Dit doet u door bedrag van bestaande elementen aan te passen en/of of door het toevoegen van extra elementen aan het aanbiedingscontract en/of verwijderen van bestaande elementen uit het aanbiedingscontract. 
+In deze stap past u - indien nodig - handmatig de door het systeem berekende aanbiedhuur aan. Dit doet u door het bedrag van bestaande elementen aan te passen en/of door het toevoegen van extra elementen aan het aanbiedingscontract en/of verwijderen van bestaande elementen uit het aanbiedingscontract. 
 
 1. Selecteer het aanbiedingscontract en klik op **Aanbiedhuur**. Een nieuwe pagina wordt geopend waarop alle elementen van het aanbiedingscontract worden getoond. Elk element van het soort *Element* heeft een bedrag dat gelijk is aan *Eenheidprijs* vermenigvuldigd met *Aantal*. Bedragen kunnen niet direct worden gewijzigd, wel indirect via het wijzigen van het aantal en/of de eenheidprijs. 
 2. Als u het bedrag van een bestaand element wilt aanpassen, selecteer dan dat element en pas de waarde in kolom *Eenheidprijs* aan. 
@@ -39,6 +39,6 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. Klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMTI2NDgxLDEzOTI3MTIxNTAsMTQxMT
-c1NjM0NCw5NzAzMjUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTE0NDc4MjMzNTEsMTM5MjcxMjE1MCwxND
+ExNzU2MzQ0LDk3MDMyNTAzNl19
 -->
