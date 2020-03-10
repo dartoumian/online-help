@@ -20,7 +20,7 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
 
 In deze stap past u - indien nodig - handmatig de door het systeem berekende aanbiedhuur aan. Dit doet u door het bedrag van bestaande elementen aan te passen en/of door het toevoegen van extra elementen aan het aanbiedingscontract en/of verwijderen van bestaande elementen uit het aanbiedingscontract. 
 
- 1. Selecteer op de aanbiedingskaart onder kopje **Aanbiedingscontracten** het aanbiedingscontract en kies voor **Aanbiedhuur** (u vindt deze actie in hetzelfde deel, waar de contracten vermeld staan) . Een nieuwe pagina wordt geopend waarop alle elementen van het aanbiedingscontract worden getoond. Elk element van het soort 'Element' heeft een bedrag dat gelijk is aan **Eenheidprijs** vermenigvuldigd met **Aantal**. Bedragen kunnen niet direct worden gewijzigd, wel indirect via het wijzigen van het aantal en/of de eenheidprijs. 
+ 1. Selecteer op de aanbiedingskaart onder kopje **Aanbiedingscontracten** het aanbiedingscontract en kies voor **Aanbiedhuur** (u vindt deze actie in hetzelfde deel waar de contracten vermeld staan). Een nieuwe pagina wordt geopend waarop alle elementen van het aanbiedingscontract worden getoond. Elk element van het soort 'Element' heeft een bedrag dat gelijk is aan **Eenheidprijs** vermenigvuldigd met **Aantal**. Bedragen kunnen niet direct worden gewijzigd, wel indirect via het wijzigen van het aantal en/of de eenheidprijs. 
  2. Als u het bedrag van een bestaand element wilt aanpassen, selecteer dan dat element en pas de waarde in kolom **Eenheidprijs** aan. Herhaal dit voor alle elementen waarvan u het bedrag wil aanpassen. 
  3. Als u een bestaand element wilt verwijderen uit het aanbiedingscontract, selecteer dan dat element, klik op de drie verticale puntjes in de regel en klik op **Regel verwijderen**. Herhaal dit voor alle elementen die u wilt verwijderen. 
  4. Als u een extra element wilt toevoegen aan het aanbiedingscontract, klik dan in kolom **Soort** op een lege regel onderaan het overzicht met elementen. Selecteer een element uit het elementoverzicht en klik op **OK**.  Vul kolom **Eenheidprijs** met een waarde. Herhaal dit voor alle elementen die u wilt toevoegen.
@@ -29,13 +29,13 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 
 In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden is waarom de huurprijs van de verhuurbare eenheid wijzigt. Mocht de nieuwe nettohuur ongelijk zijn aan de streefhuur van de verhuurbare eenheid, specificeer dan ook wat de reden van die afwijking is. 
 
-1. . Selecteer op de aanbiedingskaart het aanbiedingscontract en klik op **Huurprijsmutatie**. Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
+1. . Selecteer op de aanbiedingskaart het aanbiedingscontract en klik op **Huurprijsmutatie** (u vindt deze actie in hetzelfde deel waar de contracten vermeld staan). Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
 2. Selecteer een reden in veld **Reden wijziging**. 
-3. Indien de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** in tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** 
+3. Als de nieuwe nettohuur afwijkt van de streefhuur, selecteer dan  een **Reden afwijking** op tabblad **Afwijkingsreden voor verschil tussen streefhuur en nieuwe nettohuur** 
 4. Klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTczMTYwOCwtNzQ0MzA3NzQsLTExNz
+eyJoaXN0b3J5IjpbLTIwOTUwOTc0OSwtNzQ0MzA3NzQsLTExNz
 UxOTkwMTUsNjI0NDczMjEzLDE3MzcyNDA3OTcsMjAyOTk2MDgw
 Myw2Njk4MDQwNTQsLTE0NDc4MjMzNTEsMTM5MjcxMjE1MCwxND
 ExNzU2MzQ0LDk3MDMyNTAzNl19
