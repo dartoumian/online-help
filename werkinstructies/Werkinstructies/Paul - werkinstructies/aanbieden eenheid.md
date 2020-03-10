@@ -9,7 +9,7 @@ Welke stappen in welke volgorde en in welk systeem worden uitgevoerd, hangt af v
 ## Processchema
 
 ## Verwerken kandidaat of kandidaten
-In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoogste rangnummers geïmporteerd vanuit het externe woonruimteverdeelsysteem en verwerkt in Dynamics Empire. Deze kandidaten zijn vanuit het woonruimteverdeelsysteem naar Dynamics Empire doorgezet. Een kandidaat bevat in ieder geval een hoofdaanvragen en mogelijk ook een mede-aanvrager. Hoofd- en mede-aanvragers uit het woonruimteverdeelsysteem corresponderen met personen in Dynamics Empire, kandidaten corresponderen met huishoudens in Dynamics Empire. 
+In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoogste rangnummers geïmporteerd vanuit het externe woonruimteverdeelsysteem en verwerkt in Dynamics Empire. Deze kandidaten zijn vanuit het woonruimteverdeelsysteem naar Dynamics Empire doorgezet. Een kandidaat bevat in ieder geval een hoofdaanvrager en mogelijk ook een mede-aanvrager. Hoofd- en mede-aanvragers uit het woonruimteverdeelsysteem corresponderen met personen in Dynamics Empire, kandidaten corresponderen met huishoudens in Dynamics Empire.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **OG Eenheden**.
 2. Zoek de OG Eenheid op waarvan de kandidaten moeten worden verwerkt.
@@ -59,5 +59,5 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE3OTgyNSwyMDY5NDg5MTY5XX0=
+eyJoaXN0b3J5IjpbMTg3NDc3NTAwMSwyMDY5NDg5MTY5XX0=
 -->
