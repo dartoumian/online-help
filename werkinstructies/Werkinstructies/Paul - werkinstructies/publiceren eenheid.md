@@ -11,7 +11,7 @@ In deze stap bereid u de publicatie van de beschikbare eenheid voor. Deze voorbe
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvan de publicatie moet worden voorbereid.
 3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken. 
-4. Klik op **Navigeren** | **Verhuuraanbieding**.  Een pagina met de details van de verhuuraanbieding verschijnt. Beschikbare OG Eenheid**. Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd.  Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Voorbereiden beschikbare OG Eenheid**.  Dan verschijnt de genoemde pagina alsnog.  In tabblad **Algemeen** wordt in veld **WRV-systeem** het woonruimteverdeelsysteem getoond waarin de beschikbare eenheid zal worden gepubliceerd. Het systeem selecteert het WRV-systeem automatisch aan de hand van de **Divisie** van de OG Eenheid. 
+4. Klik op **Navigeren** | **Beschikbare OG Eenheid**.  Een pagina met de details van de verhuuraanbieding verschijnt. Klik op **Beschikbare OG Eenheid**. Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd.  Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Voorbereiden beschikbare OG Eenheid**.  Dan verschijnt de genoemde pagina alsnog.  In tabblad **Algemeen** wordt in veld **WRV-systeem** het woonruimteverdeelsysteem getoond waarin de beschikbare eenheid zal worden gepubliceerd. Het systeem selecteert het WRV-systeem automatisch aan de hand van de **Divisie** van de OG Eenheid. 
 5. Controleer de details in het tabblad **Adres** van de beschikbare eenheid. Als deze details niet juist of volledig zijn, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen resp. aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
 56. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alleControleer de details in tabblad **OG-Eenheid-eigenschappen**. Dit tabblad bevat enkelvoudige en meervoudige VERA-eigenschappen. 
 7. **Enkelvoudige VERA-eigenschappen** zijn eigenschappen waarbij elke OG Eenheid maximum 1 waarde kan hebben. Dit betreft de details **VERA-eenheidssoort** t/m  **VERA-energergielabel**.  Als deze enkelvoudige VERA-eigenschappen niet juist of volledig zijn, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen resp. aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
@@ -51,11 +51,11 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTEzNDg3LC0xMjEzNDgwODY4LDEyMj
-QwNzkwODksLTE4NjU1MDI5MTgsLTMxMzM2MTUyNiwxODI0Njgx
-NzAxLDg4ODQ3MDg5OCwtOTkzMzMzNjQxLC0xMjcxNjg0MDEsMT
-MxMjEyNjMyLC0xNjQ2NzM2MzU0LC0yOTYyMjI0NTYsNDE1Njc2
-NzMyLDM3NjU3NTcyMCwtMTcxNjMwOTAwOSwxMTc2MDEyMDM3LC
-03OTM2NzU4MjMsLTUyNjkxODU3OSwxNzMwMjUyNDU4LDE3ODY4
-OTA4Nl19
+eyJoaXN0b3J5IjpbMjMyNTU3NjA5LDE5NTExMzQ4NywtMTIxMz
+Q4MDg2OCwxMjI0MDc5MDg5LC0xODY1NTAyOTE4LC0zMTMzNjE1
+MjYsMTgyNDY4MTcwMSw4ODg0NzA4OTgsLTk5MzMzMzY0MSwtMT
+I3MTY4NDAxLDEzMTIxMjYzMiwtMTY0NjczNjM1NCwtMjk2MjIy
+NDU2LDQxNTY3NjczMiwzNzY1NzU3MjAsLTE3MTYzMDkwMDksMT
+E3NjAxMjAzNywtNzkzNjc1ODIzLC01MjY5MTg1NzksMTczMDI1
+MjQ1OF19
 -->
