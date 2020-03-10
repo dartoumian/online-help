@@ -51,7 +51,7 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 
 Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstregels opgehaald te worden in de factuur. 
 
-1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vindt deze knop onder de FastTab **Regels**. De pagina **Ontvangstregels ophalen** opent. 
+1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vindt deze optie op het vensteknop onder de FastTab **Regels**. De pagina **Ontvangstregels ophalen** opent. 
 2. Zoek het ordernummer dat op de factuur vermeld staat op. Wanneer het ordernummer op de factuur niet op te halen is betekent dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder met **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar **[Controleren factuurregels](#controleren-factuurregels)**.
 
@@ -168,11 +168,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjkyODUxNSwxMDIxMDIyNjQxLDE4NT
-A0NDkzNDIsLTEwNTIwNTE3MjAsLTEzOTAzNTMxMDQsMTY5NjYz
-MzQwNCwyNzQwODQ2MjUsMTUyNTkzMTE1NCw3OTAxNjgzODcsLT
-EzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4NiwtNjY3MTQ4
-ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2Mjg1MTksMT
-k5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAxOSw2MTcyNzg2
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTU2MDA5NzcwOSwtNzIyOTI4NTE1LDEwMj
+EwMjI2NDEsMTg1MDQ0OTM0MiwtMTA1MjA1MTcyMCwtMTM5MDM1
+MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMxMTU0LD
+c5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOTc3MDgy
+OTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0NDMsMT
+Q4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUy
+MDE5XX0=
 -->
