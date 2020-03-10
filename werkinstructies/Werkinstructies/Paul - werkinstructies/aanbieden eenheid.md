@@ -11,7 +11,7 @@ Welke stappen in welke volgorde en in welk systeem worden uitgevoerd, hangt af v
 ## Verwerken kandidaat of kandidaten
 In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoogste rangnummers geïmporteerd vanuit het externe woonruimteverdeelsysteem en verwerkt in Dynamics Empire. Deze kandidaten zijn vanuit het woonruimteverdeelsysteem naar Dynamics Empire doorgezet. Een kandidaat bevat in ieder geval een hoofdaanvrager en mogelijk ook een mede-aanvrager. Hoofd- en mede-aanvragers uit het woonruimteverdeelsysteem corresponderen met personen in Dynamics Empire, kandidaten corresponderen met huishoudens in Dynamics Empire.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") (naar de lijst **OG Eenheden**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") (**Onr. Goed-Eenhedenoverzicht**) naar de lijst **OG Eenheden**.
 2. Zoek de OG Eenheid op waarvan de kandidaten moeten worden verwerkt.
 3. Klik op **Gegadigden verwerken**. Een pagina verschijnt waarop de uit het woonruimteverdeelsysteem afkomstige kandidaten van de OG Eenheid worden getoond. Per kandidaat wordt één regel met de hoofdaanvrager en eventueel één regel voor de mede-aanvrager getoond. 
 4. Klik op **Duplicaatcontrole** en kies voor **Alle regels**. Het systeem gaat voor elke aanvrager controleren of de uit het woonruimteverdeelsysteem afkomstige gegevens van de aanvrager corresponderen (op basis van de ingestelde duplicatencriteria) met de gegevens van een bestaand persoon in Dynamics Empire. Als het systeem voor een aanvrager een corresponderende persoon vindt, dan toont het  systeem het contactnummer van die persoon op de desbetreffende regel in kolom **Secondair Relatienr.**.  Als die persoon al tot een huishouden behoort, dan toont het systeem het contactnummer van dat huishouden op de desbetreffende regel in kolom **Primair Relatienr.**. 
@@ -59,6 +59,6 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM1NjE4NywxODc0Nzc1MDAxLDIwNj
+eyJoaXN0b3J5IjpbLTg5NTgzMjgzMSwxODc0Nzc1MDAxLDIwNj
 k0ODkxNjldfQ==
 -->
