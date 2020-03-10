@@ -25,7 +25,7 @@ In deze stap nodigt u meerdere kandidaten uit voor de groepsbezichtiging.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor kandidaten moeten worden uitgenodigd voor de groepsbezichtiging en open de detailpagina door op het nummer te klikken. 
 4. Kies voor **Verhuuraanbieding**.
-5. Klik op **Worddocument**, selecteer het Word-sjabloon betreffende de uitnodiging en klik op **OK**.
+5. Klik op de actie **Worddocument**, selecteer het Word-sjabloon betreffende de uitnodiging en klik op **OK**.
 
 
 ## Bezichtigen eenheid (groep)
@@ -58,8 +58,8 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTEzMjU1MCwtMTkwNDMyMDE0MCwtMT
-cyNDI1NDM3LDEwNjI3NDU1NSwtODM0OTY0MzAzLC03MzEyNDk2
-NCw3MTA1NTA3NTQsLTg5NTgzMjgzMSwxODc0Nzc1MDAxLDIwNj
-k0ODkxNjldfQ==
+eyJoaXN0b3J5IjpbNjU5MzY1MTc1LC0xOTA0MzIwMTQwLC0xNz
+I0MjU0MzcsMTA2Mjc0NTU1LC04MzQ5NjQzMDMsLTczMTI0OTY0
+LDcxMDU1MDc1NCwtODk1ODMyODMxLDE4NzQ3NzUwMDEsMjA2OT
+Q4OTE2OV19
 -->
