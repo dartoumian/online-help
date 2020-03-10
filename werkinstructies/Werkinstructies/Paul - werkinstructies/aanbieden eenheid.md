@@ -1,6 +1,6 @@
 # Aanbieden eenheid
-In dit werkproces bezichtigt de kandidaat of een groep kandidaten de beschikbare eenheid. Daarnaast controleert u de huishoudgegevens van de kandidaat en bepaalt u op basis daarvan of de toewijzing van de eenheid aan die kandidaat al dan niet passend is. 
-Dit proces is beëindigd zodra beide partijen hebben geaccepteerd: een kandidaat heeft de eenheid en de aanbieding geaccepteerd, en u als corporatie heeft de kandidaat geaccepteerd. 
+In dit werkproces bezichtigt de kandidaat of een groep kandidaten de beschikbare eenheid. Daarnaast controleert  de huishoudgegevens van de kandidaat en bepaalt u op basis daarvan of de toewijzing van de eenheid aan die kandidaat al dan niet passend is. 
+Dit proces is beëindigd zodra beide partijen hebben geaccepteerd: een kandidaat heeft de eenheid en de aanbieding geaccepteerd, en  heeft de kandidaat geaccepteerd. 
 
 Welke stappen in welke volgorde en in welk systeem worden uitgevoerd, hangt af van de vraag of u kiest voor een individuele bezichtiging of groepsbezichtiging. 
   - In het geval van een individuele bezichtiging worden alle stappen uitgevoerd in het externe woonruimteverdeelsysteem. Pas nadat beide partijen hebben geaccepteerd wordt alleen die ene kandidaat vanuit het woonruimteverdeelsysteem doorgezet naar en verwerkt in Dynamics Empire. 
@@ -14,16 +14,16 @@ In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoo
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Zoek de OG Eenheid op waarvan de kandidaten moeten worden verwerkt en open de kaart door op het nummer te klikken.
 3. Klik op **Gegadigden verwerken**. Een pagina verschijnt waarop de uit het woonruimteverdeelsysteem afkomstige kandidaten van de OG Eenheid worden getoond. Per kandidaat wordt één regel met de hoofdaanvrager en eventueel één regel voor de mede-aanvrager getoond. 
-4. Kies voor **Duplicaatcontrole** | **Alle regels**. Het systeem gaat voor elke aanvrager controleren of de uit het woonruimteverdeelsysteem afkomstige gegevens van de aanvrager corresponderen (op basis van de ingestelde duplicatencriteria) met de gegevens van een bestaand persoon in Dynamics Empire. Als het systeem voor een aanvrager een corresponderend persoon vindt, dan toont het  systeem het contactnummer van die persoon op de desbetreffende regel in kolom **Secundair Relatienr.**.  Als die persoon al tot een huishouden behoort, dan toont het systeem het contactnummer van dat huishouden op de desbetreffende regel in kolom **Primair Relatienr.**. 
-5. Controleer per aanvrager of deze inderdaad correspondeert met de gevonden persoon. Zo niet, wis dan het contactnummer in kolom **Secundair Relatienr.** als de aanvrager met geen enkele persoon in Dynamics Empire correspondeert. Of selecteer dan het juiste contactnummer in kolom **Secundair Relatienr.** als de aanvrager met een andere bestaande persoon in Dynamics Empire correspondeert.  
-6. Controleer per kandidaat of de kandidaat inderdaad correspondeert met het gevonden huishouden. Zo niet, wis dan het contactnummer in kolom **Primair Relatienr.** op de regel van de hoofdaanvrager en - indien aanwezig -  de regel van de mede-aanvrager, als de kandidaat met geen enkel huishouden in Dynamics Empire correspondeert. Of selecteer dan het juiste contactnummer in kolom **Primair Relatienr.** op de betreffende regel(s) als de kandidaat met een ander huishouden in Dynamics Empire correspondeert. 
-7. Klik op **Verwerken** | **Alle gegadigden**. Als de kolom **Primair Relatienr.** leeg is maakt het systeem voor de betreffende kandidaat een nieuw huishouden aan in Dynamics Empire en koppelt dit nieuwe huishouden aan de kandidaat. Als de kolom **Primair Relatienr.** gevuld is koppelt het systeem de betreffende kandidaat aan het bestaande huishouden. Als de kolom **Secundair Relatienr.** leeg is maakt het systeem voor de betreffende aanvrager een nieuw persoon aan in Dynamics Empire en koppelt de nieuwe persoon aan de aanvrager. Als de kolom **Secundair Relatienr.** gevuld is koppelt het systeem de betreffende aanvrager aan de bestaande persoon. 
+4. Ki vr **Duplicaatcontrole**  **Alle regels**. Het systeem gaat voor elke aanvrager controleren of de uit het woonruimteverdeelsysteem afkomstige gegevens van de aanvrager corresponderen (op basis van de ingestelde duplicatencriteria) met de gegevens van een bestaand persoon in Dynamics Empire. Als het systeem voor een aanvrager een corresponderend persoon vindt, dan toont het  systeem het contactnummer van die persoon op de desbetreffende regel in kolom **Secndair Relatienr.**.  Als die persoon al tot een huishouden behoort, dan toont het systeem het contactnummer van dat huishouden op de desbetreffende regel in kolom **Primair Relatienr.**. 
+5. Controleer per aanvrager of dee inderdaad correspondeert met de gevonden persoon. Zo niet, wis dan het contactnummer in kolom **Secundair Relatienr.** als de aanvrager met geen enkele persoon in Dynamics Empire correspondeert. Of selecteer dan het juiste contactnummer in kolom **Secndair Relatienr.** als de aanvrager met een andere bestaande persoon in Dynamics Empire correspondeert.  
+6. Controleer per kandidaat of de kandidaat inderdaad correspondeert et het gevonden huishouden. Zo niet, wis dan het contactnummer in kolom **Primair Relatienr.** op de regel van de hoofdaanvrager en - indien aanwezig -  de regel van de mede-aanvrager, als de kandidaat met geen enkel huishouden in Dynamics Empire correspondeert. Of selecteer dan het juiste contactnummer in kolom **Primair Relatienr.** op de betreffende regel(s) als de kandidaat met een ander huishouden in Dynamics Empire correspondeert. 
+7. Klik op **Verwerken**  **Alle gegadigden**. Als de kolom **Primair Relatienr.** leeg is maakt het systeem voor de betreffende kandidaat een nieuw huishouden aan in Dynamics Empire en koppelt dit nieuwe huishouden aan de kandidaat. Als de kolom **Primair Relatienr.** gevuld is koppelt het systeem de betreffende kandidaat aan het bestaande huishouden. Als de kolom **Secndair Relatienr.** leeg is maakt het systeem voor de betreffende aanvrager een nieuw persoon aan in Dynamics Empire en koppelt de nieuwe persoon aan de aanvrager. Als de kolom **Secndair Relatienr.** gevuld is koppelt het systeem de betreffende aanvrager aan de bestaande persoon. 
 
 ## Uitnodigen voor bezichtiging
 In deze stap nodigt u meerdere kandidaten uit voor de groepsbezichtiging. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
-2. Zoek de verhuurmutatie op waarvoor kandidaten moeten worden uitgenodigd voor de groepsbezichtiging en open de detailpagina door op het nummer te klikken. 
+2. Zoekd humtie op waarvoor kandidaten moeten worden uitgenodigd voor de groepsbezichtiging pen de detailpagina door op het nummer te klikken. 
 4. Kies voor **Verhuuraanbieding**.
 5. Klik op de actie **Worddocument**, selecteer het Word-sjabloon betreffende de uitnodiging en klik op **OK**.
 
@@ -58,8 +58,8 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5ODUxOTk0LDY1OTM2NTE3NSwtMTkwND
-MyMDE0MCwtMTcyNDI1NDM3LDEwNjI3NDU1NSwtODM0OTY0MzAz
-LC03MzEyNDk2NCw3MTA1NTA3NTQsLTg5NTgzMjgzMSwxODc0Nz
-c1MDAxLDIwNjk0ODkxNjldfQ==
+eyJoaXN0b3J5IjpbLTYwMDI5MjI2LDkwOTg1MTk5NCw2NTkzNj
+UxNzUsLTE5MDQzMjAxNDAsLTE3MjQyNTQzNywxMDYyNzQ1NTUs
+LTgzNDk2NDMwMywtNzMxMjQ5NjQsNzEwNTUwNzU0LC04OTU4Mz
+I4MzEsMTg3NDc3NTAwMSwyMDY5NDg5MTY5XX0=
 -->
