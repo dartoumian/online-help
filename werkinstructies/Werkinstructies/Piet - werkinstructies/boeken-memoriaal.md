@@ -11,11 +11,12 @@ Als u een dagboek heeft dat u regelmatig verwerkt, dan kunt u hier standaard dag
 
 ## Importeren journaalposten
 
-Voor terugkerende journaalposten (denk bijvoorbeeld aan salaris boekingen vanuit een separaat pakket) kunt u standaard journaal import definiëren. 
+Voor terugkerende journaalposten (denk bijvoorbeeld aan salarisboekingen vanuit een separaat pakket) kunt u standaard journaalimport definiëren. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Import dashboard overzicht**. Klik op **Import** en selecteer het bestand dat u wilt importeren.  Het memoriaal wordt geimporteerd. 
-2. Klik op **Uitvoeren** om het geïmporteerde bestand te verwerken tot journaalregels. 
-3. U kunt de geïmporteerde regels beoordelen en bewerken door  via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek** te navigeren.  Selecteer in het scherm wat open het dagboek waarin de regels geïmporteerd zijn en klik op **OK**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Import dashboard Overzicht**.
+2. Klik op **Import** en selecteer het bestand dat u wilt importeren.  Het diversendagboek wordt geïmporteerd.
+3. Klik op **Uitvoeren** om het geïmporteerde bestand te verwerken tot journaalregels. 
+4. U kunt de geïmporteerde regels beoordelen en bewerken door  via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek** te navigeren.  Selecteer in het scherm wat open het dagboek waarin de regels geïmporteerd zijn en klik op **OK**.
 
 ## Bewerken journaalregels
 
@@ -56,5 +57,5 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek wat u wilt boeken klik op **OK**.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam**, de batch waarin u de regels wilt boeken en klik op **Boeken**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Njk5NTAsLTExMzQ5MDI2OF19
+eyJoaXN0b3J5IjpbLTE4NTgxMjAzMiwtMTEzNDkwMjY4XX0=
 -->
