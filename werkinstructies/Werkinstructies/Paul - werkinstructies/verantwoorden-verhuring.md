@@ -17,9 +17,9 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Kies voor **Verhuringverantwoording**.  Een pagina met de details van de verantwoording verhuring verschijnt. Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Verantwoording verhuring**.  Dan verschijnt de genoemde pagina alsnog. 
-4. Op tabblad **OGE-gegevens** worden gegevens over de OG Eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn, en als dat het geval is, daarop zo ja, van invloed zijn op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat in dit tabblad weergegeven. 
-5. In tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn diens contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden. 
-6. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze da aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
+4. Op tabblad **OGE-gegevens** worden gegevens over de OG Eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat in dit tabblad weergegeven. 
+5. Op tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden.
+6. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze dan aan. Let op: u kunt dat op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden. Let op: de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom wel, dat wil zeggen de aanpassingen of aanvullingen die u bij de persoon (contact) binnen het huishouden doorvoert, worden *wel* automatisch doorgevoerd binnen de verantwoording verhuring. 
 7. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring maar die u niet als contact binnen het huishouden wil registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het **Getoetst huishoudinkomen** en/of als de persoon de oudste persoon binnen het huishouden is.  
 8. Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wil registreren. Een extra contact die wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken persoon binnen de verantwoording verhuring toegevoegd (mits de persoon binnen het huishouden is toegevoegd met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring). 
 9. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
@@ -75,10 +75,10 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NDMxNjI0LDEyMDA4NDAwMDgsLTE1ND
-M0OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkzMDMxLC0xNjUwMTMw
-ODM0LDMxMzg0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC
-02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0
-OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4MzI3Miw1OTc4MTkwND
-hdfQ==
+eyJoaXN0b3J5IjpbLTY1OTcxNjUxNCwxMjAwODQwMDA4LC0xNT
+QzNDkzMjMyLC0xMDExNTAxMjExLDc1MTE5MzAzMSwtMTY1MDEz
+MDgzNCwzMTM4NDQ4NjgsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNS
+wtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4
+NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNzIsNTk3ODE5MD
+Q4XX0=
 -->
