@@ -17,8 +17,8 @@ Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Dimensies**. 
 2. Selecteer de dimensie waarvoor u een waarde wilt blokkeren en klik op **Dimensiewaarden**.
-3. Selecteer de dimensiewaarden die u wilt blokkeren en zet het vinkje **Geblokkeerd** op **Ja**. 
+3. Selecteer de dimensiewaarden die u wilt blokkeren en zet het vinkje in kolom **Geblokkeerd** op **Ja**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjczODIzMzVdfQ==
+eyJoaXN0b3J5IjpbNTg0MDY5NzYyXX0=
 -->
