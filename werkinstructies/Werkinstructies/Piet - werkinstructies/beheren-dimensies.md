@@ -10,8 +10,8 @@ In dit werkproces worden de dimensiewaarden beheerd. Nieuwe dimensiewaarden kunn
 
 Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn dat u ook nieuwe dimensiewaarden in de gerelateerde dimensie op moet voeren. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Dimensies**. 
-2. Selecteerd de dimensie waarvoor u een waarde toe wilt voeren. Klik op **Dimensiewaarden** en vul de belden **Code** en **Naam**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Dimensies**. 
+2. Selecteer de dimensie waarvoor u een waarde toe wilt voegen. Kies voor **Dimensiewaarden** en vul de velden **Code** en **Naam**. 
 
 ## Dimensiewaarden aanmaken
 
@@ -20,5 +20,5 @@ Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn 
 3. Selecteer de dimensiewaarden die u wilt blokkeren en zet het vinkje **Geblokkeerd** op **Ja**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg3NTI5OThdfQ==
+eyJoaXN0b3J5IjpbLTE3MjU2MTA1OTNdfQ==
 -->
