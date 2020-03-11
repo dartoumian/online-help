@@ -1,10 +1,10 @@
 # Boeken memoriaal
 
-In dit werkproces worden memoriaal posten opgevoerd en geboekt. 
+In dit werkproces worden memoriaalposten opgevoerd en geboekt. 
 
 ## Aanmaken standaard dagboekregels
 
-Wanneer u een dagboek heeft wat u regelmatig verwerkt kunt u hier standaard dagboekregels voor aanmaken. U kunt deze standaardregels ophalen en vervolgens bewerken. 
+Wanneer u een dagboek heeft dat u regelmatig verwerkt kunt u hier standaard dagboekregels voor aanmaken. U kunt deze standaardregels ophalen en vervolgens bewerken. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek waarvoor u standaard regels wilt importeren en klik op **OK**.
 2. Klik op **Standaarddagboekregels ophalen**. Selecteer het sjabloon en klik op **OK ** om de standaard regels toe te voegen aan het dagboek. 
@@ -56,5 +56,5 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek wat u wilt boeken klik op **OK**.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam**, de batch waarin u de regels wilt boeken en klik op **Boeken**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ5MDI2OF19
+eyJoaXN0b3J5IjpbLTEwODA4MDg4NDcsLTExMzQ5MDI2OF19
 -->
