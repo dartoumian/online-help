@@ -27,7 +27,8 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
  9. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
  10. Op tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van de **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
  11. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden: 
- 12. **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
+ 
+ **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
  13. **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
  14. **Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
  15. **AOW-gerechtigd** =  indicatie of de oudste bewoner op de ingangsdatum van het contract de AOW-gerechtigde leeftijd heeft bereikt. 
@@ -77,10 +78,10 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMTExODQ1LC0xNzM5MTkzNDQ5LDEyMD
-A4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkz
-MDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgyNjMxMy
-wtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0
-NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4Mz
-I3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbLTk3NzM3MDc1MCwtMTczOTE5MzQ0OSwxMj
+AwODQwMDA4LC0xNTQzNDkzMjMyLC0xMDExNTAxMjExLDc1MTE5
+MzAzMSwtMTY1MDEzMDgzNCwzMTM4NDQ4NjgsLTE3MzM4MjYzMT
+MsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4
+NDUwODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwOD
+MyNzIsNTk3ODE5MDQ4XX0=
 -->
