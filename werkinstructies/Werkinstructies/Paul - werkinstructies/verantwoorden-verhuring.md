@@ -27,7 +27,9 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
  9. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
  10. Op tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van de **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
  11. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden:
-* **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
+	- **Boekingsdatum**
+	- **Documentnummer**: Dit wordt in de meeste gevallen automatisch aangemaakt. 
+- **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
 *  **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
 * **Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
 * **AOW-gerechtigd** =  indicatie of de oudste bewoner op de ingangsdatum van het contract de AOW-gerechtigde leeftijd heeft bereikt. 
@@ -77,7 +79,7 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg3MDY5NjYsLTE3MzkxOTM0NDksMT
+eyJoaXN0b3J5IjpbLTE5OTA2NzQyMTcsLTE3MzkxOTM0NDksMT
 IwMDg0MDAwOCwtMTU0MzQ5MzIzMiwtMTAxMTUwMTIxMSw3NTEx
 OTMwMzEsLTE2NTAxMzA4MzQsMzEzODQ0ODY4LC0xNzMzODI2Mz
 EzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIz
