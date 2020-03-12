@@ -23,9 +23,9 @@ Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoord
 >Gegevens aanpassen kunt u op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden.
 >**Let op:** de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom geldt dit *wel*. 
  7. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring, maar die u niet als contact binnen het huishouden wilt registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het **Getoetst huishoudinkomen** en/of als de persoon de oudste persoon binnen het huishouden is.  
- 8. Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wil registreren. Een extra contact dat wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken persoon binnen de verantwoording verhuring toegevoegd (mits de persoon binnen het huishouden is toegevoegd met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring). 
+ 8. Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wilt registreren. Een extra contact dat wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken persoon binnen de verantwoording verhuring toegevoegd (mits de persoon binnen het huishouden is toegevoegd met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring). 
  9. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
- 10. In tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van het **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
+ 10. Op tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van de **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
  11. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden: 
  12. **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
  13. **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
@@ -77,10 +77,10 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMzc1NywtMTczOTE5MzQ0OSwxMjAwOD
-QwMDA4LC0xNTQzNDkzMjMyLC0xMDExNTAxMjExLDc1MTE5MzAz
-MSwtMTY1MDEzMDgzNCwzMTM4NDQ4NjgsLTE3MzM4MjYzMTMsLT
-I4NDE0ODUyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUw
-ODczLDIxMjQ4NDk4MjksLTE0Njg3MTc2MzUsLTIwODYwODMyNz
-IsNTk3ODE5MDQ4XX0=
+eyJoaXN0b3J5IjpbNTIyMTExODQ1LC0xNzM5MTkzNDQ5LDEyMD
+A4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkz
+MDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgyNjMxMy
+wtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0
+NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwtMjA4NjA4Mz
+I3Miw1OTc4MTkwNDhdfQ==
 -->
