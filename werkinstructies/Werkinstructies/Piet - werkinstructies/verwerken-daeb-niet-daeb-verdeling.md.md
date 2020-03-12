@@ -37,7 +37,7 @@ Nadat alle posten verdeeld zijn in DAEB en niet-DAEB kunt u de niet-DAEB posten 
 
 Nadat de niet-DAEB posten in de TI overgeboekt zijn naar de rekening-courant dient de rekening-courant boeking ook uitgevoerd te worden in het niet DAEB-bedrijf. 
 
-1. Navigeer via het ""zoekveld"" HIER WIL IK EEN ANDER TEKEN![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Mijn instellingen**. Selecteer in het veld **Bedrijf** het niet-DAEB bedrijf. Klik op **Ok** in het scherm **Mijn instellingen**. Het niet-DAEB bedrijf wordt geopend. 
+1. Navigeer via de instellingenknop https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-experience/settings_icon_small.png IER WIL IK EEN ANDER TEKEN![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Mijn instellingen**. Selecteer in het veld **Bedrijf** het niet-DAEB bedrijf. Klik op **Ok** in het scherm **Mijn instellingen**. Het niet-DAEB bedrijf wordt geopend. 
 2. Navigeer in het niet-DAEB bedrijf via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek waarmee u de rekening-courant afrekeningen wilt verwerken. 
 3. Klik op **RC regels aanmaken** om de rekening-courant regels op te halen. 
 4. Klik op **Boeken** om de dagboekregels te boeken. 
@@ -46,5 +46,5 @@ Nadat de niet-DAEB posten in de TI overgeboekt zijn naar de rekening-courant die
 
 Wanneer er boekingen t.b.v. DAEB niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTM4NjAxM119
+eyJoaXN0b3J5IjpbLTEwNjU3MjQ5ODgsMTUwOTM4NjAxM119
 -->
