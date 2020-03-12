@@ -6,7 +6,7 @@ In dit werkproces worden perioden dichtgezet, zodat er niet meer in geboekt kan 
 
 Wanneer u een periode dicht wilt zetten doet u dat altijd eerst voor de gehele boekhouding. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Boekhoudinstelling**.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Boekhoudinstellingen**.
 2. Vul in het veld **Boeken toegestaan vanaf** de datum vanaf wanneer u boeken toe wilt staan. 
 3. Bepaal of u het veld **Boeken toegestaan tot** ook aan wilt passen. 
 
@@ -26,5 +26,5 @@ Wanneer u in de voorgaande stap uitzonderingen per gebruiker opgevoerd heeft en 
 2. Maak het veld **Boeken toegestaan vanaf** leeg. 
 3. Bepaal of u het veld **Boeken toegestaan tot** aan wilt passen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg0NjM5NTJdfQ==
+eyJoaXN0b3J5IjpbLTk5MzAwMzExMV19
 -->
