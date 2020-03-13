@@ -8,18 +8,18 @@ Als eerste dienen alle posten die met de administratiefeigenaar-dimensie 'Gemeng
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verdeelsleuteltoepassingenoverzicht** en klik op **Nieuw**. De kaart voor een nieuwe verdeelsleuteltoepassing opent.
 2. Klik op **Grootboekposten verzamelen**. 
-	- Voer in het veld **Begindatum** 1 januari van het jaar waarin u wilt verdelen op.
-	- Vul in het veld **Einddatum** de einddatum van de periode waarvan u de posten wilt verdelen. 
-	- Klik op **Ok**. De te verdelen posten worden verzameld. 
+	- Vul in het veld **Begindatum** 1 januari van het jaar waarin u wilt verdelen in.
+	- Vul in het veld **Einddatum** de einddatum van de periode waarvan u de posten wilt verdelen in. 
+	- Klik op **OK**. De te verdelen posten worden verzameld. 
 3. Klik op **Grootboekposten verdelen**. De grootboekposten worden verdeeld. 
 4. Klik op **Verdeelsleuteltoepassing verwerken**. 
 	- Vul in het veld **Boekingsdatum** de einddatum van de te verdelen periode in. 
 	- Vul in het veld **Omschrijving** de omschrijving in die meegegeven moet worden aan de grootboekposten. 
-	- Klik op **Ok** om de verdeling te boeken. 
+	- Klik op **OK** om de verdeling te boeken. 
 
-## Overboeken niet-DAEB posten (binnen TI)
+## Overboeken niet-DAEB-posten (binnen TI)
 
-Nadat alle posten verdeeld zijn in DAEB en niet-DAEB kunt u de niet-DAEB posten in de TI overboeken naar het niet-DAEB bedrijf. 
+Nadat alle posten verdeeld zijn in DAEB en niet-DAEB kunt u de niet-DAEB-posten in de TI overboeken naar het niet-DAEB-bedrijf. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rekening courant afrekeningenoverzicht** en klik op **Nieuw**. De pagina voor een nieuw rekening courant afrekeningen opent.
 2. Klik op **Grootboekposten verzamelen**
@@ -46,6 +46,6 @@ Nadat de niet-DAEB posten in de TI overgeboekt zijn naar de rekening-courant die
 
 Wanneer er boekingen t.b.v. DAEB niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzODkzNzEyLDIwMTg2NTc3MDcsMTUwOT
-M4NjAxM119
+eyJoaXN0b3J5IjpbLTEwNzQwODI0OTMsMjAxODY1NzcwNywxNT
+A5Mzg2MDEzXX0=
 -->
