@@ -10,8 +10,8 @@ Voordat u de leverancierskaart aan kunt maken dient u een contact aan te maken.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Contacten** en klik op **Nieuw | + Nieuw**. 
 2. Een nieuwe contactkaart wordt geopend. Vul op deze pagina de volgende velden:
-	- **Naam**: naam van de leverancier
-	- **Bedrijf. Persoon**: Huishouden/ Bedrijf 
+	- **Naam**: Naam van de leverancier.
+	- **Bedrijf. Persoon**: 'Huishouden/Bedrijf'
 	- **Aanhefcode**: BLANCO
 	- **Adres gegevens**
 	- **Telefoon**: Primaire telefoonnummer
@@ -60,5 +60,5 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDk3NDUzOCwtMTI0Mjk5OTIxN119
+eyJoaXN0b3J5IjpbLTkxOTg3MTM0LC0xMjQyOTk5MjE3XX0=
 -->
