@@ -25,9 +25,9 @@ Nadat u bepaald heeft welke kosten overgeboekt dienen te worden kunt u deze kost
 
 ## Raadplegen rapportageschema indirecte toewijzing
 
-Nadat de direct toe te wijzen kosten overgeboekt zijn dienen de indirecte toe te wijzen kosten overgeboekt worden. Als eerste moet bepaald worden welke kosten nog overgeboekt moeten worden. 
+Nadat de direct toe te wijzen kosten overgeboekt zijn dienen de indirecte toe te wijzen kosten overgeboekt te worden. Als eerste moet bepaald worden welke kosten nog overgeboekt moeten worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rapportageschema's**. Selecteer het rapportageschema dat betrekking heeft op indirect toe te wijzen categoriale kosten en klik op **Overzicht**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rapportageschema's**. Selecteer het rapportageschema dat betrekking heeft op indirect toe te wijzen categoriale kosten en kies vooer **Overzicht**. 
 2. Kies in de pagina **Rapportageschema overzicht** bij het veld **Weergeven per** voor boekingsperiode. Stel het datumfilter altijd in vanaf 1 januari van het jaar waarin de periode ligt waarover u kosten over wilt boeken om er voor te zorgen dat na-boekingen ook meegenomen worden. (bijvoorbeeld voor de maand april 01-01-2020..30-04-2020). De kolom **Mutatie in periode** toont het over te boeken bedrag. 
 3. Selecteer alle rijen en kopieer en plak deze naar Excel. 
 
@@ -66,6 +66,6 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDI1NzAsMTIyNjQyOTA1NywxMTQ2OT
-E0ODIxXX0=
+eyJoaXN0b3J5IjpbMTUxNjI1NDA0MCwxMjI2NDI5MDU3LDExND
+Y5MTQ4MjFdfQ==
 -->
