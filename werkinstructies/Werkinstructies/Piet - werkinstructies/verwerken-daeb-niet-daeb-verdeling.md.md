@@ -1,10 +1,10 @@
-# Verwerken DAEB / niet-DAEB-verdeling
+# Verwerken DAEB/niet-DAEB-verdeling
 
-In dit werkproces worden de niet-DAEB gerelateerde posten overgeboekt naar het niet-DAEB bedrijf.
+In dit werkproces worden de niet-DAEB-gerelateerde posten overgeboekt naar het niet-DAEB-bedrijf.
 
 ## Verdelen gemengde posten
 
-Als eerste  dienen alle posten die met de administratiefeigenaar dimensie **gemengd** geboekt zijn en die nog niet eerder verdeeld zijn verdeeld worden. 
+Als eerste  dienen alle posten die met de administratiefeigenaar-dimensie 'Gemengd' geboekt zijn en die nog niet eerder verdeeld zijn verdeeld worden. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verdeelsleuteltoepassingenoverzicht** en klik op **Nieuw**. De pagina voor een nieuw verdeelsleuteltoepassing opent.
 2. Klik op **Grootboekposten verzamelen**. 
@@ -46,5 +46,6 @@ Nadat de niet-DAEB posten in de TI overgeboekt zijn naar de rekening-courant die
 
 Wanneer er boekingen t.b.v. DAEB niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODY1NzcwNywxNTA5Mzg2MDEzXX0=
+eyJoaXN0b3J5IjpbLTEyODYxMzM1NzIsMjAxODY1NzcwNywxNT
+A5Mzg2MDEzXX0=
 -->
