@@ -18,8 +18,8 @@ Nadat u bepaald heeft welke kosten overgeboekt dienen te worden kunt u deze kost
 2. Kies voor de actie **Standaarddagboeken ophalen**. Selecteer het sjabloon voor het overboeken van directe kosten en klik op **OK** om de standaard regels toe te voegen aan het dagboek. 
 3. Vul of controleer de volgende velden:
 	- **Boekingsdatum**
-	- **Bedrag**: De regels in het standaarddagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plakken en de Excelregels terug te plakken in het dagboek. 
-4. Verwijder de regels met een 0 bedrag uit het dagboek. 
+	- **Bedrag**: De regels in het standaarddagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plakken en de Excel-regels terug te plakken in het dagboek. 
+4. Verwijder de regels met een 0-bedrag uit het dagboek. 
 5. Voordat u het memoriaal kunt boeken dient deze goedgekeurd te worden. Klik op **Goedkeuringsaanvraag verzenden** en dan op **Dagboekbatch** om het memoriaal goed te laten keuren. Het goedkeuren vind plaats binnen het proces GOEDKEUREN DOCUMENTEN. 
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**
 
@@ -66,6 +66,6 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEwMTU4NTAsMTIyNjQyOTA1NywxMT
-Q2OTE0ODIxXX0=
+eyJoaXN0b3J5IjpbMTc5NDI1NzAsMTIyNjQyOTA1NywxMTQ2OT
+E0ODIxXX0=
 -->
