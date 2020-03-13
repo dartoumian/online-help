@@ -39,16 +39,14 @@ Nadat u bepaald heeft welke kosten overgeboekt dienen te worden, kunt u deze kos
 2. De regels in het dagboek tonen de overboekingsrekeningen in de 4-rubriek. Controleer de **Boekingsdatum** van de regels.
 3. De regels in het dagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plakken en de Excel-regels terug te plakken in het dagboek. 
 4. Wanneer er regels zijn met een waarde 0 dient u een filter in te stellen voordat u het dagboek kunt boeken. Zet het filterveld op 'Bedrag' en vul als filterwaarde '<>0' in. De regels met bedrag 0 worden nu uitgefilterd. 
-5. 
 
 > **LET OP!** Verwijder geen regels uit het dagboek. Wanneer u dit doet wordt de verdeling op de achtergrond ook verwijderd. 
 
- 1. List item
- 2. Periodieke dagboeken hoeven niet goedgekeurd te worden en kunnen direct geboekt worden. Klik op **Boeken** om het periodieke dagboek te boeken. 
+5. Periodieke dagboeken hoeven niet goedgekeurd te worden en kunnen direct geboekt worden. Klik op **Boeken** om het periodieke dagboek te boeken. 
 
 ## Raadplegen rapportageschema toewijzen aan cluster
 
-Nadat  zowel de directe als de indirecte kosten toegewezen zijn aan de functionele werkgebieden dienen de kosten die nu in de 8-rubriek staan nog op een algemeen cluster geboekt worden om de kosten te splitsen in DAEB en niet-DAEB. Hiervoor dient eerst bepaald te worden welke kosten nog dimensie hebben voor administrative eigenaar. 
+Nadat  zowel de directe als de indirecte kosten toegewezen zijn aan de functionele werkgebieden, dienen de kosten die nu in de 8-rubriek staan nog op een algemeen cluster geboekt worden om de kosten te splitsen in DAEB en niet-DAEB. Hiervoor dient eerst bepaald te worden welke kosten nog dimensie hebben voor administrative eigenaar. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rapportageschema's**. Selecteer het rapportageschema dat betrekking heeft functionele boekingen die op cluster geboekt moeten worden en klik op **Overzicht**. 
 2. Kies in de pagina **Rapportageschema overzicht** bij het veld **Weergeven per** voor boekingsperiode. Stel het datumfilter altijd in vanaf 1 januari van het jaar waarin de periode ligt waarover u kosten over wilt boeken om er voor te zorgen dat n- boekingen ook meegenomen worden. (bijvoorbeeld voor de maand april 01-01-2020..30-04-2020).  De kolom **Te Boeken** toont het over te boeken bedrag. 
@@ -68,6 +66,6 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTU5MDUyNSwxMjI2NDI5MDU3LDExND
-Y5MTQ4MjFdfQ==
+eyJoaXN0b3J5IjpbNjA0MjE2MzUzLDEyMjY0MjkwNTcsMTE0Nj
+kxNDgyMV19
 -->
