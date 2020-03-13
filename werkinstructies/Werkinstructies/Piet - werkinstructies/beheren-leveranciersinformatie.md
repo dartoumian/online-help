@@ -1,6 +1,6 @@
 # Beëindigen betalingsregeling
 
-In dit werkproces worden nieuwe leveranciers aangemaakt en gewijzigde informatie met betrekking tot bestaande leveranciers aangepast.
+In dit werkproces worden nieuwe leveranciers aangemaakt en wordt gewijzigde informatie met betrekking tot bestaande leveranciers aangepast.
 
 ## Processchema
 
@@ -8,7 +8,7 @@ In dit werkproces worden nieuwe leveranciers aangemaakt en gewijzigde informatie
 ## Aanmaken contact
 Voordat u de leverancierskaart aan kunt maken dient u een contact aan te maken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Contacten ** en klik op **Nieuw**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Contacten** en klik op **Nieuw | + Nieuw**. 
 2. Een nieuwe contactkaart wordt geopend. Vul op deze pagina de volgende velden:
 	- **Naam**: naam van de leverancier
 	- **Bedrijf. Persoon**: Huishouden/ Bedrijf 
@@ -60,5 +60,5 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI5OTkyMTddfQ==
+eyJoaXN0b3J5IjpbLTY5MDk3NDUzOCwtMTI0Mjk5OTIxN119
 -->
