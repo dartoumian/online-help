@@ -7,7 +7,7 @@ In dit proces worden de categoriaal geboekte kosten in de 4-rubriek overgeboekt 
 Als eerste worden de kosten uit de 4-rubriek die direct toe te wijzen zijn aan één van de functionele rubrieken, overgeboekt naar de 8-rubriek. De eerste stap is het bepalen van de over te boeken kosten. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar rapport **Rapportageschema's**. Selecteer het rapportageschema dat betrekking heeft op direct toe te wijzen categoriale kosten en kies voor **Overzicht**. 
-2. Kies op de pagina **Rapportageschemaoverzicht** bij het veld **Weergeven per** voor 'Boekingsperiode'. Zet in het **Datumfilter de periode waarover u de directe kosten over wilt boeken (bijvoorbeeld voor de maand april 01-04-2020..30-04-2020). De kolom **Mutatie in periode** toont het over te boeken bedrag. 
+2. Kies op de pagina **Rapportageschemaoverzicht** bij het veld **Weergeven per** voor 'Boekingsperiode'. Zet in het **Datumfilter** de periode waarover u de directe kosten wilt boeken (bijvoorbeeld voor de maand april 01-04-2020..30-04-2020). De kolom **Mutatie in periode** toont het over te boeken bedrag. 
 3. Selecteer alle rijen en kopieer en plak deze naar Excel. 
 
 ## Verwerken dagboek directe toewijzing
@@ -66,5 +66,5 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDY2MzQzM119
+eyJoaXN0b3J5IjpbMTE0NjkxNDgyMV19
 -->
