@@ -12,7 +12,7 @@ Wanneer u een periode dicht wilt zetten doet u dat altijd eerst voor de gehele b
 
 ## Opvoeren uitzonderingen per gebruiker
 
-De velden **Boeken toegest. vanaf** en **Boeken toegest. tot** uit de **boekhoudinstellingen** gelden voor alle gebruikers. In de **Gebruikersinstellingen** kunt u uitzonderingen op de algemene instelling opgegeven worden. Op de **gebruikersinstellingen** komen ook de velden **Boeken toegestaan vanaf** en **Boeken toegestaan tot** terug. Zijn deze bij een gebruiker leeg dan gelden de instellingen uit de **Boekhoudinstellingen**. Zijn er waardes ingevuld in de **gebruikersinstellingen** dan hebben deze prioriteit boven de instellingen in de **Boekhoudinstellingen**
+De velden **Boeken toegest. vanaf** en **Boeken toegest. tot** uit de **Boekhoudinstellingen** gelden voor alle gebruikers. In de **Gebruikersinstellingen** kunt u uitzonderingen op de algemene instelling opgeven. Ook komen daar de velden **Boeken toegest. vanaf** en **Boeken toegest. tot** terug. Zijn deze bij een gebruiker leeg, dan gelden de instellingen uit de **Boekhoudinstellingen**. Zijn er waarden ingevuld in de **Gebruikersinstellingen**, dan hebben deze prioriteit boven de instellingen in de **Boekhoudinstellingen**.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Gebruikersinstellingen** en zoek de gebruiker op waarvoor u een uitzondering op wilt voeren. Open de kaart voor deze gebruiker. 
 2. Vul in het veld **Boeken toegestaan vanaf** de datum vanaf wanneer u boeken toe wilt staan voor deze gebruiker.
@@ -26,5 +26,5 @@ Wanneer u in de voorgaande stap uitzonderingen per gebruiker opgevoerd heeft en 
 2. Maak het veld **Boeken toegestaan vanaf** leeg. 
 3. Bepaal of u het veld **Boeken toegestaan tot** aan wilt passen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyOTQyMjc2LC05OTMwMDMxMTFdfQ==
+eyJoaXN0b3J5IjpbLTUxNjAzMjAxMSwtOTkzMDAzMTExXX0=
 -->
