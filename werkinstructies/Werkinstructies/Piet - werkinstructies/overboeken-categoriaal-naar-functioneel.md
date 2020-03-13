@@ -15,7 +15,7 @@ Als eerste worden de kosten uit de 4-rubriek die direct toe te wijzen zijn aan �
 Nadat u bepaald heeft welke kosten overgeboekt dienen te worden kunt u deze kosten overboeken via een standaard dagboek. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Diversendagboek**. Selecteer in het scherm dat opent het dagboek waarmee u de directe kosten over wilt boeken. 
-2. Kies voor de **Standaarddagboeken ophalen**. Selecteer het sjabloon voor het overboeken van directe kosten en klik op **OK ** om de standaard regels toe te voegen aan het dagboek. 
+2. Kies voor de actie **Standaarddagboeken ophalen**. Selecteer het sjabloon voor het overboeken van directe kosten en klik op **OK** om de standaard regels toe te voegen aan het dagboek. 
 3. Vul of controleer de volgende velden:
 	- **Boekingsdatum**
 	- **Bedrag**: De regels in het standaarddagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plannen en de Excel regels terug te plakken in het dagboek. 
@@ -66,6 +66,6 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1MjQwODQ4LDEyMjY0MjkwNTcsMTE0Nj
-kxNDgyMV19
+eyJoaXN0b3J5IjpbLTEzMDQ3NDg2MzAsMTIyNjQyOTA1NywxMT
+Q2OTE0ODIxXX0=
 -->
