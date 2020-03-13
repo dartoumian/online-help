@@ -37,15 +37,15 @@ Nadat alle posten verdeeld zijn in DAEB en niet-DAEB kunt u de niet-DAEB-posten 
 
 Nadat de niet-DAEB-posten in de TI overgeboekt zijn naar de rekening-courant dient de rekening-courantboeking ook uitgevoerd te worden in het niet-DAEB-bedrijf. 
 
-1. Navigeer via de instellingenknop ![Instellingen](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-experience/settings_icon_small.png) naar **Mijn instellingen**. Selecteer in het veld **Bedrijf** het niet-DAEB-bedrijf. Klik op **OK** in het scherm **Mijn instellingen**. Het niet-DAEB bedrijf wordt geopend. 
-2. Navigeer in het niet-DAEB bedrijf via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek waarmee u de rekening-courant afrekeningen wilt verwerken. 
-3. Klik op **RC regels aanmaken** om de rekening-courant regels op te halen. 
+1. Navigeer via de instellingenknop ![Instellingen](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-experience/settings_icon_small.png) naar **Mijn instellingen**. Selecteer in het veld **Bedrijf** het niet-DAEB-bedrijf. Klik op **OK** in het scherm **Mijn instellingen**. Het niet-DAEB-bedrijf wordt geopend. 
+2. Navigeer in het niet-DAEB-bedrijf via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Diversendagboek**. Selecteer in het scherm dat opent het dagboek waarmee u de rekening-courantafrekeningen wilt verwerken. 
+3. Klik op **RC regels aanmaken** om de rekening-courantregels op te halen. 
 4. Klik op **Boeken** om de dagboekregels te boeken. 
 
 ## Boeken memoriaal
 
 Wanneer er boekingen t.b.v. DAEB niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNjc5MjU5LDIwMTg2NTc3MDcsMTUwOT
-M4NjAxM119
+eyJoaXN0b3J5IjpbLTEzMzQ3MDE0NDIsMjAxODY1NzcwNywxNT
+A5Mzg2MDEzXX0=
 -->
