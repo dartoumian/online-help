@@ -4,11 +4,11 @@ In dit werkproces worden de niet-DAEB-gerelateerde posten overgeboekt naar het n
 
 ## Verdelen gemengde posten
 
-Als eerste  dienen alle posten die met de administratiefeigenaar-dimensie 'Gemengd' geboekt zijn en die nog niet eerder verdeeld zijn verdeeld worden. 
+Als eerste dienen alle posten die met de administratiefeigenaar-dimensie 'Gemengd' geboekt zijn en die nog niet eerder verdeeld zijn, verdeeld te worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verdeelsleuteltoepassingenoverzicht** en klik op **Nieuw**. De pagina voor een nieuw verdeelsleuteltoepassing opent.
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verdeelsleuteltoepassingenoverzicht** en klik op **Nieuw**. De kaart voor een nieuwe verdeelsleuteltoepassing opent.
 2. Klik op **Grootboekposten verzamelen**. 
-	- Vul in het veld **Begindatum** 1 januari van het jaar waarin u wilt verdelen op. Vul in het veld.
+	- Voer in het veld **Begindatum** 1 januari van het jaar waarin u wilt verdelen op.
 	- Vul in het veld **Einddatum** de einddatum van de periode waarvan u de posten wilt verdelen. 
 	- Klik op **Ok**. De te verdelen posten worden verzameld. 
 3. Klik op **Grootboekposten verdelen**. De grootboekposten worden verdeeld. 
@@ -46,6 +46,6 @@ Nadat de niet-DAEB posten in de TI overgeboekt zijn naar de rekening-courant die
 
 Wanneer er boekingen t.b.v. DAEB niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYxMzM1NzIsMjAxODY1NzcwNywxNT
-A5Mzg2MDEzXX0=
+eyJoaXN0b3J5IjpbOTkzODkzNzEyLDIwMTg2NTc3MDcsMTUwOT
+M4NjAxM119
 -->
