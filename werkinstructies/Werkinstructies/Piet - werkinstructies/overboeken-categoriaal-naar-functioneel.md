@@ -46,10 +46,10 @@ Nadat u bepaald heeft welke kosten overgeboekt dienen te worden, kunt u deze kos
 
 ## Raadplegen rapportageschema toewijzen aan cluster
 
-Nadat  zowel de directe als de indirecte kosten toegewezen zijn aan de functionele werkgebieden, dienen de kosten die nu in de 8-rubriek staan nog op een algemeen cluster geboekt worden om de kosten te splitsen in DAEB en niet-DAEB. Hiervoor dient eerst bepaald te worden welke kosten nog dimensie hebben voor administrative eigenaar. 
+Nadat  zowel de directe als de indirecte kosten toegewezen zijn aan de functionele werkgebieden, dienen de kosten die nu in de 8-rubriek staan nog op een algemeen cluster geboekt te worden om de kosten te splitsen in DAEB en niet-DAEB. Hiervoor dient eerst bepaald te worden welke kosten nog een dimensie hebben voor administratieve eigenaar. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rapportageschema's**. Selecteer het rapportageschema dat betrekking heeft functionele boekingen die op cluster geboekt moeten worden en klik op **Overzicht**. 
-2. Kies in de pagina **Rapportageschema overzicht** bij het veld **Weergeven per** voor boekingsperiode. Stel het datumfilter altijd in vanaf 1 januari van het jaar waarin de periode ligt waarover u kosten over wilt boeken om er voor te zorgen dat n- boekingen ook meegenomen worden. (bijvoorbeeld voor de maand april 01-01-2020..30-04-2020).  De kolom **Te Boeken** toont het over te boeken bedrag. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rapportageschema's**. Selecteer het rapportageschema dat betrekking heeft op functionele boekingen die op cluster geboekt moeten worden en klik op **Overzicht**. 
+2. Kies in de pagina **Rapportageschemaoverzicht** bij het veld **Weergeven per** voor boekingsperiode. Stel het datumfilter altijd in vanaf 1 januari van het jaar waarin de periode ligt waarover u kosten over wilt boeken om ervoor te zorgen dat n-boekingen ook meegenomen worden (bijvoorbeeld voor de maand april 01-01-2020..30-04-2020).  De kolom **Te Boeken** toont het over te boeken bedrag. 
 3. Selecteer alle rijen en kopieer en plak deze naar Excel. 
 
 ## Verwerken dagboek toewijzen cluster
@@ -66,6 +66,6 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MjE2MzUzLDEyMjY0MjkwNTcsMTE0Nj
-kxNDgyMV19
+eyJoaXN0b3J5IjpbLTE0MTE2ODE3NzIsMTIyNjQyOTA1NywxMT
+Q2OTE0ODIxXX0=
 -->
