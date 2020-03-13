@@ -21,12 +21,12 @@ Als eerste dienen alle posten die met de administratiefeigenaar-dimensie 'Gemeng
 
 Nadat alle posten verdeeld zijn in DAEB en niet-DAEB kunt u de niet-DAEB-posten in de TI overboeken naar het niet-DAEB-bedrijf. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rekening courant afrekeningenoverzicht** en klik op **Nieuw**. De pagina voor een nieuw rekening courant afrekeningen opent.
-2. Klik op **Grootboekposten verzamelen**
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Rekening courant afrekeningenoverzicht** en klik op **Nieuw**. De pagina voor een nieuwe rekening-courantafrekening opent.
+2. Klik op **Grootboekposten verzamelen**.
 	- Selecteer in het veld **Administratief eigenaar** de administrative eigenaar waarvoor u de posten over wilt boeken. 	
-	- Vul in het veld **Begindatum** 1 januari van het jaar waarin u wilt overboeken op. Vul in het veld.
-	- Vul in het veld **Einddatum** de einddatum van de periode waarvan u de posten wilt overboeken. 
-	- Klik op **Ok** om de over te boeken posten op te halen. 
+	- Vul in het veld **Begindatum** 1 januari van het jaar waarin u wilt overboeken in.
+	- Vul in het veld **Einddatum** de einddatum van de periode waarvan u de posten wilt overboeken in. 
+	- Klik op **OK** om de over te boeken posten op te halen. 
 3. Klik op **Grootboekposten comprimeren** om de posten te comprimeren. 
 4. Klik op **Rekening-courant afrekening verwerken**. 
 	- Vul in het veld **Boekingsdatum** de einddatum van de over te boeken periode in. 
@@ -46,6 +46,6 @@ Nadat de niet-DAEB posten in de TI overgeboekt zijn naar de rekening-courant die
 
 Wanneer er boekingen t.b.v. DAEB niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQwODI0OTMsMjAxODY1NzcwNywxNT
-A5Mzg2MDEzXX0=
+eyJoaXN0b3J5IjpbNzM4MTk4NDYzLDIwMTg2NTc3MDcsMTUwOT
+M4NjAxM119
 -->
