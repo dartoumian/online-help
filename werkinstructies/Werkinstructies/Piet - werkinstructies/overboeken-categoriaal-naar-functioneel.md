@@ -36,13 +36,15 @@ Nadat de direct toe te wijzen kosten overgeboekt zijn dienen de indirecte toe te
 Nadat u bepaald heeft welke kosten overgeboekt dienen te worden, kunt u deze kosten overboeken via een periodiek dagboek. In dit dagboek zijn de verdeelsleutels per functionele rubriek opgenomen.  
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Periodieke dagboeken**. Selecteer in het scherm dat opent in het veld **Batchnaam** de batch voor het overboeken van indirecte kosten naar de functionele werkgebieden. 
-2. De regels in het dagboek tonen de overboekingsrekeningen in de 4-rubriek. Controleer de **boekingsdatum** van de regels.
-3. De regels in het dagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plannen en de Excel regels terug te plakken in het dagboek. 
-4. Wanneer er regels zijn met een waarde 0 dient u een filter in te stellen voordat u het dagboek kunt boeken. Zet het filter veld op **Bedrag** en vul als filterwaarde <>0 in. De regels met bedrag 0 worden nu uitgefilterd. 
+2. De regels in het dagboek tonen de overboekingsrekeningen in de 4-rubriek. Controleer de **Boekingsdatum** van de regels.
+3. De regels in het dagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plakken en de Excel-regels terug te plakken in het dagboek. 
+4. Wanneer er regels zijn met een waarde 0 dient u een filter in te stellen voordat u het dagboek kunt boeken. Zet het filterveld op 'Bedrag' en vul als filterwaarde '<>0' in. De regels met bedrag 0 worden nu uitgefilterd. 
+5. 
 
-> LET OP! verwijder geen regels uit het dagboek. Wanneer u dit doet wordt de verdeling op de achtergrond ook verwijderd. 
+> **LET OP!** Verwijder geen regels uit het dagboek. Wanneer u dit doet wordt de verdeling op de achtergrond ook verwijderd. 
 
-4. Periodieke dagboeken hoeven niet goedgekeurd te worden en kunnen direct geboekt worden. Klik op **Boeken** om het periodieke dagboek te boeken. 
+ 1. List item
+ 2. Periodieke dagboeken hoeven niet goedgekeurd te worden en kunnen direct geboekt worden. Klik op **Boeken** om het periodieke dagboek te boeken. 
 
 ## Raadplegen rapportageschema toewijzen aan cluster
 
@@ -66,6 +68,6 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden k
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NDU3MjQ3LDEyMjY0MjkwNTcsMTE0Nj
-kxNDgyMV19
+eyJoaXN0b3J5IjpbLTcwOTU5MDUyNSwxMjI2NDI5MDU3LDExND
+Y5MTQ4MjFdfQ==
 -->
