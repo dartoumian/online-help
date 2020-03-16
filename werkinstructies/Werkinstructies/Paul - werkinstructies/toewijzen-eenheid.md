@@ -15,11 +15,12 @@ In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkoms
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvan de aanbiedhuur moet worden bepaald.
-3. Open de detailpagina van de verhuurmutatie. 
-4. Klik op **Navigeren** en kies voor **Verhuuraanbieding**.  Een pagina wordt geopend met de details van de verhuuraanbieding. 
+3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken. 
+4. Navigeer naar de **Verhuuraanbieding**.  Een pagina wordt geopend met de details van de verhuuraanbieding. 
 5. Klik op **Worddocument**. Een pagina wordt geopend waarop een lijst met beschikbare Word-sjablonen wordt getoond. 
 6. Selecteer het Word-sjabloon voor het afdrukken van de uitnodiging voor ondertekening van de huurovereenkomst en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMwMjkyMDEsMTg2NTE5NDQxMV19
+eyJoaXN0b3J5IjpbNzI1NTM1ODQxLC0xODEzMDI5MjAxLDE4Nj
+UxOTQ0MTFdfQ==
 -->
