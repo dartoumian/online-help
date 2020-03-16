@@ -39,7 +39,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 6. Klik op **Inspectieafspraak plannen**, waarna de pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
 7. In veld **Datum** selecteert u de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip.
 8. Selecteer de inspecteur voor wie u de inspectie wilt plannen, vink de begintijd aan waarop u de inspectie wilt plannen en klik op **OK**.
-9. Herhaal actie 2 t/m 5 voor elke volgende inspectie die u wilt plannen.
+9. Herhaal actie 6 t/m 8 voor elke volgende inspectie die u wilt plannen.
 10. Klik op **Sluiten**.
 
 
@@ -48,10 +48,9 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor de bevestiging van de huuropzegging moet worden verstuurd.
 3. Open de detailpagina van de verhuurmutatie. 
-4. Klik op **Navigeren** en kies voor **Huuropzeggingen**.
-5. Kies voor functie **Worddocument**.
-6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
+4. Navigeer naar de **Huuropzeggingen**.
+5. Kies voor functie **Worddocument** en selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging. Klik op **OK**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ2NzIzNjksMTc2Njc5MjI2M119
+eyJoaXN0b3J5IjpbMTcyNjc5NDYwMiwxNzY2NzkyMjYzXX0=
 -->
