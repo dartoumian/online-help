@@ -23,7 +23,7 @@ In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenh
 De belangrijkste velden op tabblad **Algemeen** zijn: 
 
  - **Type**: Geeft aan tot welk Eenheidstype de OG eenheid behoort. Dit bepaalt o.a. de standaardwaarde voor de velden **Vraagboomsoort**, **Aantal vooropnames**, **Duur vooropname**, **Aantal eindopnames**, **Duur eindopname** en **Termijn eerste vooropname**.
- - **Woonruimte**: Geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als het toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.
+ - **Woonruimte**: Geeft aan of de eenheid een zelfstandige woonruimte is of niet. Een woonruimte is zelfstandig als deze toegankelijk is via een eigen voordeur. Dit bepaalt o.a. het soort woningwaardering (d.w.z. de waarderingsmethode) dat van toepassing is voor de OG Eenheid.
  - **Vraagboomsoort**: Geeft aan via welke vraagboomsoort een reparatieverzoek kan worden ingediend op de OG Eenheid. Dit is standaard gelijk aan de vraagboomsoort die is ingesteld bij het **Eenheidstype**, maar kan daarvan afwijken.
  - **Divisie**: Geeft aan tot welke divisie de OG Eenheid behoort. Dit bepaalt o.a. via welk woonruimteverdeelsysteem (WRV-systeem) de OG Eenheid wordt gepubliceerd.
  - **Etagewoning** en **Etage**: Geeft aan of de eenheid een etagewoning betreft, en zo ja: op welke etage (de voordeur van) de woning zich bevindt. 
@@ -147,11 +147,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzY0OTczLC0xOTA4MDg1NDQyLDMxMD
-I5Nzc5OSwtMTk4MDQ1NTk1NiwtMzU3Mzk1MjQ3LC0xMzI0MDY3
-NTk5LC03NDg5NzMxMCwtMTQ3NzQzNDQyMyw0ODE2NjAxNDEsMT
-QwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1
-MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMD
-UsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5
-NjYyMzQwNF19
+eyJoaXN0b3J5IjpbNTkwNTAxNjMyLDE2NjM2NDk3MywtMTkwOD
+A4NTQ0MiwzMTAyOTc3OTksLTE5ODA0NTU5NTYsLTM1NzM5NTI0
+NywtMTMyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0MjMsND
+gxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3
+OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0Mj
+EsNTQ2NDIwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEz
+NzIwNzM2XX0=
 -->
