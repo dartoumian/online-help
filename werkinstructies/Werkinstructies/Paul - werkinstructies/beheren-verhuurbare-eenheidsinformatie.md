@@ -103,7 +103,7 @@ Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streef
 In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  U kunt een exploitatievorm toevoegen of juist verwijderen bij de OG Eenheid. Elke exploitatievorm is van een bepaald soort (*Verhuur*, *Verkoop* of *Uit beheer*) en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de juiste OG Eenheid.
+ 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
  3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
  4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
  5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**. 
@@ -147,11 +147,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDA2NzM0MywzODA3ODQ2MTIsNzMwMj
-k5MDYzLDU5MDUwMTYzMiwxNjYzNjQ5NzMsLTE5MDgwODU0NDIs
-MzEwMjk3Nzk5LC0xOTgwNDU1OTU2LC0zNTczOTUyNDcsLTEzMj
-QwNjc1OTksLTc0ODk3MzEwLC0xNDc3NDM0NDIzLDQ4MTY2MDE0
-MSwxNDA0OTUyNzgxLC0xNjA4MjAzMzc2LC01ODU0NzkwNzAsMT
-IxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQy
-MDIwNV19
+eyJoaXN0b3J5IjpbLTE4NjczMDYyODYsMTM0MDA2NzM0MywzOD
+A3ODQ2MTIsNzMwMjk5MDYzLDU5MDUwMTYzMiwxNjYzNjQ5NzMs
+LTE5MDgwODU0NDIsMzEwMjk3Nzk5LC0xOTgwNDU1OTU2LC0zNT
+czOTUyNDcsLTEzMjQwNjc1OTksLTc0ODk3MzEwLC0xNDc3NDM0
+NDIzLDQ4MTY2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAzMzc2LC
+01ODU0NzkwNzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNTc3
+MjA4NDIxXX0=
 -->
