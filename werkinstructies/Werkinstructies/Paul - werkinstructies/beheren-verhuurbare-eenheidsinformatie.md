@@ -71,7 +71,7 @@ Binnen de woningwaardering van een ***zelfstandige woonruimte*** kunt u de volge
  - **Woonvoorziening voor gehandicapten**: Vul de investering in het veld **Investering voorzieningen** in.
 - **Buitenruimte**: Vul de oppervlakte van de verschillende buitenruimten in de desbetreffende velden in.
  - **WOZ-waardering**: Dit aantal punten is niet alleen afhankelijk van de WOZ-waarde van de woonruimte, maar ook van de totale oppervlakte van de vertrekken en overige ruimten, van de vraag of de woonruimte in een COROP-gebied ligt en van de wettelijke **Woningwaarderingsparameters**. Het veld **WOZ-waarde voor WWD** wordt standaard gevuld met de waarde van het veld **WOZ-waarde uit WOZ-gegevens**, dat standaard wordt gevuld met de WOZ-waarde uit de **WOZ-gegevens** van de OG Eenheid die gelden voor het jaar waarin de ingangsdatum van de woningwaardering valt. U kunt een afwijkende WOZ-waarde voor WWD invullen, mits u een **WOZ-afwijkingsreden** selecteert.
- - **Renovatie**: Punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het beleidsboek). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
+ - **Renovatie**: Punten voor renovatie worden bepaald door de hoogte van de investeringen die de verhuurder heeft gedaan. Hiervoor geldt een minimum investeringsbedrag en een maximaal aantal kalenderjaren gedurende welke punten voor renovatie mogen worden gerekend (zie hoofdstuk 10 van het Beleidsboek Waarderingsstelsel Zelfstandige Woonruimte, online te bekijken). U vult het aantal punten voor renovatie in het veld **Punten renovatie-investering**. 
  - **Bijzondere voorzieningen**: U geeft in het veld **Zorgwoning** aan of de OG Eenheid al dan niet een zorgwoning is. Dynamics Empire rekent dan automatisch extra punten mits de OG Eenheid voldoet aan de wettelijke voorwaarden.
 
 Binnen de woningwaardering van een ***onzelfstandige woonruimte*** kunt u de volgende details aanpassen: 
@@ -147,11 +147,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMjk5MDYzLDU5MDUwMTYzMiwxNjYzNj
-Q5NzMsLTE5MDgwODU0NDIsMzEwMjk3Nzk5LC0xOTgwNDU1OTU2
-LC0zNTczOTUyNDcsLTEzMjQwNjc1OTksLTc0ODk3MzEwLC0xND
-c3NDM0NDIzLDQ4MTY2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAz
-Mzc2LC01ODU0NzkwNzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4Ni
-wtNTc3MjA4NDIxLDU0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQx
-NDAzMzJdfQ==
+eyJoaXN0b3J5IjpbLTczMDk1NzEyNiw3MzAyOTkwNjMsNTkwNT
+AxNjMyLDE2NjM2NDk3MywtMTkwODA4NTQ0MiwzMTAyOTc3OTks
+LTE5ODA0NTU5NTYsLTM1NzM5NTI0NywtMTMyNDA2NzU5OSwtNz
+Q4OTczMTAsLTE0Nzc0MzQ0MjMsNDgxNjYwMTQxLDE0MDQ5NTI3
+ODEsLTE2MDgyMDMzNzYsLTU4NTQ3OTA3MCwxMjEwNTI1NjQzLC
+0xNTgzMzQzODg2LC01NzcyMDg0MjEsNTQ2NDIwMjA1LC0xNjQ4
+NjQzMTRdfQ==
 -->
