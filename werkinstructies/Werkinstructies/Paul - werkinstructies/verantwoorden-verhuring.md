@@ -12,7 +12,7 @@ Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gec
 ## Registreren huishoudgegevens  
 
 In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling. 
-Hierbij wordt ervan uitgegaan dat in de Empire-instellingen (tabblad Verantwoording verhuring) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon. 
+Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Verantwoording verhuring**) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
  2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
@@ -77,10 +77,11 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMTI3NzAwLC0xNzEyMjc4ODc2LC0xNz
-M5MTkzNDQ5LDEyMDA4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1
-MDEyMTEsNzUxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OC
-wtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0
-MDI5Mjk3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNz
-YzNSwtMjA4NjA4MzI3Miw1OTc4MTkwNDhdfQ==
+eyJoaXN0b3J5IjpbLTIzMzczMTY0LDc2MTEyNzcwMCwtMTcxMj
+I3ODg3NiwtMTczOTE5MzQ0OSwxMjAwODQwMDA4LC0xNTQzNDkz
+MjMyLC0xMDExNTAxMjExLDc1MTE5MzAzMSwtMTY1MDEzMDgzNC
+wzMTM4NDQ4NjgsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNjEz
+MDY0NzcsLTM3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4Mj
+ksLTE0Njg3MTc2MzUsLTIwODYwODMyNzIsNTk3ODE5MDQ4XX0=
+
 -->
