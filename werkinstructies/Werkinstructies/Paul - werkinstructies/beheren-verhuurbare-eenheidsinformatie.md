@@ -1,7 +1,7 @@
 
 # Beheren verhuurbare eenheidsinformatie
 
-Binnen dit detailproces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie: 
+Binnen dit proces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie: 
 
  - [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
  - [Woningwaardering](#aanpassen-woningwaardering)
@@ -147,11 +147,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgwODU0NDIsMzEwMjk3Nzk5LC0xOT
-gwNDU1OTU2LC0zNTczOTUyNDcsLTEzMjQwNjc1OTksLTc0ODk3
-MzEwLC0xNDc3NDM0NDIzLDQ4MTY2MDE0MSwxNDA0OTUyNzgxLC
-0xNjA4MjAzMzc2LC01ODU0NzkwNzAsMTIxMDUyNTY0MywtMTU4
-MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQyMDIwNSwtMTY0ODY0Mz
-E0LC02NzQxNDAzMzIsMjExMzcyMDczNiwxNDk2NjIzNDA0LDEw
-MDQ3MjE2NDZdfQ==
+eyJoaXN0b3J5IjpbMTY2MzY0OTczLC0xOTA4MDg1NDQyLDMxMD
+I5Nzc5OSwtMTk4MDQ1NTk1NiwtMzU3Mzk1MjQ3LC0xMzI0MDY3
+NTk5LC03NDg5NzMxMCwtMTQ3NzQzNDQyMyw0ODE2NjAxNDEsMT
+QwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1
+MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMD
+UsLTE2NDg2NDMxNCwtNjc0MTQwMzMyLDIxMTM3MjA3MzYsMTQ5
+NjYyMzQwNF19
 -->
