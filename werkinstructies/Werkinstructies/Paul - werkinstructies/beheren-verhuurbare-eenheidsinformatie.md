@@ -144,9 +144,9 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
  3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
- 6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
+ 6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen** (via het menu-item bovenin het tabblad).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDU4NTE1MCwxMzQwMDY3MzQzLDM4MD
+eyJoaXN0b3J5IjpbLTE1MzM3NDcyNywxMzQwMDY3MzQzLDM4MD
 c4NDYxMiw3MzAyOTkwNjMsNTkwNTAxNjMyLDE2NjM2NDk3Mywt
 MTkwODA4NTQ0MiwzMTAyOTc3OTksLTE5ODA0NTU5NTYsLTM1Nz
 M5NTI0NywtMTMyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0
