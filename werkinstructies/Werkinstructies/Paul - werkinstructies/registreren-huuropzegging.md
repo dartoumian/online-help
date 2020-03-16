@@ -1,5 +1,5 @@
 # Registreren huuropzegging
-In dit werkproces wordt het huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Tenslotte wordt een bevestiging van de huuropzegging gestuurd. 
+In dit werkproces wordt het huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Tot slot wordt een bevestiging van de huuropzegging gestuurd. 
 
 ## Processchema
 
@@ -53,5 +53,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NzkwMF19
+eyJoaXN0b3J5IjpbMTc2Njc5MjI2M119
 -->
