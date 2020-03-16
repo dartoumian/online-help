@@ -5,7 +5,7 @@ De corporatie stuurt de kandidaat een uitnodiging voor het ondertekenen van de h
 ## Processchema
 
 ## Afdrukken concept huurovereenkomst 
-Een conceptversie van de huurovereenkomst wordt afgedrukt als bijlage bij de uitnodiging voor ondertekening van de huurovereenkomst. Zie verderop in deze werkinstructie. 
+Een conceptversie van de huurovereenkomst wordt afgedrukt als bijlage bij de uitnodiging voor ondertekening van de huurovereenkomst. Zie **[Afdrukken uitnodiging ondertekening huurovereenkomst]
  
 ## Afdrukken concept eerste verhuurfactuur 
 Een conceptversie van de eerste verhuurfactuur wordt afgedrukt als bijlage bij de uitnodiging voor ondertekening van de huurovereenkomst. Zie verderop in deze werkinstructie. 
@@ -21,5 +21,5 @@ In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkoms
 6. Selecteer het Word-sjabloon voor het afdrukken van de uitnodiging voor ondertekening van de huurovereenkomst en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTgyMjkyMywxODY1MTk0NDExXX0=
+eyJoaXN0b3J5IjpbLTgyNjU0MjY0NywxODY1MTk0NDExXX0=
 -->
