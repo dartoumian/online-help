@@ -10,7 +10,8 @@ In deze stap bereidt u de publicatie van de beschikbare eenheid voor. Deze voorb
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
  2. Zoek de verhuurmutatie op waarvan de publicatie moet worden voorbereid en open de detailpagina van de verhuurmutatie door op het nummer te klikken. 
- 3. Navigeer naar de **Beschikbare OG Eenheid**.  Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd.  Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Voorbereiden beschikbare OG Eenheid**.  Dan verschijnt de genoemde pagina alsnog.  In tabblad **Algemeen** wordt in veld **WRV-systeem** het woonruimteverdeelsysteem getoond waarin de beschikbare eenheid zal worden gepubliceerd. Het systeem selecteert het WRV-systeem automatisch aan de hand van de **Divisie** van de OG Eenheid. 
+ 3. Navigeer naar de **Beschikbare OG Eenheid**.  Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd.  Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Voorbereiden beschikbare OG Eenheid**.  Dan verschijnt de genoemde pagina alsnog.
+ 4. Op tabblad **Algemeen** wordt in veld **WRV-systeem** het woonruimteverdeelsysteem getoond waarin de beschikbare eenheid zal worden gepubliceerd. Het systeem selecteert het WRV-systeem automatisch aan de hand van de **Divisie** van de OG Eenheid. 
  5. Controleer de details in het tabblad **Adres** van de beschikbare eenheid. Als deze details niet juist of volledig zijn, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen resp. aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
  6. Klik op **Voorbereiden beschikbare OG Eenheid**. Een pagina verschijnt waarop alleControleer de details in tabblad **OG-Eenheid-eigenschappen**. Dit tabblad bevat enkelvoudige en meervoudige VERA-eigenschappen. 
  7. **Enkelvoudige VERA-eigenschappen** zijn eigenschappen waarbij elke OG Eenheid maximum 1 waarde kan hebben. Dit betreft de details **VERA-eenheidssoort** t/m  **VERA-energergielabel**.  Als deze enkelvoudige VERA-eigenschappen niet juist of volledig zijn, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen resp. aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
@@ -50,6 +51,6 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNzMwMjg2LDkwMzcxNzEzNywtMzU3NT
-c3NTI5XX0=
+eyJoaXN0b3J5IjpbMTcyMTU5Nzk3OCwyOTI3MzAyODYsOTAzNz
+E3MTM3LC0zNTc1Nzc1MjldfQ==
 -->
