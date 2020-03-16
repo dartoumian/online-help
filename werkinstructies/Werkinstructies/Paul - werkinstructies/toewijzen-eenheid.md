@@ -1,5 +1,5 @@
 # Toewijzen eenheid
-De corporatie stuurt de kandidaat een uitgenodigd voor het ondertekenen van de huurovereenkomst. Deze uitnodiging bevat tevens de bevestiging van de toewijzing van de eenheid aan de kandidaat. Een concept huurovereenkomst en een concept eerste verhuurfactuur worden als bijlage bij die uitnodiging toegevoegd.  
+De corporatie stuurt de kandidaat een uitnodiging voor het ondertekenen van de huurovereenkomst. Deze uitnodiging bevat tevens de bevestiging van de toewijzing van de eenheid aan de kandidaat. Een concept huurovereenkomst en een concept eerste verhuurfactuur worden als bijlage bij die uitnodiging toegevoegd.  
 
 
 ## Processchema
@@ -21,5 +21,5 @@ In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkoms
 6. Selecteer het Word-sjabloon voor het afdrukken van de uitnodiging voor ondertekening van de huurovereenkomst en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTE5NDQxMV19
+eyJoaXN0b3J5IjpbMjA3MTgyMjkyMywxODY1MTk0NDExXX0=
 -->
