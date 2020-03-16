@@ -86,7 +86,7 @@ Binnen de woningwaardering van een ***onzelfstandige woonruimte*** kunt u de vol
  - **Aftrekpunten**: Selecteer daar waar van toepassing de aspecten van de onzelfstandige woonruimte waarvoor aftrekpunten worden gerekend.
 
 ## Aanpassen streefhuur
-In deze stap past u de streefhuurmethode van de OG Eenheid aan van *Statisch* naar *Dynamisch* of andersom. Als de streefhuurmethode is ingesteld op *Dynamisch*, kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op *Statisch*, kunt u het streefhuurbedrag aanpassen. 
+In deze stap past u de streefhuurmethode van de OG Eenheid aan van *Statisch* naar *Dynamisch* of andersom. Als de streefhuurmethode is ingesteld op *Dynamisch* kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op *Statisch* kunt u het streefhuurbedrag aanpassen. 
 
 De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individuele OG Eenheid of op het niveau van het PMC-cluster waartoe de OG Eenheid behoort. In dat laatste geval stelt u de streefhuurmethode, het streefhuurpercentage en/of het streefhuurbedrag in bij een PMC-cluster, waarna het systeem deze instellingen automatisch toepast bij alle OG Eenheden die tot dat cluster behoren. 
 
@@ -147,11 +147,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNzg0NjEyLDczMDI5OTA2Myw1OTA1MD
-E2MzIsMTY2MzY0OTczLC0xOTA4MDg1NDQyLDMxMDI5Nzc5OSwt
-MTk4MDQ1NTk1NiwtMzU3Mzk1MjQ3LC0xMzI0MDY3NTk5LC03ND
-g5NzMxMCwtMTQ3NzQzNDQyMyw0ODE2NjAxNDEsMTQwNDk1Mjc4
-MSwtMTYwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2NDMsLT
-E1ODMzNDM4ODYsLTU3NzIwODQyMSw1NDY0MjAyMDUsLTE2NDg2
-NDMxNF19
+eyJoaXN0b3J5IjpbMTExMTQ3MzI0OCwzODA3ODQ2MTIsNzMwMj
+k5MDYzLDU5MDUwMTYzMiwxNjYzNjQ5NzMsLTE5MDgwODU0NDIs
+MzEwMjk3Nzk5LC0xOTgwNDU1OTU2LC0zNTczOTUyNDcsLTEzMj
+QwNjc1OTksLTc0ODk3MzEwLC0xNDc3NDM0NDIzLDQ4MTY2MDE0
+MSwxNDA0OTUyNzgxLC0xNjA4MjAzMzc2LC01ODU0NzkwNzAsMT
+IxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNTc3MjA4NDIxLDU0NjQy
+MDIwNV19
 -->
