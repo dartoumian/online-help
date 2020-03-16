@@ -122,7 +122,7 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
  2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
  3. Navigeer naar **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
  4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een lege regel met het eenheidsnummer en het adres van de geselecteerde OG Eenheid wordt getoond. 
- 5. Vul in de **Ingangsdatum wijziging**. Let op: deze datum moet ná vandaag liggen en op of ná de datum t/m wanneer de OG Eenheid is geprolongeerd. 
+ 5. Vul de **Ingangsdatum wijziging** in. Let op: deze datum moet ná vandaag liggen en op of ná de datum t/m wanneer de OG Eenheid is geprolongeerd. 
  6. In kolom **Nieuwe dimensiewaarde** selecteert u de nieuwe administratief eigenaar. 
  7. De regel krijgt automatisch de **Status** *Voorlopig*. 
 
@@ -130,7 +130,7 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
 #### Aanvraag voor wijziging van administratief eigenaar goedkeuren ####
  
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de juiste OG Eenheid.
+ 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
  3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
  4. Klik op **Administratief eigenaar wijzigen**.  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** 'Voorlopig' wordt getoond. 
  5. Klik op **Goedkeuren**. De regel krijgt automatisch de **Status** 'Goedgekeurd'. 
@@ -141,16 +141,16 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
 In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoon behoort tot een functiegroep, zoals huismeester.  Eén OG Eenheid kan per functiegroep maximaal één contactpersoon hebben. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid.
+ 2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
  3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MjgwMDAyLDEzNDAwNjczNDMsMzgwNz
-g0NjEyLDczMDI5OTA2Myw1OTA1MDE2MzIsMTY2MzY0OTczLC0x
-OTA4MDg1NDQyLDMxMDI5Nzc5OSwtMTk4MDQ1NTk1NiwtMzU3Mz
-k1MjQ3LC0xMzI0MDY3NTk5LC03NDg5NzMxMCwtMTQ3NzQzNDQy
-Myw0ODE2NjAxNDEsMTQwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNT
-g1NDc5MDcwLDEyMTA1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIw
-ODQyMV19
+eyJoaXN0b3J5IjpbMTAyNDU4NTE1MCwxMzQwMDY3MzQzLDM4MD
+c4NDYxMiw3MzAyOTkwNjMsNTkwNTAxNjMyLDE2NjM2NDk3Mywt
+MTkwODA4NTQ0MiwzMTAyOTc3OTksLTE5ODA0NTU5NTYsLTM1Nz
+M5NTI0NywtMTMyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0
+MjMsNDgxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMzNzYsLT
+U4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC01Nzcy
+MDg0MjFdfQ==
 -->
