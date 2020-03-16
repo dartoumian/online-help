@@ -17,7 +17,7 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
    - **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**.
    - **Leegstandsboekingsgroep:** Deze is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
 9. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wilt doorgaan. Klik op **Ja**.
-10. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag en met de geselecteerde leegstandsboekingsgroep.
+10. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag, en met de geselecteerde leegstandsboekingsgroep.
 Ook wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
 11. Als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt achter de schermen automatisch een nieuw **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
 12. Pagina **Huurcontractopzeggingkaart** wordt geopend.
@@ -53,5 +53,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODQ1NjI2MCwxNzY2NzkyMjYzXX0=
+eyJoaXN0b3J5IjpbNzQ4OTQwOTM0LDE3NjY3OTIyNjNdfQ==
 -->
