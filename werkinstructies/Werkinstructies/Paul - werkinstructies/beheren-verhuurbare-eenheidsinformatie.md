@@ -54,11 +54,11 @@ Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de juiste OG Eenheid.
- 3. Klik op **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies). 
+ 3. Kies voor **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies). 
  4. Klik op **Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van het aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief. 
  5. Pas daar waar nodig details van de nieuwe versie aan. 
 
-Voor elk soort woningwaardering zijn andere soorten details van toepassing. De details van de woningwaardering hebben betrekking op die eigenschappen van de OG Eenheid die van invloed zijn op de berekening van het aantal **Totaal aantal punten afgerond**. Het aantal punten op zijn beurt bepaalt de maximale huurprijs van de OG Eenheid. 
+Voor elk soort woningwaardering zijn andere soorten details van toepassing. De details van de woningwaardering hebben betrekking op die eigenschappen van de OG Eenheid die van invloed zijn op de berekening van het **Totaal aantal punten afgerond**. Het aantal punten op zijn beurt bepaalt de maximale huurprijs van de OG Eenheid. 
 
 Binnen de woningwaardering van een ***zelfstandige woonruimte*** kunt u de volgende details aanpassen: 
  - **Beschermd stads- of dorpsgezicht**: Zo ja, dan wordt de maximale huurprijs van de OG Eenheid automatisch verhoogd met het percentage dat is ingesteld in de **Woningwaarderingparameterset** die van toepassing is op de ingangsdatum van de Woningwaardering. 
@@ -147,11 +147,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNTAxNjMyLDE2NjM2NDk3MywtMTkwOD
-A4NTQ0MiwzMTAyOTc3OTksLTE5ODA0NTU5NTYsLTM1NzM5NTI0
-NywtMTMyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0MjMsND
-gxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMzNzYsLTU4NTQ3
-OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC01NzcyMDg0Mj
-EsNTQ2NDIwMjA1LC0xNjQ4NjQzMTQsLTY3NDE0MDMzMiwyMTEz
-NzIwNzM2XX0=
+eyJoaXN0b3J5IjpbNzMwMjk5MDYzLDU5MDUwMTYzMiwxNjYzNj
+Q5NzMsLTE5MDgwODU0NDIsMzEwMjk3Nzk5LC0xOTgwNDU1OTU2
+LC0zNTczOTUyNDcsLTEzMjQwNjc1OTksLTc0ODk3MzEwLC0xND
+c3NDM0NDIzLDQ4MTY2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAz
+Mzc2LC01ODU0NzkwNzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4Ni
+wtNTc3MjA4NDIxLDU0NjQyMDIwNSwtMTY0ODY0MzE0LC02NzQx
+NDAzMzJdfQ==
 -->
