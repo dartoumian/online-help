@@ -104,7 +104,7 @@ In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatie
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
  2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
- 3. Klik op **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
+ 3. Navigeer naar de **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid. 
  4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**. 
  5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**. 
 
@@ -118,10 +118,9 @@ Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren he
 Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stappen: 
  
 #### Aanvraag voor wijziging van administratief eigenaar invullen ####
- 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via
-    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid
- 3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
+ 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+ 2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
+ 3. Navigeer naar **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend. 
  4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een lege regel met het eenheidsnummer en het adres van de geselecteerde OG Eenheid wordt getoond. 
  5. Vul in de **Ingangsdatum wijziging**. Let op: deze datum moet ná vandaag liggen en op of ná de datum t/m wanneer de OG Eenheid is geprolongeerd. 
  6. In kolom **Nieuwe dimensiewaarde** selecteert u de nieuwe administratief eigenaar. 
@@ -147,11 +146,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjczMDYyODYsMTM0MDA2NzM0MywzOD
-A3ODQ2MTIsNzMwMjk5MDYzLDU5MDUwMTYzMiwxNjYzNjQ5NzMs
-LTE5MDgwODU0NDIsMzEwMjk3Nzk5LC0xOTgwNDU1OTU2LC0zNT
-czOTUyNDcsLTEzMjQwNjc1OTksLTc0ODk3MzEwLC0xNDc3NDM0
-NDIzLDQ4MTY2MDE0MSwxNDA0OTUyNzgxLC0xNjA4MjAzMzc2LC
-01ODU0NzkwNzAsMTIxMDUyNTY0MywtMTU4MzM0Mzg4NiwtNTc3
-MjA4NDIxXX0=
+eyJoaXN0b3J5IjpbMjU0MjgwMDAyLDEzNDAwNjczNDMsMzgwNz
+g0NjEyLDczMDI5OTA2Myw1OTA1MDE2MzIsMTY2MzY0OTczLC0x
+OTA4MDg1NDQyLDMxMDI5Nzc5OSwtMTk4MDQ1NTk1NiwtMzU3Mz
+k1MjQ3LC0xMzI0MDY3NTk5LC03NDg5NzMxMCwtMTQ3NzQzNDQy
+Myw0ODE2NjAxNDEsMTQwNDk1Mjc4MSwtMTYwODIwMzM3NiwtNT
+g1NDc5MDcwLDEyMTA1MjU2NDMsLTE1ODMzNDM4ODYsLTU3NzIw
+ODQyMV19
 -->
