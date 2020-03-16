@@ -33,10 +33,10 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor inspecties moeten worden gepland.
-3. Open de detailpagina van de verhuurmutatie. 
-4. Klik op **Navigeren** en kies voor **Inspectieafspraken**.
+3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken.
+4. Navigeer naar de **Inspectieafspraken**.
 5. Selecteer de eerste inspectie met **Status** 'Nieuw' die u wilt plannen.
-6. Klik op **Inspectieafspraak plannen**. Pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
+6. Klik op **Inspectieafspraak plannen**, waarna de pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
 7. In veld **Datum** selecteert u de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip.
 8. Selecteer de inspecteur voor wie u de inspectie wilt plannen, vink de begintijd aan waarop u de inspectie wilt plannen en klik op **OK**.
 9. Herhaal actie 2 t/m 5 voor elke volgende inspectie die u wilt plannen.
@@ -53,5 +53,5 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4OTQwOTM0LDE3NjY3OTIyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzQ2NzIzNjksMTc2Njc5MjI2M119
 -->
