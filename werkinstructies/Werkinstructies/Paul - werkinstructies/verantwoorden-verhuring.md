@@ -37,9 +37,11 @@ Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Veran
  14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toont het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup-pagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt u de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
  15. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd. 
  16. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn, maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**. 
+ 
+**Nieuwe versie verantwoording verhuring**
  Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Als het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een _nieuwe versie_ van de verantwoording verhuring aanmaken. Dit doet u als volgt:
- 17. Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Als het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een *nieuwe versie* van de verantwoording verhuring aanmaken. Dit doet u als volgt: 
- 19. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
+1. Dit doet u als volgt: 
+Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
  20. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
  21. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
  22. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**. 
@@ -77,7 +79,7 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDAwMDQ0Miw5Mzg2NjUyMDQsLTEzND
+eyJoaXN0b3J5IjpbMTQ2NjEwMzk3Nyw5Mzg2NjUyMDQsLTEzND
 IzMzA2MDUsMTA3MTY5Nzc1MSwtMjMzNzMxNjQsNzYxMTI3NzAw
 LC0xNzEyMjc4ODc2LC0xNzM5MTkzNDQ5LDEyMDA4NDAwMDgsLT
 E1NDM0OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkzMDMxLC0xNjUw
