@@ -18,7 +18,7 @@ Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Veran
  2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
  3. Navigeer naar **Verhuringverantwoording**.  Een pagina met de details van de verantwoording verhuring verschijnt. Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Verantwoording verhuring**.  Dan verschijnt de genoemde pagina alsnog. 
  4. Op tabblad **OGE-gegevens** worden gegevens over de OG Eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat op dit tabblad weergegeven. 
- 5. Op tabblad **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden.
+ 5. Op het tabbladdeel getiteld **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden.
  6. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze dan aan.
 >Gegevens aanpassen kunt u op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden.
 >**Let op:** de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom geldt dit *wel*. 
@@ -77,11 +77,11 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIzMzA2MDUsMTA3MTY5Nzc1MSwtMj
-MzNzMxNjQsNzYxMTI3NzAwLC0xNzEyMjc4ODc2LC0xNzM5MTkz
-NDQ5LDEyMDA4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1MDEyMT
-EsNzUxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTcz
-MzgyNjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0MDI5Mj
-k3LDEyMzg0NTA4NzMsMjEyNDg0OTgyOSwtMTQ2ODcxNzYzNSwt
-MjA4NjA4MzI3Ml19
+eyJoaXN0b3J5IjpbOTM4NjY1MjA0LC0xMzQyMzMwNjA1LDEwNz
+E2OTc3NTEsLTIzMzczMTY0LDc2MTEyNzcwMCwtMTcxMjI3ODg3
+NiwtMTczOTE5MzQ0OSwxMjAwODQwMDA4LC0xNTQzNDkzMjMyLC
+0xMDExNTAxMjExLDc1MTE5MzAzMSwtMTY1MDEzMDgzNCwzMTM4
+NDQ4NjgsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0Nz
+csLTM3NDAyOTI5NywxMjM4NDUwODczLDIxMjQ4NDk4MjksLTE0
+Njg3MTc2MzVdfQ==
 -->
