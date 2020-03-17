@@ -32,17 +32,17 @@ Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Veran
 **Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
 **AOW-gerechtigd** =  indicatie of de oudste bewoner op de ingangsdatum van het contract de AOW-gerechtigde leeftijd heeft bereikt. 
 **Getoetst huishoudinkomen** =  som van het **Getoetste inkomen** van alle betrokken personen. 
- 16. Als de OG Eenheid wordt toegewezen aan een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden op tabblad **Huurdergegevens**. 
- 17. Op basis van de gegevens die zijn geregistreerd of berekend op tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst - en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
- 18. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toont het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup-pagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
- 19. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd. 
- 20. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**. 
+ 12. Als de OG Eenheid wordt toegewezen aan een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden op tabblad **Huurdergegevens**. 
+ 13. Op basis van de gegevens die zijn geregistreerd of berekend op tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst - en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
+ 14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toont het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup-pagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt u de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
+ 15. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd. 
+ 16. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn, maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**. 
  
-Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Indien het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een *nieuwe versie* van de verantwoording verhuring aanmaken. Dit doet u als volgt: 
- 22. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
- 23. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
- 24. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
- 25. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**. 
+Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Als het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een *nieuwe versie* van de verantwoording verhuring aanmaken. Dit doet u als volgt: 
+ 17. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
+ 19. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
+ 20. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
+ 21. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**. 
  
 
 ## Monitoren wettelijke normen 
@@ -77,11 +77,11 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODYzMTk0LDkzODY2NTIwNCwtMTM0Mj
-MzMDYwNSwxMDcxNjk3NzUxLC0yMzM3MzE2NCw3NjExMjc3MDAs
-LTE3MTIyNzg4NzYsLTE3MzkxOTM0NDksMTIwMDg0MDAwOCwtMT
-U0MzQ5MzIzMiwtMTAxMTUwMTIxMSw3NTExOTMwMzEsLTE2NTAx
-MzA4MzQsMzEzODQ0ODY4LC0xNzMzODI2MzEzLC0yODQxNDg1Mj
-UsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIzODQ1MDg3MywyMTI0
-ODQ5ODI5XX0=
+eyJoaXN0b3J5IjpbLTE3MjA0MTcwNzgsOTM4NjY1MjA0LC0xMz
+QyMzMwNjA1LDEwNzE2OTc3NTEsLTIzMzczMTY0LDc2MTEyNzcw
+MCwtMTcxMjI3ODg3NiwtMTczOTE5MzQ0OSwxMjAwODQwMDA4LC
+0xNTQzNDkzMjMyLC0xMDExNTAxMjExLDc1MTE5MzAzMSwtMTY1
+MDEzMDgzNCwzMTM4NDQ4NjgsLTE3MzM4MjYzMTMsLTI4NDE0OD
+UyNSwtNjEzMDY0NzcsLTM3NDAyOTI5NywxMjM4NDUwODczLDIx
+MjQ4NDk4MjldfQ==
 -->
