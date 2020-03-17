@@ -13,7 +13,7 @@ In deze stap bereidt u de publicatie van de beschikbare eenheid voor. Deze voorb
  3. Navigeer naar de **Beschikbare OG Eenheid**.  Een pagina verschijnt waarop alle details van de beschikbare OG Eenheid worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd.  Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Voorbereiden beschikbare OG Eenheid**.  Dan verschijnt de genoemde pagina alsnog.
  4. Op tabblad **Algemeen** wordt in veld **WRV-systeemcode** het woonruimteverdeelsysteem getoond waarin de beschikbare eenheid zal worden gepubliceerd. Het systeem selecteert het WRV-systeem automatisch aan de hand van de **Divisie** van de OG Eenheid. 
  5. Controleer de details op tabblad **Adres** van de beschikbare eenheid. Als deze details niet juist of volledig zijn, navigeer dan naar **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen of aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
- 6. Klik op **Voorbereiden beschikbare OG Eenheid**. Controleer de details op tabblad **OG-Eenheid-eigenschappen**. Dit tabblad bevat enkelvoudige en meervoudige VERA-eigenschappen. 
+ 6. Controleer de details op tabblad **OG-Eenheid-eigenschappen**. Dit tabblad bevat enkelvoudige en meervoudige VERA-eigenschappen. 
  7. **Enkelvoudige VERA-eigenschappen** zijn eigenschappen waarbij elke OG Eenheid maximaal één waarde kan hebben. Dit betreft de details **VERA-eenheidssoort** t/m **VERA-energielabel**.  Als deze enkelvoudige VERA-eigenschappen niet juist of volledig zijn, navigeer dan naar **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen resp. aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
  8. **Meervoudige VERA-eigenschappen** zijn eigenschappen waarbij elke OG Eenheid 0, 1 of meer waarden kan hebben. Dit betreft de details **VERA-toegankelijksheidslabel** t/m  **VERA-eenheidenergievoorziening**.  Als deze meervoudige VERA-eigenschappen niet juist of volledig zijn, klik dan op **Navigeren** en **VERA-eigenschappen**. De pagina met meervoudige VERA-eigenschappen wordt geopend waarop u de onjuiste of ontbrekende details kunt aanpassen resp. aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, worden verzameld die naar het externe woonruimteverdeelsysteem worden verstuurd. 
  9. Controleer de details in hhet adres van de beschikbare eenheid. Als het adres niet juist of volledig is, klik dan op **Navigeren** en **OG Eenheid**. De onroerend goed eenheidkaart wordt geopend waarop u het adres kan aanpassen of aanvullen. Klik op **Sluiten**. U keert terug naar de pagina met details van de beschikbare OG Eenheid, waarop de gegevens automatisch zijn bijgewerkt. 
@@ -51,7 +51,7 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTU1OTU1NCwxMDg3MTE5Mjk0LDkxNj
-IyNDQ3MSwxMzUzMjk0ODU0LDE3MjE1OTc5NzgsMjkyNzMwMjg2
-LDkwMzcxNzEzNywtMzU3NTc3NTI5XX0=
+eyJoaXN0b3J5IjpbNjkyNjU3NDcxLDExNjE1NTk1NTQsMTA4Nz
+ExOTI5NCw5MTYyMjQ0NzEsMTM1MzI5NDg1NCwxNzIxNTk3OTc4
+LDI5MjczMDI4Niw5MDM3MTcxMzcsLTM1NzU3NzUyOV19
 -->
