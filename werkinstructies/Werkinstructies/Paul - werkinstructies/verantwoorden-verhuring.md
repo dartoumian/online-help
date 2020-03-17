@@ -71,15 +71,14 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 2. Vul in veld **Accountantscontroledatum** de datum in waarop de accountantscontrole heeft plaatsgevonden. 
 3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum voor het selecteren van de verantwoordingen die moeten worden opgeschoond. Alle verantwoordingen worden opgeschoond waarvan de laatste versie als zijnde definitief is gemarkeerd en waarvan de huurcontractingangsdatum <= de ingevulde opschoningspeildatum. 
 4. Geef aan of u de verantwoordingen verhuringen waarvan de laatste versie is aangemerkt als zijnde incompleet dossier, ook moeten worden opgeschoond. 
-5. Klik op **OK**. 
-6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
+5. Klik op **OK**. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjcyMjgwMiwxNTAzNjc1MzI1LDE0Nj
-YxMDM5NzcsOTM4NjY1MjA0LC0xMzQyMzMwNjA1LDEwNzE2OTc3
-NTEsLTIzMzczMTY0LDc2MTEyNzcwMCwtMTcxMjI3ODg3NiwtMT
-czOTE5MzQ0OSwxMjAwODQwMDA4LC0xNTQzNDkzMjMyLC0xMDEx
-NTAxMjExLDc1MTE5MzAzMSwtMTY1MDEzMDgzNCwzMTM4NDQ4Nj
-gsLTE3MzM4MjYzMTMsLTI4NDE0ODUyNSwtNjEzMDY0NzcsLTM3
-NDAyOTI5N119
+eyJoaXN0b3J5IjpbMjY5NTk5NjUwLDE1MDM2NzUzMjUsMTQ2Nj
+EwMzk3Nyw5Mzg2NjUyMDQsLTEzNDIzMzA2MDUsMTA3MTY5Nzc1
+MSwtMjMzNzMxNjQsNzYxMTI3NzAwLC0xNzEyMjc4ODc2LC0xNz
+M5MTkzNDQ5LDEyMDA4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1
+MDEyMTEsNzUxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OC
+wtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0
+MDI5Mjk3XX0=
 -->
