@@ -4,7 +4,7 @@ Elke toewijzing van een verhuurbare eenheid aan een nieuwe huurder moet worden v
 
 Gedurende het kalenderjaar moet worden gemonitord of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen. 
 
-Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gecontroleerd door de accountant. Nadat deze controle is afgerond, moeten de privacy-gevoelige gegevens worden opgeschoond uit de verantwoording verhuringen van het voorgaande kalenderjaar.   
+Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gecontroleerd door de accountant. Nadat deze controle is afgerond, moeten de privacygevoelige gegevens worden opgeschoond uit de verantwoording verhuringen van het voorgaande kalenderjaar.   
 
 
 ## Processchema
@@ -16,35 +16,30 @@ Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Veran
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
  2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
- 3. Navigeer naar **Verhuringverantwoording**.  Een pagina met de details van de verantwoording verhuring verschijnt. Mocht u in plaats daarvan een foutmelding krijgen, kies dan eerst voor **Verhuuraanbieding** en klik daarna op **Verantwoording verhuring**.  Dan verschijnt de genoemde pagina alsnog. 
- 4. Op tabblad **OGE-gegevens** worden gegevens over de OG Eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat op dit tabblad weergegeven. 
+ 3. Navigeer naar **Verhuringverantwoording**.  ieing** en i daan  erantwoording verhuring verschijnt. Mocht u in plaats daarvan een foutmelding krijgen, kies dan Navigee nr **Verhurneding** en klik daarna op **VeranDan verschijnt de genoemde pagina alsnog. 
+.O tabblad **OGE-gegevens** worden gegevens over de ehe en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat  dit tabblad weergegeven. 
  5. Op het tabbladdeel getiteld **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden.
- 6. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze dan aan.
->Gegevens aanpassen kunt u op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden.
->**Let op:** de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom geldt dit *wel*. 
- 7. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring, maar die u niet als contact binnen het huishouden wilt registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het **Getoetst huishoudinkomen** en/of als de persoon de oudste persoon binnen het huishouden is.  
- 8. Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wilt registreren. Een extra contact dat wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken persoon binnen de verantwoording verhuring toegevoegd (mits de persoon binnen het huishouden is toegevoegd met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring). 
+. Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze dan aan.
+>Gegevens aanpassen kunt u op twee plekken doen: hier (binnen de verantwoording verhuring) of bij de desbetreffende persoon (contact) binnen het huishouden.Let op:** de aanpassingen of aanvulling die u hier doorvoert, worden *niet* automatisch overgenomen bij de desbetreffende persoon in het huishouden. Andersom geldt dit *wel*dt dit *wel*.  7. Voeg eventueel één of meer extra betrokken personen toe binnen de verantwoording verhuring. Doe dit voor elke persoon die wel betrokken is bij de verantwoording verhuring, maar die u niet als contact binnen het huishouden wilt registreren. Een persoon is betrokken bij de verantwoording verhuring als diens inkomen moet meetellen in de berekening van het **Getoetst huishoudinkomen** en/of als de persoon de oudste persoon binnen het huishouden is.  
+  Voeg eventueel één of meer extra contacten toe binnen het huishouden. Doe dit voor elke persoon die zowel betrokken is bij de verantwoording verhuring als die u als contact binnen het huishouden wilt registreren. Een extra contact d wordt toegevoegd binnen het huishouden wordt automatisch ook als betrokken persoon binnen de verantwoording verhuring toegevoegd (mits de persoon binnen het huishouden is toegevoegd met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring). 
  9. Selecteer een **Toetsingsgrondslag** bij elke betrokken persoon met een inkomen > 0,00 euro. 
- 10. Op tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van de **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
+ 10.  tabblad **Extra betrokken personen** kunt u het aantal extra personen invullen dat moet meetellen in de berekening van e **Huishoudengrootte**.  Als u hier een aantal > 0 invult, selecteer dan ook een reden in veld **Extrapersonenreden**. 
  11. Op basis van de gegevens van alle betrokken personen en het aantal extra betrokken personen berekent het systeem automatisch de waarde van de volgende velden:
- **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*. 
- **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen 
-**Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
+ **Aantal contractpartners** =  aantal betrokken personen van wie **Rol** = *Contractant*.  **Huishoudengrootte** =  aantal betrokken personen + aantal extra betrokken personen **Geboortedatum oudste bewoner** = kleinste (d.w.z. verst in het verleden) geboortedatum van alle betrokken personen 
 **AOW-gerechtigd** =  indicatie of de oudste bewoner op de ingangsdatum van het contract de AOW-gerechtigde leeftijd heeft bereikt. 
 **Getoetst huishoudinkomen** =  som van het **Getoetste inkomen** van alle betrokken personen. 
- 12. Als de OG Eenheid wordt toegewezen aan een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden op tabblad **Huurdergegevens**. 
- 13. Op basis van de gegevens die zijn geregistreerd of berekend op tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst - en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
- 14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toont het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popup-pagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt u de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
+ 12. Als de OG Eenheid wordt toegewezen aan een rechtspersoon of aan een speciale doelgroep, kunt u dat registreren in de desbetreffende velden  tabblad **Huurdergegevens**. 
+ 13. Op basis van de gegevens die zijn geregistreerd of berekend  tabbladen **OGE-gegevens** en **Huurdergegevens** bepaalt het systeem automatisch per toets (passendheidstoets en staatssteunregeling) of toewijzing al dan niet moet worden getoetst en zo nee, waarom niet, en zo ja, wat het resultaat is van de toets: passend of niet. Als de toewijzing passend is, dan toont het systeem de categorie op grond waarvan de toewijzing passend is. Als de toewijzing niet passend is, dan toont het systeem de reden waarom hij niet passend is. 
+ 14. Zolang niet alle gegevens zijn geregistreerd die nodig zijn om het resultaat van de toetsing te kunnen bepalen, dan toont het systeem het veld genaamd **Aantal fouten** met daarachter het aantal fouten. Klik op dit aantal en het systeem toont een popuppagina met een nadere beschrijving van de ontbrekende gegevens. Zolang er nog fouten aanwezig zijn, kunt u de verantwoording niet definitief maken (tenzij u de indicatie **Incompleet dossier** aanvinkt). 
  15. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd. 
  16. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn, maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**. 
  
-**Nieuwe versie verantwoording verhuring**
- Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Als het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een _nieuwe versie_ van de verantwoording verhuring aanmaken. Dit doet u als volgt:
-1. Dit doet u als volgt: 
-Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
+**Nieuwe versie verantwoording verhuring**Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen.  het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een nieuwe versie van de verantwoording verhuring aanmaken. Dit doet u als volgt:
+ 17. Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Als het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een _*nieuwe versie_* van de verantwoording verhuring aanmaken. Dit doet u als volgt:
+1. Dit doet u als volgt:Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond). 
  20. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
- 21. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
- 22. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**. 
+. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan. 
+. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**. 
  
 
 ## Monitoren wettelijke normen 
@@ -79,11 +74,11 @@ In deze stap schoont u de privacy gevoelige gegevens uit de verantwoordingen ver
 6. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjEwMzk3Nyw5Mzg2NjUyMDQsLTEzND
-IzMzA2MDUsMTA3MTY5Nzc1MSwtMjMzNzMxNjQsNzYxMTI3NzAw
-LC0xNzEyMjc4ODc2LC0xNzM5MTkzNDQ5LDEyMDA4NDAwMDgsLT
-E1NDM0OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkzMDMxLC0xNjUw
-MTMwODM0LDMxMzg0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4NT
-I1LC02MTMwNjQ3NywtMzc0MDI5Mjk3LDEyMzg0NTA4NzMsMjEy
-NDg0OTgyOV19
+eyJoaXN0b3J5IjpbMTUwMzY3NTMyNSwxNDY2MTAzOTc3LDkzOD
+Y2NTIwNCwtMTM0MjMzMDYwNSwxMDcxNjk3NzUxLC0yMzM3MzE2
+NCw3NjExMjc3MDAsLTE3MTIyNzg4NzYsLTE3MzkxOTM0NDksMT
+IwMDg0MDAwOCwtMTU0MzQ5MzIzMiwtMTAxMTUwMTIxMSw3NTEx
+OTMwMzEsLTE2NTAxMzA4MzQsMzEzODQ0ODY4LC0xNzMzODI2Mz
+EzLC0yODQxNDg1MjUsLTYxMzA2NDc3LC0zNzQwMjkyOTcsMTIz
+ODQ1MDg3M119
 -->
