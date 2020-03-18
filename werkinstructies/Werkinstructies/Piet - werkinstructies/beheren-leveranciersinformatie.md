@@ -1,6 +1,6 @@
-# Beëindigen betalingsregeling
+# Beheren leveranciersinformatie
 
-In dit werkproces worden nieuwe leveranciers aangemaakt en wordt gewijzigde informatie met betrekking tot bestaande leveranciers aangepast.
+In dit werkproces worden nieuwe leveranciers aangemaakt en gewijzigde informatie met betrekking tot bestaande leveranciers aangepast.
 
 ## Processchema
 
@@ -60,5 +60,6 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTg3MTM0LC0xMjQyOTk5MjE3XX0=
+eyJoaXN0b3J5IjpbMTUxMTE1MzMyNCwtOTE5ODcxMzQsLTEyND
+I5OTkyMTddfQ==
 -->
