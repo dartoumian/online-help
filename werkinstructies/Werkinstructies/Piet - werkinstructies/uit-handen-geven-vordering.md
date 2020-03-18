@@ -12,9 +12,10 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Navigeer via de menu-items naar  **Deurwaarderdossiers**, waarna de gelijknamige  pagina opent.
 3. Klik op **Nieuw** waarna een nieuw deurwaarderdossier voor de klant wordt aangemaakt. 
-4. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
-5. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier. 
-6. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+4. Vul het veld **Eenheidsnr.**. 
+5. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
+6. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier. 
+7. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 ## Controleren deurwaarderdossier
 
@@ -78,10 +79,10 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzEyNjYxLC00MjMzMzQzOTcsLTM5Mz
-UwNzY1NSw2MzA1NTUwNTgsMTYxOTkwNzI5LC0xMzA5MDEwMTYz
-LC0xOTU4NjYwMzM3LDk2MDcxMzkwMSwtMTE1NDYxNzU4MiwtNT
-EwNDg3NDI1LC02NzcxMzMyMjIsMTY1NDA3MDA1OCwyMjk1OTk1
-MzgsLTk4NTYyMDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ
-==
+eyJoaXN0b3J5IjpbNDYyMzI3NTk2LDE2NTMxMjY2MSwtNDIzMz
+M0Mzk3LC0zOTM1MDc2NTUsNjMwNTU1MDU4LDE2MTk5MDcyOSwt
+MTMwOTAxMDE2MywtMTk1ODY2MDMzNyw5NjA3MTM5MDEsLTExNT
+Q2MTc1ODIsLTUxMDQ4NzQyNSwtNjc3MTMzMjIyLDE2NTQwNzAw
+NTgsMjI5NTk5NTM4LC05ODU2MjAyNzgsMjA4OTEwMjA2MCwtMT
+c0MTM3MTI1XX0=
 -->
