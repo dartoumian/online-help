@@ -28,7 +28,7 @@ U kunt memoriaalregels aanmaken of bewerken in het diversendagboek.
 	- **Boekingsdatum**
 	- **Documentnr.**: Dit wordt in de meeste gevallen automatisch aangemaakt. 
 	 In de regels:
-	- **RC Code**: Kies uit Grootboekrekening/klant/leverancier
+	- **Rekeningsoort**: Kies uit Grootboekrekening/klant/leverancier
 	- **Rekeningnummer**: Het grootboekrekeningnummer \ klantnummer \ leveranciersnummer. In het geval van een service en verbruik correctie kunt u dit veld leeg laten. 
 	- **Kostencode**: In geval van service en verbruik vult u hier de kostencode. 
 	- **Clusternr.**: Vul wanneer van toepassing. Wanneer het veld **Kostencode** gevuld is, is dit veld verplicht. 
@@ -58,6 +58,6 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek wat u wilt boeken klik op **OK**.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam**, de batch waarin u de regels wilt boeken en klik op **Boeken**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI4MDc4OCw0NzYyMjA2MjIsLTExMz
-Q5MDI2OF19
+eyJoaXN0b3J5IjpbMTU0Mzc0MjY2OCwxNTg3MjgwNzg4LDQ3Nj
+IyMDYyMiwtMTEzNDkwMjY4XX0=
 -->
