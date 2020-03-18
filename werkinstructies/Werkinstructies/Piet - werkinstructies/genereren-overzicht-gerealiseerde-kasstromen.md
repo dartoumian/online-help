@@ -6,7 +6,7 @@ In dit werkproces wordt de gerealiseerde cashflow toegewezen aan de dVi-categori
 
 De eerste stap is het genereren van het overzicht voor gerealiseerde kasstromen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Gerealiseerde cashflow** en klik op **Gerealiseerde cashflow voorstellen**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Gerealiseerde cashflow** en klik op **Gerealiseerde cashflowvoorstellen**. 
 2. Vul op de pagina **Gerealiseerde cashflow voorstellen** de volgende velden:
 	- **Boekingsdatum vanaf**
 	- **Boekingsdatum t/m**
@@ -37,6 +37,6 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroom categorie g
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is. 
 	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODgyNTYxNSwtODg2NzYzNDk1LDkzMT
+eyJoaXN0b3J5IjpbLTU1NjEwNzQyNSwtODg2NzYzNDk1LDkzMT
 U3MDcwNV19
 -->
