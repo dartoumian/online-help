@@ -5,7 +5,7 @@ In dit werkproces wordt het overzicht van de te verwachte kasstromen gegenereerd
 
 ## Genereren kasstroom prognoseposten
 
-De eerste stap is het genereren van de kasstroom prognoseposten zodat deze in een latere stap gebruikt kunnen worden in rapportages. 
+De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in een latere stap gebruikt kunnen worden in rapportages. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Cashflowprognoses**.
 2. Klik op **Nieuw**, een nieuwe **cashflowprognosekaart** wordt geopend. Vul de volgende velden:
@@ -38,5 +38,6 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTM1Nzk4LDM2ODE3NDk0OV19
+eyJoaXN0b3J5IjpbMTc5NjgwODU1MCwyMTI5MzU3OTgsMzY4MT
+c0OTQ5XX0=
 -->
