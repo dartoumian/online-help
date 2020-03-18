@@ -19,9 +19,9 @@ De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in e
 4.  Klik op **Prognoses van financieringen laden**. De cashflowposten vanuit de projectenmodulen worden opgehaald.
 5. Klik op **Cashflowvoorstel**. De gelijknamige pagina  wordt geopend. Kies nu voor het proces **Voorstelregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Vul de volgende waarden:
 	- **Cashflowprognose:** Selecteer het bij stap 2 aangemaakte voorstel.
-	- **Liquide fondsen:** Ja
-	- **Cashflow handmatige opbrengsten:** Ja
-	- **Cashflow handmatige kosten:** Ja
+	- **Liquide middelen:** 'Aan'.
+	- **Cashflow handmatige opbrengsten:** 'Aan'.
+	- **Cashflow handmatige kosten:** 'Aan'.
 	- **Budget:** Ja
 	- **Budget:** Selecteer het budget dat u wilt gebruiken voor deze cashflowprognose
 	- Selecteer **OK** om de cashflowvoorstelregels aan te maken. U keert terug naar de pagina **Cashflowvoorstel**. De regels tonen de voorgestelde cashflowposten.
@@ -38,6 +38,7 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzU1NzA0NywxNTY4NzA3NjYsLTE2Nz
-gzOTk0NywyMTI5MzU3OTgsMzY4MTc0OTQ5XX0=
+eyJoaXN0b3J5IjpbNzM3ODE2NTg3LC0zNDM1NTcwNDcsMTU2OD
+cwNzY2LC0xNjc4Mzk5NDcsMjEyOTM1Nzk4LDM2ODE3NDk0OV19
+
 -->
