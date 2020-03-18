@@ -18,12 +18,12 @@ De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in e
 3. Kies voor de actie **Prognoses van projecten laden**. De cashflowposten vanuit de projectenmodulen worden opgehaald.
 4.  Klik op **Prognoses van financieringen laden**. De cashflowposten vanuit de projectenmodulen worden opgehaald.
 5. Klik op **Cashflowvoorstel**. De gelijknamige pagina  wordt geopend. Kies nu voor het proces **Voorstelregels voorstellen**, waarna de gelijknamige pagina wordt geopend. Vul de volgende waarden:
-	- **Cashflowprognose:** Selecteer het bij stap 2 aangemaakte voorstel.
-	- **Liquide middelen:** 'Aan'.
-	- **Cashflow handmatige opbrengsten:** 'Aan'.
-	- **Cashflow handmatige kosten:** 'Aan'.
-	- **Budget:** Ja
-	- **Budget:** Selecteer het budget dat u wilt gebruiken voor deze cashflowprognose
+	- **Cashflowprognose**: Selecteer het bij stap 2 aangemaakte voorstel.
+	- **Liquide middelen**: 'Aan'.
+	- **Cashflow handmatige opbrengsten**: 'Aan'.
+	- **Cashflow handmatige kosten**: 'Aan'.
+	- **Budget**: 'Aan'.
+	- **Budget**: Selecteer het budget dat u wilt gebruiken voor deze cashflowprognose.
 	- Selecteer **OK** om de cashflowvoorstelregels aan te maken. U keert terug naar de pagina **Cashflowvoorstel**. De regels tonen de voorgestelde cashflowposten.
 6. Selecteer **Registreren** op de pagina **Cashflowvoorstel** om de voorgestelde cashflowposten definitief te maken. De posten zijn overgezet naar de tabel **Cashflowprognoseposten** en kunnen gebruikt worden in rapportages.
 
@@ -31,14 +31,14 @@ De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in e
 
 Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelposten gegenereerd worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **rapportageschema's**. Selecteer het rapportageschema voor kasstroom prognoses en klik op **Overzicht**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Rapportageschema's**. Selecteer het rapportageschema voor kasstroom prognoses en klik op **Overzicht**. 
 2. Vul de volgende velden:
 	- **Weergaven per:** Maand
 	- **Datum Filter:** Eerste rapportage maand. Bijvoorbeeld 01-01-2010..31-01-2020
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3ODE2NTg3LC0zNDM1NTcwNDcsMTU2OD
-cwNzY2LC0xNjc4Mzk5NDcsMjEyOTM1Nzk4LDM2ODE3NDk0OV19
+eyJoaXN0b3J5IjpbMzI1NDAzNDAsLTM0MzU1NzA0NywxNTY4Nz
+A3NjYsLTE2NzgzOTk0NywyMTI5MzU3OTgsMzY4MTc0OTQ5XX0=
 
 -->
