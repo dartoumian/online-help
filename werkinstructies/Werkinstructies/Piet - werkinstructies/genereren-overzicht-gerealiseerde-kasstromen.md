@@ -21,7 +21,7 @@ Er zal altijd een deel van de posten zijn dat niet toegewezen kan worden aan een
 2. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** gevuld is, betekent dit dat de kasstroom wel gespecificeerd is op een grootboekrekening, maar dat de grootboekrekening nog niet gekoppeld is aan een kasstroomcategorie. 
 	- Navigeer naar de desbetreffende grootboekrekening en koppel de juiste kasstroomcategorie. 
 	- Voer hierna de processtap **[Genereren overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)** opnieuw uit. 
-3. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** niet gevuld is, betekent dit dat de kasstroom niet gespecificeerd is. Dit betekent dat een betaling wel op een leverancier of klant geboekt is, maar niet (geheel) vereffend is met een openstaande klant- of leverancierspost. Voor de posten met relatief hoge bedragen zou u kunnen onderzoeken waarom de vereffening nog niet heeft plaatsgevonden. De meeste posten zullen echter in de loop van de tijd vereffend worden. Wanneer u posten heeft vereffend dient u het overzicht voor gerealiseerde kasstromen opnieuw te genereren (**[Genereren overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)**).
+3. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** *niet* gevuld is, betekent dit dat de kasstroom niet gespecificeerd is. Dit betekent dat een betaling wel op een leverancier of klant geboekt is, maar niet (geheel) vereffend is met een openstaande klant- of leverancierspost. Voor de posten met relatief hoge bedragen zou u kunnen onderzoeken waarom de vereffening nog niet heeft plaatsgevonden. De meeste posten zullen echter in de loop van de tijd vereffend worden. Wanneer u posten heeft vereffend dient u het overzicht voor gerealiseerde kasstromen opnieuw te genereren (**[Genereren overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)**).
 
 ## Controleren posten ‘Nog te analyseren’
 
@@ -37,6 +37,6 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie ge
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is. 
 	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTA5NzY5Niw0MDI3OTUzNjQsLTg4Nj
+eyJoaXN0b3J5IjpbLTEyOTIxMzY4NCw0MDI3OTUzNjQsLTg4Nj
 c2MzQ5NSw5MzE1NzA3MDVdfQ==
 -->
