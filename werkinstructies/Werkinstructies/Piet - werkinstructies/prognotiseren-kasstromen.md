@@ -9,8 +9,8 @@ De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in e
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Cashflowprognoses**.
 2. Klik op **Nieuw**, een nieuwe **cashflowprognosekaart** wordt geopend. Vul de volgende velden:
-	- **Nr.:** Pas het nummer aan zodat duidelijk is voor welke periode de prognose aangemaakt is. Bijvoorbeeld PROG-0119-1219 voor de periode januari 2019 tot december 2019
-	- **Omschrijving:** Geen een omschrijving mee die waaruit blijkt op welke periode de prognose betrekking heeft
+	- **Nr.**: Pas het nummer aan, zodat duidelijk is voor welke periode de prognose aangemaakt is. Bijvoorbeeld PROG-0119-1219 voor de periode januari 2019 tot december 2019.
+	- **Omschrijving**: Geef een omschrijving mee waaruit blijkt op welke periode de prognose betrekking heeft.
 	- **Grootboekbudget van:** Datum vanaf wanneer grootboekbudgetten meegenomen moeten worden
 	- **Grootboekbudget van:** Grootboekbudget van + 12 maanden
 	- **Handmatige betalingen van:** Datum vanaf wanneer project- en leningen Cashflow meegenomen moeten worden
@@ -38,6 +38,6 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjgwODU1MCwyMTI5MzU3OTgsMzY4MT
+eyJoaXN0b3J5IjpbLTUyMzM2MzM1NCwyMTI5MzU3OTgsMzY4MT
 c0OTQ5XX0=
 -->
