@@ -17,7 +17,7 @@ De eerste stap is het genereren van het overzicht voor gerealiseerde kasstromen.
 
 Er zal altijd een deel van de posten zijn dat niet toegewezen kan worden aan een specifieke categorie. Deze posten komen terecht in de categorie ‘Nog nader te specificeren’. Deze posten dient u te analyseren. 
 
-1. Ga naar de regel waarbij het vinkje **Initiële categorie** aan staat. Klik op het blauwe bedrag om te zien welke posten gespecificeerd zijn binnen deze categorie. 
+1. Ga op de pagina **Gerealiseerde cashflow** naar de regel waarbij het vinkje **Initiële categorie** aan staat. Klik op het blauwe bedrag om te zien welke posten gespecificeerd zijn binnen deze categorie. 
 2. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** gevuld is, betekend dit dat de kasstroom wel gespecificeerd is op een grootboekrekening maar dat de grootboekrekening nog niet gekoppeld is aan een kasstroom categorie. 
 	- Navigeer naar de desbetreffende grootboekrekening en koppel de juiste kasstroom categorie. 
 	- Voer hierna de processtap **[Generen overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)** opnieuw uit. 
@@ -37,6 +37,6 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroom categorie g
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is. 
 	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MzI5OTIxLC04ODY3NjM0OTUsOTMxNT
-cwNzA1XX0=
+eyJoaXN0b3J5IjpbNzIwNzE0MzksLTg4Njc2MzQ5NSw5MzE1Nz
+A3MDVdfQ==
 -->
