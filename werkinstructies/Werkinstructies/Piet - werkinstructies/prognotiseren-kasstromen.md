@@ -1,4 +1,4 @@
-# Periodiek factureren huurovereenkomst
+# Prognotiseren kasstromen
 
 In dit werkproces wordt het overzicht van de te verwachte kasstromen gegenereerd en geanalyseerd.
 
@@ -38,5 +38,5 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MTc0OTQ5XX0=
+eyJoaXN0b3J5IjpbMjEyOTM1Nzk4LDM2ODE3NDk0OV19
 -->
