@@ -8,12 +8,12 @@ In dit werkproces worden nieuwe leveranciers aangemaakt en gewijzigde informatie
 ## Aanmaken contact
 Voordat u de leverancierskaart aan kunt maken dient u een contact aan te maken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Contacten** en klik op **Nieuw | + Nieuw**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Contacten** en klik op **Nieuw | + Nieuw**. 
 2. Een nieuwe contactkaart wordt geopend. Vul op deze pagina de volgende velden:
 	- **Naam**: Naam van de leverancier.
-	- **Bedrijf. Persoon**: 'Huishouden/Bedrijf'
+	- **Bedrijf, Persoon**: 'Huishouden/Bedrijf'
 	- **Aanhefcode**: BLANCO
-	- **Adres gegevens**
+	- **Adresgegevens**
 	- **Telefoon**: Primaire telefoonnummer
 	- **E-mail velden**
 	- **Btw-nummer**: Btw-nummer
@@ -60,6 +60,6 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTE1MzMyNCwtOTE5ODcxMzQsLTEyND
-I5OTkyMTddfQ==
+eyJoaXN0b3J5IjpbODMxMTgxODMsMTUxMTE1MzMyNCwtOTE5OD
+cxMzQsLTEyNDI5OTkyMTddfQ==
 -->
