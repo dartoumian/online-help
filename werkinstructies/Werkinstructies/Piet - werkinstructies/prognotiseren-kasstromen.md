@@ -36,9 +36,9 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Weergaven per:** 'Maand'.
 	- **Datum Filter:** Eerste rapportagemaand, bijvoorbeeld 01-01-2010..31-01-2020.
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
-	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
+	- Het schema toont per kasstroomcategorie de **Mutatie per maand**. De onderste twee regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5OTE2MDU0LC0zNDM1NTcwNDcsMTU2OD
+eyJoaXN0b3J5IjpbNDc2MjI0NTA1LC0zNDM1NTcwNDcsMTU2OD
 cwNzY2LC0xNjc4Mzk5NDcsMjEyOTM1Nzk4LDM2ODE3NDk0OV19
 
 -->
