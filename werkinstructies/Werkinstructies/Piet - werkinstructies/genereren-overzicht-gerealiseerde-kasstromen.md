@@ -21,11 +21,11 @@ Er zal altijd een deel van de posten zijn dat niet toegewezen kan worden aan een
 2. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** gevuld is, betekent dit dat de kasstroom wel gespecificeerd is op een grootboekrekening, maar dat de grootboekrekening nog niet gekoppeld is aan een kasstroomcategorie. 
 	- Navigeer naar de desbetreffende grootboekrekening en koppel de juiste kasstroomcategorie. 
 	- Voer hierna de processtap **[Genereren overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)** opnieuw uit. 
-3. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** niet gevuld is, betekent dit dat de kasstroom niet gespecificeerd is. Dit betekent dat een betaling wel op een leverancier of klant geboekt is, maar niet (geheel) vereffend is met een openstaande klant- of leverancierspost. Voor de posten met relatief hoge bedragen zou u kunnen onderzoeken waarom de vereffening nog niet heeft plaatsgevonden. De meeste posten zullen echter in de loop van de tijd vereffend worden. Wanneer u posten heeft vereffend dient u het overzicht voor gerealiseerd kasstromen opnieuw te genereren **[Generen overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)**
+3. Wanneer bij een post in deze categorie de kolom **Grootboekrekening** niet gevuld is, betekent dit dat de kasstroom niet gespecificeerd is. Dit betekent dat een betaling wel op een leverancier of klant geboekt is, maar niet (geheel) vereffend is met een openstaande klant- of leverancierspost. Voor de posten met relatief hoge bedragen zou u kunnen onderzoeken waarom de vereffening nog niet heeft plaatsgevonden. De meeste posten zullen echter in de loop van de tijd vereffend worden. Wanneer u posten heeft vereffend dient u het overzicht voor gerealiseerde kasstromen opnieuw te genereren (**[Genereren overzicht gerealiseerde kasstromen](#generen-overzicht-gerealiseerde-kasstromen)**).
 
 ## Controleren posten ‘Nog te analyseren’
 
-Er zal ook altijd een deel van de posten zijn waarbij geen kasstroom categorie gespecificeerd kon worden door complexe vereffeningen. Deze posten komen in de categorie met het vinkje 'nog te analyseren' terecht. 
+Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie gespecificeerd kon worden door complexe vereffeningen. Deze posten komen in de categorie met het vinkje 'Nog te analyseren' terecht. 
 
 1. Ga naar de regel waarbij het vinkje **Nog te analyseren** aan staat. Klik op het blauwe bedrag om te zien welke posten gespecificeerd zijn binnen deze categorie. 
 2. Voor de posten met relatief grote bedragen is het aan te raden om te onderzoeken hoe deze posten vereffend zijn en of het mogelijk is om de vereffening van deze posten opnieuw uit te voeren zodat minder complexe vereffeningen ontstaan. U kunt de posten op de volgende wijze onderzoeken. 
@@ -37,6 +37,6 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroom categorie g
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is. 
 	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgwMzQyMzEsLTg4Njc2MzQ5NSw5Mz
-E1NzA3MDVdfQ==
+eyJoaXN0b3J5IjpbNDAyNzk1MzY0LC04ODY3NjM0OTUsOTMxNT
+cwNzA1XX0=
 -->
