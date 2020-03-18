@@ -1,6 +1,6 @@
 # Registreren huuropzegging
 In dit werkproces word
-Per een gegeven datum, liefst hmet huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Tot slot wordt een bevestiging van de huuropzegging gestuurd. inachtneming van een opzegtermijn, kan de huur van een eenheid worden opgezegd. Vervolgens wordt de woning geïnspecteerd en zo spoedig mogelijk weer klaargemaakt voor verhuring aan een volgende huurder.
+Per een gegeven datum, liefst hmet huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Tot enslotte wordt een bevestiging van de huuropzegging gestuurd. inachtneming van een opzegtermijn, kan de huur van een eenheid worden opgezegd. Vervolgens wordt de woning geïnspecteerd en zo spoedig mogelijk weer klaargemaakt voor verhuring aan een volgende huurder.
 
 ## Processchema
 
@@ -37,7 +37,8 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor inspecties moeten worden gepland.
 3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken.
-4. Navigeer naar deOpen pagina **Inspectieafspraken** van de betreffende huuropzegging. Dit kan rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Inspectieafspraken**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en kies voor **Inspectieafspraken**). Een derde mogelijkheid is via de OG Eenheid (open overzicht met OG Eenheden via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen"), selecteer de OG Eenheid en kies voor **Huuropzeggingen** en vervolgens voor **Inspectieafspraken**).
+4. Navigeer naar deOpen pagina **Inspectieafspraken** van de betreffende huuropzegging. Dit kan rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Inspectieafspraken**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en kies voor **Inspectieafspraken**). Een derde mogelijkheid is via de OG Eenheid (open overzicht met OG Eenheden via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen"), selecteer de OG Eenheid en kies voor **Huuropzeggingen** en vervolgen. 
+4. Klik op **Navigeren** en kies voor **Inspectieafspraken**).
 52. Selecteer de eerste inspectie met **Status** 'Nieuw' die u wilt plannen.
 63. Klik op **Inspectieafspraak plannen**, waarna de p. Pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
 74. In veld **Datum** selecteert u de datum waarop u de inspectie wilt plannen. Per inspecteur en per begintijd is aangegeven of de inspecteur op die tijd beschikbaar is of niet. Een vinkje betekent dat die inspecteur niet beschikbaar is op dat tijdstip.
@@ -51,11 +52,12 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijstOpen pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht**.
 2. Zoek (selecteer de vVerhuurmutatie op waarvoor de bevestiging van de huuropzegging moet worden verstuurd.
 3. Opendie is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die detailpagina van de verhuurmutatie. 
-4. Navigeer naar deis aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart) of via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op **Huuropzeggingen**).
+4. Navigeer naar deis aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart) of via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op de detailpagina van de verhuurmutatie. 
+4. Klik op **Navigeren** en kies voor **Huuropzeggingen**).
 52. Kies voor functie **Worddocument** en s.
-3. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging. K en klik op **OK**. 
+36. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging. K en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODA3NTAxOCwxNzI2Nzk0NjAyLDE3Nj
-Y3OTIyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTExMzA2ODksMTQ1ODA3NTAxOCwxNz
+I2Nzk0NjAyLDE3NjY3OTIyNjNdfQ==
 -->
