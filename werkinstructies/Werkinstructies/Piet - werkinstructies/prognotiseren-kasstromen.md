@@ -13,7 +13,7 @@ De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in e
 	- **Omschrijving**: Geef een omschrijving mee waaruit blijkt op welke periode de prognose betrekking heeft.
 	- **Grootboekbudget van**: Datum vanaf wanneer grootboekbudgetten meegenomen moeten worden.
 	- **Grootboekbudget tot**: Grootboekbudget van + 12 maanden.
-	- **Handmatige betalingen van**: Datum vanaf wanneer project- en leningen Cashflow meegenomen moeten worden
+	- **Handmatige betalingen van**: Datum vanaf wanneer project- en leningencashflow meegenomen moet worden.
 	- **Handmatige betalingen tot**: Handmatige betalingen van + 12 maanden
 3. Klik op **Prognoses van projecten laden**. De Cashflow posten vanuit de projecten modulen worden opgehaald
 4.  Klik op **Prognoses van financieringen laden** De Cashflow posten vanuit de projecten modulen worden opgehaald
@@ -38,6 +38,6 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroom categorie de **mutatie per maand**. De onderste 2 regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY0NDkxOTQsMjEyOTM1Nzk4LDM2OD
-E3NDk0OV19
+eyJoaXN0b3J5IjpbLTE2NzgzOTk0NywyMTI5MzU3OTgsMzY4MT
+c0OTQ5XX0=
 -->
