@@ -27,16 +27,16 @@ Er zal altijd een deel van de posten zijn d niet toegewezen kan worden aan een s
 
 Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie gespecificeerd kon worden door complexe vereffeningen. Deze posten komen in de categorie met het vinkje 'og te analyseren' terecht. 
 
-1. Ga naar de regel waarbij het vinkje **Nog te analyseren** aan staat. Klik op het bedrag in kolom **Mutatie** om te zien welke posten gespecificeerd zijn binnen deze categorie. 
-2. Voor de posten met relatief grote bedragen is het aan te raden om te onderzoeken hoe deze posten vereffend zijn en of het mogelijk is om de vereffening van deze posten opnieuw uit te voeren zodat minder complexe vereffeningen ontstaan. U kunt de posten op de volgende wijze onderzoeken. 
+1. Ga naar de regel waarbij het vinkje in kolom **Nog te analyseren** aan staat. Klik op het bedrag in kolom **Mutatie** om te zien welke posten gespecificeerd zijn binnen deze categorie. 
+2. Voor de posten met relatief grote bedragen is het aan te raden om te onderzoeken hoe deze posten vereffend zijn en of het mogelijk is om de vereffening van deze posten opnieuw uit te voeren, zodat minder complexe vereffeningen ontstaan. U kunt de posten op de volgende wijze onderzoeken. 
 	- Selecteer de post die u wilt onderzoeken en kopieer de waarde uit het veld **KBG-grootboekpostvolgnummer**.
 	- Onthoud of noteer de boekingsdatum van de post. 
 	- Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Grootboekposten** en zoek het gekopieerde **KBG-grootboekpostvolgnummer** op. 
-	- Het veld **Tegenrekeningnummer** bevat een klant of leveranciersnummer. Kopieer dit nummer en navigeer naar de tabel **Klanten** of **Leveranciers** afhankelijk van het type nummer. 
+	- Het veld **Tegenrekeningnummer** bevat een klant- of leveranciersnummer. Kopieer dit nummer en navigeer naar de tabel **Klanten** of **Leveranciers** afhankelijk van het type nummer. 
 	- Zoek de desbetreffende klant of leverancier op en klik op **Posten** om het overzicht van klant- of leveranciersposten te openen. 
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is. 
 	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIzNjM4NjIsLTEyOTIxMzY4NCw0MD
-I3OTUzNjQsLTg4Njc2MzQ5NSw5MzE1NzA3MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwMTI1Nzk3MjQsLTE2OTIzNjM4NjIsND
+AyNzk1MzY0LC04ODY3NjM0OTUsOTMxNTcwNzA1XX0=
 -->
