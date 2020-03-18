@@ -27,7 +27,7 @@ Er zal altijd een deel van de posten zijn dat niet toegewezen kan worden aan een
 
 Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie gespecificeerd kon worden door complexe vereffeningen. Deze posten komen in de categorie met het vinkje 'Nog te analyseren' terecht. 
 
-1. Ga naar de regel waarbij het vinkje **Nog te analyseren** aan staat. Klik op het blauwe bedrag om te zien welke posten gespecificeerd zijn binnen deze categorie. 
+1. Ga naar de regel waarbij het vinkje **Nog te analyseren** aan staat. Klik op het bedrag in kolom **Mutatie** om te zien welke posten gespecificeerd zijn binnen deze categorie. 
 2. Voor de posten met relatief grote bedragen is het aan te raden om te onderzoeken hoe deze posten vereffend zijn en of het mogelijk is om de vereffening van deze posten opnieuw uit te voeren zodat minder complexe vereffeningen ontstaan. U kunt de posten op de volgende wijze onderzoeken. 
 	- Selecteer de post die u wilt onderzoeken en kopieer de waarde uit het veld **KBG-grootboekpostvolgnummer**.
 	- Onthoud of noteer de boekingsdatum van de post. 
@@ -37,6 +37,6 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie ge
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is. 
 	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNzk1MzY0LC04ODY3NjM0OTUsOTMxNT
-cwNzA1XX0=
+eyJoaXN0b3J5IjpbLTkxMTA5NzY5Niw0MDI3OTUzNjQsLTg4Nj
+c2MzQ5NSw5MzE1NzA3MDVdfQ==
 -->
