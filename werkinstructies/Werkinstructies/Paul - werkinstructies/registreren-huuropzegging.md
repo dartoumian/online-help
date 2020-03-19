@@ -26,9 +26,8 @@ Ook wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aa
 135. Vul het veld **Huuropzeggingsreden** in.
 146. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan op tab **Huurcontract/Huurder** .
 157. Registreer het nieuwe correspondentieadres van de vertrekkende huurder op tab **Nieuw correspondentieadres**.
-    - Voor een Nederlands correspondentieadres doet u dit door in het veld **Straat** de postcode en het huisnummer en eventueel het huisnummer toevoegsel in te vullen (achter elkaar, zonder spaties). Nadat u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Huisnummer toevoegsel**, **Postcode** en **Plaats** in met de waarden die het systeem heeft gevonden in de postcodetabel.
-    - Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres.
-168. Selecteer in veld **Contactgegevens wijzigingsdatum** de datum per wanneer het nieuwe correspondentieadres ingaat.
+    Voor een Nederlands correspondentieadres doet u dit door in het veld **Straat** de postcode en het huisnummer en eventueel het huisnummer toevoegsel in te vullen (achter elkaar, zonder spaties). Nadat u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Huisnummer toevoegsel**, **Postcode** en **Plaats** in met de waarden die het systeem heeft gevonden in de postcodetabel.Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres.
+16. Selecteer in veld **Contactgegevens wijzigingsdatum** de datum per wanneer het nieuwe correspondentieadres ingaat.
 
 ## Plannen inspectie(s)
 
@@ -58,6 +57,6 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 36. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging. K en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTExMzA2ODksMTQ1ODA3NTAxOCwxNz
-I2Nzk0NjAyLDE3NjY3OTIyNjNdfQ==
+eyJoaXN0b3J5IjpbMjg4MjI4OTQ5LC0xODUxMTMwNjg5LDE0NT
+gwNzUwMTgsMTcyNjc5NDYwMiwxNzY2NzkyMjYzXX0=
 -->
