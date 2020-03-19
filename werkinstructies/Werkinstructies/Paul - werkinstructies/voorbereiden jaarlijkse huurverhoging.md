@@ -4,7 +4,6 @@ In dit werkproces wordt de jaarlijkse huurverhoging voorbereid. Doel is dat er n
 
 ## Processchema 
 
-
 ## Aanpassen woningwaarderingparameters 
 In deze stap voert u de nieuwe woningwaarderingparameters in die de Rijksoverheid heeft gepubliceerd voor het nieuwe huurverhogingstijdvak. Deze parameters worden vermeld in het *Themadocument jaarlijkse huurverhoging* dat cegeka-dsa jaarlijks actualiseert en publiceert op de servicedesk website  [https://support.cegeka-dsa.nl](https://support.cegeka-dsa.nl). 
 
@@ -50,5 +49,5 @@ De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nie
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg5MjcyOTcsMTM5MjI1MTUzXX0=
+eyJoaXN0b3J5IjpbNDY5MzIwMDgxLDEzOTIyNTE1M119
 -->
