@@ -20,10 +20,9 @@ In deze stap importeert u de nieuwe WOZ-waarden die de gemeenten hebben aangelev
 2. Kies voor de functie **Importeren**. 
 3. Klik op **Kiezen** en selecteer het importbestand met de door de gemeente aangeleverde WOZ-waarden. 
 4. De geïmporteerde gegevens worden getoond op het tabblad **WOZ**. 
-5. Klik op  **Acties** en kies voor **Functies** en **Verwerken**. De geïmporteerde gegevens worden verwerkt in Dynamics Empire. Daarbij wordt per OG Eenheid de geïmporteerde WOZ-waarde toegevoegd aan de lijst met **WOZ-gegevens** van de betreffende OG Eenheid. 
-6. Controleer aan de hand van kolom **Verwerkt** of er geïmporteerde gegevens niet konden worden verwerkt. Bekijk per geval in kolom **Reden niet verwerkt** waardoor de gegevens niet konden worden verwerkt. Onderneem daar waar nodig actie m de gegevens alsnog te kunnen verwerken. 
-7. Sluit de pagina. 
-
+5. Kies voor de actie **Verwerken**. De geïmporteerde gegevens worden verwerkt in Dynamics Empire. Daarbij wordt per OG Eenheid de geïmporteerde WOZ-waarde toegevoegd aan de lijst met **WOZ-gegevens** van de betreffende OG Eenheid.
+6. Controleer aan de hand van kolom **Verwerkt** of er geïmporteerde gegevens niet konden worden verwerkt. Bekijk per geval in kolom **Reden niet verwerkt** waardoor de gegevens niet konden worden verwerkt. Onderneem daar waar nodig actie om de gegevens alsnog te kunnen verwerken. 
+7. Sluit de pagina.
 
 ## Importeren maximale huurprijzen 
 In deze stap importeert u de nieuwe maximale huurprijzen die de Rijksoverheid heeft gepubliceerd voor het nieuwe huurverhogingstijdvak. Hiertoe kunt u gebruik maken van de importbestanden met maximale huurprijzen voor zelfstandige woningen en onzelfstandige woningen, die cegeka-dsa jaarlijks publiceert op de website van de servicedesk [https://support.cegeka-dsa.nl](https://support.cegeka-dsa.nl).  
@@ -49,6 +48,6 @@ De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nie
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2NjUyMTg4LDE4NzA2NDE1MjQsMTYxNT
+eyJoaXN0b3J5IjpbMzE2MTM4OTc4LDE4NzA2NDE1MjQsMTYxNT
 I3ODg4Myw0NjkzMjAwODEsMTM5MjI1MTUzXX0=
 -->
