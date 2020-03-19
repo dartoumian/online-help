@@ -1,6 +1,6 @@
 # Aanleveren incassobestand
 
-In dit detailproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
+In dit werkproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Processchema
 
@@ -74,10 +74,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzczMDY3OSw0OTQ3MTI5NDIsLTE4MD
-EzODI4MjYsMjExMzg4NjU4OSwtMTcxNDIwNTc3MCwtMTY3OTYy
-NzY3MiwxNjIzMjgyNjMzLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOT
-A0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAw
-LDkwNDQ5NTAwMiw5MTMwNjA4MDAsMTA2Njc4NzA5OSwxMzc1ND
-Q3MzEzLDY1MzE1NjU0NCwtNzY1NDA3MDM1XX0=
+eyJoaXN0b3J5IjpbLTc0MDkyOTY4MywxMjM3NzMwNjc5LDQ5ND
+cxMjk0MiwtMTgwMTM4MjgyNiwyMTEzODg2NTg5LC0xNzE0MjA1
+NzcwLC0xNjc5NjI3NjcyLDE2MjMyODI2MzMsOTA0NDk1MDAyLD
+kxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAw
+Miw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCwxMDY2Nz
+g3MDk5LDEzNzU0NDczMTMsNjUzMTU2NTQ0LC03NjU0MDcwMzVd
+fQ==
 -->
