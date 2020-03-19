@@ -36,10 +36,10 @@ In deze stap importeert u de nieuwe maximale huurprijzen die de Rijksoverheid he
 
 
 ## In bulk aanmaken woningwaardering 
-In deze stap maakt u in bulk nieuwe woningwaarderingen aan voor alle OG Eenheden waarvan u de nettohuur wil aanpassen. De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nieuwe WOZ-waarden en de nieuwe parameters. Binnen elke nieuwe woningwaardering wordt automatisch de nieuwe maximale huurprijs van de desbetreffende OG Eenheid vastgelegd die behoort bij het aantal berekende woningwaarderingspunten. 
+In deze stap maakt u in bulk nieuwe woningwaarderingen aan voor alle OG Eenheden waarvan u de nettohuur wilt aanpassen. De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nieuwe WOZ-waarden en de nieuwe parameters. Binnen elke nieuwe woningwaardering wordt automatisch de nieuwe maximale huurprijs van de desbetreffende OG Eenheid vastgelegd die behoort bij het aantal berekende woningwaarderingspunten.
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Woningwaardering maken**.  Een pagina wordt geopend.
-2. Selecteer in optie **Ingangsdatum** de ingangsdatum van de nieuwe woningwaarderingen. Voor de jaarlijkse huurverhoging met deze ingangsdatum gelijk zijn aan de huurverhogingsdatum (bijvoorbeeld: 1-7-2020). 
+2. Selecteer in veld **Ingangsdatum** de ingangsdatum van de nieuwe woningwaarderingen. Voor de jaarlijkse huurverhoging moet deze ingangsdatum gelijk zijn aan de huurverhogingsdatum (bijvoorbeeld: 1-7-2020). 
 3. Stel eventueel filters in tabblad **Filter: OG Eenheid** in. Als u hier geen filter instelt, dan wordt een nieuwe woningwaardering aangemaakt voor alle OG Eenheden. 
 4. Klik op **OK**. Het systeem maakt in bulk een nieuwe woningwaardering met de geselecteerde ingangsdatum aan voor alle OG Eenheden die voldoen aan het ingestelde filter. 
 
@@ -48,7 +48,7 @@ De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nie
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjUzMDc1NCwzMTYxMzg5NzgsMTg3MD
+eyJoaXN0b3J5IjpbLTQwMzIyNzMyNSwzMTYxMzg5NzgsMTg3MD
 Y0MTUyNCwxNjE1Mjc4ODgzLDQ2OTMyMDA4MSwxMzkyMjUxNTNd
 fQ==
 -->
