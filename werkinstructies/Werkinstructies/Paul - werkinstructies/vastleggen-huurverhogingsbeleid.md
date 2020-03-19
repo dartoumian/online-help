@@ -1,6 +1,6 @@
 
 # Vastleggen huurverhogingsbeleid 
-In dit werkproces wordt het door de directie vastgestelde huurverhogingsbeleid voor het nieuwe tijdvak van de jaarlijkse huurverhoging, vastgelegd in Dynamics Empire. 
+In dit werkproces wordt het door de directie vastgestelde huurverhogingsbeleid voor het nieuwe tijdvak van de jaarlijkse huurverhoging vastgelegd in Dynamics Empire. 
 
 
 ## Processchema
@@ -9,7 +9,11 @@ In dit werkproces wordt het door de directie vastgestelde huurverhogingsbeleid v
 ## Aanmaken / herijken beleidstypes 
 In deze stap maakt u beleidstypes aan voor de verschillende delen van het bezit van de corporatie waarvoor verschillende beleidskeuzes t.a.v. de jaarlijkse huurverhoging van toepassing zijn. Mocht u in een vorig tijdvak al beleidstypes hebben aangemaakt, dan herijkt u deze op bruikbaarheid voor het nieuwe tijdvak. 
 
-Geadviseerd wordt elk beleidstype een code en omschrijving te geven die iets zegt over het gedeelte van het bezit (bijvoorbeeld: 'sloopwoningen' of 'wisselwoningen' of 'huidige huur < 70% van streefhuur'), en dus geen code en omschrijving die iets zegt over de huurverhoging die u voor dat gedeelte van het bezit wil toepassen in het nieuwe tijdvak (dus bijvoorbeeld niet: 'Plus 2,0%)'. Dit heeft twee voordelen: 1.) u vergroot de kans dat de beleidstypes ook volgend tijdvak nog bruikbaar zijn en 2.) de naam van het beleidstype geeft een verklaring voor het feit waarom de nettohuur van een bepaalde eenheid met een bepaald percentage is aangepast in het betreffende tijdvak (bijvoorbeeld: omdat het een sloopwoning is, wordt de nettohuur met slechts 0,2% verhoogd). 
+Geadviseerd wordt elk beleidstype een code en omschrijving te geven die iets zegt over het gedeelte van het bezit (bijvoorbeeld: 'sloopwoningen' of 'wisselwoningen' of 'huidige huur < 70% van streefhuur'), en dus geen code en omschrijving die iets zegt over de huurverhoging die u voor dat gedeelte van het bezit wilt toepassen in het nieuwe tijdvak (dus bijvoorbeeld niet: 'Plus 2,0%)'. Dit heeft twee voordelen:
+
+ - List item
+
+1.) u vergroot de kans dat de beleidstypes ook volgend tijdvak nog bruikbaar zijn en 2.) de naam van het beleidstype geeft een verklaring voor het feit waarom de nettohuur van een bepaalde eenheid met een bepaald percentage is aangepast in het betreffende tijdvak (bijvoorbeeld: omdat het een sloopwoning is, wordt de nettohuur met slechts 0,2% verhoogd). 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Huurverhogingsbeleidstypes**.  Een pagina wordt geopend met een overzicht met de bestaande beleidstypes. 
 2. Controleer of alle benodigde beleidstypes beschikbaar zijn. Er moet tenminste één beleidstype beschikbaar zijn voor elk gedeelte van het bezit waarvan de nettohuur met een ander verhogingspercentage moet worden aangepast. 
@@ -40,5 +44,5 @@ In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogin
 19. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTU1NzM4Nl19
+eyJoaXN0b3J5IjpbLTE0OTM2NjYwOTgsMTU0OTU1NzM4Nl19
 -->
