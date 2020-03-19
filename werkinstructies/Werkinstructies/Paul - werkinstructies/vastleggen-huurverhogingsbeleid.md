@@ -24,7 +24,7 @@ In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogin
 3. Selecteer in kolom **Ingangsdatum** de huurverhogingsdatum van het nieuwe tijdvak. Let op: deze datum moet op 1 juli liggen. Het systeem bepaalt automatisch de einddatum van het tijdvak. 
 4. Voer in kolom **Maximale basishuurverhogingspercentage** het verhogingspercentage in dat de Rijksoverheid heeft gepubliceerd als zijnde het maximum percentage waarmee de nettohuur van een individuele eenheid binnen het betreffende tijdvak mag worden verhoogd, als er geen inkomensafhankelijke huurverhoging wordt toegepast. 
 5. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Huurverhogingsbeleidstypes**.  Een pagina wordt geopend met een overzicht met de bestaande beleidstypes. 
-6. Selecteer een beleidstype waarvoor u een verhogingspercentage wil vastleggen en klik op **Navigeren** en kies voor **Verhogingspercentages voor beleidstypen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype. 
+6. Selecteer een beleidstype waarvoor u een verhogingspercentage wilt vastleggen  klik op **Navigeren** en kies voor **Verhogingspercentages voor beleidstypen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype. 
 7. Klik op **+ Nieuw**, selecteer in kolom **Tijdvakcode** de code van het nieuwe tijdvak en in kolom **Beleidstypecode** de code van het beleidstype waarvoor u een verhogingspercentage wil vastleggen. 
 8. Voer in kolom **Verhogingspercentage** het verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld voor het betreffende gedeelte van het bezit. 
 9. Selecteer in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief. 
@@ -40,5 +40,6 @@ In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogin
 19. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwODIzMTAwLDE1NDk1NTczODZdfQ==
+eyJoaXN0b3J5IjpbNzE5NzY0NjYzLDYwMDgyMzEwMCwxNTQ5NT
+U3Mzg2XX0=
 -->
