@@ -27,12 +27,12 @@ In deze stap importeert u de nieuwe WOZ-waarden die de gemeenten hebben aangelev
 ## Importeren maximale huurprijzen 
 In deze stap importeert u de nieuwe maximale huurprijzen die de Rijksoverheid heeft gepubliceerd voor het nieuwe huurverhogingstijdvak. Hiertoe kunt u gebruik maken van de importbestanden met maximale huurprijzen voor zelfstandige woningen en onzelfstandige woningen, die cegeka-dsa jaarlijks publiceert op de website van de servicedesk [https://support.cegeka-dsa.nl](https://support.cegeka-dsa.nl).  
  
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Import maximale huurprijzen**.  De gel pagina wordt geopend. 
-2. Selecteer het **Woningtype** *Zelfstandige woning*. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Import maximale huurprijzen**.  De gelijknamige pagina wordt geopend.
+2. Selecteer voor **Woningtype** de waarde 'Zelfstandige woning'. 
 3. Selecteer het **Jaar** waarvoor u de maximale huurprijzen wil importeren. 
 4. Klik op **OK**. 
 5. Klik op **Kiezen**, selecteer het juiste importbestand en klik op **Open**. De maximale huurprijzen worden geïmporteerd. 
-6. Navigeer een tweede keer naar de genoemde taak en herhaal de stappen voor het **Woningtype** *Onzelfstandige woning*.  
+6. Navigeer een tweede keer naar de genoemde taak en herhaal de stappen voor **Woningtype** = 'Onzelfstandige woning'.  
 
 
 ## In bulk aanmaken woningwaardering 
@@ -48,7 +48,7 @@ De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nie
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMyMDk5MDksMzE2MTM4OTc4LDE4Nz
-A2NDE1MjQsMTYxNTI3ODg4Myw0NjkzMjAwODEsMTM5MjI1MTUz
-XX0=
+eyJoaXN0b3J5IjpbLTY2NjUzMDc1NCwzMTYxMzg5NzgsMTg3MD
+Y0MTUyNCwxNjE1Mjc4ODgzLDQ2OTMyMDA4MSwxMzkyMjUxNTNd
+fQ==
 -->
