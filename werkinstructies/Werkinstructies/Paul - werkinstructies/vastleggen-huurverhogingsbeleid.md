@@ -32,13 +32,12 @@ In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogin
  11. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage wil vastleggen. 
  12. Selecteer een beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen (t.b.v. inkomensafhankelijke huurverhoging) en navigeer naar **Verhogingspercentages voor huishoudverklaringen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype per huishoudverklaringscode. 
  13. Klik op **+ Nieuw**, selecteer in kolom **Tijdvakcode** de code van het nieuwe tijdvak, in kolom **Beleidstypecode** de code van het beleidstype waarvoor u een verhogingspercentage wil vastleggen en in kolom **Huishoudverklaringscode** de code van de huishoudverklaring waarvoor u een verhogingspercentage wil vastleggen (**let op:** in de praktijk mag alleen voor code *'J'* (*'Hoog huishoudinkomen'*) een verhogingspercentage groter dan 0,0 worden vastgelegd).
- 14. Voer in kolom **Verhogingspercentage** het extra verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld die eenheden die binnen het betreffende gedeelte van het bezit zijn verhuurd aan een huishouden met ene hoog inkomen. 
- 15. Indien er in het geval van inkomensafhankelijke huurverhoging een andere huurverhogingsbrief moet worden verstuurd, selecteer dan in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief. Als u deze kolom leeg laat, dan wordt de indexeringsbatch gebruikt die is ingesteld bij het beleidstype. 
- 16. Indien de nettohuur in het geval van inkomensafhankelijke huurverhoging via een andere aftopping moet worden afgetopt, selecteer dan in kolom **Aftoppingscode**  de code van de aftopping die gebruikt moet worden. 
- 17. Sluit de pagina. 
- 18. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen. 
+ 14. Voer in kolom **Verhogingspercentage** het extra verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld voor die eenheden die binnen het betreffende gedeelte van het bezit zijn verhuurd aan een huishouden met een hoog inkomen. 
+ 15. Als er in het geval van inkomensafhankelijke huurverhoging een andere huurverhogingsbrief moet worden verstuurd, selecteer dan in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief. Als u deze kolom leeg laat, dan wordt de indexeringsbatch gebruikt die is ingesteld bij het beleidstype. 
+ 16. Als de nettohuur in het geval van inkomensafhankelijke huurverhoging via een andere aftopping moet worden afgetopt, selecteer dan in kolom **Aftoppingscode**  de code van de aftopping die gebruikt moet worden. 
+ 17. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc3Njg3NTAsNjAwODIzMTAwLDE1ND
+eyJoaXN0b3J5IjpbLTE2MDUwNDU2MDUsNjAwODIzMTAwLDE1ND
 k1NTczODZdfQ==
 -->
