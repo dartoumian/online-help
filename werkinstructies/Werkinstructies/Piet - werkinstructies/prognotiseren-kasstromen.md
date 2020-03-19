@@ -1,4 +1,4 @@
-# Prognotiseren kasstromen
+# Prognosticeren kasstromen
 
 In dit werkproces wordt het overzicht van de te verwachte kasstromen gegenereerd en geanalyseerd.
 
@@ -38,7 +38,7 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroomcategorie de **Mutatie per maand**. De onderste twee regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MjI0NTA1LC0zNDM1NTcwNDcsMTU2OD
-cwNzY2LC0xNjc4Mzk5NDcsMjEyOTM1Nzk4LDM2ODE3NDk0OV19
-
+eyJoaXN0b3J5IjpbLTQ5OTk3NDcxOCw0NzYyMjQ1MDUsLTM0Mz
+U1NzA0NywxNTY4NzA3NjYsLTE2NzgzOTk0NywyMTI5MzU3OTgs
+MzY4MTc0OTQ5XX0=
 -->
