@@ -16,8 +16,8 @@ In deze stap voert u de nieuwe woningwaarderingparameters in die de Rijksoverhei
 ## Importeren WOZ-waarden 
 In deze stap importeert u de nieuwe WOZ-waarden die de gemeenten hebben aangeleverd voor de verschillende OG Eenheden. Deze WOZ-waarden vormen een belangrijke input voor het berekenen van de punten voor de nieuwe woningwaardering. Voordat de WOZ-gegevens kunnen worden ingelezen, moet het ontvangen bestand worden omgezet naar het formaat dat door Dynamics Empire kan worden verwerkt. In het *Themadocument jaarlijkse huurverhoging* is gespecificeerd wat het formaat van het bestand moet zijn.  
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **OGE exploitatie (Fin.)-import**.  Een pagina wordt geopend. 
-2. Klik op **Acties** en kies voor **Functies** en **Importeren**.  
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **OGE exploitatie (Fin.)-import**. De gelijknamige pagina wordt geopend. 
+2. Kies voor de functie **Importeren**. 
 3. Klik op **Kiezen** en selecteer het importbestand met de door de gemeente aangeleverde WOZ-waarden. 
 4. De geïmporteerde gegevens worden getoond in het tabblad **WOZ**. 
 5. Klik op  **Acties** en kies voor **Functies** en **Verwerken**. De geïmporteerde gegevens worden verwerkt in Dynamics Empire. Daarbij wordt per OG Eenheid de geïmporteerde WOZ-waarde toegevoegd aan de lijst met **WOZ-gegevens** van de betreffende OG Eenheid. 
@@ -49,6 +49,6 @@ De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nie
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTI3ODg4Myw0NjkzMjAwODEsMTM5Mj
-I1MTUzXX0=
+eyJoaXN0b3J5IjpbMTg3MDY0MTUyNCwxNjE1Mjc4ODgzLDQ2OT
+MyMDA4MSwxMzkyMjUxNTNdfQ==
 -->
