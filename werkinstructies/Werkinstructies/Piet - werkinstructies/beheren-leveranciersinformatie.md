@@ -33,7 +33,7 @@ De contactgegevens van de leverancier past u aan op de contactkaart.
 2. Klik op **Nieuw**. De pagina **Bankrekening leverancier** opent. Vul de volgende velden:
 	- **Code**: De 10 cijfers van de IBAN
 	- **IBAN**: Het IBAN nummer
-2. Keer terug naar de leverancierskaart en selecteer in het veld **Bankrekeningcode van voorkeur** de juiste b
+2. Keer terug naar de leverancierskaart en selecteer in het veld **Bankrekeningcode van voorkeur** de bankrekening waarop in de meeste gevallen de facturen van de leverancier betaald worden. 
 
 ## Aanpassen type
 
@@ -61,6 +61,6 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NzI3NTkyLDc2NDA4NzU4MiwxNTExMT
-UzMzI0LC05MTk4NzEzNCwtMTI0Mjk5OTIxN119
+eyJoaXN0b3J5IjpbNzE5ODU4MSw3NjQwODc1ODIsMTUxMTE1Mz
+MyNCwtOTE5ODcxMzQsLTEyNDI5OTkyMTddfQ==
 -->
