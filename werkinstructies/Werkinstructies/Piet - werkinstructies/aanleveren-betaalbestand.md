@@ -45,14 +45,14 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
- 1. Klik op de pagina ** - bankoverzicht** op  **Voorstel**, waarna de pagina **voorstel** opent.
+ 1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel**, waarna de pagina **voorstel** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 ## Controleren betaalrun
  
 Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
- 1. Klik op de pagina  ** - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
+ 1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
  2. Klik op de actie **Betaalrun afdrukken** om de betaalrun af te drukken. 
 
 ## Annuleren betaalrunregels
@@ -91,7 +91,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ4MzkzMTAsMTM2NjA4ODIxMCw0Mj
+eyJoaXN0b3J5IjpbLTExNTIwNDQ0ODgsMTM2NjA4ODIxMCw0Mj
 UwOTgxNDEsNjQ4NjE1MDYzLC0xNTM2NTUyNjYxLDE0Nzc4MzM1
 MjgsLTE0NjQ2OTE2MTYsLTI2MjQwNTQ0NywtMTk0MjI1NDM2My
 wtMTI2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIyMDM1OCwtNTMx
