@@ -12,10 +12,10 @@ In deze stap genereert u de eindafrekening voor de vertrekkende huurder. Om de e
 2. Zoek de verhuurmutatie op waarvan de eindafrekening moet worden opgesteld.
 3. Open de detailpagina van de verhuurmutatie. 
 4. Navigeer naar de **Huuropzegging**. De pagina met de details van de huuropzegging van de OG Eenheid wordt geopend. 
-5. Klik op **Proces** en kies voor **Eindafrekening**. Een pagina met verschillende opties wordt geopend. (Zie opmerking hieronder. 
-6.  Geef in veld **Specificatie** aan of u al dan niet een specificatie van de openstaande facturen afgedrukt wil hebben op de eindafrekening. Als u deze optie niet aanvinkt, dan wordt alleen een te betalen bedrag per categorie (bijvoorbeeld *Huur* en *Waarborgsom*) vermeld op de eindafrekening. Per categorie wordt de som van het openstaande bedrag van de daartoe behorende openstaande klantposten vermeld. In de specificatie wordt het openstaande bedrag per openstaande klantpost vermeld. 
-7. Geef in het veld **Automatische waarborgsom** aan of u een creditfactuur voor de terugbetaling van de waarborgsom wil laten aanmaken en meenemen in de eindafrekening. 
-8. Geef in veld **Interactie registreren** aan of u wil dat het systeem al dan niet een interactie registreert voor de vertrekkende huurder. 
+5. Klik op **Proces** en kies voor **Eindafrekening**. Een pagina met verschillende opties wordt geopend. (Zie opmerking hieronder.)
+6.  Geef in veld **Specificatie** aan of u al dan niet een specificatie van de openstaande facturen afgedrukt wilt hebben op de eindafrekening. Als u deze optie niet aanvinkt, dan wordt alleen een te betalen bedrag per categorie (bijvoorbeeld 'Huur' en 'Waarborgsom') vermeld op de eindafrekening. Per categorie wordt de som van het openstaande bedrag van de daartoe behorende openstaande klantposten vermeld. In de specificatie wordt het openstaande bedrag per openstaande klantpost vermeld. 
+7. Geef in het veld **Automatische waarborgsom** aan of u een creditfactuur voor de terugbetaling van de waarborgsom wilt laten aanmaken en meenemen in de eindafrekening. 
+8. Geef in veld **Interactie registreren** aan of u wilt dat het systeem al dan niet een interactie registreert voor de vertrekkende huurder. 
 9. Klik op **Afdrukken**. 
 
 >Mocht u de melding krijgen dat de eenheid nog niet volledig is geprolongeerd, navigeer dan naar de pagina **Prolongatierunoverzicht**, klik op **Nieuw**, selecteer de OG Eenheid in het veld **OGE filter**, selecteer de prolongatieperiode in het veld **Prol. periodenaam** en klik op **Uitvoeren / boeken**. Probeer daarna opnieuw de eindafrekening te genereren.
@@ -25,6 +25,6 @@ In deze stap genereert u de eindafrekening voor de vertrekkende huurder. Om de e
 In deze stap verstuurt u de gegenereerde eindafrekening naar de vertrekkende huurder. Deze stap vindt plaats buiten Dynamics Empire. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTQ2NTM1LC01NTc2Nzc5OTQsLTExNz
-AzMDg3NTcsLTczMTgxMDEwNF19
+eyJoaXN0b3J5IjpbMTMwNjgyNTA3MCwtNTU3Njc3OTk0LC0xMT
+cwMzA4NzU3LC03MzE4MTAxMDRdfQ==
 -->
