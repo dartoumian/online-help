@@ -2,8 +2,6 @@
 
 Het is gebruikelijk om voorafgaand aan een orderverstrekking bij een leverancier een inkoopofferte aan te vragen via Dynamics Empire. 
 
-## Processchema
-
 ## Aanmaken onderhoudsverzoek
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het **Onr. Goed-Eenhedenoverzicht**.
@@ -39,5 +37,6 @@ Afhankelijk van de vooraf ingestelde inkoopwerkwijze van de gekozen leverancier 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDk4NTIxMSwtMzAzNzIzOTA4XX0=
+eyJoaXN0b3J5IjpbLTMwMzcyMzkwOCwxMTYwOTg1MjExLC0zMD
+M3MjM5MDhdfQ==
 -->
