@@ -42,7 +42,7 @@ Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wann
 
 Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingstermijn automatisch incasseren, maar de klant heeft nog geen mandaat voor automatische incasso, voer dan de volgende stappen uit.
 
-1. Klik op de betalingsregelingkaart op tabblad **Facturering** inet ld Mana atcode**; u krijgt nu de optie om op **Nieuw** te klikken in een popup-schermpje. Daarmee verschijnt het scherm **Selecteren - Mandaat incasso**.
+1. Klik op de betalingsregelingkaart op tabblad **Facturering** in het veld **Mandaatcode**; u krijgt nu de optie om op **Nieuw** te klikken in een popup-schermpje. Daarmee verschijnt het scherm **Selecteren - Mandaat incasso**.
 2. Druk op **Enter**. Er wordt een nummer gevuld in het veld **Code**.
 3. Vul de volgende velden:
 	- **Reden incasso**
@@ -55,7 +55,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 
 Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klantportaal, o.b.v. een betalingsregelingssjabloon of handmatig. Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon naar el de lijst **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar el de lijst **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
 2. Stel een filter in (via ![fFilter picon](/assets/image:/togram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png " iconPictogram Filter") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
@@ -75,10 +75,10 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU3NDU1ODEsMTMwNDE1MDMwMiw2Nj
-UwMjQ5MDksMTU4MjYxNTY1OSwzODA2NTQyNzcsNjIzMDA1NzM5
-LC0xMzQxOTUyNDUyLDE0NjE5NjY3MjYsNDg5MTI5ODEyLDgwNj
-g4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4OTM4LDEwNDUwODkz
-NTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNTM4OTY2MTA3LD
-U1MDI2NTczMV19
+eyJoaXN0b3J5IjpbLTE1NTgzMTI0NTEsLTIxNDU3NDU1ODEsMT
+MwNDE1MDMwMiw2NjUwMjQ5MDksMTU4MjYxNTY1OSwzODA2NTQy
+NzcsNjIzMDA1NzM5LC0xMzQxOTUyNDUyLDE0NjE5NjY3MjYsND
+g5MTI5ODEyLDgwNjg4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4
+OTM4LDEwNDUwODkzNTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MS
+wtNTM4OTY2MTA3LDU1MDI2NTczMV19
 -->
