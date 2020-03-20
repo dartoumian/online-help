@@ -6,7 +6,7 @@ In dit werkproces wordt de BTW-aangifte gegenereerd en geboekt zodat dit kan wor
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
-1. Navigeer via het zoekveld ![zoeken ico  "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Voorbeeld**. De pagina **Btw-aangiftevoorbeeld** opent. 
 3. Vul de volgende velden met de aangegeven waarden:
 	-	**Selectie posten o.b.v.**: 'Documentdatum'
@@ -44,9 +44,9 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Zet dit veld op 'Aan' als u direct wilt boeken.  Kies voor 'Uit' als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt - na een klik op **OK** - het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM3MjQ0OTQsMTQ2NjE0NjI2NiwtMT
-UzMzQyNTcxOSwtMjUxMTU3MjkxLDEyNTkxNzMxMzEsLTc3NzQ3
-NDYzNSwtOTA4NzE5NTg3LC00OTMyOTE5MzcsMTc4ODk3NjQxNi
-wtMTY1OTkxMTI0NCwtNDcxNjc3MjE2LC00NTA4OTI5MzQsMTA3
-NzY1Mzg0Ml19
+eyJoaXN0b3J5IjpbNDMzOTY2NDMwLC0xOTUzNzI0NDk0LDE0Nj
+YxNDYyNjYsLTE1MzM0MjU3MTksLTI1MTE1NzI5MSwxMjU5MTcz
+MTMxLC03Nzc0NzQ2MzUsLTkwODcxOTU4NywtNDkzMjkxOTM3LD
+E3ODg5NzY0MTYsLTE2NTk5MTEyNDQsLTQ3MTY3NzIxNiwtNDUw
+ODkyOTM0LDEwNzc2NTM4NDJdfQ==
 -->
