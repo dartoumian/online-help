@@ -80,7 +80,7 @@ In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer
 8. Pas indien nodig het filter op kolom **Tijdvakcode** aan, zodat de huurverhogingen van het juiste tijdvak worden getoond. 
 9. Alle OG Eenheden waarvoor u de parameters heeft aangemaakt, worden getoond op het overzicht. Voor OG Eenheden waarvan de parameters succesvol zijn aangemaakt, bevat kolom **Verwerkingsstatus** de waarde *Aangemaakt*. De waarden van de parameters staan vermeld in de desbetreffend kolommen. 
 10. Voor OG Eenheden waarvan het aanmaken van de parameters een exceptie opleverde, bevat kolom **Verwerkingsstatus** de waarde *Overgeslagen*. 
-11. Als u de details van de parameters wil bekijken van een OG Eenheden, klik dan op de **Tijdvakcode** in de desbetreffende regel van het overzicht. De detailpagina van de geselecteerde huurverhoging wordt geopend. De parameters staan vermeld in de tabbladen **Uitgangspunten**, **Instellingen - verhogingspercentage en batch**, **Intellingen - primaire aftopping** en **Instellingen - secundaire aftopping op maximale huurprijs**. Sluit de detailpagina.  
+11. Als u de details van de parameters wil bekijken van een OG Eenheden, klik dan op de **Tijdvakcode** in de desbetreffende regel van het overzicht. De detailpagina van de geselecteerde huurverhoging wordt geopend. De parameters staan vermeld  de tabbladen **Uitgangspunten**, **Instellingen - verhogingspercentage en batch**, **Intellingen - primaire aftopping** en **Instellingen - secundaire aftopping op maximale huurprijs**. Sluit de detailpagina.  
 12. Selecteer de huurverhogingen van de OG Eenheden met verwerkingsstatus *Aangemaakt* waarvan u de nieuwe nettohuur in simulatie wil berekenen.  
 13. Klik op **Proces** en kies voor **Berekenen (simulatie)**. De nieuwe nettohuur van de geselecteerde OG Eenheden wordt berekend in simulatie-modus en de **Verwerkingsstatus** van de geselecteerde huurverhogingen wordt aangepast naar *Simulatie*. 
 14.  De uitkomst van de berekening (o.a. **Nieuwe nettohuur** en **Effectief verhogingspercentage**) wordt vermeld in de desbetreffende kolommen in het overzicht.  
@@ -139,8 +139,9 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjMxOTQ4NiwtNzE0Mzk0NzE3LC0xNT
-ExNzQ1MzEsOTY1NDc1NzA3LDEwNDg4MTk1ODgsNzg0MTYyNTY0
-LC03Mjk3NzczMywtMjAwMzA2ODAzNSwtMjc4MTUyNjMyLDk4Mz
-M3MjUyLC0xODkwNjQxMDEwLDEyNjA1Nzg2ODldfQ==
+eyJoaXN0b3J5IjpbLTEzMTgzNTIyMjcsLTk0MjMxOTQ4NiwtNz
+E0Mzk0NzE3LC0xNTExNzQ1MzEsOTY1NDc1NzA3LDEwNDg4MTk1
+ODgsNzg0MTYyNTY0LC03Mjk3NzczMywtMjAwMzA2ODAzNSwtMj
+c4MTUyNjMyLDk4MzM3MjUyLC0xODkwNjQxMDEwLDEyNjA1Nzg2
+ODldfQ==
 -->
