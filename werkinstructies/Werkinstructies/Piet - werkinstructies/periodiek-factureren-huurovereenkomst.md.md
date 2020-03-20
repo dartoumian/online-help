@@ -95,7 +95,7 @@ Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze 
 
 Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolongatierun voor de komende periode instellen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Prolongatierunoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Prolongatierunoverzicht**.
 2. De gelijknamige pagina opent. Klik op **Nieuw**.
 3. De pagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
 	* **Prol. periodenaam:** De te factureren maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
@@ -114,11 +114,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzI5ODY3MCwtNTYyNDUzNTUxLC0xNz
-A4MTQzNjA0LDIzNjY3NDYxMCwtMTA3NTc2ODI4MiwtMTMwNjIx
-MjQwLDc2NDczMTU5LDE0NTM4ODMyNTgsMTg2MjE1MDkxMCwtMj
-EwNjg5OTk1OSwtMTM4MjEzNTI1MiwtMTgxMzMyMTI3OSwtMTQw
-OTUyMjIsMTAzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAwOC
-wxNDYyMzcyNjg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2
-MjUxOV19
+eyJoaXN0b3J5IjpbLTE3MDY0OTY1NjEsLTU2MjQ1MzU1MSwtMT
+cwODE0MzYwNCwyMzY2NzQ2MTAsLTEwNzU3NjgyODIsLTEzMDYy
+MTI0MCw3NjQ3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLT
+IxMDY4OTk5NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0
+MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMD
+gsMTQ2MjM3MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0
+NjI1MTldfQ==
 -->
