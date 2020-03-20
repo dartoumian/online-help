@@ -12,8 +12,8 @@ In deze stap registreert u de huishoudgegevens van een individuele toewijzing va
 Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Verantwoording verhuring**) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon. 
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
- 2. Selecteer de verhuurmutatie waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring enklik 
- 43. Navigeer naar **Verhuringverantwoording**. Een pagina verschijnt met de details van de vn erantwoording verhuring. Mocht u in plaats daarvan een foutmelding krijgen, kies dan Navigee nr **Verhurneding** en klik daarna op **VeranDan verschijnt de genoemde pagina alsnog. 
+ 2. Selecteer de verhuurmutatie waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.  
+ 43. Navigeer naar **Verhuringverantwoording**. Een pagina verschijnt met de details van de van erantwoording verhuring. Mocht u in plaats daarvan een foutmelding krijgen, kies dan Navigee nr **Verhurneding** en klik daarna op **VeranDan verschijnt de genoemde pagina alsnog. 
 .O tabblad **OGE-gegevens** worden gegevens over de ehe en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat  dit tabblad weergegeven. 
  5. Op het tabbladdeel getiteld **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden.
 . Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze dan aan.
@@ -71,11 +71,11 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 5. Klik op **OK**. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NzcwNTk2LDEwNTM0MjA2NzEsLTIwOT
-A2ODM2MjUsMjY5NTk5NjUwLDE1MDM2NzUzMjUsMTQ2NjEwMzk3
-Nyw5Mzg2NjUyMDQsLTEzNDIzMzA2MDUsMTA3MTY5Nzc1MSwtMj
-MzNzMxNjQsNzYxMTI3NzAwLC0xNzEyMjc4ODc2LC0xNzM5MTkz
-NDQ5LDEyMDA4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1MDEyMT
-EsNzUxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTcz
-MzgyNjMxM119
+eyJoaXN0b3J5IjpbMTExMTQ5Mzg4NSwxMDUzNDIwNjcxLC0yMD
+kwNjgzNjI1LDI2OTU5OTY1MCwxNTAzNjc1MzI1LDE0NjYxMDM5
+NzcsOTM4NjY1MjA0LC0xMzQyMzMwNjA1LDEwNzE2OTc3NTEsLT
+IzMzczMTY0LDc2MTEyNzcwMCwtMTcxMjI3ODg3NiwtMTczOTE5
+MzQ0OSwxMjAwODQwMDA4LC0xNTQzNDkzMjMyLC0xMDExNTAxMj
+ExLDc1MTE5MzAzMSwtMTY1MDEzMDgzNCwzMTM4NDQ4NjgsLTE3
+MzM4MjYzMTNdfQ==
 -->
