@@ -6,7 +6,7 @@ In dit eproces wordt een incassobestand gegenereerd op basis van te incasseren k
 
 Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven welke posten daarin meegenomen moeten worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar de lijst **Telebankieren - bankoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
 2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
 3. Vul de volgende velden met de aangegeven waarden:
 	* **Transactiedatum:** Datum waarop de incasso moet plaatsvinden.
@@ -72,11 +72,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjY5NjQ1MCw2MTYwMzg3MTgsMTIzNz
-czMDY3OSw0OTQ3MTI5NDIsLTE4MDEzODI4MjYsMjExMzg4NjU4
-OSwtMTcxNDIwNTc3MCwtMTY3OTYyNzY3MiwxNjIzMjgyNjMzLD
-kwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgw
-MCw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNj
-A4MDAsMTA2Njc4NzA5OSwxMzc1NDQ3MzEzLDY1MzE1NjU0NF19
+eyJoaXN0b3J5IjpbNDUxMTEyNjg3LDEyNzY2OTY0NTAsNjE2MD
+M4NzE4LDEyMzc3MzA2NzksNDk0NzEyOTQyLC0xODAxMzgyODI2
+LDIxMTM4ODY1ODksLTE3MTQyMDU3NzAsLTE2Nzk2Mjc2NzIsMT
+YyMzI4MjYzMyw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAw
+Miw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCw5MDQ0OT
+UwMDIsOTEzMDYwODAwLDEwNjY3ODcwOTksMTM3NTQ0NzMxM119
 
 -->
