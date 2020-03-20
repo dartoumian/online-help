@@ -2,8 +2,6 @@
 
 Het is gebruikelijk om periodiek (bijvoorbeeld één keer per jaar) de aanwezige magazijnen te herinventariseren. Hierbij wordt de vastgelegde voorraadstand in Dynamics Empire vergeleken met hetgeen daadwerkelijk in de magazijnen aanwezig is. Het doel is om de voorraadstand in Dynamics Empire bij te werken, zodat deze één op één overeenkomt met wat er in de magazijnen aanwezig is. Dit waarborgt dat de waarde klopt en het inkoopvoorstel de juiste waarden geeft.
 
-## Processchema
-
 ## Artikelen (her)inventariseren
 
 Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er geïnventariseerd wordt. Als er nog regels bestaan moeten deze eerst verwijderd worden. 
@@ -27,5 +25,5 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxOTU4MDk0XX0=
+eyJoaXN0b3J5IjpbLTIwODg2MTE1NTldfQ==
 -->
