@@ -18,7 +18,7 @@ _**Ad a:**_
  4. Selecteer in veld **Huurverhogingsbeleidstype** het juiste beleidstype. 
  5. Sluit de pagina. 
 
-Ad b.
+_**Ad b:**_
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Huurverhogingseigenschappen voor OG Eenheden importeren**.  Een pagina wordt geopend met enkele opties. 
 2. Selecteer in optie **Werkmapbestandsnaam** het juiste Excel-bestand. 
 3. Selecteer in optie **Werkbladnaam** het juiste werkblad in de geselecteerde werkmap. 
@@ -140,7 +140,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MTYyNTY0LC03Mjk3NzczMywtMjAwMz
-A2ODAzNSwtMjc4MTUyNjMyLDk4MzM3MjUyLC0xODkwNjQxMDEw
-LDEyNjA1Nzg2ODldfQ==
+eyJoaXN0b3J5IjpbMTA0ODgxOTU4OCw3ODQxNjI1NjQsLTcyOT
+c3NzMzLC0yMDAzMDY4MDM1LC0yNzgxNTI2MzIsOTgzMzcyNTIs
+LTE4OTA2NDEwMTAsMTI2MDU3ODY4OV19
 -->
