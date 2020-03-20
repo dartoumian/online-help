@@ -26,9 +26,9 @@ _**Ad b:**_
 
 
 ## Toewijzen aftoppingen 
-In deze stap wijst u de vastgelegde nettohuuraftoppingen toe aan de OG eenheden waarvan u de nettohuur wil aanpassen: per OG Eenheid één aftopping. Als u in het verleden al aftoppingen heeft toegewezen aan OG Eenheden, dan is deze toewijzing in principe nog steeds bruikbaar voor de jaarlijkse huurverhoging van het nieuwe tijdvak. In dat geval hoeft u alleen aftoppingen toe te wijzen aan OG Eenheden die dit nieuwe tijdvak tot een ander deel van uw bezit behoren dan vorig tijdvak (bijvoorbeeld doordat een woning recentelijk is bestempeld als sloopwoning).  
+In deze stap wijst u de vastgelegde nettohuuraftoppingen toe aan de OG eenheden waarvan u de nettohuur wilt aanpassen: per OG Eenheid één aftopping. Als u in het verleden al aftoppingen heeft toegewezen aan OG Eenheden, dan is deze toewijzing in principe nog steeds bruikbaar voor de jaarlijkse huurverhoging van het nieuwe tijdvak. In dat geval hoeft u alleen aftoppingen toe te wijzen aan OG Eenheden die dit nieuwe tijdvak tot een ander deel van uw bezit behoren dan vorig tijdvak (bijvoorbeeld doordat een woning recentelijk is bestempeld als sloopwoning).  
 
-De aftopping bepaalt m tot welk maximum bedrag de nieuwe nettohuur wordt afgetopt.
+De aftopping bepaalt tot welk maximum bedrag de nieuwe nettohuur wordt afgetopt.
 
 U kunt de aftoppingen op twee manieren toewijzen aan OG Eenheden: 
 a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart** 
@@ -140,7 +140,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODgxOTU4OCw3ODQxNjI1NjQsLTcyOT
-c3NzMzLC0yMDAzMDY4MDM1LC0yNzgxNTI2MzIsOTgzMzcyNTIs
-LTE4OTA2NDEwMTAsMTI2MDU3ODY4OV19
+eyJoaXN0b3J5IjpbLTUzMDU1OTM5NSwxMDQ4ODE5NTg4LDc4ND
+E2MjU2NCwtNzI5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYz
+Miw5ODMzNzI1MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
 -->
