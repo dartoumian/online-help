@@ -130,18 +130,18 @@ In deze stap effectueert u de huurverhoging van geselecteerde eenheden. Daarbij 
 In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden huren waarvan de nettohuur is aangepast. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Huurverhoging - Document**.  Een pagina met opties en filtermogelijkheden wordt geopend. 
-2. Selecteer de **Huurverhogingsbatchnaam** van de indexeringsbatch waarvoor u de huurverhogingsbrieven wil genereren. 
+2. Selecteer de **Huurverhogingsbatchnaam** van de indexeringsbatch waarvoor u de huurverhogingsbrieven wilt genereren. 
 3. Selecteer de **Documentdatum**. 
-4. Geef in optie **Spec, woningwaardering afd.** aan of u een specificatie van de woningwaardering wil afdrukken als bijlage bij de huurverhogingsbrief. 
+4. Geef in optie **Spec. woningwaardering afdrukken** aan of u een specificatie van de woningwaardering wil afdrukken als bijlage bij de huurverhogingsbrief. 
 5. Geef in optie **Interactie registeren** aan of u wil dat het systeem al dan niet een interactie registreert voor elke klant waarvoor een huurverhogingsbrief wordt gegenereerd. 
 6. Selecteer de **Huurverhogingsdatum** waarvoor u de huurverhogingsbrief wil genereren. 
 7. Klik op **Afdrukken**. De huurverhogingsbrieven worden gegenereerd. 
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjM1ODY4LC0yMDkzMTYyOTg1LC0xMz
-E4MzUyMjI3LC05NDIzMTk0ODYsLTcxNDM5NDcxNywtMTUxMTc0
-NTMxLDk2NTQ3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNz
-I5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1
-MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
+eyJoaXN0b3J5IjpbLTUwOTE4OTMxMiwtMjA5MzE2Mjk4NSwtMT
+MxODM1MjIyNywtOTQyMzE5NDg2LC03MTQzOTQ3MTcsLTE1MTE3
+NDUzMSw5NjU0NzU3MDcsMTA0ODgxOTU4OCw3ODQxNjI1NjQsLT
+cyOTc3NzMzLC0yMDAzMDY4MDM1LC0yNzgxNTI2MzIsOTgzMzcy
+NTIsLTE4OTA2NDEwMTAsMTI2MDU3ODY4OV19
 -->
