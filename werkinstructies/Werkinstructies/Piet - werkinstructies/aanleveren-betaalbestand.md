@@ -2,8 +2,6 @@
 
 In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te betalen klant- en leveranciersposten.
 
-## Processchema
-
 ## Ophalen voorstel leveranciersposten
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
@@ -93,7 +91,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2OTQ1OTMyLDY0ODYxNTA2MywtMTUzNj
+eyJoaXN0b3J5IjpbNDI1MDk4MTQxLDY0ODYxNTA2MywtMTUzNj
 U1MjY2MSwxNDc3ODMzNTI4LC0xNDY0NjkxNjE2LC0yNjI0MDU0
 NDcsLTE5NDIyNTQzNjMsLTEyNjE3NzE3MywtMjkzNDE0NjA2LC
 0xNzYyMjAzNTgsLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMzYx
