@@ -37,7 +37,7 @@ Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worde
 
 Voordat u de huur voor de komende periode (maand) gaat prolongeren, dient u eerst de huurprijsmutaties die betrekking hebben op de voorgaande periode, maar die nog niet gefactureerd zijn, te factureren.  In deze zogenaamde 'veegprolongatie' kunnen nog niet gefactureerde TWK (terugwerkendekracht)- mutaties naar voren komen. U  factureert de mutaties die betrekking hebben op de voorgaande periode eerst om ervoor te zorgen dat voor de komende periode (maand) alleen de huur voor de komende periode (maand) in rekening wordt gebracht. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Prolongatierunoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Prolongatierunoverzicht**.
 2. De gelijknamige pagina **Prolongatierunoverzicht** opent; klik op **Nieuw**.
 3. De kaartpagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
 	* **Prol. periodenaam:** De laatst gefactureerde maand (de te factureren maand -1). De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
@@ -114,11 +114,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxODEzNjgzLC01NjI0NTM1NTEsLTE3MD
-gxNDM2MDQsMjM2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMzA2MjEy
-NDAsNzY0NzMxNTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMT
-A2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5
-NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LD
-E0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYy
-NTE5XX0=
+eyJoaXN0b3J5IjpbMTAyMzI5ODY3MCwtNTYyNDUzNTUxLC0xNz
+A4MTQzNjA0LDIzNjY3NDYxMCwtMTA3NTc2ODI4MiwtMTMwNjIx
+MjQwLDc2NDczMTU5LDE0NTM4ODMyNTgsMTg2MjE1MDkxMCwtMj
+EwNjg5OTk1OSwtMTM4MjEzNTI1MiwtMTgxMzMyMTI3OSwtMTQw
+OTUyMjIsMTAzMDEyMzQ0NSwxODYwNjc1OTc0LDQ1MzkxNzAwOC
+wxNDYyMzcyNjg3LDE3NzY2MDM4ODgsMTY2NTAzNjI1LDc4NTQ2
+MjUxOV19
 -->
