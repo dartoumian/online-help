@@ -91,7 +91,7 @@ In deze stap controleert u de uitkomst van de simulatie van de berekening van de
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Huurverhogingsoverzicht**.  Het huurverhogingsoverzicht wordt geopend. 
 2. U kunt de uitkomst van de berekening controleren in de desbetreffende kolommen (o.a. **Nieuwe nettohuur** en **Effectief verhogingspercentage**) van het overzicht. 
-3. Als u de details van de uitkomst van de berekening wilt bekijken van een OG Eenheden, klik dan op de **Tijdvakcode** in de desbetreffende regel van het overzicht. De detailpagina van de geselecteerde huurverhoging wordt geopend. De uitkomst van de berekening staat vermeld in de tabbladen **Berekening en effectuering** en **Nettohuur elementen**. Sluit de detailpagina. 
+3. Als u de details van de uitkomst van de berekening wilt bekijken van een OG Eenheid, klik dan op de **Tijdvakcode** in de desbetreffende regel van het overzicht. De detailpagina van de geselecteerde huurverhoging wordt geopend. De uitkomst van de berekening staat vermeld in de tabbladen **Berekening en effectuering** en **Nettohuur elementen**. Sluit de detailpagina. 
 4. U kunt de uitkomsten van de berekening ook vanaf het overzicht exporteren naar Excel (klik op **Pagina** en kies voor **Openen in Excel**). In Excel kunt u o.a. de gemiddelde huursomstijging als gevolg van de jaarlijkse huurverhoging berekenen. 
 
 Mocht de uitkomst van de simulatie berekening niet acceptabel zijn, pas dan het huurverhogingsbeleid van de desbetreffende OG Eenheden aan. Bijvoorbeeld: 
@@ -139,9 +139,9 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMxNjI5ODUsLTEzMTgzNTIyMjcsLT
-k0MjMxOTQ4NiwtNzE0Mzk0NzE3LC0xNTExNzQ1MzEsOTY1NDc1
-NzA3LDEwNDg4MTk1ODgsNzg0MTYyNTY0LC03Mjk3NzczMywtMj
-AwMzA2ODAzNSwtMjc4MTUyNjMyLDk4MzM3MjUyLC0xODkwNjQx
-MDEwLDEyNjA1Nzg2ODldfQ==
+eyJoaXN0b3J5IjpbMzcyNDg1NDIxLC0yMDkzMTYyOTg1LC0xMz
+E4MzUyMjI3LC05NDIzMTk0ODYsLTcxNDM5NDcxNywtMTUxMTc0
+NTMxLDk2NTQ3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNz
+I5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1
+MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
 -->
