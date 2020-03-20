@@ -72,7 +72,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)** waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
@@ -91,7 +91,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTA2ODU5NiwxMzY2MDg4MjEwLDQyNT
+eyJoaXN0b3J5IjpbLTYzNDY5NjI1MiwxMzY2MDg4MjEwLDQyNT
 A5ODE0MSw2NDg2MTUwNjMsLTE1MzY1NTI2NjEsMTQ3NzgzMzUy
 OCwtMTQ2NDY5MTYxNiwtMjYyNDA1NDQ3LC0xOTQyMjU0MzYzLC
 0xMjYxNzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIwMzU4LC01MzE1
