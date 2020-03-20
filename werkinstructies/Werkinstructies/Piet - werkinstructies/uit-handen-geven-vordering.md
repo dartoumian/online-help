@@ -3,8 +3,6 @@
 
 In dit werkproces worden vorderingen op klanten uit handen gegeven aan een deurwaarder en wordt de voortgang van het dossier bijgehouden.
 
-## Processchema
-
 ## Opvoeren deurwaarderdossier
 
 U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurwaarderdossier echter automatisch aangemaakt zijn vanuit het aanmaningsproces. In dat geval gaat u verder met **[Controleren deurwaarderdossier](#controleren-deurwaarderdossier)**.
@@ -79,10 +77,10 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMzI3NTk2LDE2NTMxMjY2MSwtNDIzMz
-M0Mzk3LC0zOTM1MDc2NTUsNjMwNTU1MDU4LDE2MTk5MDcyOSwt
-MTMwOTAxMDE2MywtMTk1ODY2MDMzNyw5NjA3MTM5MDEsLTExNT
-Q2MTc1ODIsLTUxMDQ4NzQyNSwtNjc3MTMzMjIyLDE2NTQwNzAw
-NTgsMjI5NTk5NTM4LC05ODU2MjAyNzgsMjA4OTEwMjA2MCwtMT
-c0MTM3MTI1XX0=
+eyJoaXN0b3J5IjpbODM3MTY5NjM5LDQ2MjMyNzU5NiwxNjUzMT
+I2NjEsLTQyMzMzNDM5NywtMzkzNTA3NjU1LDYzMDU1NTA1OCwx
+NjE5OTA3MjksLTEzMDkwMTAxNjMsLTE5NTg2NjAzMzcsOTYwNz
+EzOTAxLC0xMTU0NjE3NTgyLC01MTA0ODc0MjUsLTY3NzEzMzIy
+MiwxNjU0MDcwMDU4LDIyOTU5OTUzOCwtOTg1NjIwMjc4LDIwOD
+kxMDIwNjAsLTE3NDEzNzEyNV19
 -->
