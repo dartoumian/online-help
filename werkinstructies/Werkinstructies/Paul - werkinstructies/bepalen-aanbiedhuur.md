@@ -26,8 +26,8 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 3. Herhaal dit voor alle elementen waarvan u het bedrag wil aanpassen. 
 4. Als u een bestaand element wilt verwijderen uit het aanbiedingscontract, selecteer dan dat element, klik op de drie verticale puntjes in de regel en klik op **Regel verwijderen**. 
 5. Herhaal  dit voor alle elementen die u wilt verwijderen. 
-6. Als u een extra element wilt toevoegen aan het aanbiedingscontract, klik dan in kolom **Soort** op een lege regel onderaan het overzicht met elementen. Selecteer een element uit het elementoverzicht en klik op **OKop **Nieuwe re
-1. .
+6. Als u een extra element wilt toevoegen aan het aanbiedingscontract, klik dan in kolom **Soort** op een lege regel onderaan het overzicht met elementen. Selecteer een element uit het elementoverzicht en klik op **OK**. Vul een waarde in in kolom **Eenheidprijs**.
+7. Herhaal dit voor alle elementen die u wilt toevoegen.
 
 ## Invullen huurprijsmutatie
 
@@ -45,9 +45,9 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. K en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mjg5MDA2Miw4MzczMTgyMTcsMjA4Nz
-k0MTMzMiwtNDkwNTk1MzgyLC0yMDE3MTk4NTIyLDIwODEyMzA1
-NjIsLTc1ODMwNzgyOSwtMjExNzkwOTQ5MywxNDY1NzczODcxLD
-k5NTI1MDk1NCw0Mzk2Njk4MTgsODY1NDc1NzczLC03NjU0MDEz
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTQ0MTIxNDQsODM3MzE4MjE3LDIwOD
+c5NDEzMzIsLTQ5MDU5NTM4MiwtMjAxNzE5ODUyMiwyMDgxMjMw
+NTYyLC03NTgzMDc4MjksLTIxMTc5MDk0OTMsMTQ2NTc3Mzg3MS
+w5OTUyNTA5NTQsNDM5NjY5ODE4LDg2NTQ3NTc3MywtNzY1NDAx
+MzgyXX0=
 -->
