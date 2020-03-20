@@ -6,8 +6,8 @@ In dit werkproces wordt een factuur voor diensten correctief onderhoud gecontrol
 
 Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutatieonderhoud** en **Verhuren eenheden** kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden, dient een controle plaats te vinden, waarna een aanvulling of correctie noodzakelijk kan blijken te zijn.
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")   naar de lijst **Verkoopfacturen**.
- 2. Mogelijk vindt u op deze pagina een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud. Heeft u geen voorgedefinieerde filterlijst, stel dan een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter"), waarbij **Onderhoudsverzoeknr.** ongelijk is aan 'leeg' (<>'').
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verkoopfacturen**.
+ 2. Mogelijk vindt u op deze pagina een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud. Heeft u geen voorgedefinieerde filterlijst, stel dan een filter in via de filterfunctie ![filter icon](/assets/images/filter.png "filter icon") , waarbij **Onderhoudsverzoeknr.** ongelijk is aan 'leeg' (<>'').
  3. Open de juiste factuur door op het factuurnummer te klikken. De pagina **Verkoopfactuur** wordt geopend.
  4. Controleer de volgende velden op de factuurregels:
 	* **BTW-productboekingsgroep**
@@ -33,6 +33,6 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
  1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA1MzIwOSwtMTg4Njg1MTU3MCwtMT
+eyJoaXN0b3J5IjpbLTgyNjUzNzAyMywtMTg4Njg1MTU3MCwtMT
 kyOTY0Nzc5XX0=
 -->
