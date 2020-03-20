@@ -6,7 +6,7 @@ In dit werkproces wordt de BTW-aangifte gegenereerd en geboekt zodat dit kan wor
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
-1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png"zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken"zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Voorbeeld**. De pagina **Btw-aangiftevoorbeeld** opent. 
 3. Vul de volgende velden met de aangegeven waarden:
 	-	**Selectie posten o.b.v.**: 'Documentdatum'
@@ -33,7 +33,9 @@ In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-
 
 Dit betreft het boeken van de bedragen op de BTW-aangifte.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+
+![zoeken icon](/assets/images/zoeken.png "zoeken icon")
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central![een icon/asses/ae/e.png "ee ion icon/asses/ae/e.png "ee ion") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Btw-vereffening berekenen en boeken.** De gelijknamige pagina opent. 
 3. Vul de volgende velden met de aangegeven waarden: 
  	- **Begindatum**: 1 januari van het huidige jaar.
@@ -42,11 +44,12 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	-  **Documentnr.** : Hier vermeldt u het documentnummer dat u mee wilt geven bij de boeking. 
 	- **Vereffeningsrekening**: Dit is de rekening waarop de BTW-aangifte geboekt moet worden. 
 	- **Boeken**: Zet dit veld op 'Aan' als u direct wilt boeken.  Kies voor 'Uit' als u eerst een voorbeeld wilt genereren.
-4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt - na een klik op **OK** - het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
+4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven datn wordt - na een klik op **OK** - het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkzODQzNjUsMTU4MjYzMTIyNSwtMT
-k1MzcyNDQ5NCwxNDY2MTQ2MjY2LC0xNTMzNDI1NzE5LC0yNTEx
-NTcyOTEsMTI1OTE3MzEzMSwtNzc3NDc0NjM1LC05MDg3MTk1OD
-csLTQ5MzI5MTkzNywxNzg4OTc2NDE2LC0xNjU5OTExMjQ0LC00
-NzE2NzcyMTYsLTQ1MDg5MjkzNCwxMDc3NjUzODQyXX0=
+eyJoaXN0b3J5IjpbMTM1MDkzNDAwMiwtMTA0OTM4NDM2NSwxNT
+gyNjMxMjI1LC0xOTUzNzI0NDk0LDE0NjYxNDYyNjYsLTE1MzM0
+MjU3MTksLTI1MTE1NzI5MSwxMjU5MTczMTMxLC03Nzc0NzQ2Mz
+UsLTkwODcxOTU4NywtNDkzMjkxOTM3LDE3ODg5NzY0MTYsLTE2
+NTk5MTEyNDQsLTQ3MTY3NzIxNiwtNDUwODkyOTM0LDEwNzc2NT
+M4NDJdfQ==
 -->
