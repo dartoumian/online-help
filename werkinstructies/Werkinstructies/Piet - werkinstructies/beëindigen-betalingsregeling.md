@@ -15,12 +15,12 @@ In deze processtap wordt een betalingsregeling beëindigd en wordt de klant hier
 
 In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaan zijn in bulk beëindigt.
 
-1.  Navigeer via het zoekveld  ![filter icon](/assets/images/filter.png "filter icon") naar de taak  **Betalingsregeling beëindigen**. Het gelijknamige scherm  opent.
+1.  Navigeer via het zoekveld  ![zoeken icon](/assets/images/zoeken.png "zoeken icon")  naar de taak  **Betalingsregeling beëindigen**. Het gelijknamige scherm  opent.
 2.  Selecteer in het filterveld  **Toon**  de waarde  **Volledig betaald**. In het scherm worden nu alle volledig betaalde betalingsregelingen getoond die nog niet beëindigd zijn.
 3.  Selecteer alle regels en klik op **Markering aan**.
 4.  Klik op  **Betalingsregeling(en) beëindigen**. Het scherm  **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjkzMDUzNSwxMDYzNTc0NTA0LC03OD
-QwMjA5NjUsLTE5MjI4ODYwNDksLTE4MTU1NDk3MjQsLTE4MzAy
-NTEwNjUsNTE2ODQxMzM0XX0=
+eyJoaXN0b3J5IjpbLTE4NDcyMDI4NTksMTA2MzU3NDUwNCwtNz
+g0MDIwOTY1LC0xOTIyODg2MDQ5LC0xODE1NTQ5NzI0LC0xODMw
+MjUxMDY1LDUxNjg0MTMzNF19
 -->
