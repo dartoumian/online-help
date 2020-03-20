@@ -56,7 +56,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klantportaal, o.b.v. een betalingsregelingssjabloon of handmatig. Voordat u de betalingsregeling activeert kunt u de betalingsregeling nog controleren. 
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Betalingsregelingoverzicht**.  De gelijknamige pagina opent.
-2. Stel een filter in (via ![filter icon](/assets/images/filter.png "filter icon") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
+2. Stel een filter in (via ![fFilter picon](/assets/image://filter.png " iconPictog") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) op het veld **Status**. Deze dient gelijk te zijn aan **Aangemaakt**. U heeft nu een overzicht van de nog niet geactiveerde betalingsregelingen. 
 3. Klik op een regel om de desbetreffende betalingsregeling te openen. 
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden. 
 5. Wilt u de betalingsregeling aanpassen, kijk dan in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
@@ -75,9 +75,9 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjYxNTY1OSwzODA2NTQyNzcsNjIzMD
-A1NzM5LC0xMzQxOTUyNDUyLDE0NjE5NjY3MjYsNDg5MTI5ODEy
-LDgwNjg4OTAxOSwtMjA1MTQ1ODYxNiwtNjkyNTQ4OTM4LDEwND
-UwODkzNTIsMTQyNjg4OTUyMSwtMTQyMDg1MDU3MSwtNTM4OTY2
-MTA3LDU1MDI2NTczMV19
+eyJoaXN0b3J5IjpbNjY1MDI0OTA5LDE1ODI2MTU2NTksMzgwNj
+U0Mjc3LDYyMzAwNTczOSwtMTM0MTk1MjQ1MiwxNDYxOTY2NzI2
+LDQ4OTEyOTgxMiw4MDY4ODkwMTksLTIwNTE0NTg2MTYsLTY5Mj
+U0ODkzOCwxMDQ1MDg5MzUyLDE0MjY4ODk1MjEsLTE0MjA4NTA1
+NzEsLTUzODk2NjEwNyw1NTAyNjU3MzFdfQ==
 -->
