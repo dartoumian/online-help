@@ -6,7 +6,7 @@ In dit werkproces worden alle de balansmutaties verwerkt en wordt de winst- en v
 
 Het afsluiten van de boekingsperiode van het afgelopen jaar, zodat boekingen die hierna nog worden gemaakt in het afgelopen jaar worden gekenmerkt.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Boekingsperioden**. Klik op **Jaar afsluiten**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Boekingsperioden**. Klik op **Jaar afsluiten**. 
 2. Maak wanneer nodig alvast een nieuw boekjaar aan door op **Nieuw jaar** te klikken. Vul de volgende velden op de pagina die opent:
 	-	**Begindatum**
 	-	**Aantal perioden**: 12
@@ -17,7 +17,7 @@ Het afsluiten van de boekingsperiode van het afgelopen jaar, zodat boekingen die
 
 Voordat de eindejaarsboekingen gemaakt kunnen worden dient eerst het grootboek ingesteld te worden voor deze boekingen. Advies is om deze handelingen uit te voeren na reguliere kantooruren. In deze processtap worden namelijk de dimensie verplichtingen van het grootboek afgehaald en worden de vinkjes m.b.t. direct boeken op grootboekrekeningen aangepast. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Configuratiepakketten** en selecteer het pakket wat betrekking heeft op de jaarafsluiting. Open dit pakket. Dit pakket bevat 2 tabellen:
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Configuratiepakketten** en selecteer het pakket wat betrekking heeft op de jaarafsluiting. Open dit pakket. Dit pakket bevat 2 tabellen:
 	-	Tabel Nr. 15: Grootboekrekeningen
 	-	Tabel Nr. 352: Standaard dimensies
 2. Klik op **Pakket exporteren** en sla het pakket op. Dit pakker bevat de inrichting van de 2 tabellen op dit moment. Dit pakket kunt u later gebruiken om  de inrichting terug te zetten. 
@@ -33,7 +33,7 @@ Voordat de eindejaarsboekingen gemaakt kunnen worden dient eerst het grootboek i
 
 De eerste stap in het boeken van de jaarafsluiting is het boeken naar de beginbalans rekeningen t.b.v. het RGS. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Periodieke daboeken**. Selecteer in het scherm wat open in het veld **Batchnaam** de batch voor het boeken van de beginbalans. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Periodieke daboeken**. Selecteer in het scherm wat open in het veld **Batchnaam** de batch voor het boeken van de beginbalans. 
 2. Controleer de **boekingsdatum** van de regels. Deze zouden op 31-12 van het af te sluiten jaar moeten staan. Pas indien nodig aan. 
 3. Klik op **Boeken** om de boekingen uit te voeren. 
 
@@ -59,5 +59,5 @@ Nadat u de boekingen t.b.v. de jaarafsluiting verwerkt heeft dient u de instelli
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Configuratiepakketten** klik op  **Pakket importeren**. 
 2. Open het pakket en klik op **Pakket toepassen**. De instellingen worden terug gezet. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMDcwNTYxXX0=
+eyJoaXN0b3J5IjpbMTIxNzM5MDMzMiw1MjEwNzA1NjFdfQ==
 -->
