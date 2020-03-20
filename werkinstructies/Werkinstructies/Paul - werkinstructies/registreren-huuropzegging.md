@@ -47,15 +47,14 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 ## Bevestigingen huuropzegging
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
-2. Zoek (selecteer de vVerhuurmutatie op waarvoor de bevestiging van de huuropzegging moet worden verstuurd.
-3. Opendie is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die detailpagina van de verhuurmutatie. 
-4. Navigeer naar deis aangemaakt tijdens de vorige stap en open pagina Huurcontractopzeggingkaart) of via de OG Eenheid (open overzicht met OG Eenheden, selecteer de OG Eenheid en klik op de detailpagina van de verhuurmutatie. 
-4. Klik op **Navigeren** en kies voor **Huuropzeggingen**).
-52. Kies voor functie **Worddocument** en s.
-36. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging. K en klik op **OK**. 
+2. Zoek de verhuurmutatie op waarvoor de bevestiging van de huuropzegging moet worden verstuurd.
+3. Open de detailpagina van de verhuurmutatie. 
+4. Klik op **Navigeren** en kies voor **Huuropzeggingen**.
+5. Kies voor functie **Worddocument**.
+6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjM5NTU3NSwtMTg0MzQ4MzU5NiwtMT
+eyJoaXN0b3J5IjpbLTYwODk4NzU5NSwtMTg0MzQ4MzU5NiwtMT
 E3MTMzOTcxNiwtNzc2NzYzNzIxLC0xODUxMTMwNjg5LDE0NTgw
 NzUwMTgsMTcyNjc5NDYwMiwxNzY2NzkyMjYzXX0=
 -->
