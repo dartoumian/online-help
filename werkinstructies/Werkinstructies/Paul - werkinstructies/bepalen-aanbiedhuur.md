@@ -2,9 +2,6 @@
 
 De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald op basis van het voor die eenheid geldende huurbeleid. Indien nodig wordt de aanbiedhuur handmatig aangepast. Daarnaast wordt de huurprijsmutatie ingevuld en indien nodig gefiatteerd. 
 
-
-## Processchema
-
 ## Berekenen nieuwe nettohuur conform huurbeleid 
 
 In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekent op basis van het bij die eenheid ingestelde huurbeleid.
@@ -46,6 +43,6 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. K en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MjUwOTU0LDQzOTY2OTgxOCw4NjU0Nz
-U3NzMsLTc2NTQwMTM4Ml19
+eyJoaXN0b3J5IjpbMTQ2NTc3Mzg3MSw5OTUyNTA5NTQsNDM5Nj
+Y5ODE4LDg2NTQ3NTc3MywtNzY1NDAxMzgyXX0=
 -->
