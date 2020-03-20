@@ -2,8 +2,6 @@
 
 In dit werkproces worden vorderingen van klanten afgeboekt, waarbij de financiën van de betreffende klant niet worden beheerd door derden.
 
-## Processchema
-
 ## Aanmaken afboekdossier
 
 Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derdendossier.
@@ -30,6 +28,6 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg0MzAzMTUsNjAwMDM4MDM0LDc0ND
-U4MzgyNiwtMTc4NjUwMjc1NiwtMTczNzgxMjk2MV19
+eyJoaXN0b3J5IjpbLTQ1MjQ4MjE0Niw2MDAwMzgwMzQsNzQ0NT
+gzODI2LC0xNzg2NTAyNzU2LC0xNzM3ODEyOTYxXX0=
 -->
