@@ -68,7 +68,7 @@ U importeert als volgt het antwoordbestand dat u heeft ontvangen van de Belastin
 
 
 ## Simuleren nieuwe nettohuur 
-In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer OG Eenheden, op basis van de aan die OG Eenheden toegewezen beleidstypen en aftoppingen. Daartoe maakt u eerst voor die OG Eenheden huurverhogingsparameters aan, waarin alle gegevens worden verzameld die nodig zijn om de nieuwe nettohuur te berekenen. Vervolgens berekent u op basis van die parameters de nieuwe nettohuur in simulatie. De uitkomst van de berekening in simulatie wordt alleen opgeslagen in de tabel van de jaarlijkse huurverhoging, en dus niet in de contractregels van de OG Eenheden. De uitkomst van de simulatie heeft dus geen enkel invloed op de prolongatie van verhuurcontracten van de OG Eenheden. 
+In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer OG Eenheden, op basis van de aan die OG Eenheden toegewezen beleidstypen en aftoppingen. Daartoe maakt u eerst voor die OG Eenheden huurverhogingsparameters aan, waarin alle gegevens worden verzameld die nodig zijn om de nieuwe nettohuur te berekenen. Vervolgens berekent u op basis van die parameters de nieuwe nettohuur in simulatie. De uitkomst van de berekening in simulatie wordt alleen opgeslagen in de tabel van de jaarlijkse huurverhoging, en dus niet in de contractregels van de OG Eenheden. De uitkomst van de simulatie heeft dus geen enkele invloed op de prolongatie van verhuurcontracten van de OG Eenheden. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Huurverhogingsparameters voor OG Eenheden aanmaken**.  Een pagina wordt geopend. 
 2. Selecteer in veld **Tijdvakcode** de code van het huurverhogingstijdvak waarvoor u de parameters wil aanmaken. 
@@ -139,8 +139,8 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE3NDUzMSw5NjU0NzU3MDcsMTA0OD
-gxOTU4OCw3ODQxNjI1NjQsLTcyOTc3NzMzLC0yMDAzMDY4MDM1
-LC0yNzgxNTI2MzIsOTgzMzcyNTIsLTE4OTA2NDEwMTAsMTI2MD
-U3ODY4OV19
+eyJoaXN0b3J5IjpbLTg1MjUxMTA1MiwtMTUxMTc0NTMxLDk2NT
+Q3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNzI5Nzc3MzMs
+LTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1MiwtMTg5MD
+Y0MTAxMCwxMjYwNTc4Njg5XX0=
 -->
