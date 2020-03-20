@@ -7,7 +7,7 @@ In dit werkproces wordt het overzicht van de te verwachte kasstromen gegenereerd
 
 De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in een latere stap gebruikt kunnen worden in rapportages. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Cashflowprognoses**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de pagina **Cashflowprognoses**.
 2. Klik op **Nieuw**, een nieuwe **cashflowprognosekaart** wordt geopend. Vul de volgende velden:
 	- **Nr.**: Pas het nummer aan, zodat duidelijk is voor welke periode de prognose aangemaakt is. Bijvoorbeeld PROG-0119-1219 voor de periode januari 2019 tot december 2019.
 	- **Omschrijving**: Geef een omschrijving mee waaruit blijkt op welke periode de prognose betrekking heeft.
@@ -31,12 +31,12 @@ De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in e
 
 Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelposten gegenereerd worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Rapportageschema's**. Selecteer het rapportageschema voor kasstroomprognoses en kies voor proces **Overzicht**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de pagina **Rapportageschema's**. Selecteer het rapportageschema voor kasstroomprognoses en kies voor proces **Overzicht**. 
 2. Vul de volgende velden:
 	- **Weergaven per:** 'Maand'.
 	- **Datum Filter:** Eerste rapportagemaand, bijvoorbeeld 01-01-2010..31-01-2020.
 	- **Cashflowfilter:** Selecteer de cashflowprognose waarover u wilt rapporteren.
 	- Het schema toont per kasstroomcategorie de **Mutatie per maand**. De onderste twee regels van het schema tonen de **verwachte mutatie van de liquide middelen**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTk3NDcxOF19
+eyJoaXN0b3J5IjpbLTIxNDY5NjAxODIsLTQ5OTk3NDcxOF19
 -->
