@@ -2,8 +2,6 @@
 
 In dit detailproces word de periodieke huur gefactureerd, ook wel **Prolongeren** genoemd.
 
-## Processchema
-
 ## Controleren huurmutaties
 
 Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die van invloed zijn op de te factureren periode controleren. U kunt bijvoorbeeld bepalen of er geen uitzonderlijke mutaties plaatsgevonden hebben, of u kunt controleren of alle mutaties geaccordeerd zijn.
@@ -116,11 +114,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjQ1MzU1MSwtMTcwODE0MzYwNCwyMz
-Y2NzQ2MTAsLTEwNzU3NjgyODIsLTEzMDYyMTI0MCw3NjQ3MzE1
-OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLTIxMDY4OTk5NTksLT
-EzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0MDk1MjIyLDEwMzAx
-MjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMDgsMTQ2MjM3MjY4Ny
-wxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0NjI1MTksLTE4Njkz
-NTM0MTddfQ==
+eyJoaXN0b3J5IjpbLTE5ODM5NDg5ODIsLTU2MjQ1MzU1MSwtMT
+cwODE0MzYwNCwyMzY2NzQ2MTAsLTEwNzU3NjgyODIsLTEzMDYy
+MTI0MCw3NjQ3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLT
+IxMDY4OTk5NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0
+MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMD
+gsMTQ2MjM3MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0
+NjI1MTldfQ==
 -->
