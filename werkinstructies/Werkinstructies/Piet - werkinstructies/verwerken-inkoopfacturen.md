@@ -4,9 +4,6 @@
 ## Omschrijving:
 In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en geboekt.
 
-## Processchema
-
-
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
@@ -45,7 +42,6 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 3. Selecteer de regel met het juiste ordernummer en klik op **Kosten-/taakspecificatie**. De pagina **Kostenspecificatie** opent. U kunt in dit scherm de benodigde informatie aanvullen (BTW- type, bedragen en/of aantallen). 
 4. Klik op **OK** om de kostenspecificatie definitief te maken.  U keert terug naar de pagina **Te factureren onderhoudsorders**. Hier wordt een melding getoond die aangeeft dat de orderregels opgehaald zijn in de factuur. Klik op **Sluiten.**
 5. U keer terug naar de pagina inkoopfactuur. Ga verder naar processtap **[Controleren factuurregels](#controleren-factuurregels)**.
-
 
 ### Ophalen ontvangstregels
 
@@ -168,11 +164,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAyNTE2MTksLTcyMjkyODUxNSwxMD
-IxMDIyNjQxLDE4NTA0NDkzNDIsLTEwNTIwNTE3MjAsLTEzOTAz
-NTMxMDQsMTY5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNTkzMTE1NC
-w3OTAxNjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4
-Mjk4NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLD
-E0ODc2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1
-MjAxOV19
+eyJoaXN0b3J5IjpbLTY4NzgyNjUwMCwtNzIyOTI4NTE1LDEwMj
+EwMjI2NDEsMTg1MDQ0OTM0MiwtMTA1MjA1MTcyMCwtMTM5MDM1
+MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMxMTU0LD
+c5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOTc3MDgy
+OTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0NDMsMT
+Q4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUy
+MDE5XX0=
 -->
