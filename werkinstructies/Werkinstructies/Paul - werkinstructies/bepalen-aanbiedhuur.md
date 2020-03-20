@@ -10,7 +10,6 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
  2. Zoek de verhuurmutatie op waarvan de aanbiedhuur moet worden bepaald.
  3. Open de detailpagina van de verhuurmutatie.
 4. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
- 5. Selecteer de regel, kKlik op **Nieuw** |en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
  6. De verhuuraanbieding wordt aangemaakt met één of meer **Aaanbiedingscontracten** (zie onder het gelijknamige kopje op de aanbiedingskaart): één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur* dat is ingesteld bijEr verschijnt een popup met de vraag op basis van welke bestaande contractregel u die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel die u in de vorige stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
  7. Bepaal op basis van welk aanbiedingscontract u de OG Eenheid wilt publiceren en opnieuw verhuren. Verwijder eventueel de overige aanbiedingscontracten van dnieuwe verhuuraanbieding. wil baseren. Selecteer het getoonde leegstandscontracten. 
 
@@ -43,7 +42,7 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. K en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTc4MDQzMiwtMjExNzkwOTQ5MywxND
-Y1NzczODcxLDk5NTI1MDk1NCw0Mzk2Njk4MTgsODY1NDc1Nzcz
-LC03NjU0MDEzODJdfQ==
+eyJoaXN0b3J5IjpbOTc3ODQyNjEyLC0yMTE3OTA5NDkzLDE0Nj
+U3NzM4NzEsOTk1MjUwOTU0LDQzOTY2OTgxOCw4NjU0NzU3NzMs
+LTc2NTQwMTM4Ml19
 -->
