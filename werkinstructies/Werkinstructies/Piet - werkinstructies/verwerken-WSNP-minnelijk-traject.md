@@ -2,8 +2,6 @@
 
 In dit werkproces wordt schuldbeheer bij instanties geregistreerd, worden afspraken bewaakt en wordt, indien van toepassing, de bijbehorende vordering afgeboekt.
 
-## Processchema
-
 ## Aanmaken derdendossier
 
 Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een derdendossier aanmaken.
@@ -68,8 +66,8 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjUwMTIwNywtMTc3MTIwNDEyOSwtMT
-E5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5OTk0MzgsLTU1NDY2
-MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3NjIwLDYyNDk5ODU0MF
-19
+eyJoaXN0b3J5IjpbLTE1MTg3MTk1MTYsLTk1MjUwMTIwNywtMT
+c3MTIwNDEyOSwtMTE5ODMyODgyNCw5ODczNjgyMjksLTEyNTg5
+OTk0MzgsLTU1NDY2MDc1OCwtMTQxMDIxMjc3OCwxODE4ODY3Nj
+IwLDYyNDk5ODU0MF19
 -->
