@@ -57,7 +57,7 @@ U maakt als volgt een vraagbestand aan dat u kunt verstrekken aan de Belastingdi
 3. Selecteer de **Huurverhogingsdatum** waarop de huurverhoging ingaat. 
 4. Stel de filters zodanig in dat alleen die OG Eenheden worden geselecteerd waarvoor u daadwerkelijk van plan bent de nettohuur inkomensafhankelijk te verhogen. 
 5. Klik op **OK**. Het systeem maakt het vraagbestand aan. 
-6. Klik op **Opslaan** en selecteer de locatie waar het bestand moet worden opgeslagen. Let op: afhankelijk van het aantal regels kan dor het systeem meer dan één vraagbestand worden aangemaakt. 
+6. Klik op **Opslaan** en selecteer de locatie waar het bestand moet worden opgeslagen. Let op: afhankelijk van het aantal regels kan door het systeem meer dan één vraagbestand worden aangemaakt. 
 7. Upload het vraagbestand (of de vraagbestanden) via het webportaal van de Belastingdienst. Voor meer informatie, zie:   [http://www.inkomensafhankelijkehuurverhoging.nl](http://www.inkomensafhankelijkehuurverhoging.nl). 
 
 U importeert als volgt het antwoordbestand dat u heeft ontvangen van de Belastingdienst: 
@@ -139,7 +139,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzc5OTg2OCw5NjU0NzU3MDcsMTA0OD
+eyJoaXN0b3J5IjpbLTE1MTE3NDUzMSw5NjU0NzU3MDcsMTA0OD
 gxOTU4OCw3ODQxNjI1NjQsLTcyOTc3NzMzLC0yMDAzMDY4MDM1
 LC0yNzgxNTI2MzIsOTgzMzcyNTIsLTE4OTA2NDEwMTAsMTI2MD
 U3ODY4OV19
