@@ -33,6 +33,8 @@ In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-
 
 Dit betreft het boeken van de bedragen op de BTW-aangifte.
 
+
+![zoeken icon](/assets/images/zoeken.png "zoeken icon")
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Btw-vereffening berekenen en boeken.** De gelijknamige pagina opent. 
 3. Vul de volgende velden met de aangegeven waarden: 
@@ -44,9 +46,9 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Zet dit veld op 'Aan' als u direct wilt boeken.  Kies voor 'Uit' als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt - na een klik op **OK** - het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MzI3MzU5LC0xOTUzNzI0NDk0LDE0Nj
-YxNDYyNjYsLTE1MzM0MjU3MTksLTI1MTE1NzI5MSwxMjU5MTcz
-MTMxLC03Nzc0NzQ2MzUsLTkwODcxOTU4NywtNDkzMjkxOTM3LD
-E3ODg5NzY0MTYsLTE2NTk5MTEyNDQsLTQ3MTY3NzIxNiwtNDUw
-ODkyOTM0LDEwNzc2NTM4NDJdfQ==
+eyJoaXN0b3J5IjpbMTI2MzU1ODgsLTE5NTM3MjQ0OTQsMTQ2Nj
+E0NjI2NiwtMTUzMzQyNTcxOSwtMjUxMTU3MjkxLDEyNTkxNzMx
+MzEsLTc3NzQ3NDYzNSwtOTA4NzE5NTg3LC00OTMyOTE5MzcsMT
+c4ODk3NjQxNiwtMTY1OTkxMTI0NCwtNDcxNjc3MjE2LC00NTA4
+OTI5MzQsMTA3NzY1Mzg0Ml19
 -->
