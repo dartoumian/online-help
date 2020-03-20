@@ -6,7 +6,7 @@ In dit werkproces wordt de BTW-aangifte gegenereerd en geboekt zodat dit kan wor
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Voorbeeld**. De pagina **Btw-aangiftevoorbeeld** opent. 
 3. Vul de volgende velden met de aangegeven waarden:
 	-	**Selectie posten o.b.v.**: 'Documentdatum'
@@ -46,9 +46,9 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Zet dit veld op 'Aan' als u direct wilt boeken.  Kies voor 'Uit' als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt - na een klik op **OK** - het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzU1ODgsLTE5NTM3MjQ0OTQsMTQ2Nj
-E0NjI2NiwtMTUzMzQyNTcxOSwtMjUxMTU3MjkxLDEyNTkxNzMx
-MzEsLTc3NzQ3NDYzNSwtOTA4NzE5NTg3LC00OTMyOTE5MzcsMT
-c4ODk3NjQxNiwtMTY1OTkxMTI0NCwtNDcxNjc3MjE2LC00NTA4
-OTI5MzQsMTA3NzY1Mzg0Ml19
+eyJoaXN0b3J5IjpbMTg1NzczMDU1NSwtMTk1MzcyNDQ5NCwxND
+Y2MTQ2MjY2LC0xNTMzNDI1NzE5LC0yNTExNTcyOTEsMTI1OTE3
+MzEzMSwtNzc3NDc0NjM1LC05MDg3MTk1ODcsLTQ5MzI5MTkzNy
+wxNzg4OTc2NDE2LC0xNjU5OTExMjQ0LC00NzE2NzcyMTYsLTQ1
+MDg5MjkzNCwxMDc3NjUzODQyXX0=
 -->
