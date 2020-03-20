@@ -2,9 +2,6 @@
 
 In dit werkproces worden nieuwe leveranciers aangemaakt en gewijzigde informatie met betrekking tot bestaande leveranciers aangepast.
 
-## Processchema
-
-
 ## Aanmaken contact
 Voordat u de leverancierskaart aan kunt maken dient u een contact aan te maken. 
 
@@ -61,6 +58,7 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5ODU4MSw3NjQwODc1ODIsMTUxMTE1Mz
-MyNCwtOTE5ODcxMzQsLTEyNDI5OTkyMTddfQ==
+eyJoaXN0b3J5IjpbLTI4MDUyOTYwMCw3MTk4NTgxLDc2NDA4Nz
+U4MiwxNTExMTUzMzI0LC05MTk4NzEzNCwtMTI0Mjk5OTIxN119
+
 -->
