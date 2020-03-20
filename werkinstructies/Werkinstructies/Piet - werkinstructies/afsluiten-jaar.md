@@ -41,7 +41,7 @@ De eerste stap in het boeken van de jaarafsluiting is het boeken naar de beginba
 
 Nadat de beginbalans boekingen gemaakt zijn kan de Winst en Verlies rekening afgesloten worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Afsluiten WenV-rekening**. Vul in de pagina die opent de volgende velden:
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Afsluiten WenV-rekening**. Vul in de pagina die opent de volgende velden:
 	- **Einddatum boekjaar**
 	- **Fin. dagboeksjabloon**: Het dagboek wat u wilt gebruiken voor deze boeking. 
 	- **Fin. dagboekbatch**; De dagboekbatch die u wilt gebruiken voor deze boeking. 
@@ -49,15 +49,15 @@ Nadat de beginbalans boekingen gemaakt zijn kan de Winst en Verlies rekening afg
 	- **Resultaat lopend boekjaar**: De rekening waarop u het resultaat wilt boeken. 
 	- **Boekingsomschrijving**
 2. Klik op **OK**. De regels worden klaargezet in het dagboek wat u opgegeven hebt. 
-3. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Diversendagboek** en selecteer het dagboek waarin u de regels klaargezet heeft. Selecteer wanneer nodig de juiste batch in het veld **Batchnaam**. 
+3. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Diversendagboek** en selecteer het dagboek waarin u de regels klaargezet heeft. Selecteer wanneer nodig de juiste batch in het veld **Batchnaam**. 
 4. Klik op **Boeken** om de winst- en verliesrekening te boeken. 
 
 ## Terugzetten grootboekinstellingen
 
 Nadat u de boekingen t.b.v. de jaarafsluiting verwerkt heeft dient u de instellingen die u in de eerste stap aanpast heeft terug te zetten. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Configuratiepakketten** klik op  **Pakket importeren**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Configuratiepakketten** klik op  **Pakket importeren**. 
 2. Open het pakket en klik op **Pakket toepassen**. De instellingen worden terug gezet. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzM5MDMzMiw1MjEwNzA1NjFdfQ==
+eyJoaXN0b3J5IjpbLTExMjEwMDY2MDcsNTIxMDcwNTYxXX0=
 -->
