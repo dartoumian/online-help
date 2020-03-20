@@ -6,9 +6,6 @@ Gedurende het kalenderjaar moet worden gemonitord of het percentage passende toe
 
 Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gecontroleerd door de accountant. Nadat deze controle is afgerond, moeten de privacygevoelige gegevens worden opgeschoond uit de verantwoording verhuringen van het voorgaande kalenderjaar.   
 
-
-## Processchema
-
 ## Registreren huishoudgegevens  
 
 In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling. 
@@ -74,11 +71,11 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 5. Klik op **OK**. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NTk5NjUwLDE1MDM2NzUzMjUsMTQ2Nj
-EwMzk3Nyw5Mzg2NjUyMDQsLTEzNDIzMzA2MDUsMTA3MTY5Nzc1
-MSwtMjMzNzMxNjQsNzYxMTI3NzAwLC0xNzEyMjc4ODc2LC0xNz
-M5MTkzNDQ5LDEyMDA4NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1
-MDEyMTEsNzUxMTkzMDMxLC0xNjUwMTMwODM0LDMxMzg0NDg2OC
-wtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02MTMwNjQ3NywtMzc0
-MDI5Mjk3XX0=
+eyJoaXN0b3J5IjpbLTIwOTA2ODM2MjUsMjY5NTk5NjUwLDE1MD
+M2NzUzMjUsMTQ2NjEwMzk3Nyw5Mzg2NjUyMDQsLTEzNDIzMzA2
+MDUsMTA3MTY5Nzc1MSwtMjMzNzMxNjQsNzYxMTI3NzAwLC0xNz
+EyMjc4ODc2LC0xNzM5MTkzNDQ5LDEyMDA4NDAwMDgsLTE1NDM0
+OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkzMDMxLC0xNjUwMTMwOD
+M0LDMxMzg0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02
+MTMwNjQ3N119
 -->
