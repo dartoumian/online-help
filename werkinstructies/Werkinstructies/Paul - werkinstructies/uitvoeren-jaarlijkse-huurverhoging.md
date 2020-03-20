@@ -11,13 +11,12 @@ U kunt de beleidstypes op twee manieren toewijzen aan OG Eenheden:
 a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart** 
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de tweede kolom de naam **Huurverhogingsbeleidstypecode**. 
 
-Ad a: 
-1. Ga via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar **Onr. Goed Eenhedenoverzicht**. 
-2. Klik op **OG Eenheden**. Een pagina wordt geopend met een overzicht van alle OG Eenheden. 
-3. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid. 
-4. Open tabblad **Exploitatie (Fin.)**. 
-5. Selecteer in veld **Huurverhogingsbeleidstype** het juiste beleidstype. 
-6. Sluit de pagina. 
+_**Ad a:**_
+ 1. Ga via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar **Onr. Goed Eenhedenoverzicht**. 
+ 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid. 
+ 3. Open tabblad **Exploitatie (Fin.)**. 
+ 4. Selecteer in veld **Huurverhogingsbeleidstype** het juiste beleidstype. 
+ 5. Sluit de pagina. 
 
 Ad b.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Huurverhogingseigenschappen voor OG Eenheden importeren**.  Een pagina wordt geopend met enkele opties. 
@@ -141,7 +140,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NTAwODU1LC03Mjk3NzczMywtMjAwMz
+eyJoaXN0b3J5IjpbNzg0MTYyNTY0LC03Mjk3NzczMywtMjAwMz
 A2ODAzNSwtMjc4MTUyNjMyLDk4MzM3MjUyLC0xODkwNjQxMDEw
 LDEyNjA1Nzg2ODldfQ==
 -->
