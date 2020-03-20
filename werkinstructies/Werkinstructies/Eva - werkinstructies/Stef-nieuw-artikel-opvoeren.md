@@ -2,8 +2,6 @@
 
 Zodra er een nieuw artikel beschikbaar is, of reeds in gebruik, is het zaak dat deze ook in Dynamics Empire wordt vastgelegd, zodat de vakmannen het artikel kunnen verbruiken en het ook als kosten op het onderhoudsverzoek kan worden vastgelegd.
 
-## Processchema
-
 ## Nieuw artikel opvoeren
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de pagina **Artikelen**.
@@ -41,5 +39,6 @@ In de basis maak je voor elke vestiging een SKU aan.
  4. Klik op **OK**. De SKU's worden per vestiging aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDIzMTEsNDk3NDQ2MzU0XX0=
+eyJoaXN0b3J5IjpbNDk3NDQ2MzU0LDEwMzAyMzExLDQ5NzQ0Nj
+M1NF19
 -->
