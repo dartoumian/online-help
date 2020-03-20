@@ -2,8 +2,6 @@
 
 In dit werkproces worden de debiteuren gesegmenteerd op basis van betaalgedrag om debiteuren met achterstanden gericht te kunnen benaderen.
 
-## Processchema
-
 ## Voorstellen segmentatie
 
 In deze stap wordt een voorstel gemaakt voor het wijzigen van segment voor specifieke klanten.
@@ -23,5 +21,6 @@ In deze stap wordt de voorgestelde segmentatie toegepast.
 3. Klik op **OK**. De voorstellen worden toegepast. Dit betekent dat de aanmaningsconditie op de klanten aangepast wordt naar het voorgestelde segment. U keert terug naar de pagina **Segmentatievoorstellen**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY3MTQ2MDAsLTkxMjMxMTc3Nl19
+eyJoaXN0b3J5IjpbLTEyMjMwMjI0NjMsLTIwODY3MTQ2MDAsLT
+kxMjMxMTc3Nl19
 -->
