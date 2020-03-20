@@ -6,7 +6,7 @@ In dit werkproces worden betalingsachterstanden gesignaleerd en wordt de debiteu
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Aanmaningen**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Aanmaningen**. 
 2. Klik op de pagina **Aanmaningen** op de actie **Aanmaningen maken**. Vul op de zojuist geopende pagina de volgende velden met de aangegeven waarden:
 	* **Boekingsdatum:** Alle posten die voor deze datum vervallen zijn worden meegenomen in het aanmangsvoorstel.
 	* **Documentdatum:** Dit is de datum die op het aanmaningsdocument voor de debiteur getoond wordt.
@@ -21,7 +21,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 Nadat de voorstellen gegenereerd zijn kunt u deze opschonen en controleren. 
 
-1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel op de pagina **Aanmaningen** een filter in (via ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**)  op het veld **Aanmaningsniveau** en wel zodanig dat alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
+1. U verstuurt de aanmaningen per aanmaningsniveau. De aanmaningsvoorstellen die niet van het niveau zijn dat u op dit moment wilt aanmanen, dient u te verwijderen. Stel op de pagina **Aanmaningen** een filter in (via ![filter icon](/assets/images/filter.png "filter icon") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**)  op het veld **Aanmaningsniveau** en wel zodanig dat alle aanmaningen die niet van het niveau zijn dat u aan wilt manen, getoond worden binnen het filter. Wilt u bijvoorbeeld niveau 1 versturen, dan stelt u het filter in het veld **Aanmaningsniveau** als volgt in: '<>1' (ongelijk aan 1).
 2. Selecteer alle aanmaningsvoorstellen; klik daartoe eerst op de drie verticaal geplaatste puntjes achter een willekeurig aanmaningsnummer (*Meer opties weergeven*), kies voor *Meer selecteren* en selecteer alle regels. Klik op **Verwijderen**. Er wordt nu een lege lijst getoond.
 3. Verwijder het ingestelde filter (klik op kruisje), en de aanmaningen van het niveau dat u wilt versturen worden getoond.
 4. Wanneer de overgebleven aanmaningen betrekking hebben op een aanmaningsconditie voor betalingsregelingen, en het aanmaningsniveau betekent dat de betalingsregeling vervalt, ga dan verder naar de processtap **[Verwerken aanmaningen beëindigde betalingsregeling](#verwerken-aanmaningen-beëindigde-betalingsregeling)**. 
@@ -84,9 +84,9 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTcyOTQ3OSw3MzAwODk5MCwtMTExNz
-k5NTQ3NiwtMzE1NDE2NDQwLDE1MDE5MzQwOTIsLTYxNDU1NDcy
-MywtMTU3ODA4NjM3MiwtMTM3ODI5ODUyNywtNzUxNjcwNTksLT
-c3MzM2OTk0NiwtMzQ5NzU4MjYsMTc0ODA2ODIxNiwyMTI1Nzk1
-OTE4XX0=
+eyJoaXN0b3J5IjpbLTEyNzQzMjAzNzMsMTE1MTcyOTQ3OSw3Mz
+AwODk5MCwtMTExNzk5NTQ3NiwtMzE1NDE2NDQwLDE1MDE5MzQw
+OTIsLTYxNDU1NDcyMywtMTU3ODA4NjM3MiwtMTM3ODI5ODUyNy
+wtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4MjYsMTc0ODA2
+ODIxNiwyMTI1Nzk1OTE4XX0=
 -->
