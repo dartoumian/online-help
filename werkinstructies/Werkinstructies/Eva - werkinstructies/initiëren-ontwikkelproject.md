@@ -2,8 +2,6 @@
 
 In Dynamics Empire worden in de projectenadministratie de projectmodellen aangemaakt. De projectmodellen zijn typen projecten. Het is in Dynamics Empire mogelijk om enkelvoudige en gemengde projectmodellen aan te maken.
 
-## Processchema
-
 ## Aanmaken projectmodel - enkelvoudig project
 
 Deze werkinstructie behandelt het aanmaken van een enkelvoudig renovatieproject, bestaande uit huurwoningen DAEB, met opstellen van een investeringsbegroting en budget in Dynamics Empire. Voor de huurwoningen geldt een BTW-regime 'Niet terugvorderbaar'.
@@ -223,11 +221,11 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
  8. Sluit het werkderdenoverzicht. U komt hiermee terug in het projectoverzicht (of op de projectkaart). Hier is te zien dat de status van het project is veranderd in 'Order'.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mjc1ODMwMSwxMTI1MzU0Njg4LC0yMj
-Y2MjQ5NzgsLTM5NzAyODU1LDQ1MTc0NzAzNSwtMTQ0MTUyNTU3
-NCwtMTYzNzc4ODE4NywtMTU0NDg2ODA1MSwxNjk5NTY5MTE1LD
-E4ODY4MjA2NDIsLTEwNTkxNzM4ODgsNTEzMjk5MDU1LC0zODM4
-MzM0MDYsLTE5NzYzMzcxMTEsMTg1NjkzMTY5MSwtMTkyNDYyND
-c5LC00MDU3MjIzNjAsLTkxMzcxNDc4MCw2MjYwODU2NjEsOTgx
-MzIzOTJdfQ==
+eyJoaXN0b3J5IjpbMjU0MzQ3MDc4LC05NzI3NTgzMDEsMTEyNT
+M1NDY4OCwtMjI2NjI0OTc4LC0zOTcwMjg1NSw0NTE3NDcwMzUs
+LTE0NDE1MjU1NzQsLTE2Mzc3ODgxODcsLTE1NDQ4NjgwNTEsMT
+Y5OTU2OTExNSwxODg2ODIwNjQyLC0xMDU5MTczODg4LDUxMzI5
+OTA1NSwtMzgzODMzNDA2LC0xOTc2MzM3MTExLDE4NTY5MzE2OT
+EsLTE5MjQ2MjQ3OSwtNDA1NzIyMzYwLC05MTM3MTQ3ODAsNjI2
+MDg1NjYxXX0=
 -->
