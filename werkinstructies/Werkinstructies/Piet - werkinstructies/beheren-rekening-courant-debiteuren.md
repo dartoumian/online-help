@@ -7,7 +7,7 @@ U benadert de klantposten voor een specifieke klant door naar de klantlijst of -
 
 Wanneer u de rekening-courant van een klant af wilt drukken kan dit vanaf pagina **Klantposten**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon")  naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de rekening-courant wilt afdrukken.
 3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantenposten** opent. 
 4. Kies voor **Afdrukken**. De pagina **Rekening-courant cumulatief** opent. Klik op **Verzenden naar** en kies voor 'PDF' om de rekening-courant van de klant af te drukken. 
@@ -17,7 +17,7 @@ Wanneer u de rekening-courant van een klant af wilt drukken kan dit vanaf pagina
 
 Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina **Klantposten**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de posten wilt vereffenen.
 3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen. 
@@ -33,7 +33,7 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 
 Wanneer u de vereffening van klantposten ongedaan wilt maken kunt u dit doen vanaf de pagina **Klantposten**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de vereffening ongedaan wilt maken.
 3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
 4. Selecteer één van de posten waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening posten ongedaan maken**. De pagina **Vereffening klantenposten ongedaan maken** opent.
@@ -43,7 +43,7 @@ Wanneer u de vereffening van klantposten ongedaan wilt maken kunt u dit doen van
 
 Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen vanaf de pagina **Klantposten**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u een individuele post uit wilt sluiten van aanmaningen.
 3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
 4. Vul bij de post die u wilt uitsluiten van aanmaningen in het veld **Afwachten** de afwachtcode in die van toepassing is.
@@ -52,15 +52,15 @@ Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen 
 
 Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit doen door een aanmaningsconditie in te stellen op de klantkaart.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Zoek de klant op die u uit wilt sluiten van aanmaningen. Open de klantenkaart. 
 3. Selecteer in het veld **Aanmaningsconditiecode** (tabblad **Betalingen**, kies voor *Meer tonen*) de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen. 
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgzODkzOTEsMTIxNTc2NTYwOCwxOD
-Y5MTI2MTYsLTEwNjI5OTQ0MjksLTE2OTk2NzU5MTQsMTgyNjMy
-NTU5LDEyNzc1ODI2MDgsMTU3MTUyNTQ2LDE5MTg3NjM4OTIsLT
-EyNDg1MzcyNjcsMTMyNzA4OTE2MSwtOTU3MTE2MjgzLC0xNjM2
-MzM2NTEwLDE0MzEzODE1NTksMTI2NDkwNjQ1MiwxODE3OTk5MD
-IwXX0=
+eyJoaXN0b3J5IjpbNDE5ODcwNjg2LDEyMTU3NjU2MDgsMTg2OT
+EyNjE2LC0xMDYyOTk0NDI5LC0xNjk5Njc1OTE0LDE4MjYzMjU1
+OSwxMjc3NTgyNjA4LDE1NzE1MjU0NiwxOTE4NzYzODkyLC0xMj
+Q4NTM3MjY3LDEzMjcwODkxNjEsLTk1NzExNjI4MywtMTYzNjMz
+NjUxMCwxNDMxMzgxNTU5LDEyNjQ5MDY0NTIsMTgxNzk5OTAyMF
+19
 -->
