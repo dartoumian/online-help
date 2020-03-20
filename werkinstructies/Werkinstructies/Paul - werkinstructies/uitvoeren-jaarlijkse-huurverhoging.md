@@ -1,6 +1,6 @@
 
 # Uitvoeren jaarlijkse huurverhoging
-In dit werkproces wordt de jaarlijkse huurverhoging uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend, eerst in simulatie, en als de uitkomsten van de simulatie acceptabel zijn dan definitief. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Tenslotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen. 
+In dit werkproces wordt de jaarlijkse huurverhoging uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend: eerst in simulatie, en als definitief wanneer de uitkomsten van de simulatie acceptabel zijn. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Tenslotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen. 
 
 
 ## Processchema 
@@ -145,5 +145,5 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTEwODc1M119
+eyJoaXN0b3J5IjpbMTU3MTA2NzQ5NF19
 -->
