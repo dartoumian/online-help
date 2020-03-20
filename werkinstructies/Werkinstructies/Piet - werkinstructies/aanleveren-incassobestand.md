@@ -1,6 +1,6 @@
 # Aanleveren incassobestand
 
-In dit werkproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
+In dit eproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Ophalen voorstel klantposten
 
@@ -72,11 +72,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MDM4NzE4LDEyMzc3MzA2NzksNDk0Nz
-EyOTQyLC0xODAxMzgyODI2LDIxMTM4ODY1ODksLTE3MTQyMDU3
-NzAsLTE2Nzk2Mjc2NzIsMTYyMzI4MjYzMyw5MDQ0OTUwMDIsOT
-EzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAy
-LDkxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDEwNjY3OD
-cwOTksMTM3NTQ0NzMxMyw2NTMxNTY1NDQsLTc2NTQwNzAzNV19
+eyJoaXN0b3J5IjpbMTI3NjY5NjQ1MCw2MTYwMzg3MTgsMTIzNz
+czMDY3OSw0OTQ3MTI5NDIsLTE4MDEzODI4MjYsMjExMzg4NjU4
+OSwtMTcxNDIwNTc3MCwtMTY3OTYyNzY3MiwxNjIzMjgyNjMzLD
+kwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgw
+MCw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNj
+A4MDAsMTA2Njc4NzA5OSwxMzc1NDQ3MzEzLDY1MzE1NjU0NF19
 
 -->
