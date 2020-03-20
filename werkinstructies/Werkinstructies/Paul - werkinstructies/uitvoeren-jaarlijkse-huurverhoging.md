@@ -133,13 +133,13 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 2. Selecteer de **Huurverhogingsbatchnaam** van de indexeringsbatch waarvoor u de huurverhogingsbrieven wilt genereren. 
 3. Selecteer de **Documentdatum**. 
 4. Geef in optie **Spec. woningwaardering afdrukken** aan of u een specificatie van de woningwaardering wil afdrukken als bijlage bij de huurverhogingsbrief. 
-5. Geef in optie **Interactie registeren** aan of u wil dat het systeem al dan niet een interactie registreert voor elke klant waarvoor een huurverhogingsbrief wordt gegenereerd. 
+5. Geef in optie **Interactie registreren** aan of u wil dat het systeem al dan niet een interactie registreert voor elke klant waarvoor een huurverhogingsbrief wordt gegenereerd. 
 6. Selecteer de **Huurverhogingsdatum** waarvoor u de huurverhogingsbrief wil genereren. 
 7. Klik op **Afdrukken**. De huurverhogingsbrieven worden gegenereerd. 
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTE4OTMxMiwtMjA5MzE2Mjk4NSwtMT
+eyJoaXN0b3J5IjpbMTk5MjY3NzgyMiwtMjA5MzE2Mjk4NSwtMT
 MxODM1MjIyNywtOTQyMzE5NDg2LC03MTQzOTQ3MTcsLTE1MTE3
 NDUzMSw5NjU0NzU3MDcsMTA0ODgxOTU4OCw3ODQxNjI1NjQsLT
 cyOTc3NzMzLC0yMDAzMDY4MDM1LC0yNzgxNTI2MzIsOTgzMzcy
