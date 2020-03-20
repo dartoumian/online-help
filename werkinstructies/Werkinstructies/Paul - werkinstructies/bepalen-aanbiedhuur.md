@@ -13,7 +13,7 @@ In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor
  2. Zoek de verhuurmutatie op waarvoor de aanbiedhuur moet worden bepaald.
  3. Open de detailpagina van de verhuurmutatie.
  4. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
- 4. De verhuuraanbieding wordt aangemaakt met één of meer **Aaanbiedingscontracten** (zie onder het gelijknamige kopje op de aanbiedingskaart): één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur* dat is ingesteld bijEr verschijnt een popup met de vraag op basis van welke bestaande contractregel u die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel dist 4e u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
+ 4. De verhuuraanbieding wordt aangemaakt met één of meer **Aanbiedingscontracten** (zie onder het gelijknamige kopje op de aanbiedingskaart): één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur* dat is ingesteld bij de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel dist 4e u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
  5. Bepaal op basis van welk aanbiedingscontract u de OG Eenheid wilt publiceren en opnieuw verhuren. Verwijder eventueel de overige aanbiedingscontracten van dnieuwe verhuuraanbieding wil baseren. Selecteer het getoonde leegstandscontracten. 
 
 
@@ -45,8 +45,8 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. K en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU4Njk2MTAsLTQ5MDU5NTM4MiwtMj
-AxNzE5ODUyMiwyMDgxMjMwNTYyLC03NTgzMDc4MjksLTIxMTc5
-MDk0OTMsMTQ2NTc3Mzg3MSw5OTUyNTA5NTQsNDM5NjY5ODE4LD
-g2NTQ3NTc3MywtNzY1NDAxMzgyXX0=
+eyJoaXN0b3J5IjpbMjA4Nzk0MTMzMiwtNDkwNTk1MzgyLC0yMD
+E3MTk4NTIyLDIwODEyMzA1NjIsLTc1ODMwNzgyOSwtMjExNzkw
+OTQ5MywxNDY1NzczODcxLDk5NTI1MDk1NCw0Mzk2Njk4MTgsOD
+Y1NDc1NzczLC03NjU0MDEzODJdfQ==
 -->
