@@ -1,6 +1,6 @@
 
 # Uitvoeren jaarlijkse huurverhoging
-In dit werkproces wordt de jaarlijkse huurverhoging uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend:, eerst in simulatie, en als definitief wanneer de uitkomsten van de simulatie acceptabel zijn dan definitief. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en de nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Ten slotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen. 
+In dit werkproces wordt de jaarlijkse huurverhoging uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend: eerst in simulatie, en als definitief wanneer de uitkomsten van de simulatie acceptabel zijn. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en de nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Ten slotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen. 
 
 ## Toewijzen beleidstypes 
 In deze stap wijst u de vastgelegde huurverhogingsbeleidstypes toe aan de OG eenheden waarvan u de nettohuur wil aanpassen: per OG Eenheid één beleidstype. Als u in het verleden al beleidstypes heeft toegewezen aan OG Eenheden, dan is deze toewijzing in principe nog steeds bruikbaar voor de jaarlijkse huurverhoging van het nieuwe tijdvak. In dat geval hoeft u alleen beleidstypes toe te wijzen aan OG Eenheden die dit nieuwe tijdvak tot een ander deel van uw bezit behoren dan vorig tijdvak (bijvoorbeeld doordat een woning recentelijk is bestempeld als sloopwoning).  
@@ -141,6 +141,6 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY4NzI0NzYsMTI2MDU3ODY4OSwtMT
+eyJoaXN0b3J5IjpbLTE4OTA2NDEwMTAsMTI2MDU3ODY4OSwtMT
 g5MDY0MTAxMF19
 -->
