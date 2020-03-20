@@ -3,9 +3,6 @@
 
 In dit werkproces worden de dimensiewaarden beheerd. Nieuwe dimensiewaarden kunnen worden aangemaakt, of bestaande kunnen worden geblokkeerd voor verder gebruik.
 
-## Processchema
-
-
 ## Dimensiewaarden aanmaken
 
 Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn dat u ook nieuwe dimensiewaarden in de gerelateerde dimensie op moet voeren. 
@@ -20,5 +17,5 @@ Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn 
 3. Selecteer de dimensiewaarden die u wilt blokkeren en zet het vinkje in kolom **Geblokkeerd** op **Ja**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MDY5NzYyXX0=
+eyJoaXN0b3J5IjpbLTE0MDk4MTA1MzVdfQ==
 -->
