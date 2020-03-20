@@ -2,8 +2,6 @@
 
 In dit detailproces wordt beschreven hoe een transferorder kan worden aangemaakt via een planningsvoorstel om artikelen te kunnen verplaatsen van het hoofdmagazijn naar een submagazijn. 
 
-## Processchema
-
 ## Planningsvoorstel
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Planningsvoorstellen**.
@@ -27,5 +25,6 @@ Het rapport kan zowel geaccepteerde als niet-geaccepteerde regels geven. Geaccep
  3. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyNzg4NjQzLDU4OTc2NzE2MF19
+eyJoaXN0b3J5IjpbNTg5NzY3MTYwLDQyMjc4ODY0Myw1ODk3Nj
+cxNjBdfQ==
 -->
