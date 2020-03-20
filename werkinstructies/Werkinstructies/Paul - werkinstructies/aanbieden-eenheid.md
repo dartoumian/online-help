@@ -6,8 +6,6 @@ Welke stappen in welke volgorde en in welk systeem worden uitgevoerd, hangt af v
   - In het geval van een individuele bezichtiging worden alle stappen uitgevoerd in het externe woonruimteverdeelsysteem. Pas nadat beide partijen hebben geaccepteerd wordt alleen die ene kandidaat vanuit het woonruimteverdeelsysteem doorgezet naar en verwerkt in Dynamics Empire. 
   - In het geval van een groepsbezichtiging worden alle stappen uitgevoerd vanuit Dynamics Empire (de ERP-module en de **VerhuurApp**). In dat geval worden alle kandidaten direct vanuit het woonruimteverdeelsysteem doorgezet naar en verwerkt in Dynamics Empire. 
 
-## Processchema
-
 ## Verwerken kandidaat of kandidaten
 In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoogste rangnummers geïmporteerd vanuit het externe woonruimteverdeelsysteem (WRV) en verwerkt in Dynamics Empire. Deze kandidaten zijn vanuit het woonruimteverdeelsysteem naar Dynamics Empire doorgezet. Een kandidaat bevat in ieder geval een hoofdaanvrager en mogelijk ook een mede-aanvrager. Hoofd- en mede-aanvragers uit het woonruimteverdeelsysteem corresponderen met personen in Dynamics Empire, kandidaten corresponderen met huishoudens in Dynamics Empire.
 
@@ -58,5 +56,6 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDI5MjI2LDY1NjczMDE4OV19
+eyJoaXN0b3J5IjpbNjU2NzMwMTg5LC02MDAyOTIyNiw2NTY3Mz
+AxODldfQ==
 -->
