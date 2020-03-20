@@ -22,7 +22,7 @@ Voor terugkerende journaalposten (denk bijvoorbeeld aan salarisboekingen vanuit 
 
 U kunt memoriaalregels aanmaken of bewerken in het diversendagboek. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Diversendagboek**. Selecteer in het scherm dat opent het dagboek waarin u regels wilt aanmaken of bewerken en klik op **OK**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Diversendagboek**. Selecteer in het scherm dat opent het dagboek waarin u regels wilt aanmaken of bewerken en klik op **OK**.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam** de batch waarin u de regels wilt aanmaken/bewerken. 
 3. Vul of controleer de volgende velden:
 	- **Boekingsdatum**
@@ -58,6 +58,6 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **diversendagboek**. Selecteer in het scherm wat open het dagboek wat u wilt boeken klik op **OK**.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam**, de batch waarin u de regels wilt boeken en klik op **Boeken**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTkwNjM2MywxNTQzNzQyNjY4LDE1OD
-cyODA3ODgsNDc2MjIwNjIyLC0xMTM0OTAyNjhdfQ==
+eyJoaXN0b3J5IjpbLTExNDgxNTM2MDAsMTU0Mzc0MjY2OCwxNT
+g3MjgwNzg4LDQ3NjIyMDYyMiwtMTEzNDkwMjY4XX0=
 -->
