@@ -76,7 +76,7 @@ In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer
 4. Klik op **OK**. Het systeem maakt voor alle OG Eenheden die voldoen aan de filteren de huurverhogingsparameters aan voor het geselecteerde tijdvak. 
 5. Mochten voor één of meer OG Eenheden essentiële gegevens (zoals huurverhogingsbeleidstype) ontbreken die nodig zijn voor het berekenen van de nieuwe nettohuur, dan genereert het systeem een exceptierapport. Op dat exceptierapport wordt per OG Eenheid gespecificeerd welke gegevens ontbreken. 
 6. Stel de ontbrekende  gegevens voor de betreffende OG Eenheden alsnog in en maak de parameters opnieuw aan. 
-7. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Huurverhogingsoverzicht**.  Het huurverhogingsoverzicht wordt geopend. 
+7. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Jaarlijkse huurverhoging overzicht**.  Het huurverhogingsoverzicht wordt geopend. 
 8. Pas indien nodig het filter op kolom **Tijdvakcode** aan, zodat de huurverhogingen van het juiste tijdvak worden getoond. 
 9. Alle OG Eenheden waarvoor u de parameters heeft aangemaakt, worden getoond op het overzicht. Voor OG Eenheden waarvan de parameters succesvol zijn aangemaakt, bevat kolom **Verwerkingsstatus** de waarde *Aangemaakt*. De waarden van de parameters staan vermeld in de desbetreffend kolommen. 
 10. Voor OG Eenheden waarvan het aanmaken van de parameters een exceptie opleverde, bevat kolom **Verwerkingsstatus** de waarde *Overgeslagen*. 
@@ -139,7 +139,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjUxMTA1MiwtMTUxMTc0NTMxLDk2NT
+eyJoaXN0b3J5IjpbLTcxNDM5NDcxNywtMTUxMTc0NTMxLDk2NT
 Q3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNzI5Nzc3MzMs
 LTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1MiwtMTg5MD
 Y0MTAxMCwxMjYwNTc4Njg5XX0=
