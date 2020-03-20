@@ -5,7 +5,7 @@ In dit werkproces wordt de jaarlijkse huurverhoging uitgevoerd op basis van het 
 ## Toewijzen beleidstypes 
 In deze stap wijst u de vastgelegde huurverhogingsbeleidstypes toe aan de OG Eenheden waarvan u de nettohuur wilt aanpassen: per OG Eenheid één beleidstype. Als u in het verleden al beleidstypes heeft toegewezen aan OG Eenheden, dan is deze toewijzing in principe nog steeds bruikbaar voor de jaarlijkse huurverhoging van het nieuwe tijdvak. In dat geval hoeft u alleen beleidstypes toe te wijzen aan OG Eenheden die in dit nieuwe tijdvak tot een ander deel van uw bezit behoren dan in het vorige tijdvak (bijvoorbeeld doordat een woning recentelijk is bestempeld als sloopwoning).
 
-Het beleidstype van een OG Eenheid bepaalt m.n. met welk percentage de nettohuur wordt aangepast. 
+Het beleidstype van een OG Eenheid bepaalt met name met welk percentage de nettohuur wordt aangepast. 
 
 U kunt de beleidstypes op twee manieren toewijzen aan OG Eenheden: 
 a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**. 
@@ -141,6 +141,6 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTQ3NDIyMiwtMTg5MDY0MTAxMCwxMj
-YwNTc4Njg5XX0=
+eyJoaXN0b3J5IjpbOTgzMzcyNTIsLTE4OTA2NDEwMTAsMTI2MD
+U3ODY4OV19
 -->
