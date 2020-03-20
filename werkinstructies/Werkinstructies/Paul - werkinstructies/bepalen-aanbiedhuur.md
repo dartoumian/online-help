@@ -31,12 +31,6 @@ In deze stap past u - indien nodig - handmatig de door het systeem berekende aan
 
 ## Invullen huurprijsmutatie
 
-1. Open pagina **Huurcontractopzeggingkaart** van de betreffende huuropzegging. Dit kan vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Huuropzegging**).  ul een aarde in in kolom **Eenheidprijs**.**.  Vul een waarde in in kolom **EHet kan ook via overzichtspagina **Huuropzeggingeln**, (selecteer een elementnummer en vul in een eenheidprijs**. 
-7. Herhaal dit voor alle extra elementen die u wilt toevoegen. 
-8. Klik op **Sluiten**. 
-
-## Invullen huurprijsmutatie
-
 In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden is waarom de huurprijs van de verhuurbare eenheid wijzigt. Mocht de nieuwe nettohuur ongelijk zijn aan de streefhuur van de verhuurbare eenheid, specificeert u daarnaast dan ook wat de reden van die afwijking is. 
 
 1. . Selecteer op de aanbiedingskaart het aanbiedingscontract en klik op **Huurprijsmutatie** (u vindt deze actie in hetzelfde deel waar de contracten vermeld staanvoorheen genoemd **Verhuurmutatie**). Een nieuwe pagina genaamd **Huurprijsmutatie** wordt geopend. Op deze pagina wordt o.a. de streefhuur van de OG Eenheid vermeld die geldig is op de ingangsdatum van het aanbiedingscontract, rekening houdend met de ingestelde streefhuurhorizon. 
@@ -45,7 +39,7 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. K en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ0MTIxNDQsODM3MzE4MjE3LDIwOD
+eyJoaXN0b3J5IjpbLTIxMjY2MjA5NTMsODM3MzE4MjE3LDIwOD
 c5NDEzMzIsLTQ5MDU5NTM4MiwtMjAxNzE5ODUyMiwyMDgxMjMw
 NTYyLC03NTgzMDc4MjksLTIxMTc5MDk0OTMsMTQ2NTc3Mzg3MS
 w5OTUyNTA5NTQsNDM5NjY5ODE4LDg2NTQ3NTc3MywtNzY1NDAx
