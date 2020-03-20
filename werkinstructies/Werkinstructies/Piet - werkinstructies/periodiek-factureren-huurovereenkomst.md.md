@@ -6,7 +6,7 @@ In dit detailproces word de periodieke huur gefactureerd, ook wel **Prolongeren*
 
 Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die van invloed zijn op de te factureren periode controleren. U kunt bijvoorbeeld bepalen of er geen uitzonderlijke mutaties plaatsgevonden hebben, of u kunt controleren of alle mutaties geaccordeerd zijn.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar het rapport **Verwachte mutaties in de te prolongeren maand**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het rapport **Verwachte mutaties in de te prolongeren maand**. 
 2. De gelijknamige pagina opent. Vul hier de volgende waarden in:
 	* **Periode:** Dit betreft de te factureren maand.
 	* **Clusternr.:** (leeg laten)
@@ -114,11 +114,11 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM5NDg5ODIsLTU2MjQ1MzU1MSwtMT
-cwODE0MzYwNCwyMzY2NzQ2MTAsLTEwNzU3NjgyODIsLTEzMDYy
-MTI0MCw3NjQ3MzE1OSwxNDUzODgzMjU4LDE4NjIxNTA5MTAsLT
-IxMDY4OTk5NTksLTEzODIxMzUyNTIsLTE4MTMzMjEyNzksLTE0
-MDk1MjIyLDEwMzAxMjM0NDUsMTg2MDY3NTk3NCw0NTM5MTcwMD
-gsMTQ2MjM3MjY4NywxNzc2NjAzODg4LDE2NjUwMzYyNSw3ODU0
-NjI1MTldfQ==
+eyJoaXN0b3J5IjpbMzAxODEzNjgzLC01NjI0NTM1NTEsLTE3MD
+gxNDM2MDQsMjM2Njc0NjEwLC0xMDc1NzY4MjgyLC0xMzA2MjEy
+NDAsNzY0NzMxNTksMTQ1Mzg4MzI1OCwxODYyMTUwOTEwLC0yMT
+A2ODk5OTU5LC0xMzgyMTM1MjUyLC0xODEzMzIxMjc5LC0xNDA5
+NTIyMiwxMDMwMTIzNDQ1LDE4NjA2NzU5NzQsNDUzOTE3MDA4LD
+E0NjIzNzI2ODcsMTc3NjYwMzg4OCwxNjY1MDM2MjUsNzg1NDYy
+NTE5XX0=
 -->
