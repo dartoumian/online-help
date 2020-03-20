@@ -2,8 +2,6 @@
 # Voorbereiden jaarlijkse huurverhoging 
 In dit werkproces wordt de jaarlijkse huurverhoging voorbereid. Doel is dat er nieuwe woningwaarderingen zijn aangemaakt voor alle OG Eenheden waarvan de nettohuur moet worden aangepast. De punten van deze nieuwe woningwaarderingen worden berekend op basis van enerzijds de nieuwe parameters die de Rijksoverheid heeft gepubliceerd voor het nieuwe tijdvak, en anderzijds de nieuwe WOZ-waarden die de gemeenten hebben aangeleverd. Op basis van de nieuwe woningwaarderingen wordt vervolgens per eenheid de nieuwe maximale huurprijs bepaald die geldt voor het nieuwe huurverhogingstijdvak. 
 
-## Processchema 
-
 ## Aanpassen woningwaarderingparameters 
 In deze stap voert u de nieuwe woningwaarderingparameters in die de Rijksoverheid heeft gepubliceerd voor het nieuwe huurverhogingstijdvak. Deze parameters worden vermeld in het *Themadocument jaarlijkse huurverhoging* dat cegeka-dsa jaarlijks actualiseert en publiceert op de servicedesk website  [https://support.cegeka-dsa.nl](https://support.cegeka-dsa.nl). 
 
@@ -48,7 +46,7 @@ De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nie
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg5NzMxNzcsMzE2MTM4OTc4LDE4Nz
-A2NDE1MjQsMTYxNTI3ODg4Myw0NjkzMjAwODEsMTM5MjI1MTUz
-XX0=
+eyJoaXN0b3J5IjpbMzk2MjUxMDE0LC0xNDE4OTczMTc3LDMxNj
+EzODk3OCwxODcwNjQxNTI0LDE2MTUyNzg4ODMsNDY5MzIwMDgx
+LDEzOTIyNTE1M119
 -->
