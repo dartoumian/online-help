@@ -2,6 +2,8 @@
 
 In dit detailproces wordt beschreven hoe je artikelen aan particuleren kunt uitgeven en doorbelasten.
 
+## Processchema
+
 ## Uitgifte artikelen
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verkoopfacturen**.
@@ -19,5 +21,5 @@ In dit detailproces wordt beschreven hoe je artikelen aan particuleren kunt uitg
 Wanneer een artikel is opgenomen in de verkoopfactuur zal deze niet meer zichtbaar zijn in de beschikbare voorraad van de desbetreffende vestiging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2ODQyMTE5XX0=
+eyJoaXN0b3J5IjpbMTgxMTA3NTQ0NCwzNzY4NDIxMTldfQ==
 -->
