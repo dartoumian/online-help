@@ -6,7 +6,7 @@ In dit werkproces wordt de BTW-aangifte gegenereerd en geboekt zodat dit kan wor
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden. 
 
-1. Navigeer via het zoekveld https://docs.meerstedewonen.nl/assets/images/zoeken.png naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+1. Navigeer via het zoekveld  naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Voorbeeld**. De pagina **Btw-aangiftevoorbeeld** opent. 
 3. Vul de volgende velden met de aangegeven waarden:
 	-	**Selectie posten o.b.v.**: 'Documentdatum'
@@ -19,7 +19,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-aangifte overgenomen kunnen worden.
 
-1. Navigeer via het zoekveld aets/imas/een.png naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
+1. Navigeer via het zoekveld aets/imas/een.png![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent. 
 2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Klik op *Meer tonen* om alle velden zichtbaar te maken. Vul de volgende velden met de aangegeven waarden:
 	- **Begindatum**: 1 januari van het huidige jaar.
 	- **Einddatum**: De einddatum van de periode waarover u de BTW aan wilt geven. 
@@ -44,8 +44,8 @@ Dit betreft het boeken van de bedragen op de BTW-aangifte.
 	- **Boeken**: Zet dit veld op 'Aan' als u direct wilt boeken.  Kies voor 'Uit' als u eerst een voorbeeld wilt genereren.
 4. Klik op **Verzenden naar**. Wanneer u heeft aangegeven dat u wilt boeken wordt - na een klik op **OK** - het rapport gegenereerd en wordt de BTW-aangifte geboekt. De aangifte wordt ook als vordering op de leverancierskaart van de belastingdienst geboekt. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM0MjU3MTksLTI1MTE1NzI5MSwxMj
-U5MTczMTMxLC03Nzc0NzQ2MzUsLTkwODcxOTU4NywtNDkzMjkx
-OTM3LDE3ODg5NzY0MTYsLTE2NTk5MTEyNDQsLTQ3MTY3NzIxNi
-wtNDUwODkyOTM0LDEwNzc2NTM4NDJdfQ==
+eyJoaXN0b3J5IjpbLTQ5OTM0NzY5MywtMTUzMzQyNTcxOSwtMj
+UxMTU3MjkxLDEyNTkxNzMxMzEsLTc3NzQ3NDYzNSwtOTA4NzE5
+NTg3LC00OTMyOTE5MzcsMTc4ODk3NjQxNiwtMTY1OTkxMTI0NC
+wtNDcxNjc3MjE2LC00NTA4OTI5MzQsMTA3NzY1Mzg0Ml19
 -->
