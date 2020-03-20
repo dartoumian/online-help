@@ -2,8 +2,6 @@
 
 In dit werkproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
-## Processchema
-
 ## Ophalen voorstel klantposten
 
 Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven welke posten daarin meegenomen moeten worden. 
@@ -74,11 +72,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren betaalbestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDkyOTY4MywxMjM3NzMwNjc5LDQ5ND
-cxMjk0MiwtMTgwMTM4MjgyNiwyMTEzODg2NTg5LC0xNzE0MjA1
-NzcwLC0xNjc5NjI3NjcyLDE2MjMyODI2MzMsOTA0NDk1MDAyLD
-kxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDkwNDQ5NTAw
-Miw5MTMwNjA4MDAsOTA0NDk1MDAyLDkxMzA2MDgwMCwxMDY2Nz
-g3MDk5LDEzNzU0NDczMTMsNjUzMTU2NTQ0LC03NjU0MDcwMzVd
-fQ==
+eyJoaXN0b3J5IjpbNjE2MDM4NzE4LDEyMzc3MzA2NzksNDk0Nz
+EyOTQyLC0xODAxMzgyODI2LDIxMTM4ODY1ODksLTE3MTQyMDU3
+NzAsLTE2Nzk2Mjc2NzIsMTYyMzI4MjYzMyw5MDQ0OTUwMDIsOT
+EzMDYwODAwLDkwNDQ5NTAwMiw5MTMwNjA4MDAsOTA0NDk1MDAy
+LDkxMzA2MDgwMCw5MDQ0OTUwMDIsOTEzMDYwODAwLDEwNjY3OD
+cwOTksMTM3NTQ0NzMxMyw2NTMxNTY1NDQsLTc2NTQwNzAzNV19
+
 -->
