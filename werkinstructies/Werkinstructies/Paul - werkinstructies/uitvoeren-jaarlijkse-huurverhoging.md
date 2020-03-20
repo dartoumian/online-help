@@ -41,7 +41,7 @@ _**Ad a:**_
 5. Selecteer in veld **Nettohuuraftopping** de juiste aftopping. 
 6. Sluit de pagina. 
 
-Ad b.
+_**Ad b:**_
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Huurverhogingseigenschappen voor OG Eenheden importeren**.  Een pagina wordt geopend met enkele opties. 
 2. Selecteer in optie **Werkmapbestandsnaam** het juiste Excel-bestand. 
 3. Selecteer in optie **Werkbladnaam** het juiste werkblad in de geselecteerde werkmap. 
@@ -139,7 +139,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxODM0NTU1LDEwNDg4MTk1ODgsNzg0MT
+eyJoaXN0b3J5IjpbOTY1NDc1NzA3LDEwNDg4MTk1ODgsNzg0MT
 YyNTY0LC03Mjk3NzczMywtMjAwMzA2ODAzNSwtMjc4MTUyNjMy
 LDk4MzM3MjUyLC0xODkwNjQxMDEwLDEyNjA1Nzg2ODldfQ==
 -->
