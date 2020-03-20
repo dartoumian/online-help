@@ -66,8 +66,8 @@ Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aa
 
 Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen versturen via Postex. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verzonden aanmaningen**. 
-2. Stel een filter in voor de aanmaningen die u wilt verzenden (via ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**):
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verzonden aanmaningen**. 
+2. Stel een filter in voor de aanmaningen die u wilt verzenden (via ![filter icon](/assets/images/filter.png "filter icon") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**):
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
@@ -77,16 +77,16 @@ Nadat de aanmaningsvoorstellen definitief gemaakt zijn kunt u de aanmaningen ver
 
 Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen ook filteren en openen in Excel om vervolgacties buiten Dynamics Empire uit te voeren, zoals het opstellen van bellijsten of het aanleveren van bestanden voor sms-acties. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verzonden aanmaningen**. 
-2. Stel een filter in (via ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter")rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) voor de aanmaningen die u wilt exporteren:
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verzonden aanmaningen**. 
+2. Stel een filter in (via ![filter icon](/assets/images/filter.png "filter icon") rechtsboven in het scherm, gevolgd door een klik op **+ Filteren...**) voor de aanmaningen die u wilt exporteren:
 	* **Aanmaningsconditiecode:** De aanmaningsconditie waarvoor u documenten wilt verzenden. 
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden. 
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden. 
 2. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQzMjAzNzMsMTE1MTcyOTQ3OSw3Mz
-AwODk5MCwtMTExNzk5NTQ3NiwtMzE1NDE2NDQwLDE1MDE5MzQw
-OTIsLTYxNDU1NDcyMywtMTU3ODA4NjM3MiwtMTM3ODI5ODUyNy
-wtNzUxNjcwNTksLTc3MzM2OTk0NiwtMzQ5NzU4MjYsMTc0ODA2
-ODIxNiwyMTI1Nzk1OTE4XX0=
+eyJoaXN0b3J5IjpbMTM2NzYzMjE0MSwxMTUxNzI5NDc5LDczMD
+A4OTkwLC0xMTE3OTk1NDc2LC0zMTU0MTY0NDAsMTUwMTkzNDA5
+MiwtNjE0NTU0NzIzLC0xNTc4MDg2MzcyLC0xMzc4Mjk4NTI3LC
+03NTE2NzA1OSwtNzczMzY5OTQ2LC0zNDk3NTgyNiwxNzQ4MDY4
+MjE2LDIxMjU3OTU5MThdfQ==
 -->
