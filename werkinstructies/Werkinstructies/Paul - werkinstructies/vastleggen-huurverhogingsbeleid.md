@@ -2,10 +2,6 @@
 # Vastleggen huurverhogingsbeleid 
 In dit werkproces wordt het door de directie vastgestelde huurverhogingsbeleid voor het nieuwe tijdvak van de jaarlijkse huurverhoging vastgelegd in Dynamics Empire. 
 
-
-## Processchema
-
-
 ## Aanmaken / herijken beleidstypes 
 In deze stap maakt u beleidstypes aan voor de verschillende delen van het bezit van de corporatie waarvoor verschillende beleidskeuzes t.a.v. de jaarlijkse huurverhoging van toepassing zijn. Mocht u in een vorig tijdvak al beleidstypes hebben aangemaakt, dan herijkt u deze op bruikbaarheid voor het nieuwe tijdvak. 
 
@@ -38,6 +34,6 @@ In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogin
  17. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUwNDU2MDUsNjAwODIzMTAwLDE1ND
-k1NTczODZdfQ==
+eyJoaXN0b3J5IjpbLTc3NzYyODY2NCwtMTYwNTA0NTYwNSw2MD
+A4MjMxMDAsMTU0OTU1NzM4Nl19
 -->
