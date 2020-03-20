@@ -9,8 +9,8 @@ De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald 
 
 In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekent op basis van het bij die eenheid ingestelde huurbeleid.
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **VerhuurmutatieOnr. Goed-Eenhedenoverzicht**.
- 2. Zoek de verhuurmutatieOG Eenheid op waarvanoor de aanbiedhuur moet worden bepaald.
+ 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
+ 2. Zoek de verhuurmutatie op waarvoor de aanbiedhuur moet worden bepaald.
  3. Open de detailpagina van de verhuurmutatie.
  4. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**. 
  4. De verhuuraanbieding wordt aangemaakt met één of meer **Aaanbiedingscontracten** (zie onder het gelijknamige kopje op de aanbiedingskaart): één aanbiedingscontract voor elke exploitatievorm van het soort *Verhuur* dat is ingesteld bijEr verschijnt een popup met de vraag op basis van welke bestaande contractregel u die is gekoppeld aan de OG Eenheid. Elk aanbiedingscontract heeft één of meer nettohuurelementen waarvan het bedrag automatisch is bepaald op basis van het huurbeleid dat is ingesteld bij de OG Eenheid. Daarnaast kan elk aanbiedingscontract ook nog andere soorten elementen bevatten, bijvoorbeeld elementen met betrekking tot servicekosten en/of eenmalige kosten. Deze andere soorten elementen zijn overgenomen van de contractregel dist 4e u in stap 3 heeft geselecteerd of van het elementsjabloon dat is ingesteld voor de OG Eenheid of het cluster waartoe de OG Eenheid behoort.  
@@ -45,8 +45,8 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 4. K en klik op **Sluiten**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDU5NTM4MiwtMjAxNzE5ODUyMiwyMD
-gxMjMwNTYyLC03NTgzMDc4MjksLTIxMTc5MDk0OTMsMTQ2NTc3
-Mzg3MSw5OTUyNTA5NTQsNDM5NjY5ODE4LDg2NTQ3NTc3MywtNz
-Y1NDAxMzgyXX0=
+eyJoaXN0b3J5IjpbLTE3MjU4Njk2MTAsLTQ5MDU5NTM4MiwtMj
+AxNzE5ODUyMiwyMDgxMjMwNTYyLC03NTgzMDc4MjksLTIxMTc5
+MDk0OTMsMTQ2NTc3Mzg3MSw5OTUyNTA5NTQsNDM5NjY5ODE4LD
+g2NTQ3NTc3MywtNzY1NDAxMzgyXX0=
 -->
