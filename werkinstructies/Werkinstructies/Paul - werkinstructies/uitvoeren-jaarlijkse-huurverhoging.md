@@ -34,9 +34,8 @@ U kunt de aftoppingen op twee manieren toewijzen aan OG Eenheden:
 a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart** 
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de derde kolom de naam **Nettohuur aftoppingscode**. 
 
-Ad a: 
-1. Navigeer naar het rolcentrum. 
-2. Klik op **OG Eenheden**. Een pagina wordt geopend met een overzicht van alle OG Eenheden. 
+_**Ad a:**_
+1. Ga via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")  naar **Onr. Goed Eenhedenoverzicht**. 
 3. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid. 
 4. Open tabblad **Exploitatie (Fin.)**. 
 5. Selecteer in veld **Nettohuuraftopping** de juiste aftopping. 
@@ -140,7 +139,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDU1OTM5NSwxMDQ4ODE5NTg4LDc4ND
-E2MjU2NCwtNzI5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYz
-Miw5ODMzNzI1MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
+eyJoaXN0b3J5IjpbMzcxODM0NTU1LDEwNDg4MTk1ODgsNzg0MT
+YyNTY0LC03Mjk3NzczMywtMjAwMzA2ODAzNSwtMjc4MTUyNjMy
+LDk4MzM3MjUyLC0xODkwNjQxMDEwLDEyNjA1Nzg2ODldfQ==
 -->
