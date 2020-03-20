@@ -7,7 +7,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkoopfacturen**. Stel een filter in via de filterfunctie ![Filterpictogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "Pictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkoopfacturen**. Stel een filter in via de filterfunctie ![filter icon](/assets/images/filter.png "filter icon") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
@@ -164,11 +164,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzgyNjUwMCwtNzIyOTI4NTE1LDEwMj
-EwMjI2NDEsMTg1MDQ0OTM0MiwtMTA1MjA1MTcyMCwtMTM5MDM1
-MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMxMTU0LD
-c5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOTc3MDgy
-OTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0NDMsMT
-Q4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUy
-MDE5XX0=
+eyJoaXN0b3J5IjpbMTg5NjEwMjIsLTcyMjkyODUxNSwxMDIxMD
+IyNjQxLDE4NTA0NDkzNDIsLTEwNTIwNTE3MjAsLTEzOTAzNTMx
+MDQsMTY5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNTkzMTE1NCw3OT
+AxNjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4
+NiwtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0OD
+c2Mjg1MTksMTk5OTMxMzM0NiwtODQ5MTI2NDE2LC02NDU1MjAx
+OV19
 -->
