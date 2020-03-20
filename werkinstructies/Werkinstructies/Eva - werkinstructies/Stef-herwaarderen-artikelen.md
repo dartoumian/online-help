@@ -4,6 +4,10 @@
 ## Omschrijving:
 In dit detailproces wordt beschreven hoe je in bulk prijzen kan aanpassen voor artikelen. 
 
+## Processchema
+
+## Processtappen
+
 ### Herwaarderingsdagboek
 
 1. Navigeer via het zoekveld naar de lijst **Herwaarderingsdagboeken**.
@@ -28,5 +32,5 @@ Het rapport toont hergewaardeerde prijzen. Op de pagina kunnen nieuwe gegevens w
 <hr>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NDQzMzI3XX0=
+eyJoaXN0b3J5IjpbLTUwMjMwNTkzNSw5Mzk0NDMzMjddfQ==
 -->
