@@ -1,8 +1,5 @@
 # Beheren onderhoudscontracten
 
-
-## Processchema
-
 ## Importeren begroting
 Alle uitvoeringsactiviteiten van de jaarbegroting worden ingelezen in Dynamics Empire en samengevoegd tot  gecombineerde uitvoeringsprojecten.
 
@@ -185,10 +182,10 @@ Deze werkinstructie behandelt het rechtstreeks aanmaken van een inkooporder. Dit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzYzODY4OCwzOTM3NDU0NzAsNDU1Mz
-Y0NjU1LDEyMzI0NDM2OTcsNzE5OTUzMTI4LC0xNjczMjkxMzg1
-LDM5MzkwNzYwOSwtMTE4MTY2MDY3OSw3ODE0OTk3NjMsNTg3Mj
-k3Mzg1LC00OTcwNzMwOSwyMDg4MzIwMDM2LDIxMzYyNDExMjUs
-OTkxMzgxNDc0LC05MDUzMzgzNzAsLTYwMjI3MjYxMSwtMjc4MD
-c4NDYxXX0=
+eyJoaXN0b3J5IjpbLTIwODA4MzE5NywxOTEzNjM4Njg4LDM5Mz
+c0NTQ3MCw0NTUzNjQ2NTUsMTIzMjQ0MzY5Nyw3MTk5NTMxMjgs
+LTE2NzMyOTEzODUsMzkzOTA3NjA5LC0xMTgxNjYwNjc5LDc4MT
+Q5OTc2Myw1ODcyOTczODUsLTQ5NzA3MzA5LDIwODgzMjAwMzYs
+MjEzNjI0MTEyNSw5OTEzODE0NzQsLTkwNTMzODM3MCwtNjAyMj
+cyNjExLC0yNzgwNzg0NjFdfQ==
 -->
