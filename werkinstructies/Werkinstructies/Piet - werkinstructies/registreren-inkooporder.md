@@ -8,8 +8,8 @@ Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd
 
 Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met betrekking tot de order op te voeren.
 
-1. Navigeer via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Inkooporders**. 
-2. Klik op  **Nieuw | + Nieuw** om een nieuwe inkooporder aan te maken. 
+1. Navigeer via de zoekfunctionaliteit ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de i **Inkooporders**. 
+2. Ki o  **Nieuw | + Nieuw** om een nieuwe inkooporder aan te maken. 
 3. Selecteer in het veld **Leverancier** de leverancier waarvoor u een order aan wilt maken. 
 4. Vul in de orderregels (onder kopje **Regels**) de volgende velden:
 	- **Soort**: 'Grootboekrekening'
@@ -35,9 +35,9 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 ## Verwijderen order
 
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
-1. Open de order die u wilt verwijderen en klik op **Verwijderen** (het prullenbak-icoontje boven op de pagina). De order is verwijderd.
+1. Open de order die u wilt verwijderen en klik o **Verwijderen** (het prullenbak-icoontje boven op de pagina). De order is verwijderd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NzU4NjIwLC0yMDY2NTY2MDAyLDIyNz
-E2MTU1MywtMTMxMjQ0NjEyOCwtODM3ODA4ODk3LDc0MTQwMTIy
-Ml19
+eyJoaXN0b3J5IjpbLTE3MTkxMDk1MTgsODI5NzU4NjIwLC0yMD
+Y2NTY2MDAyLDIyNzE2MTU1MywtMTMxMjQ0NjEyOCwtODM3ODA4
+ODk3LDc0MTQwMTIyMl19
 -->
