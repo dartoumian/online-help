@@ -8,7 +8,7 @@ In deze stap wijst u de vastgelegde huurverhogingsbeleidstypes toe aan de OG Een
 Het beleidstype van een OG Eenheid bepaalt met name met welk percentage de nettohuur wordt aangepast. 
 
 U kunt de beleidstypes op twee manieren toewijzen aan OG Eenheden: 
-a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart** (bereikbaar via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") **Onr. Goed Eenhedenoverzicht**).
+a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**. (bereikbaar via ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") **Onr. Goed Eenhedenoverzicht**).via 
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de tweede kolom de naam **Huurverhogingsbeleidstypecode**. 
 
 Ad a: 
@@ -141,6 +141,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5OD
-MzNzI1MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
+eyJoaXN0b3J5IjpbLTcyOTc3NzMzLC0yMDAzMDY4MDM1LC0yNz
+gxNTI2MzIsOTgzMzcyNTIsLTE4OTA2NDEwMTAsMTI2MDU3ODY4
+OV19
 -->
