@@ -4,7 +4,6 @@ In dit werkproces wordt op basis van een inkoopbehoefte een inkooporder aangemaa
 
 Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd aan onderhoud, projecten, vastgoed en artikelen die op voorraad worden gehouden.
 
-
 ## Aanmaken inkooporder
 
 Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met betrekking tot de order op te voeren.
@@ -38,7 +37,7 @@ Wanneer de order goedgekeurd is dient deze gegund te worden.
 Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwijderen. 
 1. Open de order die u wilt verwijderen en klik op **Verwijderen** (het prullenbak-icoontje boven op de pagina). De order is verwijderd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjkxNjQwNiwtMjA2NjU2NjAwMiwyMj
-cxNjE1NTMsLTEzMTI0NDYxMjgsLTgzNzgwODg5Nyw3NDE0MDEy
-MjJdfQ==
+eyJoaXN0b3J5IjpbODI5NzU4NjIwLC0yMDY2NTY2MDAyLDIyNz
+E2MTU1MywtMTMxMjQ0NjEyOCwtODM3ODA4ODk3LDc0MTQwMTIy
+Ml19
 -->
