@@ -10,8 +10,6 @@ Binnen dit proces wordt informatie over verhuurbare eenheden beheerd.  Dit betre
  - [Administratief eigenaren](#aanpassen-administratief-eigenaar)
  - [Contactpersonen](#aanpassen-contactpersonen)
 
-## Processchema
-
 ## Registreren basisinformatie verhuurbare eenheid
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.
 
@@ -146,11 +144,11 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
  5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**. 
  6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen** (via het menu-item bovenin het tabblad).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM3NDcyNywxMzQwMDY3MzQzLDM4MD
-c4NDYxMiw3MzAyOTkwNjMsNTkwNTAxNjMyLDE2NjM2NDk3Mywt
-MTkwODA4NTQ0MiwzMTAyOTc3OTksLTE5ODA0NTU5NTYsLTM1Nz
-M5NTI0NywtMTMyNDA2NzU5OSwtNzQ4OTczMTAsLTE0Nzc0MzQ0
-MjMsNDgxNjYwMTQxLDE0MDQ5NTI3ODEsLTE2MDgyMDMzNzYsLT
-U4NTQ3OTA3MCwxMjEwNTI1NjQzLC0xNTgzMzQzODg2LC01Nzcy
-MDg0MjFdfQ==
+eyJoaXN0b3J5IjpbLTQ3NDU3Njk0OCwtMTUzMzc0NzI3LDEzND
+AwNjczNDMsMzgwNzg0NjEyLDczMDI5OTA2Myw1OTA1MDE2MzIs
+MTY2MzY0OTczLC0xOTA4MDg1NDQyLDMxMDI5Nzc5OSwtMTk4MD
+Q1NTk1NiwtMzU3Mzk1MjQ3LC0xMzI0MDY3NTk5LC03NDg5NzMx
+MCwtMTQ3NzQzNDQyMyw0ODE2NjAxNDEsMTQwNDk1Mjc4MSwtMT
+YwODIwMzM3NiwtNTg1NDc5MDcwLDEyMTA1MjU2NDMsLTE1ODMz
+NDM4ODZdfQ==
 -->
