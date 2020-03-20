@@ -6,7 +6,7 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
-1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
 2. Kies voor **Voorstelposten ophalen**.
 3.  De pagina **Voorstelposten ophalen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
@@ -20,7 +20,7 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
- 1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
  2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
  3. Vul de onderstaande velden op het scherm (als bepaalde velden niet zichtbaar zijn kunt u die toevoegen via de optie **+ Filteren...**):
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
@@ -83,7 +83,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 
 Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd worden om vervolgens in de applicatie van de bank ingelezen te worden. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controler de betaalrun die u wilt exporteren. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun die u wilt exporteren. 
  2.  Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent. 
  3. Klik op **OK**. Het PAIN-bestand wordt opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
@@ -91,11 +91,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIwNDQ0ODgsMTM2NjA4ODIxMCw0Mj
-UwOTgxNDEsNjQ4NjE1MDYzLC0xNTM2NTUyNjYxLDE0Nzc4MzM1
-MjgsLTE0NjQ2OTE2MTYsLTI2MjQwNTQ0NywtMTk0MjI1NDM2My
-wtMTI2MTc3MTczLC0yOTM0MTQ2MDYsLTE3NjIyMDM1OCwtNTMx
-NTEzMjU4LC0yMzU4Nzc4OSwtMzEzNjEwMDI5LC0yNjc4MDg3OT
-UsMTE1NjA5NjA5MSw2ODY0OTI0MzgsLTE4NDQwODYxNzksMTIz
-NzgwODkwMF19
+eyJoaXN0b3J5IjpbLTUwNTA2ODU5NiwxMzY2MDg4MjEwLDQyNT
+A5ODE0MSw2NDg2MTUwNjMsLTE1MzY1NTI2NjEsMTQ3NzgzMzUy
+OCwtMTQ2NDY5MTYxNiwtMjYyNDA1NDQ3LC0xOTQyMjU0MzYzLC
+0xMjYxNzcxNzMsLTI5MzQxNDYwNiwtMTc2MjIwMzU4LC01MzE1
+MTMyNTgsLTIzNTg3Nzg5LC0zMTM2MTAwMjksLTI2NzgwODc5NS
+wxMTU2MDk2MDkxLDY4NjQ5MjQzOCwtMTg0NDA4NjE3OSwxMjM3
+ODA4OTAwXX0=
 -->
