@@ -6,7 +6,7 @@ In dit werkproces worden vorderingen van klanten afgeboekt, waarbij de financië
 
 Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derdendossier.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Derdendossieroverzicht**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
 3. Druk op **Enter** om een nieuw dossiernummer aan te maken.
 4. Vul het veld **Soort** met het soort dossier dat van toepassing is.
@@ -28,6 +28,7 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjQ4MjE0Niw2MDAwMzgwMzQsNzQ0NT
-gzODI2LC0xNzg2NTAyNzU2LC0xNzM3ODEyOTYxXX0=
+eyJoaXN0b3J5IjpbLTMyOTQ5MDkxNywtNDUyNDgyMTQ2LDYwMD
+AzODAzNCw3NDQ1ODM4MjYsLTE3ODY1MDI3NTYsLTE3Mzc4MTI5
+NjFdfQ==
 -->
