@@ -49,7 +49,7 @@ _**Ad b:**_
 
 
 ## Aanvragen huishoudverklaringen 
-In deze stap vraagt u huishoudverklaringen aan voor die OG Eenheden waarvan u van plan bent de nettohuur inkomensafhankelijk te verhogen, d.w.z. verhogen met een percentage dat boven het maximum basisverhogingspercentage ligt dat door de Rijksoverheid is vastgesteld voor het betreffende huurverhogingstijdvak.  Deze huishoudverklaringen vraagt u aan bij de Belastingdienst via een zogenoemd vraagbestand. Dit vraagbestand kunt u exporteren uit Dynamics Empire. De Belastingdienst verstrekt de aangevraagde huishoudverklaringen in de vorm van een antwoordbestand. Dit antwoordbestand kunt u importeren in Dynamics Empire. 
+In deze stap vraagt u huishoudverklaringen aan voor die OG Eenheden waarvoor u van plan bent de nettohuur inkomensafhankelijk te verhogen, d.w.z. verhogen met een percentage dat boven het maximum basisverhogingspercentage ligt dat door de Rijksoverheid is vastgesteld voor het betreffende huurverhogingstijdvak.  Deze huishoudverklaringen vraagt u aan bij de Belastingdienst via een zogenoemd vraagbestand. Dit vraagbestand kunt u exporteren uit Dynamics Empire. De Belastingdienst verstrekt de aangevraagde huishoudverklaringen in de vorm van een antwoordbestand. Dit antwoordbestand kunt u importeren in Dynamics Empire. 
 
 U maakt als volgt een vraagbestand aan dat u kunt verstrekken aan de Belastingdienst: 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Aanvraaggegevens huishoudverklaringen exporteren**.  Een pagina wordt geopend met enkele opties en filtermogelijkheden. 
@@ -139,7 +139,8 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NDc1NzA3LDEwNDg4MTk1ODgsNzg0MT
-YyNTY0LC03Mjk3NzczMywtMjAwMzA2ODAzNSwtMjc4MTUyNjMy
-LDk4MzM3MjUyLC0xODkwNjQxMDEwLDEyNjA1Nzg2ODldfQ==
+eyJoaXN0b3J5IjpbLTcxMzc5OTg2OCw5NjU0NzU3MDcsMTA0OD
+gxOTU4OCw3ODQxNjI1NjQsLTcyOTc3NzMzLC0yMDAzMDY4MDM1
+LC0yNzgxNTI2MzIsOTgzMzcyNTIsLTE4OTA2NDEwMTAsMTI2MD
+U3ODY4OV19
 -->
