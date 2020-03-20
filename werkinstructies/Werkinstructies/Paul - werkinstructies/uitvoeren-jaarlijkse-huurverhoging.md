@@ -114,7 +114,7 @@ In deze stap maakt u een definitieve berekening van de nieuwe nettohuur van gese
 
 
 ## Effectueren huurverhoging 
-In deze stap effectueert de de huurverhoging van geselecteerde eenheden. Daarbij wordt voor elke eenheid een nieuwe contractregel aangemaakt die ingaat op de huurverhogingsdatum. De nettohuur van deze nieuwe contractregel bevat het nieuwe bedrag. 
+In deze stap effectueert u de huurverhoging van geselecteerde eenheden. Daarbij wordt voor elke eenheid een nieuwe contractregel aangemaakt die ingaat op de huurverhogingsdatum. De nettohuur van deze nieuwe contractregel bevat het nieuwe bedrag. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **Huurverhoging verwerken**.  Een pagina met opties en filtermogelijkheden wordt geopend. 
 2. Selecteer de **Huurverhogingsdatum**. 
@@ -122,7 +122,7 @@ In deze stap effectueert de de huurverhoging van geselecteerde eenheden. Daarbij
 4. Selecteer de **Huurverhogingsbatchnaam** waarvan u de huurverhoging wil effectueren. 
 5. Specificeer eventueel in veld **Eenheidnr.** de OG Eenheden waarvan u de huurverhoging wil effectueren. 
 6. Klik op **OK**. De huurverhoging wordt geëffectueerd voor de geselecteerde batch en geselecteerde OG Eenheden. 
-7. Op het **Huurverhogingsoverzicht** is de **Verwerkingsstatus** van de geëffectueerde huurverhogingen aangepast naar *Geëffectueerd*. Het systeem heeft voor alle geselecteerde OG Eenheden een nieuwe contractregel aangemaakt waarvan de ingangsdatum gelijk is aan de huurverhogingsdatum. 
+7. Op het **Huurverhogingsoverzicht** is de **Verwerkingsstatus** van de geëffectueerde huurverhogingen aangepast naar 'Geëffectueerd'. Het systeem heeft voor alle geselecteerde OG Eenheden een nieuwe contractregel aangemaakt waarvan de ingangsdatum gelijk is aan de huurverhogingsdatum. 
 8. Om dit te controleren voor een OG Eenheid selecteert u de huurverhoging van die OG Eenheid op het **Huurverhoginsgoverzicht**. Klik op **Navigeren** en kies **Contractoverzicht**. Het contractoverzicht wordt geopend waarop alle contractregels van de geselecteerde OG Eenheid worden vermeld. De bovenste contractregel is de nieuwe contractregel die is aangemaakt door het effectueren van de huurverhoging.  
 
 
@@ -139,9 +139,9 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjY1MzY4NiwtMjA5MzE2Mjk4NSwtMT
-MxODM1MjIyNywtOTQyMzE5NDg2LC03MTQzOTQ3MTcsLTE1MTE3
-NDUzMSw5NjU0NzU3MDcsMTA0ODgxOTU4OCw3ODQxNjI1NjQsLT
-cyOTc3NzMzLC0yMDAzMDY4MDM1LC0yNzgxNTI2MzIsOTgzMzcy
-NTIsLTE4OTA2NDEwMTAsMTI2MDU3ODY4OV19
+eyJoaXN0b3J5IjpbMTU5NjM1ODY4LC0yMDkzMTYyOTg1LC0xMz
+E4MzUyMjI3LC05NDIzMTk0ODYsLTcxNDM5NDcxNywtMTUxMTc0
+NTMxLDk2NTQ3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNz
+I5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1
+MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
 -->
