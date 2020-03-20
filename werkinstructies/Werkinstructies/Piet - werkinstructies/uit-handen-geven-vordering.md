@@ -7,10 +7,10 @@ In dit werkproces worden vorderingen op klanten uit handen gegeven aan een deurw
 
 U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurwaarderdossier echter automatisch aangemaakt zijn vanuit het aanmaningsproces. In dat geval gaat u verder met **[Controleren deurwaarderdossier](#controleren-deurwaarderdossier)**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Navigeer via de menu-items naar  **Deurwaarderdossiers**, waarna de gelijknamige  pagina opent.
 3. Klik op **Nieuw** waarna een nieuw deurwaarderdossier voor de klant wordt aangemaakt. 
-4. Vul het veld **Eenheidsnr.**. 
+4. Vul het veld **Eenheidsnr.**
 5. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
 6. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier. 
 7. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
@@ -19,7 +19,7 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 
 Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt worden. Deze aanmaning kunt u controleren voordat u ze verstuurt naar de deurwaarder. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst  **Deurwaarderdossieroverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst  **Deurwaarderdossieroverzicht**.
 2. Selecteer het deurwaarderdossier dat u wilt controleren en klik op **Bewerken** om de kaart te openen.
 3. Controleer of het veld **Deurwaardernr.** op tabblad **Deurwaarder** gevuld is met de juiste deurwaarder.
 4. Controleer of de juiste/alle posten opgenomen zijn in het dossier.
@@ -41,7 +41,7 @@ Wanneer alle gegevens gevuld en gecontroleerd zijn, kunt u het dossier versturen
 
 Wanneer u een betaalvonnis heeft kunt u dit aangeven op het dossier. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer met behulp van **Bewerken** het dossier waarvoor u een betaalvonnis op wilt voeren. 
 3. Zet het veld **Betaalvonnis** op 'Aan'.
 4. Vul het veld **Betaalvonnis t/m** met de betaalvonnisdatum. 
@@ -51,7 +51,7 @@ Wanneer u een betaalvonnis heeft kunt u dit aangeven op het dossier.
 
 Wanneer ontruiming gepland is kunt u dit aangeven op het dossier. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier waarvoor u een geplande ontruiming op wilt voeren en open het dossier. 
 3. Klik op het veld **Ontruimingsdatum**. De pagina **Aanzegging(en) ontruiming** opent. 
 4. Vul de datum voor de geplande ontruiming in en geef een reden voor ontruiming op. Geef een datum voor het verzenden van de brief in, wanneer van toepassing.
@@ -61,7 +61,7 @@ Wanneer ontruiming gepland is kunt u dit aangeven op het dossier.
 
 Wanneer een geplande ontruiming afgelast is kunt u dit opvoeren op het deurwaarderdossier 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier waarvoor u de afgelasting  ontruiming op wilt voeren en open het dossier met behulp van **Bewerken**. 
 3. Klik op het veld **Ontruimingsdatum**. De pagina **Aanzeggingen ontruiming(en)** opent. 
 4. Vul de velden **Datum afgelasting** en **Reden afgelasting**. 
@@ -71,16 +71,16 @@ Wanneer een geplande ontruiming afgelast is kunt u dit opvoeren op het deurwaard
 
 Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar blijkt, kunt u het deurwaarderdossier afsluiten.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Deurwaarderdossiers**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier dat u af wilt sluiten en open het via de optie **Bewerken**. 
 3. Vul in het veld **Reden afsluiting** de reden voor afsluiten. Het veld **Afgesloten** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MTY5NjM5LDQ2MjMyNzU5NiwxNjUzMT
-I2NjEsLTQyMzMzNDM5NywtMzkzNTA3NjU1LDYzMDU1NTA1OCwx
-NjE5OTA3MjksLTEzMDkwMTAxNjMsLTE5NTg2NjAzMzcsOTYwNz
-EzOTAxLC0xMTU0NjE3NTgyLC01MTA0ODc0MjUsLTY3NzEzMzIy
-MiwxNjU0MDcwMDU4LDIyOTU5OTUzOCwtOTg1NjIwMjc4LDIwOD
-kxMDIwNjAsLTE3NDEzNzEyNV19
+eyJoaXN0b3J5IjpbLTIwMTM5MjAzMzMsNDYyMzI3NTk2LDE2NT
+MxMjY2MSwtNDIzMzM0Mzk3LC0zOTM1MDc2NTUsNjMwNTU1MDU4
+LDE2MTk5MDcyOSwtMTMwOTAxMDE2MywtMTk1ODY2MDMzNyw5Nj
+A3MTM5MDEsLTExNTQ2MTc1ODIsLTUxMDQ4NzQyNSwtNjc3MTMz
+MjIyLDE2NTQwNzAwNTgsMjI5NTk5NTM4LC05ODU2MjAyNzgsMj
+A4OTEwMjA2MCwtMTc0MTM3MTI1XX0=
 -->
