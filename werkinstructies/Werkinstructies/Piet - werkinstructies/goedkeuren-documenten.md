@@ -2,8 +2,6 @@
 
 In dit werkproces worden verzoeken ter goedkeuring beoordeeld en wordt de beslissing vastgelegd.
 
-## Processchema
-
 ## Beoordeel verzoek
 Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door middel van een aan u toegewezen goedkeuringspost. 
 
@@ -49,7 +47,7 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren en op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDU2MjU5MywtNjUzNjM4MDc2LDIxMD
-AzNzkyNjIsMTc5MDg5MDA1Miw4Mjg4NTE5NzAsLTI3MDg2OTQ0
-Ml19
+eyJoaXN0b3J5IjpbLTMwNDUwMzM3MCwxNTU0NTYyNTkzLC02NT
+M2MzgwNzYsMjEwMDM3OTI2MiwxNzkwODkwMDUyLDgyODg1MTk3
+MCwtMjcwODY5NDQyXX0=
 -->
