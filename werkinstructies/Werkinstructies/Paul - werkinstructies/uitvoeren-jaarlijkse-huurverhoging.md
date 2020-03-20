@@ -103,14 +103,14 @@ Mocht de uitkomst van de simulatieberekening niet acceptabel zijn, pas dan het h
 
 
 ## Definitief berekenen nieuwe nettohuur 
-In deze stap maakt u een definitieve berekening van de nieuwe nettohuur van geselecteerde OG Eenheden waarvan de uitkomst van de simulatie acceptabel was. Doordat de definitieve berekening wordt gedaan op basis van dezelfde huurverhogingsparameters als de simulatie berekening, is de uitkomst van de definitieve berekening gelijk aan die van de simulatie-berekening. Het verschil is dat de uitkomst van de definitieve berekening per eenheid wordt opgeslagen in de contractregel die fungeert als basiscontract voor de jaarlijkse huurverhoging (d.w.z. de contractregel die geldig is op de dag vóór de huurverhogingsdatum). 
+In deze stap maakt u een definitieve berekening van de nieuwe nettohuur van geselecteerde OG Eenheden waarvan de uitkomst van de simulatie acceptabel was. Doordat de definitieve berekening wordt gedaan op basis van dezelfde huurverhogingsparameters als de simulatieberekening, is de uitkomst van de definitieve berekening gelijk aan die van de simulatieberekening. Het verschil is dat de uitkomst van de definitieve berekening per eenheid wordt opgeslagen in de contractregel die fungeert als basiscontract voor de jaarlijkse huurverhoging (d.w.z. de contractregel die geldig is op de dag vóór de huurverhogingsdatum). 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Huurverhogingsoverzicht**.  Het huurverhogingsoverzicht wordt geopend. 
 2. Pas indien nodig het filter op kolom **Tijdvakcode** aan, zodat de huurverhogingen van het juiste tijdvak worden getoond. 
-3. Selecteer de huurverhogingen van de OG Eenheden waarvan u de nieuwe nettohuur definitief wil berekenen.  
+3. Selecteer de huurverhogingen van de OG Eenheden waarvan u de nieuwe nettohuur definitief wilt berekenen.  
 4. Klik op **Proces** en kies voor **Berekenen (definitief)**. De nieuwe nettohuur van de geselecteerde OG Eenheden wordt definitief berekend en de **Verwerkingsstatus** van de geselecteerde huurverhogingen wordt aangepast naar *Definitief*. 
 5.  Per OG Eenheid wordt de **Batch** opgeslagen in de contractregel die fungeert als basiscontract voor de jaarlijkse huurverhoging en wordt het berekende **Effectieve verhogingspercentage** opgeslagen in de **Nettohuurelementen** van de genoemde contractregel. 
-6. Om dit te controleren voor een OG Eenheid selecteert u de huurverhoging van die OG Eenheid op het **Huurverhoginsgoverzicht**. Klik op **Navigeren** en kies **Contract**. Het contractoverzicht wordt geopend waarop de contractregel wordt vermeld die fungeert als basiscontract voor de jaarlijkse huurverhoging. Klik op **Navigeren** en kies voor **Elementen**. Het elementenoverzicht wordt geopend. In kolom **Bedrag** wordt de **Huidige nettohuur** getoond en in kolom **Bedrag na huurverhoging** de definitief berekende **Nieuwe nettohuur**. 
+6. Om dit te controleren voor een OG Eenheid selecteert u de huurverhoging van die OG Eenheid op het **Huurverhoginsgoverzicht**. Navigeer naar **Contract**. Het contractoverzicht wordt geopend waarop de contractregel wordt vermeld die fungeert als basiscontract voor de jaarlijkse huurverhoging. Navigeer naar **Elementen**. Het elementenoverzicht wordt geopend. In kolom **Bedrag** wordt de **Huidige nettohuur** getoond en in kolom **Bedrag na huurverhoging** de definitief berekende **Nieuwe nettohuur**. 
 
 
 ## Effectueren huurverhoging 
@@ -139,9 +139,9 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjMwNjYxLC0yMDkzMTYyOTg1LC0xMz
-E4MzUyMjI3LC05NDIzMTk0ODYsLTcxNDM5NDcxNywtMTUxMTc0
-NTMxLDk2NTQ3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNz
-I5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1
-MiwtMTg5MDY0MTAxMCwxMjYwNTc4Njg5XX0=
+eyJoaXN0b3J5IjpbLTIyNjY1MzY4NiwtMjA5MzE2Mjk4NSwtMT
+MxODM1MjIyNywtOTQyMzE5NDg2LC03MTQzOTQ3MTcsLTE1MTE3
+NDUzMSw5NjU0NzU3MDcsMTA0ODgxOTU4OCw3ODQxNjI1NjQsLT
+cyOTc3NzMzLC0yMDAzMDY4MDM1LC0yNzgxNTI2MzIsOTgzMzcy
+NTIsLTE4OTA2NDEwMTAsMTI2MDU3ODY4OV19
 -->
