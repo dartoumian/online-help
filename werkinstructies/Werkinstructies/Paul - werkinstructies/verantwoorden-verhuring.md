@@ -13,7 +13,7 @@ Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Veran
 
  1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Verhuurmutatieoverzicht**.
  2. Zoek de verhuurmutatie op waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
- 3. Navigeer naar **Verhuringverantwoording**.  ieing** en i daan  erantwoording verhuring verschijnt. Mocht u in plaats daarvan een foutmelding krijgen, kies dan Navigee nr **Verhurneding** en klik daarna op **VeranDan verschijnt de genoemde pagina alsnog. 
+ 3. Navigeer naar **Verhuringverantwoording**. En  ieing** en i daan  erantwoording verhuring verschijnt. Mocht u in plaats daarvan een foutmelding krijgen, kies dan Navigee nr **Verhurneding** en klik daarna op **VeranDan verschijnt de genoemde pagina alsnog. 
 .O tabblad **OGE-gegevens** worden gegevens over de ehe en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat  dit tabblad weergegeven. 
  5. Op het tabbladdeel getiteld **Betrokken personen** worden automatisch die personen getoond die onderdeel zijn van het huishouden met een rol waarbij is ingesteld dat de rol gebruikt wordt voor de verantwoording verhuring. Per persoon zijn contactnummer, naam, rol, geboortedatum en inkomen automatisch overgenomen vanuit het huishouden.
 . Controleer de gegevens van de getoonde betrokken personen. Als er gegevens onjuist zijn of ontbreken, pas respectievelijk vul deze dan aan.
@@ -71,11 +71,11 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 5. Klik op **OK**. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA2ODM2MjUsMjY5NTk5NjUwLDE1MD
-M2NzUzMjUsMTQ2NjEwMzk3Nyw5Mzg2NjUyMDQsLTEzNDIzMzA2
-MDUsMTA3MTY5Nzc1MSwtMjMzNzMxNjQsNzYxMTI3NzAwLC0xNz
-EyMjc4ODc2LC0xNzM5MTkzNDQ5LDEyMDA4NDAwMDgsLTE1NDM0
-OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkzMDMxLC0xNjUwMTMwOD
-M0LDMxMzg0NDg2OCwtMTczMzgyNjMxMywtMjg0MTQ4NTI1LC02
-MTMwNjQ3N119
+eyJoaXN0b3J5IjpbLTE1OTkwNjg1NTIsLTIwOTA2ODM2MjUsMj
+Y5NTk5NjUwLDE1MDM2NzUzMjUsMTQ2NjEwMzk3Nyw5Mzg2NjUy
+MDQsLTEzNDIzMzA2MDUsMTA3MTY5Nzc1MSwtMjMzNzMxNjQsNz
+YxMTI3NzAwLC0xNzEyMjc4ODc2LC0xNzM5MTkzNDQ5LDEyMDA4
+NDAwMDgsLTE1NDM0OTMyMzIsLTEwMTE1MDEyMTEsNzUxMTkzMD
+MxLC0xNjUwMTMwODM0LDMxMzg0NDg2OCwtMTczMzgyNjMxMywt
+Mjg0MTQ4NTI1XX0=
 -->
