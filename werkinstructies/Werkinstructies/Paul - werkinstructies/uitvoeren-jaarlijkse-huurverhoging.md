@@ -94,12 +94,12 @@ In deze stap controleert u de uitkomst van de simulatie van de berekening van de
 3. Als u de details van de uitkomst van de berekening wilt bekijken van een OG Eenheid, klik dan op de **Tijdvakcode** in de desbetreffende regel van het overzicht. De detailpagina van de geselecteerde huurverhoging wordt geopend. De uitkomst van de berekening staat vermeld in de tabbladen **Berekening en effectuering** en **Nettohuur elementen**. Sluit de detailpagina. 
 4. U kunt de uitkomsten van de berekening ook vanaf het overzicht exporteren naar Excel (klik op **Pagina** en kies voor **Openen in Excel**). In Excel kunt u o.a. de gemiddelde huursomstijging als gevolg van de jaarlijkse huurverhoging berekenen. 
 
-Mocht de uitkomst van de simulatie berekening niet acceptabel zijn, pas dan het huurverhogingsbeleid van de desbetreffende OG Eenheden aan. Bijvoorbeeld: 
- - Door het ingestelde verhogingspercentage van één of meer beleidstypes aan te passen; 
- - Door andere beleidstypes en/of andere aftoppingen toe te wijzen aan bepaalde OG Eenheden;
- - Door de eigenschappen van bepaalde beleidstypes te wijzigen. 
+Mocht de uitkomst van de simulatieberekening niet acceptabel zijn, pas dan het huurverhogingsbeleid van de desbetreffende OG Eenheden aan. Bijvoorbeeld: 
+ - door het ingestelde verhogingspercentage van één of meer beleidstypes aan te passen; 
+ - door andere beleidstypes en/of andere aftoppingen toe te wijzen aan bepaalde OG Eenheden;
+ - door de eigenschappen van bepaalde beleidstypes te wijzigen. 
 
-**Let op**: nadat u het huurverhogingsbeleid heeft aangepast, moet u eerst de huurverhogingsparameters van de desbetreffende OG Eenheden opnieuw aanmaken, voordat u opnieuw de nieuwe nettohuur van die OG Eenheden in simulatie gaat berekenen. Doet u dat niet, dan wordt de berekening uitgevoerd op basis van de vorige parameters waarin de gegevens zijn vastgelegd van het huurverhogingsbeleid zoals dat destijds was vastgelegd. In dat geval zal de uitkomst van de nieuwe berekening exact hetzelfde zijn als de vorige berekening. 
+>**Let op**: Nadat u het huurverhogingsbeleid heeft aangepast, moet u eerst de huurverhogingsparameters van de desbetreffende OG Eenheden opnieuw aanmaken, voordat u opnieuw de nieuwe nettohuur van die OG Eenheden in simulatie gaat berekenen. Doet u dat niet, dan wordt de berekening uitgevoerd op basis van de vorige parameters waarin de gegevens zijn vastgelegd van het huurverhogingsbeleid zoals dat destijds was vastgelegd. In dat geval zal de uitkomst van de nieuwe berekening exact hetzelfde zijn als de vorige berekening. 
 
 
 ## Definitief berekenen nieuwe nettohuur 
@@ -139,7 +139,7 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNDg1NDIxLC0yMDkzMTYyOTg1LC0xMz
+eyJoaXN0b3J5IjpbLTc2MjMwNjYxLC0yMDkzMTYyOTg1LC0xMz
 E4MzUyMjI3LC05NDIzMTk0ODYsLTcxNDM5NDcxNywtMTUxMTc0
 NTMxLDk2NTQ3NTcwNywxMDQ4ODE5NTg4LDc4NDE2MjU2NCwtNz
 I5Nzc3MzMsLTIwMDMwNjgwMzUsLTI3ODE1MjYzMiw5ODMzNzI1
