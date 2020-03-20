@@ -8,7 +8,7 @@ In deze stap wijst u de vastgelegde huurverhogingsbeleidstypes toe aan de OG Een
 Het beleidstype van een OG Eenheid bepaalt met name.n. met welk percentage de nettohuur wordt aangepast. 
 
 U kunt de beleidstypes op twee manieren toewijzen aan OG Eenheden: 
-a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**. 
+a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**. (![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")via 
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de tweede kolom de naam **Huurverhogingsbeleidstypecode**. 
 
 Ad a: 
@@ -32,7 +32,7 @@ In deze stap wijst u de vastgelegde nettohuuraftoppingen toe aan de OG eenheden 
 De aftopping bepaalt m tot welk maximum bedrag de nieuwe nettohuur wordt afgetopt.
 
 U kunt de aftoppingen op twee manieren toewijzen aan OG Eenheden: 
-a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**. 
+a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart** 
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de derde kolom de naam **Nettohuur aftoppingscode**. 
 
 Ad a: 
@@ -141,6 +141,6 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODE1MjYzMiw5ODMzNzI1MiwtMTg5MD
-Y0MTAxMCwxMjYwNTc4Njg5XX0=
+eyJoaXN0b3J5IjpbLTE3NDM1MzE0LC0yNzgxNTI2MzIsOTgzMz
+cyNTIsLTE4OTA2NDEwMTAsMTI2MDU3ODY4OV19
 -->
