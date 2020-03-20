@@ -16,13 +16,13 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
    - **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**.
    - **Leegstandsboekingsgroep:** Deze is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
 9. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wilt doorgaan. Klik op **Ja**.
-101. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag, en met de geselecteerde leegstandsboekingsgroep.
+10. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag, en met de geselecteerde leegstandsboekingsgroep.
 Ook wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
-113. Als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt achter de schermen automatisch een nieuw **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
-124. Pagina **Huurcontractopzeggingkaart** wordt geopend.
-135. Vul het veld **Huuropzeggingsreden** in.
-146. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan op tab **Huurcontract/Huurder** .
-157. Registreer het nieuwe correspondentieadres van de vertrekkende huurder op tab **Nieuw correspondentieadres**.
+11. Als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt achter de schermen automatisch een nieuw **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
+12. Pagina **Huurcontractopzeggingkaart** wordt geopend.
+13. Vul het veld **Huuropzeggingsreden** in.
+14. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan op tab **Huurcontract/Huurder** .
+15. Registreer het nieuwe correspondentieadres van de vertrekkende huurder op tab **Nieuw correspondentieadres**.
     Voor een Nederlands correspondentieadres doet u dit door in het veld **Straat** de postcode en het huisnummer en eventueel het huisnummer toevoegsel in te vullen (achter elkaar, zonder spaties). Nadat u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Huisnummer toevoegsel**, **Postcode** en **Plaats** in met de waarden die het systeem heeft gevonden in de postcodetabel.
     Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres.
 16. Selecteer in veld **Contactgegevens wijzigingsdatum** de datum per wanneer het nieuwe correspondentieadres ingaat.
@@ -55,7 +55,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 36. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging. K en klik op **OK**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM0ODM1OTYsLTExNzEzMzk3MTYsLT
-c3Njc2MzcyMSwtMTg1MTEzMDY4OSwxNDU4MDc1MDE4LDE3MjY3
-OTQ2MDIsMTc2Njc5MjI2M119
+eyJoaXN0b3J5IjpbLTQ2MTU2MDg1NCwtMTg0MzQ4MzU5NiwtMT
+E3MTMzOTcxNiwtNzc2NzYzNzIxLC0xODUxMTMwNjg5LDE0NTgw
+NzUwMTgsMTcyNjc5NDYwMiwxNzY2NzkyMjYzXX0=
 -->
