@@ -8,7 +8,7 @@ U benadert de leveranciersposten voor een specifieke leverancier door naar de le
 
 Wanneer u leveranciersposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina **Leveranciersposten**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Leveranciers**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon")  naar de lijst **Leveranciers**.
 2. Zoek de leverancier op waarvoor u de posten wilt vereffenen en open de kaart.
 3. Klik op **Posten**. De pagina **Leveranciersposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen.
@@ -40,6 +40,6 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 3. Open de kaart en ga naar **Posten**. De pagina **Leveranciersposten** opent.
 4. Vul bij de post die u wilt uitsluiten van automatische uitbetaling het veld **Afwachten** met de afwachtcode die van toepassing is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NzYyMjk5LDEwNDA1OTc5MTcsMjM5Nz
-YyMjk5XX0=
+eyJoaXN0b3J5IjpbMTQxODMzMjc4MiwyMzk3NjIyOTksMTA0MD
+U5NzkxNywyMzk3NjIyOTldfQ==
 -->
