@@ -6,7 +6,7 @@ In dit werkproces wordt schuldbeheer bij instanties geregistreerd, worden afspra
 
 Wanneer een klant schuldbeheer bij een instantie heeft lopen kunt u hiervoor een derdendossier aanmaken.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Derdendossieroverzicht**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken ico de lijst **Derdendossieroverzicht**. 
 2. Klik op **Nieuw** om een nieuw derdendossier aan te maken. 
 3. Vul het veld **Soort** met het soort dossier dat van toepassing is.
 4. Vul het veld **Klantnr.** (op tabblad **Klant**) met het klantnummer waarvoor u een dossier aan wilt maken. 
@@ -53,7 +53,7 @@ U kunt een (gedeeltelijk) afgeboekte vordering in een derdendossier terugboeken.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Derdendossieroverzicht**. 
 2. Selecteer het derdendossier waarvoor u (een deel van) de afgeboekte vordering terug wilt boeken en open het dossier. 
-3. Kies voor **Terugboeken - Gehele afboeking**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
+3. Ki vr **Terugboeken - ehele afboeking**. U wordt om een bevestiging gevraagd. Het scherm **Afboeken derdendossier** opent. 
 4. Geef de datum waarop de terugboeking geboekt moet worden op. De vordering wordt teruggeboekt.
 
 ## Afsluiten derdendossier
@@ -66,8 +66,8 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTk2NjIwNiwtOTUyNTAxMjA3LC0xNz
-cxMjA0MTI5LC0xMTk4MzI4ODI0LDk4NzM2ODIyOSwtMTI1ODk5
-OTQzOCwtNTU0NjYwNzU4LC0xNDEwMjEyNzc4LDE4MTg4Njc2Mj
-AsNjI0OTk4NTQwXX0=
+eyJoaXN0b3J5IjpbLTE1NTc4MDcxMjYsMjA1MTk2NjIwNiwtOT
+UyNTAxMjA3LC0xNzcxMjA0MTI5LC0xMTk4MzI4ODI0LDk4NzM2
+ODIyOSwtMTI1ODk5OTQzOCwtNTU0NjYwNzU4LC0xNDEwMjEyNz
+c4LDE4MTg4Njc2MjAsNjI0OTk4NTQwXX0=
 -->
