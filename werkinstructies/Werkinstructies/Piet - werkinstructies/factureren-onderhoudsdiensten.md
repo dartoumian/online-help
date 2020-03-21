@@ -6,14 +6,14 @@ In dit werkproces wordt een factuur voor diensten correctief onderhoud gecontrol
 
 Vanuit de bedrijfsprocessen **Uitvoeren reparatieonderhoud**, **Uitvoeren mutatieonderhoud** en **Verhuren eenheden** kunnen facturen voor diensten correctief onderhoud gecreëerd worden. Voordat deze facturen geboekt en eventueel verstuurd worden, dient een controle plaats te vinden, waarna een aanvulling of correctie noodzakelijk kan blijken te zijn.
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verkoopfacturen**.
- 2. Mogelijk vindt u op deze pagina een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud. Heeft u geen voorgedefinieerde filterlijst, stel dan een filter in via de filterfunctie ![filter icon](/assets/images/filter.png "filter icon"), waarbij **Onderhoudsverzoeknr.** ongelijk is aan 'leeg' (<>'').
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icoLampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen")   naar de lijst **Verkoopfacturen**.
+ 2. Mogelijk vindt u op deze pagina een filterlijst, specifiek voor te verwerken facturen voor diensten correctief onderhoud. Heeft u geen voorgedefinieerde filterlijst, stel dan een filter in via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter"), waarbij **Onderhoudsverzoeknr.** ongelijk is aan 'leeg' (<>'').
  3. Open de juiste factuur door op het factuurnummer te klikken. De pagina **Verkoopfactuur** wordt geopend.
  4. Controleer de volgende velden op de factuurregels:
 	* **BTW-productboekingsgroep**
 	* **BTW-correctie**: Wanneer u de betaalde BTW over de kosten wilt terugvorderen vinkt u deze kolom aan.
 	* **Omschrijving**: Pas eventueel de omschrijving aan. Dit is de omschrijving die op de factuur komt te staan.
- 5. Wilt u meer informatie over het onderhoudsverzoek, kopieer dan het nummer in de kolom **Onderhoudsverzoeknr.** Navigeer via ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijstpagina **Onderhoudsverzoekoverzicht** en gebruik het nummer om het juiste onderhoudsverzoek op te zoeken. 
+ 5. Wilt u meer informatie over het onderhoudsverzoek, kopieer dan het nummer in de kolom **Onderhoudsverzoeknr.** Navigeer via ![zoeken icon](/assets/images/zoeken.png "zoeken icoLampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijstpagina **Onderhoudsverzoekoverzicht** en gebruik het nummer om het juiste onderhoudsverzoek op te zoeken. 
 
 ## Boeken en afdrukken factuur
 
@@ -33,7 +33,7 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
  1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyOTc1MzU2LC0xMTYxMjAwMzgzLC01ND
-c0NDEwNTksNDEwODIzMDM4LC0xODg2ODUxNTcwLC0xOTI5NjQ3
-NzldfQ==
+eyJoaXN0b3J5IjpbLTEzOTY4MjIzMjksNjUyOTc1MzU2LC0xMT
+YxMjAwMzgzLC01NDc0NDEwNTksNDEwODIzMDM4LC0xODg2ODUx
+NTcwLC0xOTI5NjQ3NzldfQ==
 -->
