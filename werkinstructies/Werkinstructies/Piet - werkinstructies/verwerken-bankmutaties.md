@@ -11,9 +11,9 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 4.  Klik op  **OK**. De pagina **Bank-/Giroboek** opent.
 5.  Vul onder kopje **Regels** voor een record de volgende velden:
     -   **Datum:**  Datum van het bankafschrift.
-    -   **Documentnr.:** Nummer van bankafschrift + jaarindicatie. Voorbeeld: BM0012_20 voor bankafschrift 12 van 2020.
+    -   **Documentnr.:** ummer van bankafschrift + jaarindicatie. oorbeeld: BM0012_20 voor bankafschrift 12 van 2020.
         -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), voeg dan een A toe aan het nummer. Voorbeeld: BM0012_20A.
-    -   **Beginsaldo:**  Controleer het beginsaldo, pas dit waar nodig aan.
+    -   **Beginsaldo:**  Controleer het beginsaldo as dit waar nodig aan.
         -   Heeft u in een eerdere stap een incassorun geïmporteerd (zie  **[Importeren betaalrun incasso](#importeren-betaalrun-incasso)**), vul hier dan het eindsaldo van het bankafschrift in waarmee u de incassobetaalrun verwerkt heeft.
     -   **Eindsaldo:**  Vul het eindsaldo van het bankafschrift in.
 
@@ -52,29 +52,29 @@ Wanneer u betaalruns heeft verwerkt kunt u het dagafschrift dat u gedownload hee
  1. Klik op het specifieke  bank-/giroboek op de actie **Inlezen bankmutaties**. De gelijknamige pagina wordt geopend.
  2. Kies voor **Inlezen CAMPT0.53**.
  3. Klik op de knop **Kiezen** en selecteer het gedownloade bankafschrift. Het bankafschrift wordt geïmporteerd.
- 4. Klik op **Verwerken** waarna het geïmporteerde bankafschrift wordt verwerkt. De regels uit het bankafschrift zullen waar mogelijk herkend worden en er zal waar mogelijk een vereffening voorstellen.
+ 4. Ki o **Verwerken** waarna het geïmporteerde bankafschrift wordt verwerkt. De regels uit het bankafschrift zullen waar mogelijk herkend worden en er zal waar mogelijk een vereffening voorstellen.
  5. Klik op **Sluiten** om de pagina **Inlezen bankmutaties** te verlaten en terug te keren naar het **Bank-/giroboek**. U zult zien dat de regels uit het bankafschrift geïmporteerd zijn in het Bank-/Giroboek.
 
 ## Handmatig verwerken bankmutaties
 
 Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automatisch herkende posten toekennen en vereffenen. De hieronder beschreven stappen hoeven niet in volgorde uitgevoerd te worden, maar geven een overzicht van hoe u posten toe kunt kennen en vereffenen. 
 
- - **Uitgebreide informatie transactie**: Om te zien welke informatie meegegeven is vanaf het bankafschrift selecteert u de regel en klikt u op **Details**. U kunt ook de shortcut Ctrl+I gebruiken. Het scherm **Telebank regeldetails** opent. Dit scherm toont de gegevens die zijn meegekomen vanaf het geïmporteerde bankafschrift. 
+ - **Uitgebreide informatie transactie**: Om te zien welke informatie meegegeven is vanaf het bankafschrift selecteert u de regel en klkt u o **Details**. U kunt ook de shortcut Ctrl+I gebruiken. Het scherm **Telebank regeldetails** opent. Dit scherm toont de gegevens die zijn meegekomen vanaf het geïmporteerde bankafschrift. 
  
  ### Kolommen
 
- - **Rekeningsoort:** Wanneer er geen posten herkend zijn wordt deze kolom bij bijschrijvingen standaard gevuld met de waarde **Klant**. Heeft de mutatie betrekking op een leverancier of wilt u de post direct op een grootboekrekening boeken, pas dit veld dan aan naar de waarde **Leverancier** of **Grootboekrekening**.
- - **Rekeningnummer:** Vul hier, afhankelijk van het veld **Rekeningsoort**, het **Klantnummer, Leveranciersnummer** of **Grootboekrekeningnummer** in.
+ - **Rekeningsoort:** Wanneer er geen posten herken zijn wordt deze kolom bij bijschrijvingen standaard gevuld met de waarde **Klant**. Heeft de mutatie betrekking op een leverancier of wilt u de post direct op een grootboekrekening boeken, pas dit veld dan aan naar de waarde **Leverancier** of **Grootboekrekening**.
+ - **Rekeningnummer:** Vul hier, afhankelijk van het veld **Rekeningsoort**, het **Klantnummer, everanciersnummer** of **Grootboekrekeningnummer** in.
 
 ### Vereffenen
 
  - **Vereffenen met één openstaande klant- of leverancierspost:** 
-	 - Wanneer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld **Vereffeningsnr.** op de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent. 
+	 - Wanneer u de transatie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld **Vereffeningsnr.** op de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent. 
 	 - Selecteer de post waarmee u de transactie wilt vereffenen. 
 	 - Klik op **OK**. U keert terug naar de pagina **Bank-/Giroboek**.
  - **Vereffenen met meerder openstaande klant- of leverancierspost:** 
 	 - Selecteer de bankboekregel en kies boven in het regeldeel, naast kopje **Regels**, voor de menu-actie **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent. 
-	 - Selecteer de posten waarmee u de transactie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten, waarbij altijd geprobeerd wordt de oudste post geheel te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt de op één na oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
+	 - Selecteer de posten waarmee u de transactie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten, waarbij altijd geprobeerd wordt de oudste post geheel te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt de op één n oudste post geprobeerd te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
 	 - 	  Klik op **OK** om de vereffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**.
 
 >#### IBAN-nummer toevoegen ter herkenning
@@ -82,14 +82,14 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 >In Dynamics Empire is het IBAN-nummer een belangrijke variabele voor het automatisch toekennen van een bankmutatie aan een klant. Vanuit het bankboek kunnen IBAN-nummers toegevoegd worden aan de lijst met bankrekeningen per klant om de herkenning te verbeteren. 
 >
 > 1. Selecteer de regel waarvan u het IBAN-nummer toe wilt voegen aan de klant. Zorg dat het veld **Rekeningnr.** het nummer van de klant bevat. Het scherm **Nieuwe bankrekening klant** opent. 
-> 2. Klik op **Bankrekening klant aanmaken** om het IBAN-nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
+> 2. Klik op **Bankrekening klant aanmaken**  het IBAN-nummer toe te voegen aan de lijst met bankrekeningen voor de geselecteerde klant. 
 
 ## Boeken bankboek
 
 
 Wanneer u alle bankboekregels toegekend of vereffend heeft kunt u het bankboek boeken. 
 
- 1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen klikt u op **Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
+ 1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen kit u o **Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
  2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** getoond of er fouten zijn die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
  3. Nadat u geen fouten meer heeft, of wanneer u alvast de regels zonder fouten wilt boeken, kiest u voor de actie **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten, dan wordt het bankboek afgesloten. 
 
@@ -98,11 +98,11 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft kunt u het bankboek b
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk1MDc2NDIsMTcwNzAyMTAzNiwtNz
-M5MjU2NjI4LDE4NzAyODIwMTcsMTY2NTAyNjc3NSwxNjMyMjcy
-NDYzLDE0NTI3NTAyOTcsLTE1Mzg5NjE4ODIsNDg5MDk0NDU2LD
-k3MjMzNTgxOCwtMTgwODQ5NzA2MiwxMjQxNzIwNjAyLDk2MTI0
-MTQwOSwxMTU5Njg2NDU2LC0yMDMzNjM5NzQzLC0xNDQzODMwMT
-AwLDU0NTk5NDE5MywtMTg4NjE5NTIwMiwtMTgwNTc2MDI0Nywy
-MDIxODE0NTI1XX0=
+eyJoaXN0b3J5IjpbMTk0MjIyNjc5LC0xODQ5NTA3NjQyLDE3MD
+cwMjEwMzYsLTczOTI1NjYyOCwxODcwMjgyMDE3LDE2NjUwMjY3
+NzUsMTYzMjI3MjQ2MywxNDUyNzUwMjk3LC0xNTM4OTYxODgyLD
+Q4OTA5NDQ1Niw5NzIzMzU4MTgsLTE4MDg0OTcwNjIsMTI0MTcy
+MDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1NiwtMjAzMzYzOTc0My
+wtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLTE4ODYxOTUyMDIsLTE4
+MDU3NjAyNDddfQ==
 -->
