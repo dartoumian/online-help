@@ -9,18 +9,18 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Navigeer via de menu-items naar  **Deurwaarderdossiers**, waarna de gelijknamige  pagina opent.
-3. Klik op **Nieuw** waarna een nieuw deurwaarderdossier voor de klant wordt aangemaakt. 
-4. Vul het veld **Eenheidsnr.**
+3. i  **Nieuw** waarna een nieuw deurwaarderdossier voor de klant wordt aangemaakt. 
+4. Vul het veld **Eenheidsnr.**. 
 5. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
-6. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier. 
-7. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier. 
+. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 ## Controleren deurwaarderdossier
 
 Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt worden. Deze aanmaning kunt u controleren voordat u ze verstuurt naar de deurwaarder. 
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst  **Deurwaarderdossieroverzicht**.
-2. Selecteer het deurwaarderdossier dat u wilt controleren en klik op **Bewerken** om de kaart te openen.
+2. Selecteer het deurwaarderdossier dat u wilt controleren en klik op **Bewerken** om de kaart te openen
 3. Controleer of het veld **Deurwaardernr.** op tabblad **Deurwaarder** gevuld is met de juiste deurwaarder.
 4. Controleer of de juiste/alle posten opgenomen zijn in het dossier.
 5. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
@@ -41,9 +41,9 @@ Wanneer alle gegevens gevuld en gecontroleerd zijn, kunt u het dossier versturen
 
 Wanneer u een betaalvonnis heeft kunt u dit aangeven op het dossier. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossier**.
 2. Selecteer met behulp van **Bewerken** het dossier waarvoor u een betaalvonnis op wilt voeren. 
-3. Zet het veld **Betaalvonnis** op 'Aan'.
+3. Zet het veld **Betaalvonnis** op a.
 4. Vul het veld **Betaalvonnis t/m** met de betaalvonnisdatum. 
 5. Het betaalvonnis is verwerkt. Nieuwe klantposten met een boekingsdatum na deze datum worden niet meer automatisch toegevoegd aan het dossier. 
 
@@ -63,7 +63,7 @@ Wanneer een geplande ontruiming afgelast is kunt u dit opvoeren op het deurwaard
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier waarvoor u de afgelasting  ontruiming op wilt voeren en open het dossier met behulp van **Bewerken**. 
-3. Klik op het veld **Ontruimingsdatum**. De pagina **Aanzeggingen ontruiming(en)** opent. 
+3. Klik op het veld **Ontruimingsdatum**. De pagina **Aanzeggingen ontruiming** opent. 
 4. Vul de velden **Datum afgelasting** en **Reden afgelasting**. 
 5. Klik op **Sluiten** om terug te keren naar het dossier. 
 
@@ -73,14 +73,14 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier dat u af wilt sluiten en open het via de optie **Bewerken**. 
-3. Vul in het veld **Reden afsluiting** de reden voor afsluiten. Het veld **Afgesloten** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
+3. Vul in het veld **tn** de reden voor afsluiten. Het veld **Afgesloten** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier. 
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM5MjAzMzMsNDYyMzI3NTk2LDE2NT
-MxMjY2MSwtNDIzMzM0Mzk3LC0zOTM1MDc2NTUsNjMwNTU1MDU4
-LDE2MTk5MDcyOSwtMTMwOTAxMDE2MywtMTk1ODY2MDMzNyw5Nj
-A3MTM5MDEsLTExNTQ2MTc1ODIsLTUxMDQ4NzQyNSwtNjc3MTMz
-MjIyLDE2NTQwNzAwNTgsMjI5NTk5NTM4LC05ODU2MjAyNzgsMj
-A4OTEwMjA2MCwtMTc0MTM3MTI1XX0=
+eyJoaXN0b3J5IjpbMTAzNzY5NTc0NSwtMjAxMzkyMDMzMyw0Nj
+IzMjc1OTYsMTY1MzEyNjYxLC00MjMzMzQzOTcsLTM5MzUwNzY1
+NSw2MzA1NTUwNTgsMTYxOTkwNzI5LC0xMzA5MDEwMTYzLC0xOT
+U4NjYwMzM3LDk2MDcxMzkwMSwtMTE1NDYxNzU4MiwtNTEwNDg3
+NDI1LC02NzcxMzMyMjIsMTY1NDA3MDA1OCwyMjk1OTk1MzgsLT
+k4NTYyMDI3OCwyMDg5MTAyMDYwLC0xNzQxMzcxMjVdfQ==
 -->
