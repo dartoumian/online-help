@@ -28,7 +28,7 @@ In deze stap bereidt u de publicatie van de beschikbare eenheid voor. Deze voorb
  18. Tabblad **Publicatie** bevat details over de publicatie van de eenheid in het woonruimteverdeelsystseem. Een deel van de details is afkomstig van de pagina **OG Eenheidkaart**, tabblad **WRB**, en alleen op die pagina wijzigbaar. De waarde van het detail **Opleverdatum** is gelijk aan de waarde van het detail **Verhuurbaar per datum** (zie tabblad **Algemeen**). 
  19. Tabblad **Vorige huurder** bevat details over de vorige huurder van de OG Eenheid. De **Vertrekdatum** is gelijk aan de einddatum van het opgezegde huurcontract, dat wil zeggen: het contract dat via de huuropzegging is gekoppeld aan de verhuuraanbieding. U kunt deze datum wijzigen. De overige details zijn afkomstig van de klant die is gekoppeld aan het opgezegde huurcontract. Om precies te zijn betreft het de gegevens van de persoon die binnen het betreffende huishouden de rol ‘contractant’ heeft. Als er binnen het huishouden meerdere personen zijn met de rol ‘contractant’, worden de gegevens overgenomen van de persoon bij wie de indicatie ‘Toon als eerst’ van toepassing is. 
  Als u deze velden leeg maakt op deze pagina, worden de gegevens over de vorige huurder niet naar het extern woonruimteverdeelsysteem gestuurd. 
- 21. Zodra u constateert dat alle details juist en volledig zijn, klikt u op **Berichten versturen** | **Versturen beschikbaarheidsbericht**.  Zodoende stuurt u een bericht met alle getoonde details naar het woonruimteverdeelstysteem dat is vermeld op tabblad **Algemeen**.  
+ 20. Zodra u constateert dat alle details juist en volledig zijn, klikt u op **Berichten versturen** | **Versturen beschikbaarheidsbericht**.  Zodoende stuurt u een bericht met alle getoonde details naar het woonruimteverdeelstysteem dat is vermeld op tabblad **Algemeen**.  
  
 
 ## Publiceren eenheid 
@@ -50,9 +50,9 @@ In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenh
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0MzMxMjQsMTQ0MjU5MDU0LC01MD
-IzMzQwNTAsLTYwMjIyMjU1NiwtMTMyNjMwNDc4MiwxMTYxNTU5
-NTU0LDEwODcxMTkyOTQsOTE2MjI0NDcxLDEzNTMyOTQ4NTQsMT
-cyMTU5Nzk3OCwyOTI3MzAyODYsOTAzNzE3MTM3LC0zNTc1Nzc1
-MjldfQ==
+eyJoaXN0b3J5IjpbLTIwNTc4NzEwOSwtMTY4MTQzMzEyNCwxND
+QyNTkwNTQsLTUwMjMzNDA1MCwtNjAyMjIyNTU2LC0xMzI2MzA0
+NzgyLDExNjE1NTk1NTQsMTA4NzExOTI5NCw5MTYyMjQ0NzEsMT
+M1MzI5NDg1NCwxNzIxNTk3OTc4LDI5MjczMDI4Niw5MDM3MTcx
+MzcsLTM1NzU3NzUyOV19
 -->
