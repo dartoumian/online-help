@@ -29,7 +29,7 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#boeken-en-afdrukken-kasdagboek).
  4. **Betaling vereffenen met meerdere openstaande posten:** 
 	* Selecteer de regel en klik op **Posten vereffenen**. De pagina **Klantenposten vereffenen** opent. 
-	* Selecteer de posten waarmee u de transactie wilt vereffenen en kies in het menu voor de actie **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten, waarbij altijd geprobeerd wordt om de oudste post geheel te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt geprobeerd de op één na oudste post te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
+	* Selecteer de posten waarmee u de transactie wilt vereffenen en kies in het menu voor e actie**Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten, waarbij altijd geprobeerd wordt om de oudste post te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt geprobeerd de op één na oudste post te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**. 
 	* Klik op **OK** om de vereffening te bevestigen. U komt terug op de pagina **Kasboek**.
 	* Ga verder naar stap [**Boeken en afdrukken kasdagboek**](#boeken-en-afdrukken-kasdagboek).
 
@@ -37,17 +37,17 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 
 Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt u de transactie boeken en het betaalbewijs afdrukken. 
 
- 1. Klik op **Boeken**. U krijgt de vraag of u het dagboek wilt boeken. Dit beantwoordt u met **Ja**.
+ 1. Klik op **Boeken**. U krijgt de vraag of u het dagboek wilt boeken. D beantwoordt u met **Ja**.
  2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt afdrukken. Zijn er geen fouten, dan krijgt u de melding dat het boeken gelukt is. 
  3. De pagina **Verzamelkwitantie** opent. Klik op **Afdrukken**. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt afdrukken. 
  4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODk1MTc1MSwxMzcxMzQ3MTgxLC0xOD
-E3MjU2MDk4LDE2MTk4NjQxMjYsNzkyNTQwNTM4LC0xMTk3NjEz
-MTc1LDE2MjE3ODUwMTIsMTMyMTc4NTczNCw3NzA2NDIyMTAsMj
-A0MjQ2OTUxNywxNzE3NjcxNjAyLC0xNzU2ODA0MTI1LDM4MTM2
-ODY1LC01MTIxMTE1NjYsLTE2MzA2MzE1ODQsNDc5MTI3ODQ2LD
-I1OTA5NzIwMywtNzU2NDIyMzUyLC0xNTI1NzAwNjAzLDYyNTAx
-NDEyNV19
+eyJoaXN0b3J5IjpbMTYyNjk5MDcwOCwtOTc4OTUxNzUxLDEzNz
+EzNDcxODEsLTE4MTcyNTYwOTgsMTYxOTg2NDEyNiw3OTI1NDA1
+MzgsLTExOTc2MTMxNzUsMTYyMTc4NTAxMiwxMzIxNzg1NzM0LD
+c3MDY0MjIxMCwyMDQyNDY5NTE3LDE3MTc2NzE2MDIsLTE3NTY4
+MDQxMjUsMzgxMzY4NjUsLTUxMjExMTU2NiwtMTYzMDYzMTU4NC
+w0NzkxMjc4NDYsMjU5MDk3MjAzLC03NTY0MjIzNTIsLTE1MjU3
+MDA2MDNdfQ==
 -->
