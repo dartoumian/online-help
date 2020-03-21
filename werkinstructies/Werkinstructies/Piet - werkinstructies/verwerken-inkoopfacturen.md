@@ -7,19 +7,19 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkoopfacturen**. Stel een filter in via de filterfunctie ![filter icon](/assets/images/filter.png "filter icon") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken ico a de it noofacuenteeen er  a  ilterncte tefiltern via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
-	- **Boekingsdatum**: **Let op!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
+	- **Boekingsdatum**: **L !** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
 	- **Documentdatum** (klik indien nodig eerst op *Meer tonen*, rechts bovenin het tabblad)
 	- **Factuurnr. leverancier**
-	- **Omschrijving**: **Let op!** Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
+	- **Omschrijving**: **L !*Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
 	- **Factuurbedrag**
-	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW- bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  Als zowel hoog als laag tarief BTW van toepassing zijn op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
+	- **Verl. BTW-productboekingsgroep**: De betalingsverplichting van de factuur wordt geboekt o.b.v. de gegevens op de factuurkop. Wanneer verlegde BTW van toepassing is wordt bij het boeken van de verplichting al af te dragen BTW geboekt. In dit veld geeft u aan met welke BTW-productboekingsgroep de verlegde BTW o.b.v. de factuurkop geboekt dient te worden.  Het BTW- bedrag dat geboekt wordt is het bedrag uit het veld **Factuur BTW-bedrag**.  Als zowel hoog als laag tarief BTW van toepassing zi op de factuur selecteert u hier de BTW-productboekingsgroep voor hoog tarief. Nadat de BTW per factuurregel gespecificeerd is en de factuur definitief geboekt is, wordt de BTW-post o.b.v. de verplichting tegengeboekt en worden nieuwe BTW-posten aangemaakt o.b.v. de factuurregels. 
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt. 
 	- **Bedrag naar G-rekening**
- 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door voor de actie **Boeken (verplichting)** te kiezen. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'**.
+ 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door voor de  **Boeken (verplichting)** te kien. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'**.
 5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	-  Als er al **factuurregels aanwezig** zijn, ga dan verder met **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Als er een **ordernummer vermeld** staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
@@ -47,7 +47,7 @@ Voor facturen die betrekking hebben op reparatie- en mutatieonderhoud en die nie
 
 Voor orders waarvoor ontvangstregels geboekt moeten worden dienen de ontvangstregels opgehaald te worden in de factuur. 
 
-1. Klik op de pagina **Inkoopfactuur** op **Ontvangstregels ophalen**. U vindt deze actie op het deel waar de **Regels** vermeld staan. De pagina **Ontvangstregels ophalen** opent. 
+1. Klik op de pagina **Inkoopfactuur** o **Ontvangstregels ophalen**. U vindt deze actie op het deel waar de **Regels** vermeld staan. De pagina **Ontvangstregels ophalen** opent. 
 2. Zoek het ordernummer dat op de factuur vermeld staat op. Wanneer het ordernummer op de factuur niet op te halen is betekent dit in veel gevallen dat de ontvangst nog niet geboekt is. Ga verder met **[Toewijzen factuur](#toewijzen-factuur)** om de factuur toe te wijzen aan de persoon die actie dient te ondernemen.  
 3.  Selecteer de ontvangstregel(s) met het juiste ordernummer(s) en klik op **OK**. De factuurregels worden aangemaakt op basis van de ontvangstregels. Ga verder naar **[Controleren factuurregels](#controleren-factuurregels)**.
 
@@ -77,14 +77,14 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
 	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruikskosten op van toepassing zijn (alleen invullen bij S&V-facturen).
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW.
-	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
+	- **Dimensiewaarde-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
 2. Wanneer de gegevens in de factuurregel gevuld zijn kan de factuur gematcht en geboekt worden via **[Match en boek factuur](#match-en-boek-factuur)**.
 
 ## Controleren factuurregels
 
 Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leveranciersportaal, op basis van orderregels of op basis van ontvangstregels, kunnen de factuurregels gecontroleerd worden. 
 
-1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op het menu-item **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan naar de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
+1. Het kan zijn dat er al factuurregels aanwezig zijn omdat de factuur al ter goedkeuring is aangeboden en is geweigerd. Dit kunt u zien door op het menu-item **Goedkeuringen** te klikken. U ziet of er goedkeuringsposten aanwezig zijn en of deze geweigerd zijn. Is dit het geval, ga dan de processtap **[Behandelen geweigerde documenten ](#behandelen-geweigerde-documenten)**.
 2. Controleer of het totaalbedrag van de factuurregels (**Bedrag incl. BTW** op de factuurkop) en het totaal factuurbedrag (**Factuurbedrag**)  overeenkomen:
 	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
@@ -96,9 +96,9 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 	- **Omschrijving**
 	- **Btw-productboekingsgroep** 
 	- **Directe kostprijs Excl. btw**
-	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Dimensiewaarde-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig, ga dan verder met **[Match en boek factuur](#match-en-boek-factuur)**.
-5. Zijn er wel aanpassingen nodig, ga dan verder met de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
+5. Zijn er wel aanpassingen nodig, ga dan verder met **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
 
 ## Aanpassen factuurregels
 
@@ -109,7 +109,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 	- **Btw-productboekingsgroep**
 	- **Directe kostprijs Excl. btw**
 	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
-2. Zijn andere waarden niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken (**[Toewijzen factuur](#toewijzen-factuur)**).
+2. Zijn andere waarde niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken (**[Toewijzen factuur](#toewijzen-factuur)**).
 
 ## Toewijzen factuur
 
@@ -134,7 +134,7 @@ Wanneer een factuur aan u toegewezen is betekend dit dat er een vraag of verzoek
 
 Wanneer de factuurregels aangemaakt zijn kan het document gematcht en geboekt worden. 
 
-1. Klik op **Match en Boek**. Eventueel wordt er een goedkeuringspost toegewezen aan een gebruiker. Dit is niet alleen afhankelijk van het overeenkomen van de factuurregels met de order- of ontvangstregels, maar ook van de steekproefinstellingen. Blijkt op basis van de instellingen dat de factuur niet meer goedgekeurd hoeft te worden, dan wordt de factuur direct geboekt. 
+1. Ki o **Match en Boek**. Eventueel wordt er een goedkeuringspost toegewezen aan een gebruiker. Dit is niet alleen afhankelijk van het overeenkomen van de factuurregels met de order- of ontvangstregels, maar ook van de steekproefinstellingen. Blijkt op basis van de instellingen dat de factuur niet meer goedgekeurd hoeft te worden, dan wordt de factuur direct geboekt. 
 
 ## Goedkeuren document
 
@@ -144,7 +144,7 @@ Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces
 
 Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
-1. Vanaf de lijst **Inkoopfacturen** kiest u voor **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen.
+1. Vanaf de i **Inkoopfacturen** kiest u voor **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen.
 2. Klik op **Opmerkingen**. De pagina **Opmerkingen bij goedkeuring** opent. U ziet hier de reden van weigeren en wie de aanvraag geweigerd heeft.
 3. Dient een andere order gekoppeld te worden, ga dan verder met stap **[Regels ophalen](#regels-ophalen)**.
 4. Dient de codering van de factuurregels aangepast te worden, ga dan verder met stap **[Controleren factuurregels](#controleren-factuurregels)**.
@@ -154,7 +154,7 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
 Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![filter icon](/assets/images/filter.png "filter icon") op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
 2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**. 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
@@ -164,11 +164,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjY1MTk2NiwtNzIyOTI4NTE1LDEwMj
-EwMjI2NDEsMTg1MDQ0OTM0MiwtMTA1MjA1MTcyMCwtMTM5MDM1
-MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNSwxNTI1OTMxMTU0LD
-c5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgzMTc2MjYsOTc3MDgy
-OTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLTIwNDQyNzk0NDMsMT
-Q4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkxMjY0MTYsLTY0NTUy
-MDE5XX0=
+eyJoaXN0b3J5IjpbLTEyOTE3MDIzNjIsMTg3MjY1MTk2NiwtNz
+IyOTI4NTE1LDEwMjEwMjI2NDEsMTg1MDQ0OTM0MiwtMTA1MjA1
+MTcyMCwtMTM5MDM1MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNS
+wxNTI1OTMxMTU0LDc5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgz
+MTc2MjYsOTc3MDgyOTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLT
+IwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkx
+MjY0MTZdfQ==
 -->
