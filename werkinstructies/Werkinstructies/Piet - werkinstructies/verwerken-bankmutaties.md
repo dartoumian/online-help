@@ -89,7 +89,7 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 
 Wanneer u alle bankboekregels toegekend of vereffend heeft kunt u het bankboek boeken. 
 
- 1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen kit u o **Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
+ 1. Voordat u het bankboek definitief boekt kunt u kijken of er bij het boeken fouten naar voren komen waardoor bepaalde regels niet geboekt kunnen worden. Om vooraf inzicht in te krijgen in deze foutmeldingen kt u op**Controle voor boeken**. Wanneer u de vraag krijgt of u de fouten af wilt drukken kunt u er voor kiezen om de lijst met fouten af te drukken. 
  2. Wanneer er fouten zijn ontstaan wordt in de kolom **Aantal fouten** getoond of er fouten zijn die het boeken van de regel voorkomen. Wanneer er fouten zijn kunt u per regel op het aantal klikken. Het scherm **KGB fouten log** opent. Op dit scherm worden de fouten getoond die u dient op te lossen. 
  3. Nadat u geen fouten meer heeft, of wanneer u alvast de regels zonder fouten wilt boeken, kiest u voor de actie **Boeken**. De regels worden geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt drukken. Zijn er geen fouten, dan wordt het bankboek afgesloten. 
 
@@ -98,11 +98,11 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft kunt u het bankboek b
 Aanleveren incassobestand  
 Aanleveren betaalbestand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjIyNjc5LC0xODQ5NTA3NjQyLDE3MD
-cwMjEwMzYsLTczOTI1NjYyOCwxODcwMjgyMDE3LDE2NjUwMjY3
-NzUsMTYzMjI3MjQ2MywxNDUyNzUwMjk3LC0xNTM4OTYxODgyLD
-Q4OTA5NDQ1Niw5NzIzMzU4MTgsLTE4MDg0OTcwNjIsMTI0MTcy
-MDYwMiw5NjEyNDE0MDksMTE1OTY4NjQ1NiwtMjAzMzYzOTc0My
-wtMTQ0MzgzMDEwMCw1NDU5OTQxOTMsLTE4ODYxOTUyMDIsLTE4
-MDU3NjAyNDddfQ==
+eyJoaXN0b3J5IjpbOTQ2ODcyODM4LDE5NDIyMjY3OSwtMTg0OT
+UwNzY0MiwxNzA3MDIxMDM2LC03MzkyNTY2MjgsMTg3MDI4MjAx
+NywxNjY1MDI2Nzc1LDE2MzIyNzI0NjMsMTQ1Mjc1MDI5NywtMT
+UzODk2MTg4Miw0ODkwOTQ0NTYsOTcyMzM1ODE4LC0xODA4NDk3
+MDYyLDEyNDE3MjA2MDIsOTYxMjQxNDA5LDExNTk2ODY0NTYsLT
+IwMzM2Mzk3NDMsLTE0NDM4MzAxMDAsNTQ1OTk0MTkzLC0xODg2
+MTk1MjAyXX0=
 -->
