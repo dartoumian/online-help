@@ -7,7 +7,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken ico a de it noofacuenteeen er  a  ilterncte tefiltern via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken ico a de it noofacn via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
@@ -164,11 +164,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE3MDIzNjIsMTg3MjY1MTk2NiwtNz
-IyOTI4NTE1LDEwMjEwMjI2NDEsMTg1MDQ0OTM0MiwtMTA1MjA1
-MTcyMCwtMTM5MDM1MzEwNCwxNjk2NjMzNDA0LDI3NDA4NDYyNS
-wxNTI1OTMxMTU0LDc5MDE2ODM4NywtMTM5OTA2MDc5Miw2NTgz
-MTc2MjYsOTc3MDgyOTg2LC02NjcxNDg4OSw5Mzg2MjI2NjQsLT
-IwNDQyNzk0NDMsMTQ4NzYyODUxOSwxOTk5MzEzMzQ2LC04NDkx
-MjY0MTZdfQ==
+eyJoaXN0b3J5IjpbLTY5NTU5NDkzMCwtMTI5MTcwMjM2MiwxOD
+cyNjUxOTY2LC03MjI5Mjg1MTUsMTAyMTAyMjY0MSwxODUwNDQ5
+MzQyLC0xMDUyMDUxNzIwLC0xMzkwMzUzMTA0LDE2OTY2MzM0MD
+QsMjc0MDg0NjI1LDE1MjU5MzExNTQsNzkwMTY4Mzg3LC0xMzk5
+MDYwNzkyLDY1ODMxNzYyNiw5NzcwODI5ODYsLTY2NzE0ODg5LD
+kzODYyMjY2NCwtMjA0NDI3OTQ0MywxNDg3NjI4NTE5LDE5OTkz
+MTMzNDZdfQ==
 -->
