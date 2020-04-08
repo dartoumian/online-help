@@ -6,7 +6,7 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
-1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst ** - bankoverzicht**.
 2. Kies voor **Voorstelposten ophalen**.
 3.  De pagina **Voorstelposten ophalen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
@@ -20,7 +20,7 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand. 
 
- 1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
+ 1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst ** - bankoverzicht**.
  2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
  3. Vul de onderstaande velden op het scherm (als bepaalde velden niet zichtbaar zijn kunt u die toevoegen via de optie **+ Filteren...**):
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
@@ -36,7 +36,7 @@ Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven wel
 
 Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het aanmaken van het betaalvoorstel, dan dient u deze te controleren en eventueel op te lossen.
 
- 1. Kies voor **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
+ 1. Kies voor **Voorstel**, waarna de pagina **voorstel** opent.
  2. In de kolom **Foutmelding** ziet u meldingen die u moet oplossen voordat de voorstelregel meegenomen kan worden in het betaalvoorstel.
  3. In de kolom **Waarschuwing** ziet u meldingen die niet blokkerend zijn voor het meenemen van de voorstelregel. Lees deze waarschuwingen door en bepaal of u iets met deze waarschuwing wilt doen of niet. 
  4. Wanneer u foutmeldingen en/of waarschuwingen heeft opgelost selecteert u in het telebankierenvoorstel de functie **Controleren**. Het systeem controleert het voorstel opnieuw op fouten en waarschuwingen. 
@@ -45,21 +45,21 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun. 
 
- 1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel**, waarna de pagina **voorstel** opent.
+ 1. Klik op de pagina ** - bankoverzicht** op  **Voorstel**, waarna de pagina ** opent.
  2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat. 
 
 ## Controleren betaalrun
  
 Nadat u de betaalrun aangemaakt heeft kunt u deze (laten) controleren.
 
- 1. Klik op de pagina  **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
+ 1. Klik op de pagina  ** - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. De laatst aangemaakte betaalrun staat onderaan in de lijst. 
  2. Klik op de actie **Betaalrun afdrukken** om de betaalrun af te drukken. 
 
 ## Annuleren betaalrunregels
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)** waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. In het scherm **Betaalrunkaart** kunt u de regels vinden die u wilt annuleren. Noteer hiervan de nummers.
  3. Klik op **Status wijzigen**, waarna de pagina **Betaalrun - status wijzigen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Nieuwe status:** 'Geannuleerd'.
@@ -72,7 +72,7 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaalrun opnieuw gegenereerd moet worden, dient u de betaalrun in zijn geheel te annuleren. 
 
- 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
+ 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controler de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**. 
  2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
 	* **Nieuwe status:** 'Geannuleerd'
 	* **Onze bank:** (laat ongewijzigd)
@@ -91,11 +91,11 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 Aanleveren incassobestand  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTUyMTgyOCwtNjM0Njk2MjUyLDEzNj
-YwODgyMTAsNDI1MDk4MTQxLDY0ODYxNTA2MywtMTUzNjU1MjY2
-MSwxNDc3ODMzNTI4LC0xNDY0NjkxNjE2LC0yNjI0MDU0NDcsLT
-E5NDIyNTQzNjMsLTEyNjE3NzE3MywtMjkzNDE0NjA2LC0xNzYy
-MjAzNTgsLTUzMTUxMzI1OCwtMjM1ODc3ODksLTMxMzYxMDAyOS
-wtMjY3ODA4Nzk1LDExNTYwOTYwOTEsNjg2NDkyNDM4LC0xODQ0
-MDg2MTc5XX0=
+eyJoaXN0b3J5IjpbLTIwMzI4OTE2NzIsMTI5OTUyMTgyOCwtNj
+M0Njk2MjUyLDEzNjYwODgyMTAsNDI1MDk4MTQxLDY0ODYxNTA2
+MywtMTUzNjU1MjY2MSwxNDc3ODMzNTI4LC0xNDY0NjkxNjE2LC
+0yNjI0MDU0NDcsLTE5NDIyNTQzNjMsLTEyNjE3NzE3MywtMjkz
+NDE0NjA2LC0xNzYyMjAzNTgsLTUzMTUxMzI1OCwtMjM1ODc3OD
+ksLTMxMzYxMDAyOSwtMjY3ODA4Nzk1LDExNTYwOTYwOTEsNjg2
+NDkyNDM4XX0=
 -->
