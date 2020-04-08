@@ -7,11 +7,11 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 ## Boeken verplichting
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden. 
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken ico a de it noofacn via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken ico a de it na a de functie lept](https://docs.microsoft.com/nl-/dynamics365/business-central/media/ui-search/ercar de.png "itora ilter ia de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS. 
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
-	- **Boekingsdatum**: **L !** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
+	- **Boekingsdatum**: **L!** Wanneer u de boekingsdatum aanpast wordt ook de documentdatum aangepast. De documentdatum dient u weer terug te zetten naar de op de factuur vermelde datum. 
 	- **Documentdatum** (klik indien nodig eerst op *Meer tonen*, rechts bovenin het tabblad)
 	- **Factuurnr. leverancier**
 	- **Omschrijving**: **L !*Dit is niet de omschrijving die mee komt op de grootboekposten. Deze omschrijving wordt opgegeven in de factuurregels. 
@@ -77,7 +77,7 @@ Als er geen order beschikbaar is voor de factuur en er had ook geen order aangem
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
 	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de S&V-service en verbruikskosten op van toepassing zijn (alleen invullen bij S&V-facturen).
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW.
-	- **Dimensiewaarde-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
+	- **Dimensiewaard-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen. 
 2. Wanneer de gegevens in de factuurregel gevuld zijn kan de factuur gematcht en geboekt worden via **[Match en boek factuur](#match-en-boek-factuur)**.
 
 ## Controleren factuurregels
@@ -89,14 +89,14 @@ Wanneer factuurregels aangemaakt zijn op basis van KOVRA, vanuit het leverancier
 	- **Ja**: Ga verder naar stap 3. 
 	- **Nee (paar cent verschil)**: Ga verder naar stap 3.
 	- **Nee (meer dan paar cent verschil)**: 
-		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna de processtap **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
+		- Is het binnen de door de organisatie vastgestelde kaders toegestaan om bedragen in de factuurregels aan te passen? Ga dan verder naar stap 3 en volg daarna **[Aanpassen factuurregels](#aanpassen-factuurregels)**.
 		- Is het binnen de door de organisatie vastgestelde kaders niet toegestaan om bedragen in factuurregels aan te passen, bijvoorbeeld omdat er een meer- of minderwerkorder aangemaakt moet worden? Wijs de factuur in dit geval toe aan de persoon die de meer- of minderwerkorder aan dient te maken, via **[Toewijzen factuur](#toewijzen-factuur)**.
 3. Controleer de volgende gegevens in de factuurregels:
 	- **Nr.**: Dit betreft het grootboekrekeningnummer of de kostencode.
 	- **Omschrijving**
 	- **Btw-productboekingsgroep** 
 	- **Directe kostprijs Excl. btw**
-	- **Dimensiewaarde-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Dimensiewaard-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 4. Wanneer alle velden gecontroleerd zijn en er zijn geen aanpassingen nodig, ga dan verder met **[Match en boek factuur](#match-en-boek-factuur)**.
 5. Zijn er wel aanpassingen nodig, ga dan verder met **[Aanpassen factuurregels](#aanpassen-factuurregels)**. 
 
@@ -108,7 +108,7 @@ Blijkt uit de voorgaande stap dat gegevens op de factuurregel aangepast mogen en
 	- **Omschrijving**
 	- **Btw-productboekingsgroep**
 	- **Directe kostprijs Excl. btw**
-	- **Dimensiewaarden-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
+	- **Dimensiewaarde-velden**: Velden die eindigen met het woord 'code' (Cluster Code, Afdeling Code, OGE Code enz.) zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld zijn. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.
 2. Zijn andere waarde niet juist, bijvoorbeeld de grootboekrekening, kostencode of projectnummer, dan kan dit niet gecorrigeerd worden in de factuurregel maar zal de order aangepast moeten worden of moet er een nieuwe order aangemaakt worden. Wijs de factuur in dit geval toe aan de persoon die de order aan dient te passen/een nieuwe order aan dient te maken (**[Toewijzen factuur](#toewijzen-factuur)**).
 
 ## Toewijzen factuur
@@ -144,7 +144,7 @@ Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces
 
 Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
-1. Vanaf de i **Inkoopfacturen** kiest u voor **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen.
+1. Vanaf de  **Inkoopfacturen** kit u vr **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen.
 2. Klik op **Opmerkingen**. De pagina **Opmerkingen bij goedkeuring** opent. U ziet hier de reden van weigeren en wie de aanvraag geweigerd heeft.
 3. Dient een andere order gekoppeld te worden, ga dan verder met stap **[Regels ophalen](#regels-ophalen)**.
 4. Dient de codering van de factuurregels aangepast te worden, ga dan verder met stap **[Controleren factuurregels](#controleren-factuurregels)**.
@@ -154,7 +154,7 @@ Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
 
 Wanneer het document door alle personen die het document goed moeten keuren goedgekeurd is, kan de factuur geboekt worden. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Inkoopfacturen**. Stel een filter in via de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icoape t e ftie ertelept](https://docs.microsoft.com/nl-/dynamics365/business-central/media/ui-search/erc.png "itora ilteria de filterfunctie ![fFilter picon](/assets/imagestogram](https://docs.microsoft.com/nl-nl/dynamics365/business-central/media/ui-search/filter-icon.png "filter iconPictogram Filter") op het veld **Status** = **Vrijgegeven**. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
 2. Klik op **Batchboeken (verplichting)**. De pagina **Batchboeken verplichting inkoopfacturen** opent. 
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**. 
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt. 
@@ -164,11 +164,11 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTU5NDkzMCwtMTI5MTcwMjM2MiwxOD
-cyNjUxOTY2LC03MjI5Mjg1MTUsMTAyMTAyMjY0MSwxODUwNDQ5
-MzQyLC0xMDUyMDUxNzIwLC0xMzkwMzUzMTA0LDE2OTY2MzM0MD
-QsMjc0MDg0NjI1LDE1MjU5MzExNTQsNzkwMTY4Mzg3LC0xMzk5
-MDYwNzkyLDY1ODMxNzYyNiw5NzcwODI5ODYsLTY2NzE0ODg5LD
-kzODYyMjY2NCwtMjA0NDI3OTQ0MywxNDg3NjI4NTE5LDE5OTkz
-MTMzNDZdfQ==
+eyJoaXN0b3J5IjpbMTE2MjMwOTc3NCwtNjk1NTk0OTMwLC0xMj
+kxNzAyMzYyLDE4NzI2NTE5NjYsLTcyMjkyODUxNSwxMDIxMDIy
+NjQxLDE4NTA0NDkzNDIsLTEwNTIwNTE3MjAsLTEzOTAzNTMxMD
+QsMTY5NjYzMzQwNCwyNzQwODQ2MjUsMTUyNTkzMTE1NCw3OTAx
+NjgzODcsLTEzOTkwNjA3OTIsNjU4MzE3NjI2LDk3NzA4Mjk4Ni
+wtNjY3MTQ4ODksOTM4NjIyNjY0LC0yMDQ0Mjc5NDQzLDE0ODc2
+Mjg1MTldfQ==
 -->
