@@ -121,7 +121,7 @@ Voordat u de afrekening definitief boekt kunt u de kostenvredelening (laten) beo
 	- Toe te rekenen derving
 8. Onderaan het rapport wordt een samenvatting van deze gegevens weergegeven, gegroepeerd per cluster.
 
-## Beoordelen kostenverdeling
+## Verwijderen afrekening
 
 Wanneer u in één van de voorgaande stappen er achter bent gekomen dat er ergens iets verkeerd gegaan is kunt u nog niet geboekte afrekeningen eenvoudig verwijderen en opnieuw opbouwen. 
 
@@ -164,5 +164,5 @@ Nadat de verdeling van de kosten beoordeeld en goed bevonden is en wanneer de af
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTE3NzczMV19
+eyJoaXN0b3J5IjpbLTY1MTE2NDExNSwtMjgxMTc3NzMxXX0=
 -->
