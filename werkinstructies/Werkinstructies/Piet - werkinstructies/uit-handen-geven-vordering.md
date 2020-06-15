@@ -10,7 +10,7 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Navigeer via de menu-items naar  **Deurwaarderdossiers**, waarna de gelijknamige pagina opent.
 3. Klik op **Nieuw** waarna een nieuw deurwaarderdossier voor de klant wordt aangemaakt.
-4. Vul het veld **Eenheidsnr.**.
+4. Vul het veld **Eenheidsnr.**. Let op
 5. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
 6. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier.
 7. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
@@ -86,11 +86,11 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 [Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDQxOTU0MywxMDM3Njk1NzQ1LC0yMD
-EzOTIwMzMzLDQ2MjMyNzU5NiwxNjUzMTI2NjEsLTQyMzMzNDM5
-NywtMzkzNTA3NjU1LDYzMDU1NTA1OCwxNjE5OTA3MjksLTEzMD
-kwMTAxNjMsLTE5NTg2NjAzMzcsOTYwNzEzOTAxLC0xMTU0NjE3
-NTgyLC01MTA0ODc0MjUsLTY3NzEzMzIyMiwxNjU0MDcwMDU4LD
-IyOTU5OTUzOCwtOTg1NjIwMjc4LDIwODkxMDIwNjAsLTE3NDEz
-NzEyNV19
+eyJoaXN0b3J5IjpbMTAwMjE2Mjc5OSwtMjQwNDE5NTQzLDEwMz
+c2OTU3NDUsLTIwMTM5MjAzMzMsNDYyMzI3NTk2LDE2NTMxMjY2
+MSwtNDIzMzM0Mzk3LC0zOTM1MDc2NTUsNjMwNTU1MDU4LDE2MT
+k5MDcyOSwtMTMwOTAxMDE2MywtMTk1ODY2MDMzNyw5NjA3MTM5
+MDEsLTExNTQ2MTc1ODIsLTUxMDQ4NzQyNSwtNjc3MTMzMjIyLD
+E2NTQwNzAwNTgsMjI5NTk5NTM4LC05ODU2MjAyNzgsMjA4OTEw
+MjA2MF19
 -->
