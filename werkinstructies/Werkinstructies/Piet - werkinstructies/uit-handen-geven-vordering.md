@@ -10,7 +10,7 @@ U kunt handmatig een deurwaarderdossier opvoeren. In veel gevallen zal een deurw
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een deurwaarderdossier aan wilt maken. Navigeer via de menu-items naar  **Deurwaarderdossiers**, waarna de gelijknamige pagina opent.
 3. Klik op **Nieuw** waarna een nieuw deurwaarderdossier voor de klant wordt aangemaakt.
-4. Vul het veld **Eenheidsnr.**. Let op
+4. Vul het veld **Eenheidsnr.**. Let op, elk deurwaardedossier kan maar betrekking hebben op één eenheid. Heeft een klant een achterstand op meerdere eenheden dan dienen hier meerdere deurwaardedossiers voor aangemaakt te worden. 
 5. Controleer of het veld **Deurwaardernr.** gevuld is met de juiste deurwaarder.
 6. Klik op **Posten Selecteren**. De pagina **Klantposten** opent. Selecteer de posten die opgenomen moeten worden in het dossier. Klik op **OK**, waarna u terugkeert naar het dossier.
 7. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
@@ -22,8 +22,9 @@ Vanuit het aanmaningsproces kunnen deurwaarderdossiers automatisch aangemaakt wo
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst  **Deurwaarderdossieroverzicht**.
 2. Selecteer het deurwaarderdossier dat u wilt controleren en klik op **Bewerken** om de kaart te openen
 3. Controleer of het veld **Deurwaardernr.** op tabblad **Deurwaarder** gevuld is met de juiste deurwaarder.
-4. Controleer of de juiste/alle posten opgenomen zijn in het dossier.
-5. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
+4. Controleer het veld **Eenheidsnr.**. Let op, elk deurwaardedossier kan maar betrekking hebben op één eenheid. Heeft een klant een achterstand op meerdere eenheden dan dienen hier meerdere deurwaardedossiers voor aangemaakt te worden. 
+5. Controleer of de juiste/alle posten opgenomen zijn in het dossier.
+6. Als de gegevens ingevuld zijn, ga dan verder met **[Versturen deurwaarderdossier](#versturen-deurwaarderdossier)**.
 
 ## Versturen deurwaarderdossier
 
@@ -86,7 +87,7 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 [Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjE2Mjc5OSwtMjQwNDE5NTQzLDEwMz
+eyJoaXN0b3J5IjpbLTE2NTI5ODAyOSwtMjQwNDE5NTQzLDEwMz
 c2OTU3NDUsLTIwMTM5MjAzMzMsNDYyMzI3NTk2LDE2NTMxMjY2
 MSwtNDIzMzM0Mzk3LC0zOTM1MDc2NTUsNjMwNTU1MDU4LDE2MT
 k5MDcyOSwtMTMwOTAxMDE2MywtMTk1ODY2MDMzNyw5NjA3MTM5
