@@ -48,7 +48,7 @@ Nadat u de basisgegevens en de financieringsvorm opgevoerd heeft kunt u het verv
 2. Wanneer de gegevens akkoord zijn kunt u de financieringsgegevens (laten) accorderen. Klik op **Accorderen**. 
 3. Staat het veld **Status** nog niet op **AKKOORD**, vul deze waarde nu dan in dit veld.
 
-## Controleren en accorderen vervalschema
+## Opvoeren aflossing/opname
 Wanneer er een extra aflossing of extra storting voor de leningen plaatsvindt kunt u deze registreren door middel van het opvoeren van een handmatige kasstroom.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Financieringenoverzicht** en open de lening waarvoor u de extra kasstroom op wilt voeren. 
@@ -77,5 +77,5 @@ Wanneer het rentepercentage van een lening wijzigt voert u dit nieuwe percentage
 [Prolongeren financiering](../prolongeren-financiering/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjMwNzc4OV19
+eyJoaXN0b3J5IjpbMTExMDA3MDI1NywxMDQyMzA3Nzg5XX0=
 -->
