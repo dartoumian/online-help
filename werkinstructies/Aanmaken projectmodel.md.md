@@ -21,7 +21,7 @@ Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en p
  6. Na het vullen van het tabblad **Algemeen** ga je naar het lint en kies **Acties** vervolgens **Functies** en dan **Exploitatiemodel ophalen**.
  7. Kies het exploitatiemodel die voor dit project geldt.
 
-##Vastleggen projectmodel (gemengd)
+## Vastleggen projectmodel (gemengd)
 
 Bij een GEMENGD project herhaal de stappen bij punt 5 door rechts bovenin te zoeken naar **Projectmodeloverzicht** en kies hetzelfde projecttype en vervolgens in het lint **nieuw**. 
  9. Vul het tabblad **Algemeen** met dezelfde informatie als het eerste projectmodel met als uitzondering het veld **Projectmodelnr.**, hier voer je het eerste nummer in welke je al hebt aangemaakt met als toevoeging het exploitatiemodelnummer voor het onderdeel wat je gaat opvoeren. Voorbeeld: VGO-562-1002 (1002 staat voor NDAEB NTV)
@@ -64,5 +64,5 @@ Werkinstructie X
 Werkinstructie Y  
 Werkinstructie Z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk2OTY4MjJdfQ==
+eyJoaXN0b3J5IjpbMTg5MTEyNTUzOF19
 -->
